@@ -1,4 +1,4 @@
-package com.semweb.artifact;
+package com.semweb.Controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
