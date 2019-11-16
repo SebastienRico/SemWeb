@@ -1,0 +1,69 @@
+package com.semweb.DAO;
+
+import com.semweb.Controller.JenaFusekiConnexion;
+import com.semweb.Model.Station;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
+import org.apache.jena.graph.Node;
+import org.apache.jena.query.QueryExecution;
+import org.apache.jena.query.QuerySolution;
+import org.apache.jena.query.ResultSet;
+import org.apache.jena.rdf.model.Literal;
+import org.apache.jena.rdf.model.Model;
+import org.apache.jena.rdf.model.Property;
+import org.apache.jena.rdf.model.RDFNode;
+import org.apache.jena.rdf.model.Resource;
+import org.apache.jena.rdf.model.Statement;
+
+public class StationDAO {
+    
+    private static final String LABEL = "http://www.w3.org/2000/01/rdf-schema#label";
+    private static final String ADDRESS = "https://www.wikidata.org/wiki/Property:P669";
+    private static final String LATITUDE = "http://www.w3.org/2003/01/geo/wgs84_pos#lat";
+    private static final String LONGITUDE = "http://www.w3.org/2003/01/geo/wgs84_pos#lng";
+    private static final String TOWN = "http://example.org/commune";
+    private static final String AVAILABLE_BIKE_STANDS = "http://example.org/available_bike_stands";
+    private static final String AVAILABLE_BIKES = "http://example.org/available_bikes";
+    private static final String BIKE_STANDS = "http://example.org/bike_stands";
+    private static final String LAST_UPDATE = "http://example.org/last_update";
+    private static final String STATUS = "http://example.org/status";
+    
+
+    public static List<Station> getAllStation() {
+        List<Station> stations = new ArrayList<>();
+        if (!JenaFusekiConnexion.getConnextion().isClosed()) {
+            QueryExecution qExec = JenaFusekiConnexion.getConnextion().query("SELECT DISTINCT ?s ?p ?o WHERE{ ?s ?p ?o }");
+            ResultSet rs = qExec.execSelect();
+            while (rs.hasNext()) {
+                Station station = new Station();
+                QuerySolution qs = rs.next();
+                station.setId(qs.get("s").toString());
+                switch(qs.get("p").toString()){
+                    case LABEL:
+                        station.setName(qs.get("o").toString());
+                        break;
+                    case LATITUDE:
+                        if(!qs.get("o").toString().contains("^^")){
+                            station.setLatitude(Double.parseDouble(qs.get("o").toString()));
+                        }
+                        break;
+                    case LONGITUDE:
+                        if(!qs.get("o").toString().contains("^^")){
+                            station.setLongitude(Double.parseDouble(qs.get("o").toString()));
+                        }
+                        break;
+                    case TOWN:
+                        station.getTown().setName(qs.get("o").toString());
+                        break;
+                    default:
+                        break;
+                }
+                stations.add(station);
+            }
+            qExec.close();
+        }
+        return stations;
+    }
+}

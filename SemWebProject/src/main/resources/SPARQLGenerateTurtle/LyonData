@@ -1,0 +1,15 @@
+PREFIX ite: <http://w3id.org/sparql-generate/iter/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX wdp: <https://www.wikidata.org/wiki/Property:>
+
+GENERATE {
+  [] a sosa:FeatureOfInterest;
+    rdfs:label ?name;
+    wdp:P669 ?address;
+    geo:lat ?lat.
+}
+  
+ITERATOR ite:JSONPath(<https://download.data.grandlyon.com/wfs/rdata?SERVICE=WFS&VERSION=1.1.0&outputformat=GEOJSON&request=GetFeature&typename=jcd_jcdecaux.jcdvelov&SRSNAME=urn:ogc:def:crs:EPSG::4171>,"$.features.[*].properties", "$.name", "$.address", "$.lat") AS ?feature ?name ?address ?lat
