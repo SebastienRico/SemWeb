@@ -1,6 +1,9 @@
 package com.semweb.Controller;
 
-import com.semweb.Model.Town;
+import com.semweb.DAO.CityDAO;
+import com.semweb.DAO.StationDAO;
+import com.semweb.Model.Station;
+import com.semweb.Model.City;
 import com.sun.javafx.scene.control.skin.VirtualFlow;
 import java.util.ArrayList;
 import java.util.List;
@@ -13,23 +16,18 @@ public class MainController {
 
     @RequestMapping(value = "/towns")
     public String goToTownsPage(Model m) {
-        List<String> names = new ArrayList<>();
-        names.add("Lyon");
-        names.add("Saint-Etienne");
-        names.add("Paris");
-        names.add("Toulouse");
-        
-        List<Town> towns = new ArrayList<>();
-        
-        for(Integer i=0; i<4; i++){
-            Town t = new Town();
-            t.setId(i.toString());
-            t.setName(names.get(i));
-            towns.add(t);
-        }
-        
+        List<City> towns = CityDAO.getAllCity();
         m.addAttribute("towns", towns);
-            
         return "/towns.html";
+    }
+    
+    @RequestMapping(value = "/stations")
+    public String goToStationPage(Model m){
+        List<Station> stations = new ArrayList<>();
+        stations = StationDAO.getAllStationByCityName();
+        
+        m.addAttribute("stations", stations);
+        
+        return "/stations.html";
     }
 }

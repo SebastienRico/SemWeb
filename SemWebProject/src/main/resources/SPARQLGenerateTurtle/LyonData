@@ -4,12 +4,20 @@ PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
 PREFIX sosa: <http://www.w3.org/ns/sosa/>
 PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 PREFIX wdp: <https://www.wikidata.org/wiki/Property:>
+PREFIX ex: <http://example.org/>
 
 GENERATE {
-  [] a sosa:FeatureOfInterest;
+  <ex:station_{?number}> a sosa:FeatureOfInterest;
     rdfs:label ?name;
+    ex:city "Lyon";
     wdp:P669 ?address;
-    geo:lat ?lat.
+    geo:lat ?lat;
+    geo:lng ?lng;
+    ex:bike_stands ?bike_stands;
+    ex:available_bike_stands ?available_bike_stands;
+    ex:available_bikes ?available_bikes;
+    ex:status ?status;
+    ex:last_update ?last_update.
 }
   
-ITERATOR ite:JSONPath(<https://download.data.grandlyon.com/wfs/rdata?SERVICE=WFS&VERSION=1.1.0&outputformat=GEOJSON&request=GetFeature&typename=jcd_jcdecaux.jcdvelov&SRSNAME=urn:ogc:def:crs:EPSG::4171>,"$.features.[*].properties", "$.name", "$.address", "$.lat") AS ?feature ?name ?address ?lat
+ITERATOR ite:JSONPath(<https://download.data.grandlyon.com/wfs/rdata?SERVICE=WFS&VERSION=1.1.0&outputformat=GEOJSON&request=GetFeature&typename=jcd_jcdecaux.jcdvelov&SRSNAME=urn:ogc:def:crs:EPSG::4171>,"$.features.[*].properties", "$.number", "$.name", "$.address", "$.lat", "$.lng", "$.bike_stands", "$.available_bike_stands", "$.available_bikes", "$.status", "$.last_update") AS ?feature ?number ?name ?address ?lat ?lng ?bike_stands ?available_bike_stands ?available_bikes ?status ?last_update

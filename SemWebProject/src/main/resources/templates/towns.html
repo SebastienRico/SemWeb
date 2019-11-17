@@ -14,7 +14,7 @@ and open the template in the editor.
     <body>
         <div class="container">
             <div class="row">
-                <a href="http://www.youtube.com">
+                <a th:href="@{/stations}">
                     <div th:each="town : ${towns}" class="card text-black" style="margin: 20px; width: 18rem">
                         <img src="/img/bikeStation.jpg" class="card-img" alt="..." style="width: 100%; height: 15vw; object-fit: cover">
                         <div class="card-img-overlay">

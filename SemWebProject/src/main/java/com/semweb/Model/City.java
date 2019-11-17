@@ -3,7 +3,7 @@ package com.semweb.Model;
 import lombok.Data;
 
 @Data
-public class Town {
+public class City {
     String id;
     String name;
 }

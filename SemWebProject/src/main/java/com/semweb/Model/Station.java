@@ -9,7 +9,7 @@ public class Station {
     Integer availableBikeStand;
     Integer availableBike;
     Integer bikeStand;
-    Town town;
+    City city;
     String lastUpdate;
     StatusStation status;
     Double latitude;
@@ -17,7 +17,7 @@ public class Station {
     String address;
     
     public Station(){
-        town = new Town();
+        city = new City();
     }
     
     @Override

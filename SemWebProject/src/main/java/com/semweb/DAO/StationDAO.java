@@ -22,10 +22,10 @@ public class StationDAO {
     private static final String STATUS = "http://example.org/status";
     
 
-    public static List<Station> getAllStation() {
+    public static List<Station> getAllStationByCityName() {
         List<Station> stations = new ArrayList<>();
         if (!JenaFusekiConnexion.getConnextion().isClosed()) {
-            QueryExecution qExec = JenaFusekiConnexion.getConnextion().query("SELECT DISTINCT ?s ?p ?o WHERE{ ?s ?p ?o }");
+            QueryExecution qExec = JenaFusekiConnexion.getConnextion().query("SELECT DISTINCT ?s ?p ?o WHERE{ ?s ?p ?o. ?s ex:city \"Lyon\" }");
             ResultSet rs = qExec.execSelect();
             while (rs.hasNext()) {
                 Station station = new Station();
@@ -46,7 +46,7 @@ public class StationDAO {
                         }
                         break;
                     case TOWN:
-                        station.getTown().setName(qs.get("o").toString());
+                        station.getCity().setName(qs.get("o").toString());
                         break;
                     default:
                         break;
