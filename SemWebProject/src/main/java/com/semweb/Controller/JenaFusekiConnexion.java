@@ -1,12 +1,11 @@
 package com.semweb.Controller;
 
+import java.io.IOException;
 import java.util.logging.Logger;
-import org.apache.jena.query.QueryExecution;
-import org.apache.jena.query.QuerySolution;
-import org.apache.jena.query.ResultSet;
-import org.apache.jena.rdf.model.Resource;
 import org.apache.jena.rdfconnection.RDFConnection;
 import org.apache.jena.rdfconnection.RDFConnectionFactory;
+import com.semweb.utilities.Util;
+import java.util.logging.Level;
 
 public class JenaFusekiConnexion {
 
@@ -31,6 +30,18 @@ public class JenaFusekiConnexion {
 
     public static RDFConnection getConnextion() {
         return conn;
+    }
+
+    static void runFusekiServer() {
+        String pathToFusekiServerBatFile = Util.getProperty("pathToFusekiServerBatFile");
+        System.out.println("pathToFusekiServerBatFile : " + pathToFusekiServerBatFile);
+        try {
+            Runtime.
+                    getRuntime().
+                    exec("cmd " + pathToFusekiServerBatFile + " start \"\" fuseki-server.bat");
+        } catch (IOException ex) {
+            logger.info("Impossible to run fuserki server bat file");
+        }
     }
 
 }

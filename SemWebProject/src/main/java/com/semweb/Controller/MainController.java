@@ -9,25 +9,24 @@ import java.util.ArrayList;
 import java.util.List;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class MainController {
 
-    @RequestMapping(value = "/towns")
+    @RequestMapping(value = "/cities")
     public String goToTownsPage(Model m) {
-        List<City> towns = CityDAO.getAllCity();
-        m.addAttribute("towns", towns);
-        return "/towns.html";
+        List<City> cities = CityDAO.getAllCity();
+        m.addAttribute("cities", cities);
+        return "/cities.html";
     }
     
-    @RequestMapping(value = "/stations")
-    public String goToStationPage(Model m){
+    @RequestMapping(value = "/stations/{cityName}")
+    public String goToStationPage(@PathVariable String cityName, Model m){
         List<Station> stations = new ArrayList<>();
-        stations = StationDAO.getAllStationByCityName();
-        
+        stations = StationDAO.getAllStationByCityName(cityName);
         m.addAttribute("stations", stations);
-        
         return "/stations.html";
     }
 }

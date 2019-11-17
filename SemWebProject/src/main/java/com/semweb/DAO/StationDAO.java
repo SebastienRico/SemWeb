@@ -14,7 +14,7 @@ public class StationDAO {
     private static final String ADDRESS = "https://www.wikidata.org/wiki/Property:P669";
     private static final String LATITUDE = "http://www.w3.org/2003/01/geo/wgs84_pos#lat";
     private static final String LONGITUDE = "http://www.w3.org/2003/01/geo/wgs84_pos#lng";
-    private static final String TOWN = "http://example.org/commune";
+    private static final String CITY = "http://example.org/commune";
     private static final String AVAILABLE_BIKE_STANDS = "http://example.org/available_bike_stands";
     private static final String AVAILABLE_BIKES = "http://example.org/available_bikes";
     private static final String BIKE_STANDS = "http://example.org/bike_stands";
@@ -22,10 +22,10 @@ public class StationDAO {
     private static final String STATUS = "http://example.org/status";
     
 
-    public static List<Station> getAllStationByCityName() {
+    public static List<Station> getAllStationByCityName(String cityName) {
         List<Station> stations = new ArrayList<>();
         if (!JenaFusekiConnexion.getConnextion().isClosed()) {
-            QueryExecution qExec = JenaFusekiConnexion.getConnextion().query("SELECT DISTINCT ?s ?p ?o WHERE{ ?s ?p ?o. ?s ex:city \"Lyon\" }");
+            QueryExecution qExec = JenaFusekiConnexion.getConnextion().query("SELECT DISTINCT ?s ?p ?o WHERE{ ?s ?p ?o. ?s " + CITY + ":city \"" + cityName + "\" }");
             ResultSet rs = qExec.execSelect();
             while (rs.hasNext()) {
                 Station station = new Station();
@@ -45,7 +45,7 @@ public class StationDAO {
                             station.setLongitude(Double.parseDouble(qs.get("o").toString()));
                         }
                         break;
-                    case TOWN:
+                    case CITY:
                         station.getCity().setName(qs.get("o").toString());
                         break;
                     default:
