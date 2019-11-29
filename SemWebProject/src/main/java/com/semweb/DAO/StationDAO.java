@@ -9,7 +9,7 @@ import org.apache.jena.query.QuerySolution;
 import org.apache.jena.query.ResultSet;
 
 public class StationDAO {
-    
+
     private static final String LABEL = "http://www.w3.org/2000/01/rdf-schema#label";
     private static final String ADDRESS = "https://www.wikidata.org/wiki/Property:P669";
     private static final String LATITUDE = "http://www.w3.org/2003/01/geo/wgs84_pos#lat";
@@ -20,28 +20,33 @@ public class StationDAO {
     private static final String BIKE_STANDS = "http://example.org/bike_stands";
     private static final String LAST_UPDATE = "http://example.org/last_update";
     private static final String STATUS = "http://example.org/status";
-    
 
     public static List<Station> getAllStationByCityName(String cityName) {
         List<Station> stations = new ArrayList<>();
-        if (!JenaFusekiConnexion.getConnextion().isClosed()) {
-            QueryExecution qExec = JenaFusekiConnexion.getConnextion().query("SELECT DISTINCT ?s ?p ?o WHERE{ ?s ?p ?o. ?s " + CITY + ":city \"" + cityName + "\" }");
+        if (!JenaFusekiConnexion.getConnexion().isClosed()) {
+            QueryExecution qExec = JenaFusekiConnexion
+                    .getConnexion()
+                    .query("PREFIX ex: \\<http\\:\\/\\/example\\.org\\/\\> "
+                            + "SELECT ?subject ?predicate ?object "
+                            + "WHERE { "
+                            + "?subject ex:city " + cityName
+                            + "}");
             ResultSet rs = qExec.execSelect();
             while (rs.hasNext()) {
                 Station station = new Station();
                 QuerySolution qs = rs.next();
                 station.setId(qs.get("s").toString());
-                switch(qs.get("p").toString()){
+                switch (qs.get("p").toString()) {
                     case LABEL:
                         station.setName(qs.get("o").toString());
                         break;
                     case LATITUDE:
-                        if(!qs.get("o").toString().contains("^^")){
+                        if (!qs.get("o").toString().contains("^^")) {
                             station.setLatitude(Double.parseDouble(qs.get("o").toString()));
                         }
                         break;
                     case LONGITUDE:
-                        if(!qs.get("o").toString().contains("^^")){
+                        if (!qs.get("o").toString().contains("^^")) {
                             station.setLongitude(Double.parseDouble(qs.get("o").toString()));
                         }
                         break;

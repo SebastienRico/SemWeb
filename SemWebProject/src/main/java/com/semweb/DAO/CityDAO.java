@@ -10,12 +10,12 @@ import org.apache.jena.query.ResultSet;
 
 public class CityDAO {
     
-    private static final String CITY = "http://example.org/commune";
+    private static final String CITY = "http://example.org/";
     
     public static List<City> getAllCity() {
         List<City> cities = new ArrayList<>();
-        if (!JenaFusekiConnexion.getConnextion().isClosed()) {
-            QueryExecution qExec = JenaFusekiConnexion.getConnextion().query("SELECT DISTINCT ?o WHERE{ ?s " + CITY + ":city ?o }");
+        if (!JenaFusekiConnexion.getConnexion().isClosed()) {
+            QueryExecution qExec = JenaFusekiConnexion.getConnexion().query("SELECT DISTINCT ?o WHERE{ ?s " + CITY + ":city ?o }");
             ResultSet rs = qExec.execSelect();
             while (rs.hasNext()) {
                 City city = new City();
