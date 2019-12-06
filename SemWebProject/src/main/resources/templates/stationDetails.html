@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <title>Details Station</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div style="margin: 20px; width: 18rem">
+                <h5 th:text="${station.name}"></h5>
+                <h5 th:text="${station.address}"></h5>
+                <h5 th:text="${station.city.name}"></h5>
+                <p th:text="${station.status}"></p>
+        </div>
+
+    </body>
+</html>

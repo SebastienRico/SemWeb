@@ -7,6 +7,8 @@ import java.util.List;
 import org.apache.jena.query.QueryExecution;
 import org.apache.jena.query.QuerySolution;
 import org.apache.jena.query.ResultSet;
+import org.apache.jena.rdfconnection.RDFConnection;
+import org.apache.jena.rdfconnection.RDFConnectionFactory;
 
 public class CityDAO {
     
@@ -14,8 +16,8 @@ public class CityDAO {
     
     public static List<City> getAllCity() {
         List<City> cities = new ArrayList<>();
-        if (!JenaFusekiConnexion.getConnexion().isClosed()) {
-            QueryExecution qExec = JenaFusekiConnexion.getConnexion().query("SELECT DISTINCT ?o WHERE{ ?s " + CITY + ":city ?o }");
+        RDFConnection conn = RDFConnectionFactory.connect("http://localhost:3030/TestBike");
+            QueryExecution qExec = JenaFusekiConnexion.getConnexion().query("PREFIX ex: <"+CITY+"> SELECT DISTINCT ?o WHERE{ ?s ex:city ?o }");
             ResultSet rs = qExec.execSelect();
             while (rs.hasNext()) {
                 City city = new City();
@@ -24,7 +26,7 @@ public class CityDAO {
                 cities.add(city);
             }
             qExec.close();
-        }
+            conn.close() ;
         return cities;
     }
 }
