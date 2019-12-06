@@ -1,0 +1,21 @@
+PREFIX ite: <http://w3id.org/sparql-generate/iter/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX wdp: <https://www.wikidata.org/wiki/Property:>
+PREFIX ex: <http://example.org/>
+
+GENERATE {
+  <ex:station_{?idstation}> a sosa:FeatureOfInterest;
+    rdfs:label ?nom;
+    ex:city "Rennes";
+    geo:coordinates ?coordinates;
+    ex:bike_stands ?nombre_emplacements_actuels;
+    ex:available_bike_stands ?nombre_emplacements_disponibles;
+    ex:available_bikes ?nombre_velos_disponibles;
+    ex:status ?etat;
+    ex:last_update ?lastupdate.
+}
+  
+ITERATOR ite:JSONPath(<https://data.rennesmetropole.fr/api/records/1.0/search/?dataset=etat-des-stations-le-velo-star-en-temps-reel>,"$.records.[*].fields", "$.idstation", "$.nom", "$.coordinates", "$.nombreemplacementsactuels", "$.nombreemplacementsdisponibles", "$.nombrevelosdisponibles", "$.etat", "$.lastupdate") AS ?feature ?idstation ?nom ?coordinates ?nombre_emplacements_actuels ?nombre_emplacements_disponibles ?nombre_velos_disponibles ?etat ?lastupdate

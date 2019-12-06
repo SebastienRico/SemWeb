@@ -14,6 +14,7 @@ public class StationDAO {
     private static final String ADDRESS = "https://www.wikidata.org/wiki/Property:P669";
     private static final String LATITUDE = "http://www.w3.org/2003/01/geo/wgs84_pos#lat";
     private static final String LONGITUDE = "http://www.w3.org/2003/01/geo/wgs84_pos#lng";
+    private static final String COORDINATES = "http://www.w3.org/2003/01/geo/wgs84_pos#coordinates";
     private static final String CITY = "http://example.org/commune";
     private static final String AVAILABLE_BIKE_STANDS = "http://example.org/available_bike_stands";
     private static final String AVAILABLE_BIKES = "http://example.org/available_bikes";
@@ -45,6 +46,10 @@ public class StationDAO {
                             station.setLongitude(Double.parseDouble(qs.get("o").toString()));
                         }
                         break;
+                    case COORDINATES:
+                        String[] coordinates = qs.get("o").toString().split(",");
+                        station.setLatitude(Double.parseDouble(coordinates[0]));
+                        station.setLongitude(Double.parseDouble(coordinates[1]));
                     case CITY:
                         station.getCity().setName(qs.get("o").toString());
                         break;
