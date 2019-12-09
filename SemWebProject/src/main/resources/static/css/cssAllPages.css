@@ -29,3 +29,8 @@
 #updatetime{
     font-style: italic;
 }
+
+#map {
+    height: 100%;
+    margin-top: 44px;
+  }

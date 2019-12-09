@@ -59,13 +59,19 @@ public class StationDAO {
                         station.setAddress(qs.get("o").toString());
                         break;
                     case AVAILABLE_BIKE_STANDS:
-                        station.setAvailableBikeStand(Integer.parseInt(qs.get("o").toString()));
+                        if (!"".equals(qs.get("o").toString())) {
+                            station.setAvailableBikeStand(Integer.parseInt(qs.get("o").toString()));
+                        }
                         break;
                     case AVAILABLE_BIKES:
-                        station.setAvailableBike(Integer.parseInt(qs.get("o").toString()));
+                        if (!"".equals(qs.get("o").toString())) {
+                            station.setAvailableBike(Integer.parseInt(qs.get("o").toString()));
+                        }
                         break;
                     case BIKE_STANDS:
-                        station.setBikeStand(Integer.parseInt(qs.get("o").toString()));
+                        if (!"".equals(qs.get("o").toString())) {
+                            station.setBikeStand(Integer.parseInt(qs.get("o").toString()));
+                        }
                         break;
                     case LAST_UPDATE:
                         station.setLastUpdate(qs.get("o").toString());
@@ -102,9 +108,10 @@ public class StationDAO {
             stations.add(station);
             qExec.close();
 
-            for (Station onestation : stations) {
+            //Afficher les stations dans la console
+            /*for (Station onestation : stations) {
                 System.out.println(onestation.toString() + " dans " + onestation.getCity().getName());
-            }
+            }*/
 
         }
         return stations;

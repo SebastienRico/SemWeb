@@ -11,7 +11,7 @@ public class JenaFusekiConnexion {
 
     private static Logger logger = Logger.getLogger("JenaFusekiConnexion");
 
-    private static String DATABASE_URL = "http://localhost:3030/TestBike";
+    private static String DATABASE_URL = "http://localhost:3030/SemWebProject";
     private static RDFConnection conn;
 
     public static void connectToFuseki() {

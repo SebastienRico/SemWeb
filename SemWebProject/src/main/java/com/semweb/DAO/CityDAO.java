@@ -16,7 +16,7 @@ public class CityDAO {
     
     public static List<City> getAllCity() {
         List<City> cities = new ArrayList<>();
-        RDFConnection conn = RDFConnectionFactory.connect("http://localhost:3030/TestBike");
+        RDFConnection conn = RDFConnectionFactory.connect("http://localhost:3030/SemWebProject");
             QueryExecution qExec = JenaFusekiConnexion.getConnexion().query("PREFIX ex: <"+CITY+"> SELECT DISTINCT ?o WHERE{ ?s ex:city ?o }");
             ResultSet rs = qExec.execSelect();
             while (rs.hasNext()) {
