@@ -102,9 +102,9 @@ public class StationDAO {
             stations.add(station);
             qExec.close();
 
-            /*for (Station onestation : stations) {
+            for (Station onestation : stations) {
                 System.out.println(onestation.toString() + " dans " + onestation.getCity().getName());
-            }*/
+            }
 
         }
         return stations;
@@ -112,6 +112,7 @@ public class StationDAO {
 
     public static Station getStationById(String idStation) {
         Station station = new Station();
+        station.setId(idStation);
         if (!JenaFusekiConnexion.getConnexion().isClosed()) {
             QueryExecution qExec = JenaFusekiConnexion
                     .getConnexion()

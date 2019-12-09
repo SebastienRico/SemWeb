@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org">
+<html xmlns:th="http://www.thymeleaf.org" prefix="sosa: http://www.w3.org/ns/sosa/ rdfs: http://www.w3.org/2000/01/rdf-schema# ex: https://www.example.org/ geo: http://www.w3.org/2003/01/geo/wgs84_pos# wdp: https://www.wikidata.org/wiki/Property:">
     <head>
         <link rel="stylesheet" th:href="@{/css/cssAllPages.css}">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -10,43 +10,38 @@
     <body>
         <div th:include="/navbar::navbar"></div>
         <div class="container">
-            <div class="row">
+            <div class="row" th:about="@{'ex:' + ${station.id}}" typeof="sosa:FeatureOfInterest">
                 <div class="col" style="margin: 20px; width: 18rem">
+                    <span id="updatetime" property="ex:last_update">[[ ${station.lastUpdate} ]]</span>
                     <table class="table table-dark">
-                        <thead>
-                            <tr>
-                                <th scope="col"></th>
-                                <th scope="col">Value</th>
-                            </tr>
-                        </thead>
                         <tbody>
                             <tr>
                                 <th scope="row">Name station</th>
-                                <td th:text="${station.name}"></td>
+                                <td property="rdfs:label" th:text="${station.name}"></td>
                             </tr>
                             <tr>
                                 <th scope="row">City</th>
-                                <td th:text="${station.city.name}"></td>
+                                <td property="ex:city" th:text="${station.city.name}"></td>
                             </tr>
                             <tr>
                                 <th scope="row">Address</th>
-                                <td th:text="${station.address}"></td>
+                                <td property="wdp:P669" th:text="${station.address}"></td>
                             </tr>
                             <tr>
                                 <th scope="row">Available Bikes</th>
-                                <td>[[ ${station.availableBike} ]]</td>
+                                <td property="ex:available_bikes" id="avbike">[[ ${station.availableBike} ]]</td>
                             </tr>
                             <tr>
                                 <th scope="row">Bike stands</th>
-                                <td>[[ ${station.bikeStand} ]]</td>
+                                <td property="ex:bike_stands">[[ ${station.bikeStand} ]]</td>
                             </tr>
                             <tr>
                                 <th scope="row">Available bike stands</th>
-                                <td>[[ ${station.availableBikeStand} ]]</td>
+                                <td property="ex:available_bike_stands">[[ ${station.availableBikeStand} ]]</td>
                             </tr>
                             <tr>
                                 <th scope="row">Status</th>
-                                <td>[[ ${station.status} ]]</td>
+                                <td property="ex:status">[[ ${station.status} ]]</td>
                             </tr>
                         </tbody>
                     </table>

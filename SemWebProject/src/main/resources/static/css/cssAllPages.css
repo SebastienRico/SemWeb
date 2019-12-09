@@ -19,3 +19,13 @@
 .cityname{
     font-size: 30px;
 }
+
+/**********DETAILS*********/
+#avbike{
+    color: green;
+    font-weight: bold;
+}
+
+#updatetime{
+    font-style: italic;
+}
