@@ -1,5 +1,7 @@
 package com.semweb.Controller;
 
+import com.semweb.Model.Chrono;
+import com.semweb.utilities.Util;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -11,6 +13,9 @@ public class Main {
         //JenaFusekiConnexion.runFusekiServer();
         JenaFusekiConnexion.connectToFuseki();
         //JenaFusekiConnexion.closeConnexionToFuseki();
+        Chrono chrono = new Chrono();
+        chrono.start();
+        //ConfigDataSources.getCitiesName();
     }
 
 }
