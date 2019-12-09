@@ -28,7 +28,7 @@ public class JenaFusekiConnexion {
         logger.info("App disconnected to fuseki database");
     }
 
-    public static RDFConnection getConnextion() {
+    public static RDFConnection getConnexion() {
         return conn;
     }
 

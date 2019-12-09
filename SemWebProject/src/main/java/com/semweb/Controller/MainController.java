@@ -21,12 +21,19 @@ public class MainController {
         m.addAttribute("cities", cities);
         return "/cities.html";
     }
-    
+
     @RequestMapping(value = "/stations/{cityName}")
-    public String goToStationPage(@PathVariable String cityName, Model m){
+    public String goToStationPage(@PathVariable String cityName, Model m) {
         List<Station> stations = new ArrayList<>();
         stations = StationDAO.getAllStationByCityName(cityName);
         m.addAttribute("stations", stations);
         return "/stations.html";
+    }
+
+    @RequestMapping(value = "/station/{idStation}")
+    public String goToStationDetailPage(@PathVariable String idStation, Model m) {
+        Station station = StationDAO.getStationById(idStation);
+        m.addAttribute("station", station);
+        return "/stationDetails.html";
     }
 }
