@@ -88,10 +88,10 @@ public class StationDAO {
                             station.setLongitude(Double.parseDouble(qs.get("o").toString()));
                         }
                         break;
-                    case COORDINATES:
+                    /*case COORDINATES:
                         String[] coordinates = qs.get("o").toString().split(",");
                         station.setLatitude(Double.parseDouble(coordinates[0]));
-                        station.setLongitude(Double.parseDouble(coordinates[1]));
+                        station.setLongitude(Double.parseDouble(coordinates[1]));*/
                     case CITY:
                         station.getCity().setName(qs.get("o").toString());
                         break;
@@ -102,9 +102,9 @@ public class StationDAO {
             stations.add(station);
             qExec.close();
 
-            for (Station onestation : stations) {
+            /*for (Station onestation : stations) {
                 System.out.println(onestation.toString() + " dans " + onestation.getCity().getName());
-            }
+            }*/
 
         }
         return stations;

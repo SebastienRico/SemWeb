@@ -1,24 +1,26 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
     <head>
+        <link rel="stylesheet" th:href="@{/css/cssAllPages.css}">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <title>Station Lyon</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
+        <div th:include="/navbar::navbar"></div>
         <div class="container">
             <div class="row">
                 <div th:each="station : ${stations}" class="card text-black" style="margin: 20px; width: 18rem">
-                    <div class="card">
-                        <a th:href="@{'/station/' + ${station.id}}">
-                        <h5 class="card-title">[[ ${station.name} ]]</h5>
-                        <h5 class="card-title">[[ ${station.city.name} ]]</h5>
-                        <h5 class="card-title">[[ ${station.address} ]]</h5>
-                        <!--<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>-->
-                        <p class="card-text">Last updated [[ ${station.lastUpdate} ]]</p>
-                        </a>
-                    </div>
+                    <a th:href="@{'/station/' + ${station.id}}">
+                        <div class=" textcard card">
+
+                            <h5 class="card-title">[[ ${station.name} ]]</h5>
+                            <h5 class="card-title">[[ ${station.city.name} ]]</h5>
+                            <h5 class="card-title">[[ ${station.address} ]]</h5>
+                            <p class="card-text">Last updated [[ ${station.lastUpdate} ]]</p>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
