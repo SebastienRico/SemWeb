@@ -1,6 +1,6 @@
 package com.semweb.Model;
 
-import com.semweb.Controller.FusekiDataController;
+import com.semweb.Controller.JSONController;
 import com.semweb.utilities.Util;
 
 public class Chrono extends Thread{
@@ -23,7 +23,7 @@ public class Chrono extends Thread{
             if(now - startTime < maxTime){
                 now = System.currentTimeMillis() / 1000;
             } else {
-                FusekiDataController.updateData();
+                JSONController.parseJSONDatas();
                 this.startTime = System.currentTimeMillis() / 1000;
             }
         }
