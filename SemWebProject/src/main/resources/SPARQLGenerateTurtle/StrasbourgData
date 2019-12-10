@@ -1,0 +1,19 @@
+PREFIX ite: <http://w3id.org/sparql-generate/iter/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX wdp: <https://www.wikidata.org/wiki/Property:>
+PREFIX ex: <http://example.org/>
+
+GENERATE { 
+  <ex:station_{?stationId}> a sosa:FeatureOfInterest;
+        rdfs:label ?name;
+        ex:city "Strasbourg";
+        wdp:P669 ?name;
+        geo:lat ?lat;
+        geo:lng ?lng;
+        ex:bike_stands ?bike_stands;
+}
+SOURCE <https://data.montpellier3m.fr/sites/default/files/ressources/TAM_MMM_VELOMAG.xml> AS ?source
+ITERATOR ite:XPath(?source, "//vcs//sl//si", "/si/@id", "/si/@na", "/si/@la", "/si/@lg", "/si/@to") AS ?station ?stationId ?name ?lat ?lng ?bike_stands

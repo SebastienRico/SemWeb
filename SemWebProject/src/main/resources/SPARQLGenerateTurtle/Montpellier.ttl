@@ -1,0 +1,465 @@
+
+@base          <http://example.org/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
+@prefix ex:    <http://example.org/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ite:   <http://w3id.org/sparql-generate/iter/> .
+@prefix sosa:  <http://www.w3.org/ns/sosa/> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<ex:station_11>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "11 Plan Cabanes" ;
+        ex:bike_stands  "12" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.608491" ;
+        geo:lng         "3.868389" ;
+        wdp:P669        "11 Plan Cabanes" .
+
+<ex:station_24>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "24 Citï¿½ Mion" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.601143" ;
+        geo:lng         "3.884373" ;
+        wdp:P669        "24 Citï¿½ Mion" .
+
+<ex:station_5>  a       sosa:FeatureOfInterest ;
+        rdfs:label      "5 Corum" ;
+        ex:bike_stands  "12" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.613989" ;
+        geo:lng         "3.881600" ;
+        wdp:P669        "5 Corum" .
+
+<ex:station_37>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "37 FacdesSciences" ;
+        ex:bike_stands  "24" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.631018" ;
+        geo:lng         "3.860697" ;
+        wdp:P669        "37 FacdesSciences" .
+
+<ex:station_31>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "31 Voltaire" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.603767" ;
+        geo:lng         "3.888659" ;
+        wdp:P669        "31 Voltaire" .
+
+<ex:station_44>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "44 Celleneuve" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.614670" ;
+        geo:lng         "3.832624" ;
+        wdp:P669        "44 Celleneuve" .
+
+<ex:station_16>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "16 Antigone centre" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.607942" ;
+        geo:lng         "3.890634" ;
+        wdp:P669        "16 Antigone centre" .
+
+<ex:station_57>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "57 Saint-Guilhem - Courreau" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.608996" ;
+        geo:lng         "3.872752" ;
+        wdp:P669        "57 Saint-Guilhem - Courreau" .
+
+<ex:station_29>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "29 Richter" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.603424" ;
+        geo:lng         "3.899263" ;
+        wdp:P669        "29 Richter" .
+
+<ex:station_10>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "10 Rondelet" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.603038" ;
+        geo:lng         "3.875796" ;
+        wdp:P669        "10 Rondelet" .
+
+<ex:station_51>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "51 Pont de Lattes - Gare Saint-Roch" ;
+        ex:bike_stands  "12" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.606036" ;
+        geo:lng         "3.882393" ;
+        wdp:P669        "51 Pont de Lattes - Gare Saint-Roch" .
+
+<ex:station_23>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "23 Les Arceaux" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.611991" ;
+        geo:lng         "3.867157" ;
+        wdp:P669        "23 Les Arceaux" .
+
+<ex:station_4>  a       sosa:FeatureOfInterest ;
+        rdfs:label      "4 Hï¿½tel de Ville" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.599088" ;
+        geo:lng         "3.894866" ;
+        wdp:P669        "4 Hï¿½tel de Ville" .
+
+<ex:station_36>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "36 Occitanie" ;
+        ex:bike_stands  "32" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.634242" ;
+        geo:lng         "3.849128" ;
+        wdp:P669        "36 Occitanie" .
+
+<ex:station_49>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "49 Tonnelles" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.615155" ;
+        geo:lng         "3.839466" ;
+        wdp:P669        "49 Tonnelles" .
+
+<ex:station_30>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "30 Charles Flahault" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.618762" ;
+        geo:lng         "3.865971" ;
+        wdp:P669        "30 Charles Flahault" .
+
+<ex:station_43>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "43 Sabines" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.584211" ;
+        geo:lng         "3.860031" ;
+        wdp:P669        "43 Sabines" .
+
+<ex:station_15>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "15 Les Aubes" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.618692" ;
+        geo:lng         "3.893844" ;
+        wdp:P669        "15 Les Aubes" .
+
+<ex:station_56>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "56 Albert 1er - Cathï¿½drale" ;
+        ex:bike_stands  "12" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.614005" ;
+        geo:lng         "3.873218" ;
+        wdp:P669        "56 Albert 1er - Cathï¿½drale" .
+
+<ex:station_28>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "28 Saint-Denis" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.605021" ;
+        geo:lng         "3.875065" ;
+        wdp:P669        "28 Saint-Denis" .
+
+<ex:station_9>  a       sosa:FeatureOfInterest ;
+        rdfs:label      "9 Observatoire" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.606081" ;
+        geo:lng         "3.876931" ;
+        wdp:P669        "9 Observatoire" .
+
+<ex:station_50>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "50 Parvis Jules Ferry - Gare Saint-Roch" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.603889" ;
+        geo:lng         "3.879362" ;
+        wdp:P669        "50 Parvis Jules Ferry - Gare Saint-Roch" .
+
+<ex:station_22>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "22 Clemenceau" ;
+        ex:bike_stands  "12" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.603539" ;
+        geo:lng         "3.872394" ;
+        wdp:P669        "22 Clemenceau" .
+
+<ex:station_3>  a       sosa:FeatureOfInterest ;
+        rdfs:label      "3 Esplanade" ;
+        ex:bike_stands  "32" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.609478" ;
+        geo:lng         "3.881293" ;
+        wdp:P669        "3 Esplanade" .
+
+<ex:station_35>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "35 Malbosc" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.633679" ;
+        geo:lng         "3.832861" ;
+        wdp:P669        "35 Malbosc" .
+
+<ex:station_48>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "48 Hï¿½tel du Dï¿½partement" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.621682" ;
+        geo:lng         "3.834770" ;
+        wdp:P669        "48 Hï¿½tel du Dï¿½partement" .
+
+<ex:station_42>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "42 Marie Caizergues" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.619871" ;
+        geo:lng         "3.873812" ;
+        wdp:P669        "42 Marie Caizergues" .
+
+<ex:station_14>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "14 Beaux-Arts" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.616698" ;
+        geo:lng         "3.884981" ;
+        wdp:P669        "14 Beaux-Arts" .
+
+<ex:station_55>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "55 Pï¿½rols Etang de l'Or" ;
+        ex:bike_stands  "68" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.558351" ;
+        geo:lng         "3.963412" ;
+        wdp:P669        "55 Pï¿½rols Etang de l'Or" .
+
+<ex:station_27>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "27 Odysseum" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.603727" ;
+        geo:lng         "3.918979" ;
+        wdp:P669        "27 Odysseum" .
+
+<ex:station_8>  a       sosa:FeatureOfInterest ;
+        rdfs:label      "8 Halles Castellane" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.609935" ;
+        geo:lng         "3.877208" ;
+        wdp:P669        "8 Halles Castellane" .
+
+<ex:station_21>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "21 Port Marianne" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.600320" ;
+        geo:lng         "3.898510" ;
+        wdp:P669        "21 Port Marianne" .
+
+<ex:station_2>  a       sosa:FeatureOfInterest ;
+        rdfs:label      "2 Comï¿½die" ;
+        ex:bike_stands  "24" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.608148" ;
+        geo:lng         "3.878778" ;
+        wdp:P669        "2 Comï¿½die" .
+
+<ex:station_34>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "34 Vert Bois" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.634580" ;
+        geo:lng         "3.868230" ;
+        wdp:P669        "34 Vert Bois" .
+
+<ex:station_47>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "47 Place Viala" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.616812" ;
+        geo:lng         "3.855075" ;
+        wdp:P669        "47 Place Viala" .
+
+<ex:station_19>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "19 Louis Blanc" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.614642" ;
+        geo:lng         "3.877648" ;
+        wdp:P669        "19 Louis Blanc" .
+
+<ex:station_41>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "41 Euromï¿½decine" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.639119" ;
+        geo:lng         "3.828199" ;
+        wdp:P669        "41 Euromï¿½decine" .
+
+<ex:station_13>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "13 Emile Combes" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.616742" ;
+        geo:lng         "3.879980" ;
+        wdp:P669        "13 Emile Combes" .
+
+<ex:station_54>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "54 Providence - Ovalie" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.588239" ;
+        geo:lng         "3.853421" ;
+        wdp:P669        "54 Providence - Ovalie" .
+
+<ex:station_26>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "26 Renouvier" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.603553" ;
+        geo:lng         "3.867884" ;
+        wdp:P669        "26 Renouvier" .
+
+<ex:station_7>  a       sosa:FeatureOfInterest ;
+        rdfs:label      "7 Foch" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.610989" ;
+        geo:lng         "3.873345" ;
+        wdp:P669        "7 Foch" .
+
+<ex:station_39>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "39 Aiguelongue" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.626163" ;
+        geo:lng         "3.882492" ;
+        wdp:P669        "39 Aiguelongue" .
+
+<ex:station_20>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "20 Gambetta" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.607106" ;
+        geo:lng         "3.870693" ;
+        wdp:P669        "20 Gambetta" .
+
+<ex:station_1>  a       sosa:FeatureOfInterest ;
+        rdfs:label      "1 Rue Jules Ferry - Gare Saint-Roch" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.605366" ;
+        geo:lng         "3.881346" ;
+        wdp:P669        "1 Rue Jules Ferry - Gare Saint-Roch" .
+
+<ex:station_33>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "33 Garcia Lorca" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.590757" ;
+        geo:lng         "3.890616" ;
+        wdp:P669        "33 Garcia Lorca" .
+
+<ex:station_46>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "46 Pï¿½re Soulas" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.621983" ;
+        geo:lng         "3.855603" ;
+        wdp:P669        "46 Pï¿½re Soulas" .
+
+<ex:station_18>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "18 Nombre d'Or" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.607859" ;
+        geo:lng         "3.886644" ;
+        wdp:P669        "18 Nombre d'Or" .
+
+<ex:station_59>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "59 Sud De France" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.595620" ;
+        geo:lng         "3.923500" ;
+        wdp:P669        "59 Sud De France" .
+
+<ex:station_40>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "40 Jeu de Mail des Abbï¿½s" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.619701" ;
+        geo:lng         "3.883831" ;
+        wdp:P669        "40 Jeu de Mail des Abbï¿½s" .
+
+<ex:station_12>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "12 Boutonnet" ;
+        ex:bike_stands  "12" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.622629" ;
+        geo:lng         "3.868375" ;
+        wdp:P669        "12 Boutonnet" .
+
+<ex:station_53>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "53 Deux Ponts - Gare Saint-Roch" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.604319" ;
+        geo:lng         "3.880916" ;
+        wdp:P669        "53 Deux Ponts - Gare Saint-Roch" .
+
+<ex:station_25>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "25 Nouveau Saint-Roch" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.599817" ;
+        geo:lng         "3.875757" ;
+        wdp:P669        "25 Nouveau Saint-Roch" .
+
+<ex:station_6>  a       sosa:FeatureOfInterest ;
+        rdfs:label      "6 Place Albert 1er - St Charles" ;
+        ex:bike_stands  "31" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.616768" ;
+        geo:lng         "3.873375" ;
+        wdp:P669        "6 Place Albert 1er - St Charles" .
+
+<ex:station_38>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "38 Fac de Lettres" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.630665" ;
+        geo:lng         "3.870230" ;
+        wdp:P669        "38 Fac de Lettres" .
+
+<ex:station_32>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "32 Prï¿½s d'Arï¿½nes" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.590480" ;
+        geo:lng         "3.884611" ;
+        wdp:P669        "32 Prï¿½s d'Arï¿½nes" .
+
+<ex:station_45>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "45 Jardin de la Lironde" ;
+        ex:bike_stands  "8" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.605850" ;
+        geo:lng         "3.911576" ;
+        wdp:P669        "45 Jardin de la Lironde" .
+
+<ex:station_17>  a      sosa:FeatureOfInterest ;
+        rdfs:label      "17 Mï¿½diathï¿½que Emile Zola" ;
+        ex:bike_stands  "16" ;
+        ex:city         "Montpellier" ;
+        geo:lat         "43.608218" ;
+        geo:lng         "3.893140" ;
+        wdp:P669        "17 Mï¿½diathï¿½que Emile Zola" .

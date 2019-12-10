@@ -112,13 +112,17 @@ public class StationDAO {
             /*for (Station onestation : stations) {
                 System.out.println(onestation.toString() + " dans " + onestation.getCity().getName());
             }*/
-
         }
         return stations;
     }
 
     public static Station getStationById(String idStation) {
         Station station = new Station();
+        String stationId = idStation;
+        if (idStation.contains("ex")) {
+            String[] splitid = idStation.split("_");
+            stationId = splitid[1];
+        }
         station.setId(idStation);
         if (!JenaFusekiConnexion.getConnexion().isClosed()) {
             QueryExecution qExec = JenaFusekiConnexion
@@ -126,7 +130,7 @@ public class StationDAO {
                     .query("PREFIX ex: <" + EXEMPLE + ">"
                             + "SELECT ?p ?o "
                             + "WHERE { "
-                            + "<ex:station_" + idStation + "> ?p ?o . "
+                            + "<ex:station_" + stationId + "> ?p ?o . "
                             + "}");
             ResultSet rs = qExec.execSelect();
             while (rs.hasNext()) {
@@ -178,5 +182,26 @@ public class StationDAO {
             qExec.close();
         }
         return station;
+    }
+
+    public static List<Station> findStation(String searchString) {
+        List<Station> stations = new ArrayList<>();
+        if (!JenaFusekiConnexion.getConnexion().isClosed()) {
+            QueryExecution qExec = JenaFusekiConnexion
+                    .getConnexion()
+                    .query( "SELECT DISTINCT ?s "
+                            + "WHERE { "
+                            + "?s ?p ?o . "
+                            + "FILTER (regex(lcase(?o), lcase(\"" + searchString + "\")))"
+                            + "}");
+            ResultSet rs = qExec.execSelect();
+            while (rs.hasNext()) {
+                QuerySolution qs = rs.next();
+                Station station = getStationById(qs.get("s").toString());
+                stations.add(station);
+            }
+            qExec.close();
+        }
+        return stations;
     }
 }

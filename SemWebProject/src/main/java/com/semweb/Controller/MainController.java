@@ -4,13 +4,14 @@ import com.semweb.DAO.CityDAO;
 import com.semweb.DAO.StationDAO;
 import com.semweb.Model.Station;
 import com.semweb.Model.City;
-import com.sun.javafx.scene.control.skin.VirtualFlow;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
 public class MainController {
@@ -35,5 +36,13 @@ public class MainController {
         Station station = StationDAO.getStationById(idStation);
         m.addAttribute("station", station);
         return "/stationDetails.html";
+    }
+
+    @RequestMapping(method = RequestMethod.POST, path = "/search")
+    public String search(Model m,  @RequestParam(value = "searchString") String searchString) {
+        List<Station> stations = new ArrayList<>();
+        stations = StationDAO.findStation(searchString);
+        m.addAttribute("stations", stations);
+        return "/stations.html";
     }
 }
