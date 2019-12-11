@@ -1,0 +1,25 @@
+<html xmlns:th="http://www.thymeleaf.org" prefix="ex: https://www.example.org/ rdfs: http://www.w3.org/2000/01/rdf-schema#">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+        <link rel="stylesheet" th:href="@{/css/cssAllPages.css}">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <title>Bikes</title>
+    </head>
+    <body>
+        <div th:include="/navbar::navbar"></div>
+        <div class="container">
+            <div class="row">
+                <div style="text-align: center; margin-top: 20px; margin-right: auto; margin-left: auto" class="alert alert-danger" role="alert">
+                    Une erreur inatendue est survenue.
+                    Nous faisons au plus vite pour résoudre le problème.
+                </div>
+                <div style="margin-top: 20px; margin-right: auto; margin-left: auto" class="card bg-dark text-white">
+                    <img src="/img/error.gif" class="card-img">
+                </div>
+
+            </div>
+        </div>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    </body>
+</html>
