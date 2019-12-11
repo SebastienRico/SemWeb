@@ -15,17 +15,36 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
 public class MainController {
+    
+    public static List<Station> stations;
+    public static List<City> cities;
+    
+    public static List<City> getCities(){
+        return cities;
+    }
+    
+    public static List<Station> getStations(){
+        return stations;
+    }
+    
+    public static void setCities(List<City> cities){
+        MainController.cities = cities;
+    }
+    
+    public static void setStations(List<Station> stations){
+        MainController.stations = stations;
+    }
 
-    @RequestMapping(value = "/cities")
+    @RequestMapping(value = {"/", "/cities"})
     public String goToTownsPage(Model m) {
-        List<City> cities = CityDAO.getAllCity();
+        cities = CityDAO.getAllCity();
         m.addAttribute("cities", cities);
         return "/cities.html";
     }
 
     @RequestMapping(value = "/stations/{cityName}")
     public String goToStationPage(@PathVariable String cityName, Model m) {
-        List<Station> stations = new ArrayList<>();
+        stations = new ArrayList<>();
         stations = StationDAO.getAllStationByCityName(cityName);
         m.addAttribute("stations", stations);
         return "/stations.html";
@@ -40,7 +59,7 @@ public class MainController {
 
     @RequestMapping(method = RequestMethod.POST, path = "/search")
     public String search(Model m,  @RequestParam(value = "searchString") String searchString) {
-        List<Station> stations = new ArrayList<>();
+        stations = new ArrayList<>();
         stations = StationDAO.findStation(searchString);
         m.addAttribute("stations", stations);
         return "/stations.html";

@@ -59,19 +59,19 @@ public class StationDAO {
                         station.setAddress(qs.get("o").toString());
                         break;
                     case AVAILABLE_BIKE_STANDS:
-                        if (!"".equals(qs.get("o").toString())) {
+                        /*if (!"".equals(qs.get("o").toString())) {
                             station.setAvailableBikeStand(Integer.parseInt(qs.get("o").toString()));
-                        }
+                        }*/
                         break;
                     case AVAILABLE_BIKES:
-                        if (!"".equals(qs.get("o").toString())) {
+                        /*if (!"".equals(qs.get("o").toString())) {
                             station.setAvailableBike(Integer.parseInt(qs.get("o").toString()));
-                        }
+                        }*/
                         break;
                     case BIKE_STANDS:
-                        if (!"".equals(qs.get("o").toString())) {
+                        /*if (!"".equals(qs.get("o").toString())) {
                             station.setBikeStand(Integer.parseInt(qs.get("o").toString()));
-                        }
+                        }*/
                         break;
                     case LAST_UPDATE:
                         station.setLastUpdate(qs.get("o").toString());

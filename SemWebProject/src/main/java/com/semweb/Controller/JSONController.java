@@ -1,5 +1,9 @@
 package com.semweb.Controller;
 
+import com.semweb.DAO.StationDAO;
+import com.semweb.Model.City;
+import com.semweb.Model.Station;
+import com.semweb.Model.StatusStation;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -10,6 +14,7 @@ import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.StandardCopyOption;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -19,6 +24,9 @@ import net.minidev.json.parser.JSONParser;
 import net.minidev.json.parser.ParseException;
 
 public class JSONController {
+    
+    private static Boolean stationExist = false;
+    private static Integer index = null;
 
     static final String LYON_DATA_URL = "https://download.data.grandlyon.com/wfs/rdata?SERVICE=WFS&VERSION=1.1.0&outputformat=GEOJSON&request=GetFeature&typename=jcd_jcdecaux.jcdvelov&SRSNAME=urn:ogc:def:crs:EPSG::4171";
     static final String LYON_FILE_NAME = "src/main/resources/jsonFiles/lyon.json";
@@ -92,51 +100,127 @@ public class JSONController {
             Logger.getLogger(JSONController.class.getName()).log(Level.SEVERE, "Error in parsing rennes.json", ex);
         }
     }
+    
+    private static City getCity(String cityName){
+        List<City> cities = MainController.getCities();
+            City c = null;
+            for (int j = 0; j < cities.size(); j++) {
+                if (cities.get(j).getName().equals(cityName)) {
+                    c = cities.get(j);
+                }
+            };
+        return c;
+    }
+    
+    private static Station getStation(City city, String stationId){
+        List<Station> stations = StationDAO.getAllStationByCityName(city.getName());
+        MainController.setStations(stations);
+            Station station = null;
+            stationExist = false;
+            for (int k = 0; k < stations.size(); k++) {
+                if (stations.get(k).getCity().equals(city) && stations.get(k).getId().equals(stationId)) {
+                    stationExist = true;
+                    index = k;
+                    station = stations.get(k);
+                }
+            };
+            return station;
+    }
 
     private static void parseLyonObject(JSONObject lyonObject) {
+        stationExist = false;
         JSONArray features = (JSONArray) lyonObject.get("features");
         for (int i = 0; i < features.size(); i++) {
             JSONObject tmpProperty = (JSONObject) features.get(i);
             JSONObject property = (JSONObject) tmpProperty.get("properties");
             String stationId = property.get("number").toString();
-            String name = property.get("name").toString();
-            String address = property.getAsString("address");
-            if (!property.getAsString("lat").equals("") && !property.getAsString("lng").equals("")) {
-                Double lat = Double.parseDouble(property.getAsString("lat"));
-                Double lng = Double.parseDouble(property.getAsString("lng"));
-            }
-            if (!property.getAsString("bike_stands").equals("")) {
-                Integer bikeStand = Integer.parseInt(property.getAsString("bike_stands"));
+            
+            City lyon = getCity("Lyon");
+            Station station = getStation(lyon, stationId);
+            
+            if(!stationExist){
+                station = new Station();
+                station.setCity(lyon);
+                station.setId(stationId);
             }
             String status = property.getAsString("status");
+            switch (status) {
+                case "OPEN":
+                    station.setStatus(StatusStation.OPEN);
+                    break;
+                default:
+                    station.setStatus(StatusStation.CLOSED);
+            }
+            station.setName(property.getAsString("name"));
+            station.setAddress(property.getAsString("address"));
+            if (!property.getAsString("lat").equals("") && !property.getAsString("lng").equals("")) {
+                station.setLatitude(Double.parseDouble(property.getAsString("lat")));
+                station.setLongitude(Double.parseDouble(property.getAsString("lng")));
+            }
+            if (!property.getAsString("bike_stands").equals("")) {
+                station.setBikeStand(Integer.parseInt(property.getAsString("bike_stands")));
+            }
             if (!property.getAsString("available_bike_stands").equals("")) {
-                Integer availableBikeStands = Integer.parseInt(property.getAsString("available_bike_stands"));
+                station.setAvailableBikeStand(Integer.parseInt(property.getAsString("available_bike_stands")));
             }
             if (!property.getAsString("available_bikes").equals("")) {
-            Integer availableBikes = Integer.parseInt(property.getAsString("available_bikes"));
+                station.setAvailableBike(Integer.parseInt(property.getAsString("available_bikes")));
             }
-            String lastUpdate = property.getAsString("last_update");
-            System.out.println("ly " + lastUpdate);
-            // Chercher la station si elle existe pour la mettre à jour sinon la créer
-            // Insérer la nouvelle station ou la mettre à jour dans Fuseki
+            station.setLastUpdate(property.getAsString("last_update"));
+
+            if(stationExist){
+                MainController.getStations().set(index, station);
+            } else {
+                MainController.getStations().add(station);
+            }
         }
     }
 
     private static void parseRennesObject(JSONObject rennesObject) {
-        System.out.println("Parse Rennes");
-        /*String lastUpdate = lyonObject.get("last_updated").toString();
-        JSONObject data = (JSONObject) lyonObject.get("data");
-        JSONArray stations = (JSONArray) data.get("stations");
-        for (int i = 0; i < stations.size(); i++) {
-            JSONObject station = (JSONObject) stations.get(i);
-            String stationId = station.get("station_id").toString();
-            String name = station.get("name").toString();
-            Double lat = Double.parseDouble(station.getAsString("lat").toString());
-            Double lng = Double.parseDouble(station.getAsString("lon").toString());
-            Integer bikeStand = Integer.parseInt(station.getAsString("capacity").toString());
-            // Chercher la station si elle existe pour la mettre à jour sinon la créer
-            // Insérer la nouvelle station ou la mettre à jour dans Fuseki
-        }*/
+        stationExist = false;
+        JSONArray records = (JSONArray) rennesObject.get("records");
+        for (int i = 0; i < records.size(); i++) {
+            JSONObject record = (JSONObject) records.get(i);
+            JSONObject fields = (JSONObject) record.get("fields");
+            String stationId = fields.getAsString("idstation");
+
+            City rennes = getCity("Rennes");
+            Station station = getStation(rennes, stationId);
+            
+            if(!stationExist){
+                station = new Station();
+                station.setCity(rennes);
+                station.setId(stationId);
+            }
+            String status = fields.getAsString("etat");
+            switch (status) {
+                case "En fonctionnement":
+                    station.setStatus(StatusStation.OPEN);
+                    break;
+                default:
+                    station.setStatus(StatusStation.CLOSED);
+            }
+            station.setLastUpdate(fields.get("lastupdate").toString());
+            if (!fields.getAsString("nombrevelosdisponibles").equals("")) {
+                station.setAvailableBike(Integer.parseInt(fields.getAsString("nombrevelosdisponibles")));
+            }
+            if (!fields.getAsString("nombreemplacementsdisponibles").equals("")) {
+                station.setAvailableBikeStand(Integer.parseInt(fields.getAsString("nombreemplacementsdisponibles")));
+            }
+            station.setName(fields.getAsString("nom"));
+            if (!fields.getAsString("nombreemplacementsactuels").equals("")) {
+                station.setBikeStand(Integer.parseInt(fields.getAsString("nombreemplacementsactuels")));
+            }
+            JSONArray coordonnees = (JSONArray) fields.get("coordonnees");
+            station.setLatitude(Double.parseDouble(coordonnees.get(0).toString()));
+            station.setLongitude(Double.parseDouble(coordonnees.get(1).toString()));
+
+            if(stationExist){
+                MainController.getStations().set(index, station);
+            } else {
+                MainController.getStations().add(station);
+            }
+        }
     }
 
     private static void parseSaintEtienneObject(JSONObject saintEtienneObject) {
@@ -146,17 +230,30 @@ public class JSONController {
         for (int i = 0; i < stations.size(); i++) {
             JSONObject station = (JSONObject) stations.get(i);
             String stationId = station.getAsString("station_id");
-            String name = station.getAsString("name");
+            
+            City saintEtienne = getCity("Saint-Etienne");
+            Station stationSaintEtienne = getStation(saintEtienne, stationId);
+            
+            if(!stationExist){
+                stationSaintEtienne = new Station();
+                stationSaintEtienne.setCity(saintEtienne);
+                stationSaintEtienne.setId(stationId);
+            }
+            stationSaintEtienne.setLastUpdate(lastUpdate);
+            stationSaintEtienne.setName(station.getAsString("name"));
             if (!station.getAsString("lat").equals("") && !station.getAsString("lon").equals("")) {
-                Double lat = Double.parseDouble(station.getAsString("lat"));
-                Double lng = Double.parseDouble(station.getAsString("lon"));
+                stationSaintEtienne.setLatitude(Double.parseDouble(station.getAsString("lat")));
+                stationSaintEtienne.setLongitude(Double.parseDouble(station.getAsString("lon")));
             }
             if (!station.getAsString("capacity").equals("")) {
-                Integer bikeStand = Integer.parseInt(station.getAsString("capacity"));
+                stationSaintEtienne.setBikeStand(Integer.parseInt(station.getAsString("capacity")));
             }
-            System.out.println("st " + stationId);
-            // Chercher la station si elle existe pour la mettre à jour sinon la créer
-            // Insérer la nouvelle station ou la mettre à jour dans Fuseki
+
+            if(stationExist){
+                MainController.getStations().set(index, stationSaintEtienne);
+            } else {
+                MainController.getStations().add(stationSaintEtienne);
+            }
         }
     }
 
