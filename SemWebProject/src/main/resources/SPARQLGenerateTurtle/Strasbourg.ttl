@@ -3,6 +3,7 @@
 @prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
 @prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
 @prefix ex:    <http://example.org/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix ite:   <http://w3id.org/sparql-generate/iter/> .
 @prefix sosa:  <http://www.w3.org/ns/sosa/> .
@@ -12,166 +13,166 @@
         rdfs:label      "115 Hoenheim Gare" ;
         ex:bike_stands  "16" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.628353" ;
-        geo:lng         "7.760103" ;
+        geo:lat         "48.628353"^^xsd:double ;
+        geo:lng         "7.760103"^^xsd:double ;
         wdp:P669        "115 Hoenheim Gare" .
 
 <ex:station_124>  a     sosa:FeatureOfInterest ;
         rdfs:label      "124 Auberge de jeunesse" ;
         ex:bike_stands  "16" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.568644" ;
-        geo:lng         "7.795621" ;
+        geo:lat         "48.568644"^^xsd:double ;
+        geo:lng         "7.795621"^^xsd:double ;
         wdp:P669        "124 Auberge de jeunesse" .
 
 <ex:station_105>  a     sosa:FeatureOfInterest ;
         rdfs:label      "105 Rotonde" ;
         ex:bike_stands  "32" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.591639" ;
-        geo:lng         "7.725089" ;
+        geo:lat         "48.591639"^^xsd:double ;
+        geo:lng         "7.725089"^^xsd:double ;
         wdp:P669        "105 Rotonde" .
 
 <ex:station_114>  a     sosa:FeatureOfInterest ;
         rdfs:label      "114 Parking Austerlitz" ;
         ex:bike_stands  "30" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.578005" ;
-        geo:lng         "7.751863" ;
+        geo:lat         "48.578005"^^xsd:double ;
+        geo:lng         "7.751863"^^xsd:double ;
         wdp:P669        "114 Parking Austerlitz" .
 
 <ex:station_123>  a     sosa:FeatureOfInterest ;
         rdfs:label      "123 Koenigshoffen" ;
         ex:bike_stands  "26" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.579100" ;
-        geo:lng         "7.713481" ;
+        geo:lat         "48.579100"^^xsd:double ;
+        geo:lng         "7.713481"^^xsd:double ;
         wdp:P669        "123 Koenigshoffen" .
 
 <ex:station_113>  a     sosa:FeatureOfInterest ;
         rdfs:label      "113 Parking Broglie" ;
         ex:bike_stands  "30" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.585415" ;
-        geo:lng         "7.749395" ;
+        geo:lat         "48.585415"^^xsd:double ;
+        geo:lng         "7.749395"^^xsd:double ;
         wdp:P669        "113 Parking Broglie" .
 
 <ex:station_122>  a     sosa:FeatureOfInterest ;
         rdfs:label      "122 Schiltigheim Mairie" ;
         ex:bike_stands  "16" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.606759" ;
-        geo:lng         "7.749183" ;
+        geo:lat         "48.606759"^^xsd:double ;
+        geo:lng         "7.749183"^^xsd:double ;
         wdp:P669        "122 Schiltigheim Mairie" .
 
 <ex:station_103>  a     sosa:FeatureOfInterest ;
         rdfs:label      "103 Gare de Strasbourg" ;
         ex:bike_stands  "31" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.585082" ;
-        geo:lng         "7.735024" ;
+        geo:lat         "48.585082"^^xsd:double ;
+        geo:lng         "7.735024"^^xsd:double ;
         wdp:P669        "103 Gare de Strasbourg" .
 
 <ex:station_109>  a     sosa:FeatureOfInterest ;
         rdfs:label      "109 Place Arnold" ;
         ex:bike_stands  "28" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.584504" ;
-        geo:lng         "7.768772" ;
+        geo:lat         "48.584504"^^xsd:double ;
+        geo:lng         "7.768772"^^xsd:double ;
         wdp:P669        "109 Place Arnold" .
 
 <ex:station_112>  a     sosa:FeatureOfInterest ;
         rdfs:label      "112 Hohwart" ;
         ex:bike_stands  "10" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.549190" ;
-        geo:lng         "7.740754" ;
+        geo:lat         "48.549190"^^xsd:double ;
+        geo:lng         "7.740754"^^xsd:double ;
         wdp:P669        "112 Hohwart" .
 
 <ex:station_127>  a     sosa:FeatureOfInterest ;
-        rdfs:label      "127 Ostwald Hï¿½tel de Ville" ;
+        rdfs:label      "127 Ostwald Hétel de Ville" ;
         ex:bike_stands  "16" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.551032" ;
-        geo:lng         "7.711200" ;
-        wdp:P669        "127 Ostwald Hï¿½tel de Ville" .
+        geo:lat         "48.551032"^^xsd:double ;
+        geo:lng         "7.711200"^^xsd:double ;
+        wdp:P669        "127 Ostwald Hétel de Ville" .
 
 <ex:station_102>  a     sosa:FeatureOfInterest ;
         rdfs:label      "102 Centre 2" ;
         ex:bike_stands  "20" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.578462" ;
-        geo:lng         "7.749776" ;
+        geo:lat         "48.578462"^^xsd:double ;
+        geo:lng         "7.749776"^^xsd:double ;
         wdp:P669        "102 Centre 2" .
 
 <ex:station_108>  a     sosa:FeatureOfInterest ;
         rdfs:label      "108 Gare Nord" ;
         ex:bike_stands  "32" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.585678" ;
-        geo:lng         "7.733542" ;
+        geo:lat         "48.585678"^^xsd:double ;
+        geo:lng         "7.733542"^^xsd:double ;
         wdp:P669        "108 Gare Nord" .
 
 <ex:station_111>  a     sosa:FeatureOfInterest ;
         rdfs:label      "111 Campus d'Illkirch" ;
         ex:bike_stands  "30" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.529616" ;
-        geo:lng         "7.734226" ;
+        geo:lat         "48.529616"^^xsd:double ;
+        geo:lng         "7.734226"^^xsd:double ;
         wdp:P669        "111 Campus d'Illkirch" .
 
 <ex:station_126>  a     sosa:FeatureOfInterest ;
-        rdfs:label      "126 Espace Europï¿½en de l'Entreprise" ;
+        rdfs:label      "126 Espace Européen de l'Entreprise" ;
         ex:bike_stands  "16" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.612597" ;
-        geo:lng         "7.711630" ;
-        wdp:P669        "126 Espace Europï¿½en de l'Entreprise" .
+        geo:lat         "48.612597"^^xsd:double ;
+        geo:lng         "7.711630"^^xsd:double ;
+        wdp:P669        "126 Espace Européen de l'Entreprise" .
 
 <ex:station_101>  a     sosa:FeatureOfInterest ;
         rdfs:label      "101 Centre" ;
         ex:bike_stands  "32" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.578462" ;
-        geo:lng         "7.749776" ;
+        geo:lat         "48.578462"^^xsd:double ;
+        geo:lng         "7.749776"^^xsd:double ;
         wdp:P669        "101 Centre" .
 
 <ex:station_107>  a     sosa:FeatureOfInterest ;
-        rdfs:label      "107 Universitï¿½" ;
+        rdfs:label      "107 Université" ;
         ex:bike_stands  "32" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.582023" ;
-        geo:lng         "7.766771" ;
-        wdp:P669        "107 Universitï¿½" .
+        geo:lat         "48.582023"^^xsd:double ;
+        geo:lng         "7.766771"^^xsd:double ;
+        wdp:P669        "107 Université" .
 
 <ex:station_110>  a     sosa:FeatureOfInterest ;
         rdfs:label      "110 Robertsau Boecklin" ;
         ex:bike_stands  "32" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.598096" ;
-        geo:lng         "7.777902" ;
+        geo:lat         "48.598096"^^xsd:double ;
+        geo:lng         "7.777902"^^xsd:double ;
         wdp:P669        "110 Robertsau Boecklin" .
 
 <ex:station_116>  a     sosa:FeatureOfInterest ;
         rdfs:label      "116 Place Islande" ;
         ex:bike_stands  "16" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.580314" ;
-        geo:lng         "7.776203" ;
+        geo:lat         "48.580314"^^xsd:double ;
+        geo:lng         "7.776203"^^xsd:double ;
         wdp:P669        "116 Place Islande" .
 
 <ex:station_125>  a     sosa:FeatureOfInterest ;
-        rdfs:label      "125 Place du Marchï¿½ Neudorf" ;
+        rdfs:label      "125 Place du Marché Neudorf" ;
         ex:bike_stands  "32" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.565864" ;
-        geo:lng         "7.759242" ;
-        wdp:P669        "125 Place du Marchï¿½ Neudorf" .
+        geo:lat         "48.565864"^^xsd:double ;
+        geo:lng         "7.759242"^^xsd:double ;
+        wdp:P669        "125 Place du Marché Neudorf" .
 
 <ex:station_106>  a     sosa:FeatureOfInterest ;
         rdfs:label      "106 Gare Sud" ;
         ex:bike_stands  "32" ;
         ex:city         "Strasbourg" ;
-        geo:lat         "48.584209" ;
-        geo:lng         "7.734519" ;
+        geo:lat         "48.584209"^^xsd:double ;
+        geo:lng         "7.734519"^^xsd:double ;
         wdp:P669        "106 Gare Sud" .

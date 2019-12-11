@@ -3,97 +3,78 @@
 @prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
 @prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
 @prefix ex:    <http://example.org/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix ite:   <http://w3id.org/sparql-generate/iter/> .
 @prefix sosa:  <http://www.w3.org/ns/sosa/> .
 @prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
 
-<ex:station_5581>  a              sosa:FeatureOfInterest ;
-        rdfs:label                "Turmel" ;
-        ex:available_bike_stands  10 ;
-        ex:available_bikes        6 ;
-        ex:bike_stands            16 ;
-        ex:city                   "Rennes" ;
-        ex:last_update            "2019-12-09T22:45:07+00:00" ;
-        ex:status                 "En fonctionnement" .
+<ex:station_5581>  a    sosa:FeatureOfInterest ;
+        rdfs:label      "Turmel" ;
+        ex:bike_stands  16 ;
+        ex:city         "Rennes" ;
+        geo:lat         48.122147e0 ;
+        geo:lng         -1.650808e0 .
 
-<ex:station_5538>  a              sosa:FeatureOfInterest ;
-        rdfs:label                "Marbeuf" ;
-        ex:available_bike_stands  4 ;
-        ex:available_bikes        16 ;
-        ex:bike_stands            20 ;
-        ex:city                   "Rennes" ;
-        ex:last_update            "2019-12-09T22:45:07+00:00" ;
-        ex:status                 "En fonctionnement" .
+<ex:station_5538>  a    sosa:FeatureOfInterest ;
+        rdfs:label      "Marbeuf" ;
+        ex:bike_stands  20 ;
+        ex:city         "Rennes" ;
+        geo:lat         48.111749e0 ;
+        geo:lng         -1.702077e0 .
 
-<ex:station_5516>  a              sosa:FeatureOfInterest ;
-        rdfs:label                "Champs Libres" ;
-        ex:available_bike_stands  9 ;
-        ex:available_bikes        14 ;
-        ex:bike_stands            23 ;
-        ex:city                   "Rennes" ;
-        ex:last_update            "2019-12-09T22:45:07+00:00" ;
-        ex:status                 "En fonctionnement" .
+<ex:station_5516>  a    sosa:FeatureOfInterest ;
+        rdfs:label      "Champs Libres" ;
+        ex:bike_stands  24 ;
+        ex:city         "Rennes" ;
+        geo:lat         48.105537e0 ;
+        geo:lng         -1.674328e0 .
 
-<ex:station_5578>  a              sosa:FeatureOfInterest ;
-        rdfs:label                "Gros-Chêne" ;
-        ex:available_bike_stands  4 ;
-        ex:available_bikes        14 ;
-        ex:bike_stands            18 ;
-        ex:city                   "Rennes" ;
-        ex:last_update            "2019-12-09T22:45:07+00:00" ;
-        ex:status                 "En fonctionnement" .
+<ex:station_5578>  a    sosa:FeatureOfInterest ;
+        rdfs:label      "Gros-Chêne" ;
+        ex:bike_stands  18 ;
+        ex:city         "Rennes" ;
+        geo:lat         48.126795e0 ;
+        geo:lng         -1.665101e0 .
 
-<ex:station_5534>  a              sosa:FeatureOfInterest ;
-        rdfs:label                "Brest - Verdun" ;
-        ex:available_bike_stands  11 ;
-        ex:available_bikes        13 ;
-        ex:bike_stands            24 ;
-        ex:city                   "Rennes" ;
-        ex:last_update            "2019-12-09T22:45:07+00:00" ;
-        ex:status                 "En fonctionnement" .
+<ex:station_5534>  a    sosa:FeatureOfInterest ;
+        rdfs:label      "Brest - Verdun" ;
+        ex:bike_stands  24 ;
+        ex:city         "Rennes" ;
+        geo:lat         48.113009e0 ;
+        geo:lng         -1.693264e0 .
 
-<ex:station_5582>  a              sosa:FeatureOfInterest ;
-        rdfs:label                "La Poterie" ;
-        ex:available_bike_stands  17 ;
-        ex:available_bikes        11 ;
-        ex:bike_stands            28 ;
-        ex:city                   "Rennes" ;
-        ex:last_update            "2019-12-09T22:45:07+00:00" ;
-        ex:status                 "En fonctionnement" .
+<ex:station_5582>  a    sosa:FeatureOfInterest ;
+        rdfs:label      "La Poterie" ;
+        ex:bike_stands  28 ;
+        ex:city         "Rennes" ;
+        geo:lat         48.087282e0 ;
+        geo:lng         -1.644121e0 .
 
-<ex:station_5580>  a              sosa:FeatureOfInterest ;
-        rdfs:label                "Painlevé" ;
-        ex:available_bike_stands  7 ;
-        ex:available_bikes        11 ;
-        ex:bike_stands            18 ;
-        ex:city                   "Rennes" ;
-        ex:last_update            "2019-12-09T22:45:07+00:00" ;
-        ex:status                 "En fonctionnement" .
+<ex:station_5580>  a    sosa:FeatureOfInterest ;
+        rdfs:label      "Painlevé" ;
+        ex:bike_stands  18 ;
+        ex:city         "Rennes" ;
+        geo:lat         48.122994e0 ;
+        geo:lng         -1.660547e0 .
 
-<ex:station_5521>  a              sosa:FeatureOfInterest ;
-        rdfs:label                "La Criée" ;
-        ex:available_bike_stands  14 ;
-        ex:available_bikes        10 ;
-        ex:bike_stands            24 ;
-        ex:city                   "Rennes" ;
-        ex:last_update            "2019-12-09T22:45:07+00:00" ;
-        ex:status                 "En fonctionnement" .
+<ex:station_5521>  a    sosa:FeatureOfInterest ;
+        rdfs:label      "La Criée" ;
+        ex:bike_stands  24 ;
+        ex:city         "Rennes" ;
+        geo:lat         48.107626e0 ;
+        geo:lng         -1.680085e0 .
 
-<ex:station_5510>  a              sosa:FeatureOfInterest ;
-        rdfs:label                "Musée Beaux-Arts" ;
-        ex:available_bike_stands  9 ;
-        ex:available_bikes        7 ;
-        ex:bike_stands            16 ;
-        ex:city                   "Rennes" ;
-        ex:last_update            "2019-12-09T22:45:07+00:00" ;
-        ex:status                 "En fonctionnement" .
+<ex:station_5510>  a    sosa:FeatureOfInterest ;
+        rdfs:label      "Musée Beaux-Arts" ;
+        ex:bike_stands  16 ;
+        ex:city         "Rennes" ;
+        geo:lat         48.109601e0 ;
+        geo:lng         -1.67408e0 .
 
-<ex:station_5546>  a              sosa:FeatureOfInterest ;
-        rdfs:label                "Plaine de Baud" ;
-        ex:available_bike_stands  21 ;
-        ex:available_bikes        3 ;
-        ex:bike_stands            24 ;
-        ex:city                   "Rennes" ;
-        ex:last_update            "2019-12-09T22:45:07+00:00" ;
-        ex:status                 "En fonctionnement" .
+<ex:station_5546>  a    sosa:FeatureOfInterest ;
+        rdfs:label      "Plaine de Baud" ;
+        ex:bike_stands  24 ;
+        ex:city         "Rennes" ;
+        geo:lat         48.112461e0 ;
+        geo:lng         -1.643674e0 .

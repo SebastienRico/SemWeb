@@ -8,6 +8,7 @@ import java.util.List;
 import org.apache.jena.query.QueryExecution;
 import org.apache.jena.query.QuerySolution;
 import org.apache.jena.query.ResultSet;
+import org.apache.jena.rdf.model.Literal;
 
 public class StationDAO {
 
@@ -17,11 +18,8 @@ public class StationDAO {
     private static final String LONGITUDE = "http://www.w3.org/2003/01/geo/wgs84_pos#lng";
     private static final String CITY = "http://example.org/city";
     private static final String EXEMPLE = "http://example.org/";
-    private static final String AVAILABLE_BIKE_STANDS = "http://example.org/available_bike_stands";
-    private static final String AVAILABLE_BIKES = "http://example.org/available_bikes";
     private static final String BIKE_STANDS = "http://example.org/bike_stands";
     private static final String LAST_UPDATE = "http://example.org/last_update";
-    private static final String STATUS = "http://example.org/status";
 
     public static List<Station> getAllStationByCityName(String cityName) {
         Boolean isStation = false;
@@ -58,16 +56,16 @@ public class StationDAO {
                     case ADDRESS:
                         station.setAddress(qs.get("o").toString());
                         break;
-                    case AVAILABLE_BIKE_STANDS:
+                    //case AVAILABLE_BIKE_STANDS:
                         /*if (!"".equals(qs.get("o").toString())) {
                             station.setAvailableBikeStand(Integer.parseInt(qs.get("o").toString()));
                         }*/
-                        break;
-                    case AVAILABLE_BIKES:
+                        //break;
+                    //case AVAILABLE_BIKES:
                         /*if (!"".equals(qs.get("o").toString())) {
                             station.setAvailableBike(Integer.parseInt(qs.get("o").toString()));
                         }*/
-                        break;
+                        //break;
                     case BIKE_STANDS:
                         /*if (!"".equals(qs.get("o").toString())) {
                             station.setBikeStand(Integer.parseInt(qs.get("o").toString()));
@@ -76,14 +74,14 @@ public class StationDAO {
                     case LAST_UPDATE:
                         station.setLastUpdate(qs.get("o").toString());
                         break;
-                    case STATUS:
+                    /*case STATUS:
                         if (qs.get("o").toString().equals("open")) {
                             station.setStatus(StatusStation.OPEN);
                         } else {
                             station.setStatus(StatusStation.CLOSED);
                         }
 
-                        break;
+                        break;*/
                     case LATITUDE:
                         if (!qs.get("o").toString().contains("^^")) {
                             station.setLatitude(Double.parseDouble(qs.get("o").toString()));
@@ -142,36 +140,36 @@ public class StationDAO {
                     case ADDRESS:
                         station.setAddress(qs.get("o").toString());
                         break;
-                    case AVAILABLE_BIKE_STANDS:
-                        station.setAvailableBikeStand(Integer.parseInt(qs.get("o").toString()));
-                        break;
-                    case AVAILABLE_BIKES:
-                        station.setAvailableBike(Integer.parseInt(qs.get("o").toString()));
-                        break;
                     case BIKE_STANDS:
-                        station.setBikeStand(Integer.parseInt(qs.get("o").toString()));
+                        String bikeStand = qs.get("o").toString();
+                        if (!"".equals(qs.get("o").toString())) {
+                            if (qs.get("o").toString().contains("^^")) {
+                                String[] splitbikestand = bikeStand.split("\\^");
+                                bikeStand = splitbikestand[0];
+                            }
+                            station.setBikeStand(Integer.parseInt(bikeStand));
+                        }
                         break;
                     case LAST_UPDATE:
                         station.setLastUpdate(qs.get("o").toString());
                         break;
-                    case STATUS:
-                        if (qs.get("o").toString().equals("open")) {
-                            station.setStatus(StatusStation.OPEN);
-                        } else {
-                            station.setStatus(StatusStation.CLOSED);
-                        }
-
-                        break;
                     case LATITUDE:
-                        if (!qs.get("o").toString().contains("^^")) {
-                            station.setLatitude(Double.parseDouble(qs.get("o").toString()));
+                        String latString = qs.get("o").toString();
+                        if (latString.contains("^^")) {
+                            String[] splitlat = latString.split("\\^");
+                            latString = splitlat[0];
                         }
+                        station.setLatitude(Double.parseDouble(latString));
                         break;
                     case LONGITUDE:
-                        if (!qs.get("o").toString().contains("^^")) {
-                            station.setLongitude(Double.parseDouble(qs.get("o").toString()));
+                        String lngString = qs.get("o").toString();
+                        if (lngString.contains("^^")) {
+                            String[] splitlng = lngString.split("\\^");
+                            lngString = splitlng[0];
                         }
+                        station.setLongitude(Double.parseDouble(lngString));
                         break;
+
                     case CITY:
                         station.getCity().setName(qs.get("o").toString());
                         break;
@@ -189,11 +187,37 @@ public class StationDAO {
         if (!JenaFusekiConnexion.getConnexion().isClosed()) {
             QueryExecution qExec = JenaFusekiConnexion
                     .getConnexion()
-                    .query( "SELECT DISTINCT ?s "
+                    .query("SELECT DISTINCT ?s "
                             + "WHERE { "
                             + "?s ?p ?o . "
                             + "FILTER (regex(lcase(?o), lcase(\"" + searchString + "\")))"
                             + "}");
+            ResultSet rs = qExec.execSelect();
+            while (rs.hasNext()) {
+                QuerySolution qs = rs.next();
+                Station station = getStationById(qs.get("s").toString());
+                stations.add(station);
+            }
+            qExec.close();
+        }
+        return stations;
+    }
+
+    public static List<Station> findStationNearMe(Double lat, Double lng) {
+        List<Station> stations = new ArrayList<>();
+        if (!JenaFusekiConnexion.getConnexion().isClosed()) {
+            QueryExecution qExec = JenaFusekiConnexion
+                    .getConnexion()
+                    .query("PREFIX ex: <http://example.org/>"
+                            + "PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>"
+                            + "PREFIX math: <http://www.w3.org/2005/xpath-functions/math#>"
+                            + "SELECT DISTINCT ?s "
+                            + "WHERE {	"
+                            + "?s geo:lat ?lat ."
+                            + "?s geo:lng ?lg .  "
+                            + "  BIND (math:acos(math:cos(" + lat + ")*math:cos(?lat)* math:cos(" + lng + " - ?lg) + math:sin(" + lat + ")*math:sin(?lat)) AS ?distance)}"
+                            + "ORDER BY (?distance)"
+                            + "LIMIT 10");
             ResultSet rs = qExec.execSelect();
             while (rs.hasNext()) {
                 QuerySolution qs = rs.next();

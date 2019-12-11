@@ -35,7 +35,7 @@ public class MainController {
         MainController.stations = stations;
     }
 
-    @RequestMapping(value = {"/", "/cities"})
+    @RequestMapping(value = "/")
     public String goToTownsPage(Model m) {
         cities = CityDAO.getAllCity();
         m.addAttribute("cities", cities);
@@ -47,6 +47,8 @@ public class MainController {
         stations = new ArrayList<>();
         stations = StationDAO.getAllStationByCityName(cityName);
         m.addAttribute("stations", stations);
+        m.addAttribute("cityName", cityName);
+
         return "/stations.html";
     }
 
@@ -57,10 +59,19 @@ public class MainController {
         return "/stationDetails.html";
     }
 
-    @RequestMapping(method = RequestMethod.POST, path = "/search")
-    public String search(Model m,  @RequestParam(value = "searchString") String searchString) {
+    public String search(Model m, @RequestParam(value = "searchString") String searchString) {
         stations = new ArrayList<>();
         stations = StationDAO.findStation(searchString);
+        m.addAttribute("stations", stations);
+        return "/stations.html";
+    }
+
+    @RequestMapping(method = RequestMethod.POST, path = "/searchStationNearMe")
+    public String searchStationNearMe(Model m) {
+        Double lat = 45.453254d;
+        Double lng = 4.390432d;
+        List<Station> stations = new ArrayList<>();
+        stations = StationDAO.findStationNearMe(lat, lng);
         m.addAttribute("stations", stations);
         return "/stations.html";
     }
