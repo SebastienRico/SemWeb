@@ -1,14 +1,13 @@
 package com.semweb.DAO;
 
 import com.semweb.Controller.JenaFusekiConnexion;
+import com.semweb.Controller.MainController;
 import com.semweb.Model.Station;
-import com.semweb.Model.StatusStation;
 import java.util.ArrayList;
 import java.util.List;
 import org.apache.jena.query.QueryExecution;
 import org.apache.jena.query.QuerySolution;
 import org.apache.jena.query.ResultSet;
-import org.apache.jena.rdf.model.Literal;
 
 public class StationDAO {
 
@@ -56,46 +55,6 @@ public class StationDAO {
                     case ADDRESS:
                         station.setAddress(qs.get("o").toString());
                         break;
-                    //case AVAILABLE_BIKE_STANDS:
-                        /*if (!"".equals(qs.get("o").toString())) {
-                            station.setAvailableBikeStand(Integer.parseInt(qs.get("o").toString()));
-                        }*/
-                        //break;
-                    //case AVAILABLE_BIKES:
-                        /*if (!"".equals(qs.get("o").toString())) {
-                            station.setAvailableBike(Integer.parseInt(qs.get("o").toString()));
-                        }*/
-                        //break;
-                    case BIKE_STANDS:
-                        /*if (!"".equals(qs.get("o").toString())) {
-                            station.setBikeStand(Integer.parseInt(qs.get("o").toString()));
-                        }*/
-                        break;
-                    case LAST_UPDATE:
-                        station.setLastUpdate(qs.get("o").toString());
-                        break;
-                    /*case STATUS:
-                        if (qs.get("o").toString().equals("open")) {
-                            station.setStatus(StatusStation.OPEN);
-                        } else {
-                            station.setStatus(StatusStation.CLOSED);
-                        }
-
-                        break;*/
-                    case LATITUDE:
-                        if (!qs.get("o").toString().contains("^^")) {
-                            station.setLatitude(Double.parseDouble(qs.get("o").toString()));
-                        }
-                        break;
-                    case LONGITUDE:
-                        if (!qs.get("o").toString().contains("^^")) {
-                            station.setLongitude(Double.parseDouble(qs.get("o").toString()));
-                        }
-                        break;
-                    /*case COORDINATES:
-                        String[] coordinates = qs.get("o").toString().split(",");
-                        station.setLatitude(Double.parseDouble(coordinates[0]));
-                        station.setLongitude(Double.parseDouble(coordinates[1]));*/
                     case CITY:
                         station.getCity().setName(qs.get("o").toString());
                         break;
@@ -112,6 +71,14 @@ public class StationDAO {
             }*/
         }
         return stations;
+    }
+
+    public static Station getRealTimeStationById(String idStation) {
+        Station thestation = MainController.stations.stream()
+                .filter(station -> idStation.equals(station.getId()))
+                .findAny()
+                .orElse(null);
+        return thestation;
     }
 
     public static Station getStationById(String idStation) {
