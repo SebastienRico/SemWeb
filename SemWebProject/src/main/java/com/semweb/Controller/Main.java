@@ -13,8 +13,9 @@ public class Main {
         SpringApplication.run(Main.class, args);
         //JenaFusekiConnexion.runFusekiServer();
         JenaFusekiConnexion.connectToFuseki();
-        Chrono chrono = new Chrono();
-        chrono.start();
+        //Chrono chrono = new Chrono();
+        //chrono.start();
+        JSONController.parseJSONDatas();
         //JenaFusekiConnexion.closeConnexionToFuseki();
     }
 

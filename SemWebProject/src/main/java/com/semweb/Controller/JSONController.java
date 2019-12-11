@@ -36,6 +36,7 @@ public class JSONController {
             getJSONFilesFromURL(cityDataUrl, cityFileName);
             String[] tmpCity = cityFileName.split("/");
             String city = tmpCity[tmpCity.length - 1];
+            System.out.println("city : " + city);
             parseCity(cityFileName, city);
         });
     }
@@ -71,13 +72,13 @@ public class JSONController {
             Object obj = jsonParser.parse(reader);
             JSONObject jsonObject = (JSONObject) obj;
             switch (city) {
-                case "lyon":
+                case "lyon.json":
                     parseLyonObject(jsonObject);
                     break;
-                case "saintEtienne":
+                case "saintEtienne.json":
                     parseSaintEtienneObject(jsonObject);
                     break;
-                case "rennes":
+                case "rennes.json":
                     parseRennesObject(jsonObject);
                     break;
                 default:
@@ -93,22 +94,36 @@ public class JSONController {
     }
 
     private static void parseLyonObject(JSONObject lyonObject) {
-        /*String lastUpdate = lyonObject.get("last_updated").toString();
-        JSONObject data = (JSONObject) lyonObject.get("data");
-        JSONArray stations = (JSONArray) data.get("stations");
-        for (int i = 0; i < stations.size(); i++) {
-            JSONObject station = (JSONObject) stations.get(i);
-            String stationId = station.get("station_id").toString();
-            String name = station.get("name").toString();
-            Double lat = Double.parseDouble(station.getAsString("lat").toString());
-            Double lng = Double.parseDouble(station.getAsString("lon").toString());
-            Integer bikeStand = Integer.parseInt(station.getAsString("capacity").toString());
+        JSONArray features = (JSONArray) lyonObject.get("features");
+        for (int i = 0; i < features.size(); i++) {
+            JSONObject tmpProperty = (JSONObject) features.get(i);
+            JSONObject property = (JSONObject) tmpProperty.get("properties");
+            String stationId = property.get("number").toString();
+            String name = property.get("name").toString();
+            String address = property.getAsString("address");
+            if (!property.getAsString("lat").equals("") && !property.getAsString("lng").equals("")) {
+                Double lat = Double.parseDouble(property.getAsString("lat"));
+                Double lng = Double.parseDouble(property.getAsString("lng"));
+            }
+            if (!property.getAsString("bike_stands").equals("")) {
+                Integer bikeStand = Integer.parseInt(property.getAsString("bike_stands"));
+            }
+            String status = property.getAsString("status");
+            if (!property.getAsString("available_bike_stands").equals("")) {
+                Integer availableBikeStands = Integer.parseInt(property.getAsString("available_bike_stands"));
+            }
+            if (!property.getAsString("available_bikes").equals("")) {
+            Integer availableBikes = Integer.parseInt(property.getAsString("available_bikes"));
+            }
+            String lastUpdate = property.getAsString("last_update");
+            System.out.println("ly " + lastUpdate);
             // Chercher la station si elle existe pour la mettre à jour sinon la créer
             // Insérer la nouvelle station ou la mettre à jour dans Fuseki
-        }*/
+        }
     }
-    
+
     private static void parseRennesObject(JSONObject rennesObject) {
+        System.out.println("Parse Rennes");
         /*String lastUpdate = lyonObject.get("last_updated").toString();
         JSONObject data = (JSONObject) lyonObject.get("data");
         JSONArray stations = (JSONArray) data.get("stations");
@@ -130,11 +145,16 @@ public class JSONController {
         JSONArray stations = (JSONArray) data.get("stations");
         for (int i = 0; i < stations.size(); i++) {
             JSONObject station = (JSONObject) stations.get(i);
-            String stationId = station.get("station_id").toString();
-            String name = station.get("name").toString();
-            Double lat = Double.parseDouble(station.getAsString("lat").toString());
-            Double lng = Double.parseDouble(station.getAsString("lon").toString());
-            Integer bikeStand = Integer.parseInt(station.getAsString("capacity").toString());
+            String stationId = station.getAsString("station_id");
+            String name = station.getAsString("name");
+            if (!station.getAsString("lat").equals("") && !station.getAsString("lon").equals("")) {
+                Double lat = Double.parseDouble(station.getAsString("lat"));
+                Double lng = Double.parseDouble(station.getAsString("lon"));
+            }
+            if (!station.getAsString("capacity").equals("")) {
+                Integer bikeStand = Integer.parseInt(station.getAsString("capacity"));
+            }
+            System.out.println("st " + stationId);
             // Chercher la station si elle existe pour la mettre à jour sinon la créer
             // Insérer la nouvelle station ou la mettre à jour dans Fuseki
         }
