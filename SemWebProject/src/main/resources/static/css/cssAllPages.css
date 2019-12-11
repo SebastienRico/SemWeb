@@ -20,6 +20,15 @@
     font-size: 30px;
 }
 
+/**********STATIONS*********/
+.card:hover{
+    background-color: #adb5bd;
+}
+
+#linkstationdetail{
+    text-decoration: none;
+}
+
 /**********DETAILS*********/
 #avbike{
     color: green;

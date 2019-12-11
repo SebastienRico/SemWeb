@@ -10,11 +10,11 @@ PREFIX ex: <http://example.org/>
 GENERATE {
   <ex:station_{?number}> a sosa:FeatureOfInterest;
     rdfs:label ?name;
-    ex:city "Lyon";
-    wdp:P669 ?address;
+    ex:city "Saint-Etienne";
+    wdp:P669 ?name;
     geo:lat "{?lat}"^^xsd:double;
     geo:lng "{?lng}"^^xsd:double;
     ex:bike_stands ?bike_stands.
 }
   
-ITERATOR ite:JSONPath(<https://download.data.grandlyon.com/wfs/rdata?SERVICE=WFS&VERSION=1.1.0&outputformat=GEOJSON&request=GetFeature&typename=jcd_jcdecaux.jcdvelov&SRSNAME=urn:ogc:def:crs:EPSG::4171>,"$.features.[*].properties", "$.number", "$.name", "$.address", "$.lat", "$.lng", "$.bike_stands") AS ?feature ?number ?name ?address ?lat ?lng ?bike_stands
+ITERATOR ite:JSONPath(<https://saint-etienne-gbfs.klervi.net/gbfs/en/station_information.json>,"$.data.stations.[*]", "$.station_id", "$.name", "$.address", "$.lat", "$.lon", "$.capacity") AS ?feature ?number ?name ?address ?lat ?lng ?bike_stands
