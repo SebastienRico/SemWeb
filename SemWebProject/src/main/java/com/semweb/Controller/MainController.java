@@ -1,9 +1,21 @@
 package com.semweb.Controller;
 
+import com.fasterxml.jackson.core.JsonParser;
 import com.semweb.DAO.CityDAO;
 import com.semweb.DAO.StationDAO;
 import com.semweb.Model.Station;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.net.URLConnection;
+import java.nio.charset.StandardCharsets;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import net.minidev.json.JSONObject;
+import org.apache.commons.io.IOUtils;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -70,10 +82,23 @@ public class MainController {
 
     @RequestMapping(method = RequestMethod.POST, path = "/searchStationNearMe")
     public String searchStationNearMe(Model m) {
-        Double lat = 45.453254d;
-        Double lng = 4.390432d;
-        stations = StationDAO.findStationNearMe(lat, lng);
-        m.addAttribute("stations", stations);
+        try {
+            String localisationRequest = "https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyCwZmPYggGTCNBFttfX5f6fFuTYdE80b54";
+            String command
+                    = "curl -X GET ipinfo.io/loc";
+            ProcessBuilder processBuilder = new ProcessBuilder(command.split(" "));
+            String coordinates = IOUtils.toString(processBuilder.start().getInputStream(), StandardCharsets.UTF_8);
+            String[] coordinatesSplited = coordinates.split(",");
+            Double lat = Double.parseDouble(coordinatesSplited[0]);
+            Double lng = Double.parseDouble(coordinatesSplited[1]);
+            stations = StationDAO.findStationNearMe(lat, lng);
+            m.addAttribute("stations", stations);
+
+        } catch (MalformedURLException ex) {
+            Logger.getLogger(MainController.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(MainController.class.getName()).log(Level.SEVERE, null, ex);
+        }
         return "/stations.html";
     }
 }
