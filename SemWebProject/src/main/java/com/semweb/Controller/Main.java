@@ -18,7 +18,7 @@ public class Main {
         //Chrono chrono = new Chrono();
         //chrono.start();
         MainController.cities = CityDAO.getAllCity();
-        JSONController.parseJSONDatas();
+        //JSONController.parseJSONDatas();
         //JenaFusekiConnexion.closeConnexionToFuseki();
     }
 

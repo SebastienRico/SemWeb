@@ -28,11 +28,11 @@ public class StationDAO {
         if (!JenaFusekiConnexion.getConnexion().isClosed()) {
             QueryExecution qExec = JenaFusekiConnexion
                     .getConnexion()
-                    .query("PREFIX ex: <" + EXEMPLE + ">"
+                    .query("PREFIX wdp: <https://www.wikidata.org/wiki/Property:> PREFIX city: <http://fr.dbpedia.org/page/>"
                             + "SELECT ?s ?p ?o "
                             + "WHERE { "
                             + "?s ?p ?o ."
-                            + "?s ex:city \"" + cityName + "\" . "
+                            + "?s wdp:P131 city:" + cityName + " . "
                             + "}");
             ResultSet rs = qExec.execSelect();
             while (rs.hasNext()) {
@@ -56,7 +56,9 @@ public class StationDAO {
                         station.setAddress(qs.get("o").toString());
                         break;
                     case CITY:
-                        station.getCity().setName(qs.get("o").toString());
+                        String cityname = qs.get("o").toString();
+                        String[] splitcityname = cityname.split("\\/");
+                        station.getCity().setName(splitcityname[4]);
                         break;
                     default:
                         break;

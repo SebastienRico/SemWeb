@@ -44,7 +44,6 @@ public class MainController {
 
     @RequestMapping(value = "/stations/{cityName}")
     public String goToStationPage(@PathVariable String cityName, Model m) {
-        //J'ai mis une nnouvelle liste pour voir si il y avait conflit et réécriture sur la liste stations statique
         List<Station> stationss = new ArrayList<>();
         stationss= StationDAO.getAllStationByCityName(cityName);
         m.addAttribute("stations", stationss);
@@ -56,11 +55,7 @@ public class MainController {
     @RequestMapping(value = "/station/{idStation}")
     public String goToStationDetailPage(@PathVariable String idStation, Model m) {
         Station station = StationDAO.getStationById(idStation);
-        //Nouvelle méthode pour récup la station qui a les données en temps réel 
-        Station stationRealTime = StationDAO.getRealTimeStationById(idStation);
         m.addAttribute("station", station);
-        //Problème les valeurs sont nulles donc page d'erreur
-        m.addAttribute("stationRT", stationRealTime);
         return "/stationDetails.html";
     }
     
