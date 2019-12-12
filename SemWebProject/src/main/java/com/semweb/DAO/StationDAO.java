@@ -15,7 +15,7 @@ public class StationDAO {
     private static final String ADDRESS = "https://www.wikidata.org/wiki/Property:P669";
     private static final String LATITUDE = "http://www.w3.org/2003/01/geo/wgs84_pos#lat";
     private static final String LONGITUDE = "http://www.w3.org/2003/01/geo/wgs84_pos#lng";
-    private static final String CITY = "http://example.org/city";
+    private static final String CITY = "https://www.wikidata.org/wiki/Property:P131";
     private static final String EXEMPLE = "http://example.org/";
     private static final String BIKE_STANDS = "http://example.org/bike_stands";
     private static final String LAST_UPDATE = "http://example.org/last_update";
@@ -140,10 +140,13 @@ public class StationDAO {
                         break;
 
                     case CITY:
-                        station.getCity().setName(qs.get("o").toString());
+                        String cityname = qs.get("o").toString();
+                        String[] splitcityname = cityname.split("\\/");
+                        station.getCity().setName(splitcityname[4]);
                         break;
                     default:
                         break;
+                        
                 }
             }
             qExec.close();
@@ -197,4 +200,5 @@ public class StationDAO {
         }
         return stations;
     }
+   
 }

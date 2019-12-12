@@ -11,7 +11,7 @@ PREFIX city: <http://fr.dbpedia.org/page/>
 GENERATE {
   <ex:station_{?number}> a sosa:FeatureOfInterest;
     rdfs:label ?name;
-    wdp:P131 city:Saint-Étienne;
+    wdp:P131 city:Saint-Etienne;
     wdp:P669 ?name;
     geo:lat "{?lat}"^^xsd:double;
     geo:lng "{?lng}"^^xsd:double;
