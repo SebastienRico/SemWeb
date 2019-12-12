@@ -45,7 +45,8 @@ public class MainController {
     @RequestMapping(value = "/stations/{cityName}")
     public String goToStationPage(@PathVariable String cityName, Model m) {
         List<Station> stationss = new ArrayList<>();
-        stationss= StationDAO.getAllStationByCityName(cityName);
+        stations = StationDAO.getAllStationByCityName(cityName);
+        JSONController.parseJSONDatas(cityName);
         m.addAttribute("stations", stationss);
         m.addAttribute("cityName", cityName);
 
@@ -61,10 +62,8 @@ public class MainController {
     
     @RequestMapping(method = RequestMethod.POST, path = "/search")
     public String search(Model m, @RequestParam(value = "searchString") String searchString) {
-        //J'ai mis une nnouvelle liste pour voir si il y avait conflit et réécriture sur la liste stations statique
-        List<Station> stationss = new ArrayList<>();
-        stationss = StationDAO.findStation(searchString);
-        m.addAttribute("stations", stationss);
+        stations = StationDAO.findStation(searchString);
+        m.addAttribute("stations", stations);
         return "/stations.html";
     }
 
@@ -72,7 +71,6 @@ public class MainController {
     public String searchStationNearMe(Model m) {
         Double lat = 45.453254d;
         Double lng = 4.390432d;
-        List<Station> stations = new ArrayList<>();
         stations = StationDAO.findStationNearMe(lat, lng);
         m.addAttribute("stations", stations);
         return "/stations.html";
