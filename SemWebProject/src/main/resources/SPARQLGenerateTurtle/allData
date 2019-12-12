@@ -19,7 +19,7 @@ GENERATE {
     ex:bike_stands ?bike_stands.
 }
   
-ITERATOR ite:JSONPath(<https://api.jcdecaux.com/vls/v1/stations?contract={contract_name}&apiKey=b0d471d68f580414dc830cde44ce32d66def361e>,"$[*]", ".number", "$.contract_name", "$.address", "$.position.lat", "$.position.lng", "$.bike_stands") AS ?feature ?number ?contract_name ?address ?lat ?lng ?bike_stands
+ITERATOR ite:JSONPath(<https://api.jcdecaux.com/vls/v1/stations?contract={contract_name}&apiKey=b0d471d68f580414dc830cde44ce32d66def361e>,"$[*]", ".number", "$.contract_name", "$.name", "$.address", "$.position.lat", "$.position.lng", "$.bike_stands") AS ?feature ?number ?contract_name ?name ?address ?lat ?lng ?bike_stands
 WHERE{
   BIND(CONCAT(UCASE(SUBSTR(?contract_name, 1, 1)), SUBSTR(?contract_name, 2))AS ?namec)
 }

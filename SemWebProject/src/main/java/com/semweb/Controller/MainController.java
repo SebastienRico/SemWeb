@@ -66,7 +66,9 @@ public class MainController {
         String url = "";
         Station station = StationDAO.getStationById(idStation);
         if (!station.getCity().equals("Saint-Etienne")) {
-            url = "https://api.jcdecaux.com/vls/v3/stations/" + station.getId() + "?contract=" + station.getCity() + "&apiKey=b0d471d68f580414dc830cde44ce32d66def361e";
+            String[] idsplit = station.getId().split("_");
+            String stationid = idsplit[0];
+            url = "https://api.jcdecaux.com/vls/v3/stations/" + stationid + "?contract=" + station.getCity() + "&apiKey=b0d471d68f580414dc830cde44ce32d66def361e";
         }
         m.addAttribute("station", station);
         m.addAttribute("url", url);

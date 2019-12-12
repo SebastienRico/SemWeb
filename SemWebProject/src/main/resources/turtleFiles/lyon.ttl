@@ -12,6 +12,7 @@
 
 <ex:station_8029_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8029 - ETATS-UNIS / LÉVIGNE" ;
         ex:bike_stands  20 ;
         geo:lat         45.732366e0 ;
         geo:lng         4.865101e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_3086_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3086 - FEUILLAT / LACASSAGNE" ;
         ex:bike_stands  16 ;
         geo:lat         45.749563e0 ;
         geo:lng         4.875934e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_3029_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3029 - PLACE ARISTIDE BRIAND" ;
         ex:bike_stands  38 ;
         geo:lat         45.752967e0 ;
         geo:lng         4.850271e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_8001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8001 - UNIVERSITÉ LYON III" ;
         ex:bike_stands  26 ;
         geo:lat         45.748535e0 ;
         geo:lng         4.861533e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_6044_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6044 - CHARMETTES / BELLECOMBE" ;
         ex:bike_stands  16 ;
         geo:lat         45.766372e0 ;
         geo:lng         4.865058e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_7041_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7041 - DOMER / CHEVREUL" ;
         ex:bike_stands  12 ;
         geo:lat         45.746681e0 ;
         geo:lng         4.844455e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_4002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4002 - MAIRIE DU 4E" ;
         ex:bike_stands  20 ;
         geo:lat         45.774193e0 ;
         geo:lng         4.827743e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_8042_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8042 - FRANCIS DE PRESSENSÉ" ;
         ex:bike_stands  22 ;
         geo:lat         45.731361e0 ;
         geo:lng         4.860139e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_10084_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10084 - DOUA / AVENUE DES ARTS" ;
         ex:bike_stands  30 ;
         geo:lat         45.783533e0 ;
         geo:lng         4.871294e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_10027_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10027 - MAIRIE DE VILLEURBANNE" ;
         ex:bike_stands  26 ;
         geo:lat         45.766861e0 ;
         geo:lng         4.880059e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_7035_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7035 - MARSEILLE / UNIVERSITÉ" ;
         ex:bike_stands  40 ;
         geo:lat         45.750945e0 ;
         geo:lng         4.83927e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_2035_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2035 - CHILDEBERT / RIVIÈRE" ;
         ex:bike_stands  23 ;
         geo:lat         45.759842e0 ;
         geo:lng         4.835776e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_6028_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6028 - RÉCAMIER / TÊTE D'OR" ;
         ex:bike_stands  16 ;
         geo:lat         45.764345e0 ;
         geo:lng         4.853492e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_5050_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5050 - THEATRE ROMAIN" ;
         ex:bike_stands  12 ;
         geo:lat         45.758333e0 ;
         geo:lng         4.821075e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_9043_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9043 - MARIETTON OUEST" ;
         ex:bike_stands  20 ;
         geo:lat         45.776087e0 ;
         geo:lng         4.799725e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_3036_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3036 - FELIX FAURE / VIVIER MERLE" ;
         ex:bike_stands  35 ;
         geo:lat         45.75381e0 ;
         geo:lng         4.859795e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_10118_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10118 - VOYANT / CHAMBORD" ;
         ex:bike_stands  22 ;
         geo:lat         45.767194e0 ;
         geo:lng         4.900597e0 ;
@@ -148,6 +165,7 @@
 
 <ex:station_7001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7001 - PLACE GABRIEL PÉRI" ;
         ex:bike_stands  20 ;
         geo:lat         45.754875e0 ;
         geo:lng         4.843627e0 ;
@@ -156,6 +174,7 @@
 
 <ex:station_2001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2001 - BELLECOUR / RÉPUBLIQUE" ;
         ex:bike_stands  18 ;
         geo:lat         45.758e0 ;
         geo:lng         4.834594e0 ;
@@ -164,6 +183,7 @@
 
 <ex:station_5044_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5044 - CHAMPVERT" ;
         ex:bike_stands  20 ;
         geo:lat         45.7598e0 ;
         geo:lng         4.796561e0 ;
@@ -172,6 +192,7 @@
 
 <ex:station_3087_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3087 - PART-DIEU / GARIBALDI" ;
         ex:bike_stands  20 ;
         geo:lat         45.762768e0 ;
         geo:lng         4.852563e0 ;
@@ -180,6 +201,7 @@
 
 <ex:station_17001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "17001 - ST FONS - ARSENAL" ;
         ex:bike_stands  27 ;
         geo:lat         45.712362e0 ;
         geo:lng         4.855202e0 ;
@@ -188,6 +210,7 @@
 
 <ex:station_12001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "12001 - VAULX - LA SOIE" ;
         ex:bike_stands  25 ;
         geo:lat         45.760908e0 ;
         geo:lng         4.920569e0 ;
@@ -196,6 +219,7 @@
 
 <ex:station_8002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8002- PLACE AMBROISE COURTOIS" ;
         ex:bike_stands  20 ;
         geo:lat         45.745296e0 ;
         geo:lng         4.871604e0 ;
@@ -204,6 +228,7 @@
 
 <ex:station_7052_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7052 - PARC BLANDAN" ;
         ex:bike_stands  25 ;
         geo:lat         45.745939e0 ;
         geo:lng         4.851214e0 ;
@@ -212,6 +237,7 @@
 
 <ex:station_6045_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6045 - BROTTEAUX / VAUBAN" ;
         ex:bike_stands  15 ;
         geo:lat         45.766284e0 ;
         geo:lng         4.856848e0 ;
@@ -220,6 +246,7 @@
 
 <ex:station_4003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4003 - PLACE COMMANDANT  ARNAUD" ;
         ex:bike_stands  17 ;
         geo:lat         45.779731e0 ;
         geo:lng         4.834708e0 ;
@@ -228,6 +255,7 @@
 
 <ex:station_9003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9003 - PLACE VALMY" ;
         ex:bike_stands  16 ;
         geo:lat         45.775679e0 ;
         geo:lng         4.805314e0 ;
@@ -236,6 +264,7 @@
 
 <ex:station_10038_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10038 - CONDORCET" ;
         ex:bike_stands  12 ;
         geo:lat         45.779062e0 ;
         geo:lng         4.866874e0 ;
@@ -244,6 +273,7 @@
 
 <ex:station_8053_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8053 - LUMIERE / TROUILHET" ;
         ex:bike_stands  16 ;
         geo:lat         45.743569e0 ;
         geo:lng         4.870083e0 ;
@@ -252,6 +282,7 @@
 
 <ex:station_3053_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3053 - GAMBETTA / JUSSERAND" ;
         ex:bike_stands  13 ;
         geo:lat         45.751123e0 ;
         geo:lng         4.855604e0 ;
@@ -260,6 +291,7 @@
 
 <ex:station_7046_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7046 - PLACE DE L'ECOLE" ;
         ex:bike_stands  28 ;
         geo:lat         45.730083e0 ;
         geo:lng         4.82781e0 ;
@@ -268,6 +300,7 @@
 
 <ex:station_6039_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6039 - GARIBALDI / BUGEAUD" ;
         ex:bike_stands  20 ;
         geo:lat         45.766708e0 ;
         geo:lng         4.852073e0 ;
@@ -276,6 +309,7 @@
 
 <ex:station_6011_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6011- MAIRIE DU 6E" ;
         ex:bike_stands  23 ;
         geo:lat         45.768395e0 ;
         geo:lng         4.849402e0 ;
@@ -284,6 +318,7 @@
 
 <ex:station_5004_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5004 - SAINT-JEAN" ;
         ex:bike_stands  39 ;
         geo:lat         45.760468e0 ;
         geo:lng         4.826548e0 ;
@@ -292,6 +327,7 @@
 
 <ex:station_10028_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10028 - ECOLE DE MUSIQUE" ;
         ex:bike_stands  24 ;
         geo:lat         45.767467e0 ;
         geo:lng         4.874032e0 ;
@@ -300,6 +336,7 @@
 
 <ex:station_6005_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6005 - PLACE EDGAR QUINET" ;
         ex:bike_stands  20 ;
         geo:lat         45.765811e0 ;
         geo:lng         4.844767e0 ;
@@ -308,6 +345,7 @@
 
 <ex:station_7012_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7012 - PLACE DES PAVILLONS" ;
         ex:bike_stands  13 ;
         geo:lat         45.7295e0 ;
         geo:lng         4.829697e0 ;
@@ -316,6 +354,7 @@
 
 <ex:station_2012_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2012 - GAILLETON" ;
         ex:bike_stands  16 ;
         geo:lat         45.753455e0 ;
         geo:lng         4.833367e0 ;
@@ -324,6 +363,7 @@
 
 <ex:station_5055_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5055 - BUYER / APOLLINAIRE" ;
         ex:bike_stands  22 ;
         geo:lat         45.762013e0 ;
         geo:lng         4.802751e0 ;
@@ -332,6 +372,7 @@
 
 <ex:station_20001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "20001 - OULLINS - GARE" ;
         ex:bike_stands  40 ;
         geo:lat         45.717001e0 ;
         geo:lng         4.814072e0 ;
@@ -340,6 +381,7 @@
 
 <ex:station_1005_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1005 - MEISSONNIER" ;
         ex:bike_stands  16 ;
         geo:lat         45.766073e0 ;
         geo:lng         4.832849e0 ;
@@ -348,6 +390,7 @@
 
 <ex:station_10079_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10079 - ANATOLE FRANCE / BARBUSSE" ;
         ex:bike_stands  20 ;
         geo:lat         45.768127e0 ;
         geo:lng         4.879096e0 ;
@@ -356,6 +399,7 @@
 
 <ex:station_11001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "11001 - CALUIRE - GARE DE CUIRE" ;
         ex:bike_stands  18 ;
         geo:lat         45.785796e0 ;
         geo:lng         4.833733e0 ;
@@ -364,6 +408,7 @@
 
 <ex:station_9020_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9020 - BOURBONNAIS" ;
         ex:bike_stands  12 ;
         geo:lat         45.773468e0 ;
         geo:lng         4.800286e0 ;
@@ -372,6 +417,7 @@
 
 <ex:station_10119_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10119 - VILLEURBANNE SAINT-JEAN" ;
         ex:bike_stands  12 ;
         geo:lat         45.780422e0 ;
         geo:lng         4.904505e0 ;
@@ -380,6 +426,7 @@
 
 <ex:station_3013_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3013 - PLACE ANTOINETTE" ;
         ex:bike_stands  21 ;
         geo:lat         45.753683e0 ;
         geo:lng         4.889285e0 ;
@@ -388,6 +435,7 @@
 
 <ex:station_7006_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7006 - GERLAND" ;
         ex:bike_stands  40 ;
         geo:lat         45.727494e0 ;
         geo:lng         4.831145e0 ;
@@ -396,6 +444,7 @@
 
 <ex:station_2006_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2006 - PLACE DE L'HIPPODROME" ;
         ex:bike_stands  24 ;
         geo:lat         45.745528e0 ;
         geo:lng         4.82359e0 ;
@@ -404,6 +453,7 @@
 
 <ex:station_17002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "17002 - ST FONS - 4 CHEMINS" ;
         ex:bike_stands  11 ;
         geo:lat         45.708561e0 ;
         geo:lng         4.854821e0 ;
@@ -412,6 +462,7 @@
 
 <ex:station_12002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "12002 - VAULX - POUDRETTE / LA SOIE" ;
         ex:bike_stands  20 ;
         geo:lat         45.76438e0 ;
         geo:lng         4.919276e0 ;
@@ -420,6 +471,7 @@
 
 <ex:station_9014_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9014 - QUAI DU COMMERCE" ;
         ex:bike_stands  23 ;
         geo:lat         45.783505e0 ;
         geo:lng         4.811501e0 ;
@@ -428,6 +480,7 @@
 
 <ex:station_4014_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4014 - PHILIPPE DE LASSALLE / PILLEMENT" ;
         ex:bike_stands  13 ;
         geo:lat         45.777431e0 ;
         geo:lng         4.820526e0 ;
@@ -436,6 +489,7 @@
 
 <ex:station_8007_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8007 - FRÈRES LUMIÈRE" ;
         ex:bike_stands  15 ;
         geo:lat         45.745018e0 ;
         geo:lng         4.866424e0 ;
@@ -444,6 +498,7 @@
 
 <ex:station_3007_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3007 - PLACE D'ARSONVAL" ;
         ex:bike_stands  32 ;
         geo:lat         45.743396e0 ;
         geo:lng         4.87897e0 ;
@@ -452,6 +507,7 @@
 
 <ex:station_3100_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3100 - SISLEY / DAUPHINE" ;
         ex:bike_stands  17 ;
         geo:lat         45.752779e0 ;
         geo:lng         4.868748e0 ;
@@ -460,6 +516,7 @@
 
 <ex:station_9004_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9004 - GARE DE VAISE" ;
         ex:bike_stands  22 ;
         geo:lat         45.779786e0 ;
         geo:lng         4.804666e0 ;
@@ -468,6 +525,7 @@
 
 <ex:station_1022_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1022 - PLACE TOLOZAN" ;
         ex:bike_stands  36 ;
         geo:lat         45.769508e0 ;
         geo:lng         4.837495e0 ;
@@ -476,6 +534,7 @@
 
 <ex:station_8054_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8054 - MARTINIÈRE / MONPLAISIR" ;
         ex:bike_stands  20 ;
         geo:lat         45.740865e0 ;
         geo:lng         4.868244e0 ;
@@ -484,6 +543,7 @@
 
 <ex:station_10039_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10039 - BOUVIER" ;
         ex:bike_stands  16 ;
         geo:lat         45.779487e0 ;
         geo:lng         4.891692e0 ;
@@ -492,6 +552,7 @@
 
 <ex:station_10011_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10011 - GRATTE-CIEL" ;
         ex:bike_stands  16 ;
         geo:lat         45.769226e0 ;
         geo:lng         4.880491e0 ;
@@ -500,6 +561,7 @@
 
 <ex:station_33001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "33001 - ALBIGNY - GARE" ;
         ex:bike_stands  18 ;
         geo:lat         45.874978e0 ;
         geo:lng         4.833024e0 ;
@@ -508,6 +570,7 @@
 
 <ex:station_14004_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "14004 - BRON - MAIRIE" ;
         ex:bike_stands  23 ;
         geo:lat         45.73403e0 ;
         geo:lng         4.908777e0 ;
@@ -516,6 +579,7 @@
 
 <ex:station_6012_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6012 - PLACE PUVIS DE CHAVANNES" ;
         ex:bike_stands  10 ;
         geo:lat         45.771794e0 ;
         geo:lng         4.84459e0 ;
@@ -524,6 +588,7 @@
 
 <ex:station_24001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "24001 - ECULLY - MAIRIE" ;
         ex:bike_stands  12 ;
         geo:lat         45.775112e0 ;
         geo:lng         4.778531e0 ;
@@ -532,6 +597,7 @@
 
 <ex:station_5005_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5005 - SAINT-PAUL" ;
         ex:bike_stands  23 ;
         geo:lat         45.766278e0 ;
         geo:lng         4.827425e0 ;
@@ -540,6 +606,7 @@
 
 <ex:station_8020_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8020 - MOULIN A VENT" ;
         ex:bike_stands  22 ;
         geo:lat         45.729714e0 ;
         geo:lng         4.854338e0 ;
@@ -548,6 +615,7 @@
 
 <ex:station_10005_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10005 - 11 NOVEMBRE" ;
         ex:bike_stands  35 ;
         geo:lat         45.779702e0 ;
         geo:lng         4.860029e0 ;
@@ -556,6 +624,7 @@
 
 <ex:station_7013_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7013 - HALLE TONY GARNIER" ;
         ex:bike_stands  20 ;
         geo:lat         45.730786e0 ;
         geo:lng         4.823733e0 ;
@@ -564,6 +633,7 @@
 
 <ex:station_2013_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2013 - CÉLESTINS" ;
         ex:bike_stands  22 ;
         geo:lat         45.759932e0 ;
         geo:lng         4.832111e0 ;
@@ -572,6 +642,7 @@
 
 <ex:station_6006_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6006 - BOULEVARD DES BELGES" ;
         ex:bike_stands  15 ;
         geo:lat         45.773304e0 ;
         geo:lng         4.852001e0 ;
@@ -580,6 +651,7 @@
 
 <ex:station_20002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "20002 - OULLINS - MAIRIE" ;
         ex:bike_stands  18 ;
         geo:lat         45.714039e0 ;
         geo:lng         4.806642e0 ;
@@ -588,6 +660,7 @@
 
 <ex:station_1006_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1006- SUBSISTANCES" ;
         ex:bike_stands  3 ;
         geo:lat         45.780265e0 ;
         geo:lng         4.904767e0 ;
@@ -596,6 +669,7 @@
 
 <ex:station_10102_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10102 - DOUA / GASTON BERGER" ;
         ex:bike_stands  30 ;
         geo:lat         45.781008e0 ;
         geo:lng         4.871219e0 ;
@@ -604,6 +678,7 @@
 
 <ex:station_9049_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9049 - SERGENT BERTHET / GORGE DE LOUP" ;
         ex:bike_stands  16 ;
         geo:lat         45.770136e0 ;
         geo:lng         4.80516e0 ;
@@ -612,6 +687,7 @@
 
 <ex:station_3099_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3099 - PLACE SAINTE ANNE" ;
         ex:bike_stands  18 ;
         geo:lat         45.757042e0 ;
         geo:lng         4.86532e0 ;
@@ -620,6 +696,7 @@
 
 <ex:station_4021_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4021 - TABAREAU" ;
         ex:bike_stands  10 ;
         geo:lat         45.774061e0 ;
         geo:lng         4.82516e0 ;
@@ -628,6 +705,7 @@
 
 <ex:station_10056_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10056 - 11 NOVEMBRE / GASTON BERGER" ;
         ex:bike_stands  35 ;
         geo:lat         45.779066e0 ;
         geo:lng         4.871581e0 ;
@@ -636,6 +714,7 @@
 
 <ex:station_3071_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3071 - BIOPARC" ;
         ex:bike_stands  20 ;
         geo:lat         45.740492e0 ;
         geo:lng         4.888084e0 ;
@@ -644,6 +723,7 @@
 
 <ex:station_7064_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7064 - CROUS" ;
         ex:bike_stands  17 ;
         geo:lat         45.74541e0 ;
         geo:lng         4.847843e0 ;
@@ -652,6 +732,7 @@
 
 <ex:station_7007_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7007 - FARGE / AYASSE" ;
         ex:bike_stands  20 ;
         geo:lat         45.735741e0 ;
         geo:lng         4.827725e0 ;
@@ -660,6 +741,7 @@
 
 <ex:station_2007_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2007 - PATINOIRE CHARLEMAGNE" ;
         ex:bike_stands  37 ;
         geo:lat         45.742617e0 ;
         geo:lng         4.820464e0 ;
@@ -668,6 +750,7 @@
 
 <ex:station_9015_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9015 - SAINT-CYR" ;
         ex:bike_stands  30 ;
         geo:lat         45.782855e0 ;
         geo:lng         4.807288e0 ;
@@ -676,6 +759,7 @@
 
 <ex:station_8008_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8008 - BEAUVISAGE / PRESSENSÉ" ;
         ex:bike_stands  17 ;
         geo:lat         45.727881e0 ;
         geo:lng         4.86355e0 ;
@@ -684,6 +768,7 @@
 
 <ex:station_3008_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3008 - INSTITUT LUMIERE" ;
         ex:bike_stands  18 ;
         geo:lat         45.745828e0 ;
         geo:lng         4.870631e0 ;
@@ -692,6 +777,7 @@
 
 <ex:station_7030_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7030 - QUARTIER GENERAL FRERE" ;
         ex:bike_stands  30 ;
         geo:lat         45.743163e0 ;
         geo:lng         4.834165e0 ;
@@ -700,6 +786,7 @@
 
 <ex:station_2030_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2030 - RÉPUBLIQUE / POULAILLERIE" ;
         ex:bike_stands  7 ;
         geo:lat         45.764079e0 ;
         geo:lng         4.835554e0 ;
@@ -708,6 +795,7 @@
 
 <ex:station_6023_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6023 - QUAI SARRAIL" ;
         ex:bike_stands  14 ;
         geo:lat         45.766821e0 ;
         geo:lng         4.841095e0 ;
@@ -716,6 +804,7 @@
 
 <ex:station_1023_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1023 - CROIX ROUSSE / PERFETTI" ;
         ex:bike_stands  20 ;
         geo:lat         45.772229e0 ;
         geo:lng         4.819389e0 ;
@@ -724,6 +813,7 @@
 
 <ex:station_5016_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5016 - MAIRIE DU 5E" ;
         ex:bike_stands  13 ;
         geo:lat         45.756204e0 ;
         geo:lng         4.802727e0 ;
@@ -732,6 +822,7 @@
 
 <ex:station_9009_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9009 - BERLIOZ / CHALINEL" ;
         ex:bike_stands  15 ;
         geo:lat         45.801192e0 ;
         geo:lng         4.825451e0 ;
@@ -740,6 +831,7 @@
 
 <ex:station_4009_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4009 - JACQUARD / DENFERT-ROCHEREAU" ;
         ex:bike_stands  14 ;
         geo:lat         45.77591e0 ;
         geo:lng         4.825394e0 ;
@@ -748,6 +840,7 @@
 
 <ex:station_8059_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8059 - LAENNEC / PINEL" ;
         ex:bike_stands  15 ;
         geo:lat         45.735375e0 ;
         geo:lng         4.88954e0 ;
@@ -756,6 +849,7 @@
 
 <ex:station_10012_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10012 - ZOLA / FRANCE" ;
         ex:bike_stands  16 ;
         geo:lat         45.767957e0 ;
         geo:lng         4.887232e0 ;
@@ -764,6 +858,7 @@
 
 <ex:station_3031_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3031 - CORNEILLE / SERVIENT" ;
         ex:bike_stands  13 ;
         geo:lat         45.759906e0 ;
         geo:lng         4.844511e0 ;
@@ -772,6 +867,7 @@
 
 <ex:station_7024_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7024 - BANCEL / CHEVREUL" ;
         ex:bike_stands  21 ;
         geo:lat         45.748504e0 ;
         geo:lng         4.840505e0 ;
@@ -780,6 +876,7 @@
 
 <ex:station_2024_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2024 - RÉPUBLIQUE / MAUPIN" ;
         ex:bike_stands  25 ;
         geo:lat         45.758733e0 ;
         geo:lng         4.834136e0 ;
@@ -788,6 +885,7 @@
 
 <ex:station_6017_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6017 - LAFAYETTE / INKERMANN" ;
         ex:bike_stands  30 ;
         geo:lat         45.764062e0 ;
         geo:lng         4.865802e0 ;
@@ -796,6 +894,7 @@
 
 <ex:station_10063_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10063 - PERRIN / JEAN JAURÈS" ;
         ex:bike_stands  34 ;
         geo:lat         45.758399e0 ;
         geo:lng         4.885601e0 ;
@@ -804,6 +903,7 @@
 
 <ex:station_10006_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10006 - CHARPENNES" ;
         ex:bike_stands  46 ;
         geo:lat         45.770225e0 ;
         geo:lng         4.863102e0 ;
@@ -812,6 +912,7 @@
 
 <ex:station_9032_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9032 - PLACE DU PORT MOUTON" ;
         ex:bike_stands  18 ;
         geo:lat         45.773815e0 ;
         geo:lng         4.809566e0 ;
@@ -820,6 +921,7 @@
 
 <ex:station_8025_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8025 - DUMONT / JOUVET" ;
         ex:bike_stands  17 ;
         geo:lat         45.744447e0 ;
         geo:lng         4.860889e0 ;
@@ -828,6 +930,7 @@
 
 <ex:station_7018_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7018 - LYCEE LOUISE LABE" ;
         ex:bike_stands  20 ;
         geo:lat         45.740279e0 ;
         geo:lng         4.832061e0 ;
@@ -836,6 +939,7 @@
 
 <ex:station_10103_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10103 - DOUA / RUE DES SPORTS" ;
         ex:bike_stands  30 ;
         geo:lat         45.784526e0 ;
         geo:lng         4.877482e0 ;
@@ -844,6 +948,7 @@
 
 <ex:station_6040_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6040 - LES HALLES" ;
         ex:bike_stands  15 ;
         geo:lat         45.764013e0 ;
         geo:lng         4.849933e0 ;
@@ -852,6 +957,7 @@
 
 <ex:station_4026_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4026 - BIRMINGHAM" ;
         ex:bike_stands  20 ;
         geo:lat         45.774632e0 ;
         geo:lng         4.813425e0 ;
@@ -860,6 +966,7 @@
 
 <ex:station_2041_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2041 - SALA / CHARITÉ" ;
         ex:bike_stands  21 ;
         geo:lat         45.754468e0 ;
         geo:lng         4.833041e0 ;
@@ -868,6 +975,7 @@
 
 <ex:station_1034_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1034 - CARMÉLITES" ;
         ex:bike_stands  16 ;
         geo:lat         45.770006e0 ;
         geo:lng         4.829274e0 ;
@@ -876,6 +984,7 @@
 
 <ex:station_8009_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8009 - JEAN XXIII / MERMOZ" ;
         ex:bike_stands  20 ;
         geo:lat         45.73648e0 ;
         geo:lng         4.869789e0 ;
@@ -884,6 +993,7 @@
 
 <ex:station_10080_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10080 - VAILLANT / PERRONCEL" ;
         ex:bike_stands  17 ;
         geo:lat         45.775409e0 ;
         geo:lng         4.880261e0 ;
@@ -892,6 +1002,7 @@
 
 <ex:station_7031_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7031 - JAURÈS / GERLAND" ;
         ex:bike_stands  20 ;
         geo:lat         45.739827e0 ;
         geo:lng         4.840308e0 ;
@@ -900,6 +1011,7 @@
 
 <ex:station_6024_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6024 - TRONCHET / ANATOLE FRANCE" ;
         ex:bike_stands  10 ;
         geo:lat         45.770743e0 ;
         geo:lng         4.856713e0 ;
@@ -908,6 +1020,7 @@
 
 <ex:station_10120_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10120 - SALENGRO / DESCARTES" ;
         ex:bike_stands  15 ;
         geo:lat         45.776239e0 ;
         geo:lng         4.871634e0 ;
@@ -916,6 +1029,7 @@
 
 <ex:station_10074_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10074 - ZOLA / PASSAGE REY" ;
         ex:bike_stands  19 ;
         geo:lat         45.770099e0 ;
         geo:lng         4.876728e0 ;
@@ -924,6 +1038,7 @@
 
 <ex:station_7025_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7025 - LACOUR / ARTILLERIE" ;
         ex:bike_stands  20 ;
         geo:lat         45.729497e0 ;
         geo:lng         4.843938e0 ;
@@ -932,6 +1047,7 @@
 
 <ex:station_2025_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2025 - MERCIÈRE / FERRANDIÈRE" ;
         ex:bike_stands  10 ;
         geo:lat         45.762054e0 ;
         geo:lng         4.833194e0 ;
@@ -940,6 +1056,7 @@
 
 <ex:station_10114_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10114 - BEL AIR / LES BROSSES" ;
         ex:bike_stands  20 ;
         geo:lat         45.757931e0 ;
         geo:lng         4.910776e0 ;
@@ -948,6 +1065,7 @@
 
 <ex:station_5040_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5040 - PLACE CRÉPU" ;
         ex:bike_stands  20 ;
         geo:lat         45.757847e0 ;
         geo:lng         4.826103e0 ;
@@ -956,6 +1074,7 @@
 
 <ex:station_9033_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9033 - GORGE DE LOUP" ;
         ex:bike_stands  40 ;
         geo:lat         45.767484e0 ;
         geo:lng         4.805626e0 ;
@@ -964,6 +1083,7 @@
 
 <ex:station_3083_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3083 - LES HALLES" ;
         ex:bike_stands  18 ;
         geo:lat         45.761595e0 ;
         geo:lng         4.850477e0 ;
@@ -972,6 +1092,7 @@
 
 <ex:station_6041_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6041 - CITÉ INTERNATIONALE / TÊTE D'OR NORD" ;
         ex:bike_stands  22 ;
         geo:lat         45.78458e0 ;
         geo:lng         4.859664e0 ;
@@ -980,6 +1101,7 @@
 
 <ex:station_10091_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10091 - CHÂTEAU GAILLARD / FORT" ;
         ex:bike_stands  16 ;
         geo:lat         45.774754e0 ;
         geo:lng         4.887977e0 ;
@@ -988,6 +1110,7 @@
 
 <ex:station_10034_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10034 - DOCTEUR DAMIDOT" ;
         ex:bike_stands  10 ;
         geo:lat         45.761825e0 ;
         geo:lng         4.886156e0 ;
@@ -996,6 +1119,7 @@
 
 <ex:station_2042_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2042 - JOFFRE / VAUBECOUR" ;
         ex:bike_stands  20 ;
         geo:lat         45.751873e0 ;
         geo:lng         4.824763e0 ;
@@ -1004,6 +1128,7 @@
 
 <ex:station_6035_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6035 - CITÉ INTERNATIONALE" ;
         ex:bike_stands  21 ;
         geo:lat         45.785456e0 ;
         geo:lng         4.854085e0 ;
@@ -1012,6 +1137,7 @@
 
 <ex:station_1035_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1035 - QUAI LASSAGNE" ;
         ex:bike_stands  16 ;
         geo:lat         45.772191e0 ;
         geo:lng         4.837917e0 ;
@@ -1020,6 +1146,7 @@
 
 <ex:station_9050_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9050 - ALLEE DE L'EUROPE" ;
         ex:bike_stands  12 ;
         geo:lat         45.783698e0 ;
         geo:lng         4.794485e0 ;
@@ -1028,6 +1155,7 @@
 
 <ex:station_3043_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3043 - PLACE ROUGET DE L'ISLE" ;
         ex:bike_stands  16 ;
         geo:lat         45.753975e0 ;
         geo:lng         4.867336e0 ;
@@ -1036,6 +1164,7 @@
 
 <ex:station_10121_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10121 - PARC DU CENTRE" ;
         ex:bike_stands  16 ;
         geo:lat         45.771912e0 ;
         geo:lng         4.87907e0 ;
@@ -1044,6 +1173,7 @@
 
 <ex:station_7036_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7036 - GRYPHE / MONTESQUIEU" ;
         ex:bike_stands  25 ;
         geo:lat         45.751902e0 ;
         geo:lng         4.843812e0 ;
@@ -1052,6 +1182,7 @@
 
 <ex:station_2036_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2036 - PLACE ANTONIN GOURJU" ;
         ex:bike_stands  30 ;
         geo:lat         45.759494e0 ;
         geo:lng         4.830161e0 ;
@@ -1060,6 +1191,7 @@
 
 <ex:station_6001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6001 - GARE DES BROTTEAUX" ;
         ex:bike_stands  16 ;
         geo:lat         45.766893e0 ;
         geo:lng         4.858922e0 ;
@@ -1068,6 +1200,7 @@
 
 <ex:station_1001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1001 - TERREAUX / TERME" ;
         ex:bike_stands  16 ;
         geo:lat         45.767736e0 ;
         geo:lng         4.832114e0 ;
@@ -1076,6 +1209,7 @@
 
 <ex:station_10075_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10075 - GABRIEL PÉRI" ;
         ex:bike_stands  12 ;
         geo:lat         45.772277e0 ;
         geo:lng         4.865774e0 ;
@@ -1084,6 +1218,7 @@
 
 <ex:station_10018_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10018 - TOLSTOÏ / FLORIAN" ;
         ex:bike_stands  21 ;
         geo:lat         45.761801e0 ;
         geo:lng         4.880735e0 ;
@@ -1092,6 +1227,7 @@
 
 <ex:station_9044_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9044 - MASSET / SAINT-PIERRE DE VAISE" ;
         ex:bike_stands  16 ;
         geo:lat         45.770508e0 ;
         geo:lng         4.800869e0 ;
@@ -1100,6 +1236,7 @@
 
 <ex:station_8037_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8037 - CAZENEUVE" ;
         ex:bike_stands  19 ;
         geo:lat         45.734027e0 ;
         geo:lng         4.862906e0 ;
@@ -1108,6 +1245,7 @@
 
 <ex:station_3094_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3094 - VILLETTE" ;
         ex:bike_stands  38 ;
         geo:lat         45.757808e0 ;
         geo:lng         4.861512e0 ;
@@ -1116,6 +1254,7 @@
 
 <ex:station_3037_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3037 - PAUL BERT / GARIBALDI" ;
         ex:bike_stands  20 ;
         geo:lat         45.757112e0 ;
         geo:lng         4.853405e0 ;
@@ -1124,6 +1263,7 @@
 
 <ex:station_10115_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10115 - PLACE D'ESPAGNE / STADE KRUGER" ;
         ex:bike_stands  22 ;
         geo:lat         45.754181e0 ;
         geo:lng         4.90528e0 ;
@@ -1132,6 +1272,7 @@
 
 <ex:station_7002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7002 - UNIVERSITÉS LYON III / LYON II" ;
         ex:bike_stands  40 ;
         geo:lat         45.751404e0 ;
         geo:lng         4.836395e0 ;
@@ -1140,6 +1281,7 @@
 
 <ex:station_2002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2002 - BELLECOUR / ST EXUPÉRY" ;
         ex:bike_stands  40 ;
         geo:lat         45.758149e0 ;
         geo:lng         4.830428e0 ;
@@ -1148,6 +1290,7 @@
 
 <ex:station_5045_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5045 - VALDO / RIVET" ;
         ex:bike_stands  18 ;
         geo:lat         45.750497e0 ;
         geo:lng         4.788819e0 ;
@@ -1156,6 +1299,7 @@
 
 <ex:station_3088_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3088 - PLACE GUICHARD" ;
         ex:bike_stands  16 ;
         geo:lat         45.75882e0 ;
         geo:lng         4.846453e0 ;
@@ -1164,6 +1308,7 @@
 
 <ex:station_10041_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10041 - KIMMERLING" ;
         ex:bike_stands  16 ;
         geo:lat         45.752923e0 ;
         geo:lng         4.898891e0 ;
@@ -1172,6 +1317,7 @@
 
 <ex:station_9010_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9010 - PISCINE DE VAISE" ;
         ex:bike_stands  19 ;
         geo:lat         45.771034e0 ;
         geo:lng         4.79644e0 ;
@@ -1180,6 +1326,7 @@
 
 <ex:station_8060_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "08060 - SANTY / BEAUVISAGE" ;
         ex:bike_stands  17 ;
         geo:lat         45.731708e0 ;
         geo:lng         4.874205e0 ;
@@ -1188,6 +1335,7 @@
 
 <ex:station_8003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8003 - CLAUDE BERNARD LYON I" ;
         ex:bike_stands  16 ;
         geo:lat         45.738135e0 ;
         geo:lng         4.886885e0 ;
@@ -1196,6 +1344,7 @@
 
 <ex:station_3003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3003 - PART-DIEU / DERUELLE" ;
         ex:bike_stands  30 ;
         geo:lat         45.762974e0 ;
         geo:lng         4.855071e0 ;
@@ -1204,6 +1353,7 @@
 
 <ex:station_7053_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7053 - JAURÈS / THIBAUDIÈRE" ;
         ex:bike_stands  28 ;
         geo:lat         45.750344e0 ;
         geo:lng         4.845048e0 ;
@@ -1212,6 +1362,7 @@
 
 <ex:station_8050_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8050 - BATAILLE / KRÜGER" ;
         ex:bike_stands  18 ;
         geo:lat         45.736219e0 ;
         geo:lng         4.879855e0 ;
@@ -1220,6 +1371,7 @@
 
 <ex:station_10092_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10092 - MONTGOLFIER / CHATEAU GAILLARD" ;
         ex:bike_stands  17 ;
         geo:lat         45.771561e0 ;
         geo:lng         4.890378e0 ;
@@ -1228,6 +1380,7 @@
 
 <ex:station_10035_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10035 - BOIRON GRANGÉ" ;
         ex:bike_stands  16 ;
         geo:lat         45.763139e0 ;
         geo:lng         4.900492e0 ;
@@ -1236,6 +1389,7 @@
 
 <ex:station_4004_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4004 - HÉNON" ;
         ex:bike_stands  22 ;
         geo:lat         45.779786e0 ;
         geo:lng         4.827635e0 ;
@@ -1244,6 +1398,7 @@
 
 <ex:station_6036_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6036 - MUSÉE D'ART CONTEMPORAIN" ;
         ex:bike_stands  23 ;
         geo:lat         45.783885e0 ;
         geo:lng         4.852156e0 ;
@@ -1252,6 +1407,7 @@
 
 <ex:station_5029_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5029 - PLACE GERSON" ;
         ex:bike_stands  20 ;
         geo:lat         45.767057e0 ;
         geo:lng         4.827014e0 ;
@@ -1260,6 +1416,7 @@
 
 <ex:station_5001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5001 - PLACE VARILLON (FUNICULAIRE ST JUST)" ;
         ex:bike_stands  23 ;
         geo:lat         45.757319e0 ;
         geo:lng         4.815064e0 ;
@@ -1268,6 +1425,7 @@
 
 <ex:station_9051_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9051 - ANDREI SAKHAROV" ;
         ex:bike_stands  12 ;
         geo:lat         45.786546e0 ;
         geo:lng         4.797107e0 ;
@@ -1276,6 +1434,7 @@
 
 <ex:station_1012_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1012 - AMPÈRE / BOURSE" ;
         ex:bike_stands  26 ;
         geo:lat         45.765789e0 ;
         geo:lng         4.836906e0 ;
@@ -1284,6 +1443,7 @@
 
 <ex:station_10086_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10086 - ANATOLE FRANCE" ;
         ex:bike_stands  10 ;
         geo:lat         45.769837e0 ;
         geo:lng         4.889629e0 ;
@@ -1292,6 +1452,7 @@
 
 <ex:station_3044_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3044 - QUAI AUGAGNEUR" ;
         ex:bike_stands  19 ;
         geo:lat         45.762023e0 ;
         geo:lng         4.841053e0 ;
@@ -1300,6 +1461,7 @@
 
 <ex:station_2037_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2037 - PLACE DES ARCHIVES" ;
         ex:bike_stands  40 ;
         geo:lat         45.747956e0 ;
         geo:lng         4.824898e0 ;
@@ -1308,6 +1470,7 @@
 
 <ex:station_10001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10001 - IUT / FEYSSINE" ;
         ex:bike_stands  30 ;
         geo:lat         45.785632e0 ;
         geo:lng         4.882366e0 ;
@@ -1316,6 +1479,7 @@
 
 <ex:station_6002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6002 - PORTE DES ENFANTS DU RHÔNE" ;
         ex:bike_stands  40 ;
         geo:lat         45.777521e0 ;
         geo:lng         4.844922e0 ;
@@ -1324,6 +1488,7 @@
 
 <ex:station_1002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1002 - OPÉRA" ;
         ex:bike_stands  41 ;
         geo:lat         45.767524e0 ;
         geo:lng         4.836306e0 ;
@@ -1332,6 +1497,7 @@
 
 <ex:station_8038_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8038 - ALBERT THOMAS / VILLON" ;
         ex:bike_stands  20 ;
         geo:lat         45.746691e0 ;
         geo:lng         4.867501e0 ;
@@ -1340,6 +1506,7 @@
 
 <ex:station_16002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "16002 - VÉNISSIEUX - LÉVY / VIENNE" ;
         ex:bike_stands  18 ;
         geo:lat         45.719399e0 ;
         geo:lng         4.854681e0 ;
@@ -1348,6 +1515,7 @@
 
 <ex:station_11002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "11002 - CALUIRE - SAINT-CLAIR" ;
         ex:bike_stands  20 ;
         geo:lat         45.785465e0 ;
         geo:lng         4.847838e0 ;
@@ -1356,6 +1524,7 @@
 
 <ex:station_8010_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8010 - PLACE MENDÈS FRANCE" ;
         ex:bike_stands  20 ;
         geo:lat         45.740052e0 ;
         geo:lng         4.85941e0 ;
@@ -1364,6 +1533,7 @@
 
 <ex:station_7003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7003 - GAMBETTA / GARIBALDI" ;
         ex:bike_stands  40 ;
         geo:lat         45.751827e0 ;
         geo:lng         4.8526e0 ;
@@ -1372,6 +1542,7 @@
 
 <ex:station_2003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2003 - PLACE AMPÈRE" ;
         ex:bike_stands  10 ;
         geo:lat         45.753049e0 ;
         geo:lng         4.828297e0 ;
@@ -1380,6 +1551,7 @@
 
 <ex:station_3089_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3089 - TRARIEUX / LACASSAGNE" ;
         ex:bike_stands  24 ;
         geo:lat         45.745304e0 ;
         geo:lng         4.888964e0 ;
@@ -1388,6 +1560,7 @@
 
 <ex:station_17003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "17003 - ST FONS - THEATRE" ;
         ex:bike_stands  18 ;
         geo:lat         45.708123e0 ;
         geo:lng         4.861905e0 ;
@@ -1396,6 +1569,7 @@
 
 <ex:station_12003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "12003 - VAULX - BIBLIOTHEQUE" ;
         ex:bike_stands  15 ;
         geo:lat         45.757092e0 ;
         geo:lng         4.92731e0 ;
@@ -1404,6 +1578,7 @@
 
 <ex:station_8004_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8004 - MAIRIE DU 8E" ;
         ex:bike_stands  21 ;
         geo:lat         45.735158e0 ;
         geo:lng         4.872803e0 ;
@@ -1412,6 +1587,7 @@
 
 <ex:station_9011_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9011 - CONSERVATOIRE" ;
         ex:bike_stands  19 ;
         geo:lat         45.769803e0 ;
         geo:lng         4.812681e0 ;
@@ -1420,6 +1596,7 @@
 
 <ex:station_4011_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4011 - PLACE JOANNÈS AMBRE" ;
         ex:bike_stands  20 ;
         geo:lat         45.781574e0 ;
         geo:lng         4.832866e0 ;
@@ -1428,6 +1605,7 @@
 
 <ex:station_8061_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8061 - STADE VUILLERMET" ;
         ex:bike_stands  18 ;
         geo:lat         45.725403e0 ;
         geo:lng         4.881292e0 ;
@@ -1436,6 +1614,7 @@
 
 <ex:station_10046_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10046 - CHARMETTES/ZOLA" ;
         ex:bike_stands  23 ;
         geo:lat         45.770705e0 ;
         geo:lng         4.867201e0 ;
@@ -1444,6 +1623,7 @@
 
 <ex:station_3004_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3004 - BOURSE DU TRAVAIL" ;
         ex:bike_stands  20 ;
         geo:lat         45.759648e0 ;
         geo:lng         4.848139e0 ;
@@ -1452,6 +1632,7 @@
 
 <ex:station_3101_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3101 - PATINOIRE BARABAN" ;
         ex:bike_stands  20 ;
         geo:lat         45.762055e0 ;
         geo:lng         4.868486e0 ;
@@ -1460,6 +1641,7 @@
 
 <ex:station_23001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "23001 - TASSIN - TUILERIES" ;
         ex:bike_stands  12 ;
         geo:lat         45.763244e0 ;
         geo:lng         4.778641e0 ;
@@ -1468,6 +1650,7 @@
 
 <ex:station_28001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "28001 - FONTAINES S/S - QUAI SIMON" ;
         ex:bike_stands  20 ;
         geo:lat         45.832495e0 ;
         geo:lng         4.848795e0 ;
@@ -1476,6 +1659,7 @@
 
 <ex:station_4005_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4005 - PLACE BERTONE" ;
         ex:bike_stands  12 ;
         geo:lat         45.77762e0 ;
         geo:lng         4.83453e0 ;
@@ -1484,6 +1668,7 @@
 
 <ex:station_8055_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8055 - SAINT-ROMAIN / BERLIET" ;
         ex:bike_stands  20 ;
         geo:lat         45.74222e0 ;
         geo:lng         4.860219e0 ;
@@ -1492,6 +1677,7 @@
 
 <ex:station_19001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "19001 - ST GENIS L. - MÉDIATHÈQUE" ;
         ex:bike_stands  12 ;
         geo:lat         45.697863e0 ;
         geo:lng         4.794658e0 ;
@@ -1500,6 +1686,7 @@
 
 <ex:station_14001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "14001 - BRON - CENTRE NAUTIQUE" ;
         ex:bike_stands  13 ;
         geo:lat         45.742932e0 ;
         geo:lng         4.90863e0 ;
@@ -1508,6 +1695,7 @@
 
 <ex:station_7020_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7020 - PARC DE GERLAND" ;
         ex:bike_stands  26 ;
         geo:lat         45.724352e0 ;
         geo:lng         4.826821e0 ;
@@ -1516,6 +1704,7 @@
 
 <ex:station_2020_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2020 - MUSÉE DES CONFLUENCES" ;
         ex:bike_stands  20 ;
         geo:lat         45.733388e0 ;
         geo:lng         4.818954e0 ;
@@ -1524,6 +1713,7 @@
 
 <ex:station_1013_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1013 - MARTINIÈRE" ;
         ex:bike_stands  11 ;
         geo:lat         45.768223e0 ;
         geo:lng         4.827533e0 ;
@@ -1532,6 +1722,7 @@
 
 <ex:station_10087_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10087 - BARATIN" ;
         ex:bike_stands  12 ;
         geo:lat         45.760603e0 ;
         geo:lng         4.900702e0 ;
@@ -1540,6 +1731,7 @@
 
 <ex:station_5006_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5006 - QUAI ROMAIN ROLLAND" ;
         ex:bike_stands  17 ;
         geo:lat         45.7620452080746e0 ;
         geo:lng         4.82872732991442e0 ;
@@ -1548,6 +1740,7 @@
 
 <ex:station_15002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "15002 - ST PRIEST - CITE BERLIET" ;
         ex:bike_stands  20 ;
         geo:lat         45.70597e0 ;
         geo:lng         4.900886e0 ;
@@ -1556,6 +1749,7 @@
 
 <ex:station_10002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10002 - INSA" ;
         ex:bike_stands  40 ;
         geo:lat         45.782222e0 ;
         geo:lng         4.876951e0 ;
@@ -1564,6 +1758,7 @@
 
 <ex:station_8021_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8021 - PAUL SANTY" ;
         ex:bike_stands  16 ;
         geo:lat         45.728542e0 ;
         geo:lng         4.877279e0 ;
@@ -1572,6 +1767,7 @@
 
 <ex:station_3021_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3021 - PLACE DE LA FERRANDIÈRE" ;
         ex:bike_stands  20 ;
         geo:lat         45.759488e0 ;
         geo:lng         4.869346e0 ;
@@ -1580,6 +1776,7 @@
 
 <ex:station_7014_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7014 - MARSEILLE / FÉLISSENT" ;
         ex:bike_stands  15 ;
         geo:lat         45.752989e0 ;
         geo:lng         4.841417e0 ;
@@ -1588,6 +1785,7 @@
 
 <ex:station_2014_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2014 - JACOBINS" ;
         ex:bike_stands  26 ;
         geo:lat         45.760762e0 ;
         geo:lng         4.834305e0 ;
@@ -1596,6 +1794,7 @@
 
 <ex:station_6007_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6007 - MASSÉNA" ;
         ex:bike_stands  20 ;
         geo:lat         45.769654e0 ;
         geo:lng         4.852366e0 ;
@@ -1604,6 +1803,7 @@
 
 <ex:station_20003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "20003 - OULLINS - PONT BLANC" ;
         ex:bike_stands  24 ;
         geo:lat         45.720156e0 ;
         geo:lng         4.798426e0 ;
@@ -1612,6 +1812,7 @@
 
 <ex:station_16003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "16003 - VÉNISSIEUX - JOLIOT CURIE / SEMBAT" ;
         ex:bike_stands  25 ;
         geo:lat         45.71532e0 ;
         geo:lng         4.878337e0 ;
@@ -1620,6 +1821,7 @@
 
 <ex:station_11003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "11003 - CALUIRE - LA ROCHETTE" ;
         ex:bike_stands  20 ;
         geo:lat         45.791748e0 ;
         geo:lng         4.823595e0 ;
@@ -1628,6 +1830,7 @@
 
 <ex:station_10053_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10053 - ROSSELINI / 11 NOVEMBRE" ;
         ex:bike_stands  20 ;
         geo:lat         45.77939e0 ;
         geo:lng         4.863068e0 ;
@@ -1636,6 +1839,7 @@
 
 <ex:station_9022_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9022 - MASARYK / SAINT-CYR" ;
         ex:bike_stands  13 ;
         geo:lat         45.778639e0 ;
         geo:lng         4.8071e0 ;
@@ -1644,6 +1848,7 @@
 
 <ex:station_4022_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4022 - PLACE DE LA CROIX-ROUSSE" ;
         ex:bike_stands  21 ;
         geo:lat         45.77608e0 ;
         geo:lng         4.832543e0 ;
@@ -1652,6 +1857,7 @@
 
 <ex:station_8015_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8015 - JEAN XXIII" ;
         ex:bike_stands  16 ;
         geo:lat         45.740324e0 ;
         geo:lng         4.874192e0 ;
@@ -1660,6 +1866,7 @@
 
 <ex:station_3015_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3015 - SERVIENT / GARIBALDI" ;
         ex:bike_stands  17 ;
         geo:lat         45.760779e0 ;
         geo:lng         4.85276e0 ;
@@ -1668,6 +1875,7 @@
 
 <ex:station_7008_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7008 - JEAN JAURÈS / GUILLOTIÈRE" ;
         ex:bike_stands  10 ;
         geo:lat         45.75251e0 ;
         geo:lng         4.846278e0 ;
@@ -1676,6 +1884,7 @@
 
 <ex:station_2008_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2008 - PLACE ANTONIN PONCET" ;
         ex:bike_stands  40 ;
         geo:lat         45.756775e0 ;
         geo:lng         4.833917e0 ;
@@ -1684,6 +1893,7 @@
 
 <ex:station_12004_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "12004 - VAULX - HÔTEL DE VILLE" ;
         ex:bike_stands  30 ;
         geo:lat         45.778286e0 ;
         geo:lng         4.92057e0 ;
@@ -1692,6 +1902,7 @@
 
 <ex:station_27001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "27001 - COLLONGES - GARE" ;
         ex:bike_stands  24 ;
         geo:lat         45.830874e0 ;
         geo:lng         4.846988e0 ;
@@ -1700,6 +1911,7 @@
 
 <ex:station_10047_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10047 - LHERMINIER / PRESSENSÉ" ;
         ex:bike_stands  15 ;
         geo:lat         45.771143e0 ;
         geo:lng         4.88504e0 ;
@@ -1708,6 +1920,7 @@
 
 <ex:station_22001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "22001 - STE FOY - PLACE ST LUC" ;
         ex:bike_stands  15 ;
         geo:lat         45.749588e0 ;
         geo:lng         4.800967e0 ;
@@ -1716,6 +1929,7 @@
 
 <ex:station_3009_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3009 - MUSEE AFRICAIN" ;
         ex:bike_stands  22 ;
         geo:lat         45.750251e0 ;
         geo:lng         4.857919e0 ;
@@ -1724,6 +1938,7 @@
 
 <ex:station_3102_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3102 - DOCTEUR LONG / CAILLE" ;
         ex:bike_stands  16 ;
         geo:lat         45.75254e0 ;
         geo:lng         4.894272e0 ;
@@ -1732,6 +1947,7 @@
 
 <ex:station_6020_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6020 - MUSÉE GUIMET" ;
         ex:bike_stands  15 ;
         geo:lat         45.774526e0 ;
         geo:lng         4.848443e0 ;
@@ -1740,6 +1956,7 @@
 
 <ex:station_28002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "28002 - FONTAINES S/S - GAMBETTA" ;
         ex:bike_stands  20 ;
         geo:lat         45.835406e0 ;
         geo:lng         4.8457e0 ;
@@ -1748,6 +1965,7 @@
 
 <ex:station_9006_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9006 - THÉÂTRE NOUVELLE GÉNÉRATION" ;
         ex:bike_stands  16 ;
         geo:lat         45.777287e0 ;
         geo:lng         4.803297e0 ;
@@ -1756,6 +1974,7 @@
 
 <ex:station_1024_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1024 - ROUVILLE" ;
         ex:bike_stands  17 ;
         geo:lat         45.769684e0 ;
         geo:lng         4.824607e0 ;
@@ -1764,6 +1983,7 @@
 
 <ex:station_8056_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8056 - DELORE / AUDIBERT ET LAVIROTTE" ;
         ex:bike_stands  20 ;
         geo:lat         45.73586e0 ;
         geo:lng         4.856888e0 ;
@@ -1772,6 +1992,7 @@
 
 <ex:station_7049_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7049 - CITÉ SCOLAIRE INTERNATIONALE" ;
         ex:bike_stands  25 ;
         geo:lat         45.727951e0 ;
         geo:lng         4.823563e0 ;
@@ -1780,6 +2001,7 @@
 
 <ex:station_10013_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10013 - CUSSET" ;
         ex:bike_stands  20 ;
         geo:lat         45.764961e0 ;
         geo:lng         4.901018e0 ;
@@ -1788,6 +2010,7 @@
 
 <ex:station_7021_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7021 - CHALLEMEL LACOUR / GERLAND" ;
         ex:bike_stands  12 ;
         geo:lat         45.729791e0 ;
         geo:lng         4.838138e0 ;
@@ -1796,6 +2019,7 @@
 
 <ex:station_2021_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2021 - RAMBAUD / ECOLE DU CINÉMA" ;
         ex:bike_stands  30 ;
         geo:lat         45.745824e0 ;
         geo:lng         4.817176e0 ;
@@ -1804,6 +2028,7 @@
 
 <ex:station_10110_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10110 - MÉMOIRE ET SOCIÉTÉ" ;
         ex:bike_stands  18 ;
         geo:lat         45.75958e0 ;
         geo:lng         4.882739e0 ;
@@ -1812,6 +2037,7 @@
 
 <ex:station_999_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "TEST BEE" ;
         ex:bike_stands  1 ;
         geo:lat         45.78037e0 ;
         geo:lng         4.904694e0 ;
@@ -1820,6 +2046,7 @@
 
 <ex:station_5007_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5007 - PLACE DE TRION" ;
         ex:bike_stands  16 ;
         geo:lat         45.757916e0 ;
         geo:lng         4.81317e0 ;
@@ -1828,6 +2055,7 @@
 
 <ex:station_10064_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10064 - 4 AOÛT 1789" ;
         ex:bike_stands  10 ;
         geo:lat         45.764812e0 ;
         geo:lng         4.884311e0 ;
@@ -1836,6 +2064,7 @@
 
 <ex:station_10007_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10007 - PIATON / CONDORCET" ;
         ex:bike_stands  20 ;
         geo:lat         45.774204e0 ;
         geo:lng         4.867512e0 ;
@@ -1844,6 +2073,7 @@
 
 <ex:station_7015_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7015 - TECHSUD" ;
         ex:bike_stands  12 ;
         geo:lat         45.7228e0 ;
         geo:lng         4.842706e0 ;
@@ -1852,6 +2082,7 @@
 
 <ex:station_2015_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2015 - RÉPUBLIQUE / STELLA" ;
         ex:bike_stands  27 ;
         geo:lat         45.760698e0 ;
         geo:lng         4.836279e0 ;
@@ -1860,6 +2091,7 @@
 
 <ex:station_6008_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6008 - PLACE JULES FERRY" ;
         ex:bike_stands  20 ;
         geo:lat         45.7684e0 ;
         geo:lng         4.858972e0 ;
@@ -1868,6 +2100,7 @@
 
 <ex:station_30001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "30001 - RILLIEUX - CANELLAS" ;
         ex:bike_stands  12 ;
         geo:lat         45.805207e0 ;
         geo:lng         4.88477e0 ;
@@ -1876,6 +2109,7 @@
 
 <ex:station_5030_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5030 - CHARCOT / RÉSIDENCE UNIVERSITAIRE" ;
         ex:bike_stands  32 ;
         geo:lat         45.755054e0 ;
         geo:lng         4.807811e0 ;
@@ -1884,6 +2118,7 @@
 
 <ex:station_4023_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4023 - PONT MASARYK" ;
         ex:bike_stands  22 ;
         geo:lat         45.778175e0 ;
         geo:lng         4.810716e0 ;
@@ -1892,6 +2127,7 @@
 
 <ex:station_10058_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10058 - MÉTRO FLACHET" ;
         ex:bike_stands  22 ;
         geo:lat         45.767051e0 ;
         geo:lng         4.892467e0 ;
@@ -1900,6 +2136,7 @@
 
 <ex:station_3016_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3016 - LIBERTÉ / PART-DIEU" ;
         ex:bike_stands  18 ;
         geo:lat         45.759361e0 ;
         geo:lng         4.842308e0 ;
@@ -1908,6 +2145,7 @@
 
 <ex:station_7009_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7009 - JEAN JAURÈS" ;
         ex:bike_stands  16 ;
         geo:lat         45.737503e0 ;
         geo:lng         4.837484e0 ;
@@ -1916,6 +2154,7 @@
 
 <ex:station_2009_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2009 - CONFLUENCE / DOCKS" ;
         ex:bike_stands  26 ;
         geo:lat         45.739652e0 ;
         geo:lng         4.814984e0 ;
@@ -1924,6 +2163,7 @@
 
 <ex:station_10030_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10030 - GREUZE" ;
         ex:bike_stands  18 ;
         geo:lat         45.773845e0 ;
         geo:lng         4.893851e0 ;
@@ -1932,6 +2172,7 @@
 
 <ex:station_6031_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6031 - LAFAYETTE / CORNEILLE" ;
         ex:bike_stands  13 ;
         geo:lat         45.763717e0 ;
         geo:lng         4.843791e0 ;
@@ -1940,6 +2181,7 @@
 
 <ex:station_1031_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1031 - PLACE DE LA PAIX" ;
         ex:bike_stands  20 ;
         geo:lat         45.768023e0 ;
         geo:lng         4.831733e0 ;
@@ -1948,6 +2190,7 @@
 
 <ex:station_4017_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4017 - PLACE DES TAPIS" ;
         ex:bike_stands  17 ;
         geo:lat         45.776002e0 ;
         geo:lng         4.829628e0 ;
@@ -1956,6 +2199,7 @@
 
 <ex:station_3067_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3067 - HACHETTE" ;
         ex:bike_stands  15 ;
         geo:lat         45.752907e0 ;
         geo:lng         4.863923e0 ;
@@ -1964,6 +2208,7 @@
 
 <ex:station_10024_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10024 - MAISONS NEUVES" ;
         ex:bike_stands  23 ;
         geo:lat         45.755988e0 ;
         geo:lng         4.877409e0 ;
@@ -1972,6 +2217,7 @@
 
 <ex:station_6025_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6025 - PLACE D'HELVÉTIE" ;
         ex:bike_stands  30 ;
         geo:lat         45.773232e0 ;
         geo:lng         4.841949e0 ;
@@ -1980,6 +2226,7 @@
 
 <ex:station_10071_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10071 - LYCÉE MARIE CURIE" ;
         ex:bike_stands  15 ;
         geo:lat         45.761532e0 ;
         geo:lng         4.895763e0 ;
@@ -1988,6 +2235,7 @@
 
 <ex:station_10014_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10014 - LAURENT BONNEVAY / ASTROBALLE" ;
         ex:bike_stands  29 ;
         geo:lat         45.765214e0 ;
         geo:lng         4.909808e0 ;
@@ -1996,6 +2244,7 @@
 
 <ex:station_9040_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9040 - PLACE RHODIACETA" ;
         ex:bike_stands  12 ;
         geo:lat         45.770991e0 ;
         geo:lng         4.807578e0 ;
@@ -2004,6 +2253,7 @@
 
 <ex:station_8033_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8033 - BERTHELOT / CAZENEUVE" ;
         ex:bike_stands  20 ;
         geo:lat         45.737481e0 ;
         geo:lng         4.865503e0 ;
@@ -2012,6 +2262,7 @@
 
 <ex:station_3090_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3090 - VINATIER" ;
         ex:bike_stands  20 ;
         geo:lat         45.741922e0 ;
         geo:lng         4.894068e0 ;
@@ -2020,6 +2271,7 @@
 
 <ex:station_3033_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "03033 - PAUL BERT / VIVIER MERLE" ;
         ex:bike_stands  24 ;
         geo:lat         45.757129e0 ;
         geo:lng         4.858153e0 ;
@@ -2028,6 +2280,7 @@
 
 <ex:station_2026_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2026 - RÉPUBLIQUE / PAUFIQUE" ;
         ex:bike_stands  28 ;
         geo:lat         45.759379e0 ;
         geo:lng         4.835414e0 ;
@@ -2036,6 +2289,7 @@
 
 <ex:station_7026_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7026 - BALDASSINI / GERLAND" ;
         ex:bike_stands  20 ;
         geo:lat         45.727691e0 ;
         geo:lng         4.837392e0 ;
@@ -2044,6 +2298,7 @@
 
 <ex:station_10111_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10111 - CHARLES HERNU" ;
         ex:bike_stands  16 ;
         geo:lat         45.770309e0 ;
         geo:lng         4.86196e0 ;
@@ -2052,6 +2307,7 @@
 
 <ex:station_5041_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5041 - L'HOMME DE LA ROCHE" ;
         ex:bike_stands  21 ;
         geo:lat         45.766576e0 ;
         geo:lng         4.820214e0 ;
@@ -2060,6 +2316,7 @@
 
 <ex:station_10008_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10008 - SALENGRO / VAILLANT" ;
         ex:bike_stands  24 ;
         geo:lat         45.778385e0 ;
         geo:lng         4.879673e0 ;
@@ -2068,6 +2325,7 @@
 
 <ex:station_3084_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3084 - DESAIX" ;
         ex:bike_stands  28 ;
         geo:lat         45.757268e0 ;
         geo:lng         4.855193e0 ;
@@ -2076,6 +2334,7 @@
 
 <ex:station_6042_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6042 - CITÉ INTERNATIONALE / RÉSIDENCE HÔTELIÈRE" ;
         ex:bike_stands  28 ;
         geo:lat         45.784812e0 ;
         geo:lng         4.856432e0 ;
@@ -2084,6 +2343,7 @@
 
 <ex:station_10059_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10059 - ANATOLE FRANCE / ZOLA" ;
         ex:bike_stands  13 ;
         geo:lat         45.76884e0 ;
         geo:lng         4.884276e0 ;
@@ -2092,6 +2352,7 @@
 
 <ex:station_10031_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10031 - CROIX LUIZET" ;
         ex:bike_stands  22 ;
         geo:lat         45.780679e0 ;
         geo:lng         4.88356e0 ;
@@ -2100,6 +2361,7 @@
 
 <ex:station_3050_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3050 - FRICHE RVI" ;
         ex:bike_stands  20 ;
         geo:lat         45.748346e0 ;
         geo:lng         4.875955e0 ;
@@ -2108,6 +2370,7 @@
 
 <ex:station_1036_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1036 - AVEYRON" ;
         ex:bike_stands  17 ;
         geo:lat         45.774366e0 ;
         geo:lng         4.832716e0 ;
@@ -2116,6 +2379,7 @@
 
 <ex:station_8040_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8040 - AMBROISE PARÉ" ;
         ex:bike_stands  24 ;
         geo:lat         45.736289e0 ;
         geo:lng         4.883667e0 ;
@@ -2124,6 +2388,7 @@
 
 <ex:station_10025_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10025 - TOTEM" ;
         ex:bike_stands  16 ;
         geo:lat         45.763652e0 ;
         geo:lng         4.873158e0 ;
@@ -2132,6 +2397,7 @@
 
 <ex:station_7033_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7033 - SAINT-LUC / SAINT-JOSEPH" ;
         ex:bike_stands  28 ;
         geo:lat         45.749431e0 ;
         geo:lng         4.834816e0 ;
@@ -2140,6 +2406,7 @@
 
 <ex:station_10122_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10122 - VERDUN / DESGRAND" ;
         ex:bike_stands  21 ;
         geo:lat         45.784023e0 ;
         geo:lng         4.897102e0 ;
@@ -2148,6 +2415,7 @@
 
 <ex:station_3034_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3034 - GARIBALDI / PENSIONNAT" ;
         ex:bike_stands  30 ;
         geo:lat         45.754727e0 ;
         geo:lng         4.85346e0 ;
@@ -2156,6 +2424,7 @@
 
 <ex:station_9041_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9041 - CARRET / SÉDALLIAN" ;
         ex:bike_stands  18 ;
         geo:lat         45.792478e0 ;
         geo:lng         4.820567e0 ;
@@ -2164,6 +2433,7 @@
 
 <ex:station_4041_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4041 - BOUSSANGES / AUSTERLITZ" ;
         ex:bike_stands  18 ;
         geo:lat         45.775435e0 ;
         geo:lng         4.83512e0 ;
@@ -2172,6 +2442,7 @@
 
 <ex:station_8034_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8034 - BERTHELOT / VILLON" ;
         ex:bike_stands  13 ;
         geo:lat         45.738301e0 ;
         geo:lng         4.862727e0 ;
@@ -2180,6 +2451,7 @@
 
 <ex:station_3091_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3091 - HOPITAL NEUROLOGIQUE" ;
         ex:bike_stands  20 ;
         geo:lat         45.748286e0 ;
         geo:lng         4.896975e0 ;
@@ -2188,6 +2460,7 @@
 
 <ex:station_10019_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10019 - 4 AOUT / RACINE" ;
         ex:bike_stands  30 ;
         geo:lat         45.764489e0 ;
         geo:lng         4.877894e0 ;
@@ -2196,6 +2469,7 @@
 
 <ex:station_10116_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10116 - BLUM / FAYS" ;
         ex:bike_stands  16 ;
         geo:lat         45.760526e0 ;
         geo:lng         4.905877e0 ;
@@ -2204,6 +2478,7 @@
 
 <ex:station_3085_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3085 - SACRE COEUR" ;
         ex:bike_stands  16 ;
         geo:lat         45.757864e0 ;
         geo:lng         4.868337e0 ;
@@ -2212,6 +2487,7 @@
 
 <ex:station_6043_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6043 - CITÉ INTERNATIONALE / CINÉMA" ;
         ex:bike_stands  32 ;
         geo:lat         45.784698e0 ;
         geo:lng         4.851896e0 ;
@@ -2220,6 +2496,7 @@
 
 <ex:station_5036_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5036 - LA SALETTE" ;
         ex:bike_stands  15 ;
         geo:lat         45.749627e0 ;
         geo:lng         4.795546e0 ;
@@ -2228,6 +2505,7 @@
 
 <ex:station_9029_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9029 - SAINT PIERRE DE VAISE" ;
         ex:bike_stands  15 ;
         geo:lat         45.773125e0 ;
         geo:lng         4.807831e0 ;
@@ -2236,6 +2514,7 @@
 
 <ex:station_3079_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3079 - PLACE LOUISE" ;
         ex:bike_stands  16 ;
         geo:lat         45.75118e0 ;
         geo:lng         4.884795e0 ;
@@ -2244,6 +2523,7 @@
 
 <ex:station_8051_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8051 - HÔPITAL SAINT-JEAN DE DIEU" ;
         ex:bike_stands  20 ;
         geo:lat         45.724172e0 ;
         geo:lng         4.854165e0 ;
@@ -2252,6 +2532,7 @@
 
 <ex:station_4001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4001 - CONSERVATOIRE BIS" ;
         ex:bike_stands  22 ;
         geo:lat         45.770392e0 ;
         geo:lng         4.814254e0 ;
@@ -2260,6 +2541,7 @@
 
 <ex:station_10036_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10036 - STALINGRAD" ;
         ex:bike_stands  16 ;
         geo:lat         45.77435e0 ;
         geo:lng         4.859157e0 ;
@@ -2268,6 +2550,7 @@
 
 <ex:station_3051_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3051 - PLACE HENRI" ;
         ex:bike_stands  13 ;
         geo:lat         45.748193e0 ;
         geo:lng         4.880641e0 ;
@@ -2276,6 +2559,7 @@
 
 <ex:station_6037_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6037 - CITÉ INTERNATIONALE / INTERPOL" ;
         ex:bike_stands  27 ;
         geo:lat         45.782287e0 ;
         geo:lng         4.849378e0 ;
@@ -2284,6 +2568,7 @@
 
 <ex:station_201_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "BORNE DE TEST LYON (PLAISIR)" ;
         ex:bike_stands  5 ;
         geo:lat         45.780403e0 ;
         geo:lng         4.904954e0 ;
@@ -2292,6 +2577,7 @@
 
 <ex:station_10083_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10083 - CHATEAU GAILLARD / BIENVENUS" ;
         ex:bike_stands  15 ;
         geo:lat         45.777873e0 ;
         geo:lng         4.884238e0 ;
@@ -2300,6 +2586,7 @@
 
 <ex:station_5002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5002 - PLACE DES COMPAGNONS DE LA CHANSON" ;
         ex:bike_stands  18 ;
         geo:lat         45.756535e0 ;
         geo:lng         4.796616e0 ;
@@ -2308,6 +2595,7 @@
 
 <ex:station_9052_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9052 - BALMONT" ;
         ex:bike_stands  12 ;
         geo:lat         45.789194e0 ;
         geo:lng         4.799308e0 ;
@@ -2316,6 +2604,7 @@
 
 <ex:station_7038_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7038 - PLACE STALINGRAD" ;
         ex:bike_stands  13 ;
         geo:lat         45.749622e0 ;
         geo:lng         4.85299e0 ;
@@ -2324,6 +2613,7 @@
 
 <ex:station_2038_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2038 - REMPARTS D'AINAY" ;
         ex:bike_stands  24 ;
         geo:lat         45.753077e0 ;
         geo:lng         4.829706e0 ;
@@ -2332,6 +2622,7 @@
 
 <ex:station_7010_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7010 - CENTRE BERTHELOT" ;
         ex:bike_stands  19 ;
         geo:lat         45.747358e0 ;
         geo:lng         4.836009e0 ;
@@ -2340,6 +2631,7 @@
 
 <ex:station_2010_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2010 - CONFLUENCE / DARSE" ;
         ex:bike_stands  22 ;
         geo:lat         45.743317e0 ;
         geo:lng         4.815747e0 ;
@@ -2348,6 +2640,7 @@
 
 <ex:station_6003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6003 - AVENUE VERGUIN" ;
         ex:bike_stands  20 ;
         geo:lat         45.772846e0 ;
         geo:lng         4.856274e0 ;
@@ -2356,6 +2649,7 @@
 
 <ex:station_1003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1003 - PLACE SATHONAY" ;
         ex:bike_stands  15 ;
         geo:lat         45.769289e0 ;
         geo:lng         4.830127e0 ;
@@ -2364,6 +2658,7 @@
 
 <ex:station_5053_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5053 - SAINT-JUST" ;
         ex:bike_stands  18 ;
         geo:lat         45.75597e0 ;
         geo:lng         4.818904e0 ;
@@ -2372,6 +2667,7 @@
 
 <ex:station_9046_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9046 - MANGINI" ;
         ex:bike_stands  24 ;
         geo:lat         45.790414e0 ;
         geo:lng         4.816359e0 ;
@@ -2380,6 +2676,7 @@
 
 <ex:station_8039_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8039 - PIERRE DELORE" ;
         ex:bike_stands  20 ;
         geo:lat         45.738617e0 ;
         geo:lng         4.852412e0 ;
@@ -2388,6 +2685,7 @@
 
 <ex:station_3039_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3039 - PLACE BIR-HAKEIM" ;
         ex:bike_stands  19 ;
         geo:lat         45.752553e0 ;
         geo:lng         4.855756e0 ;
@@ -2396,6 +2694,7 @@
 
 <ex:station_10117_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10117 - LA PERALLIÈRE" ;
         ex:bike_stands  22 ;
         geo:lat         45.764567e0 ;
         geo:lng         4.892349e0 ;
@@ -2404,6 +2703,7 @@
 
 <ex:station_8011_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8011 - PLACE LEBRET" ;
         ex:bike_stands  14 ;
         geo:lat         45.735653e0 ;
         geo:lng         4.853042e0 ;
@@ -2412,6 +2712,7 @@
 
 <ex:station_3011_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3011 - PART-DIEU / CUIRASSIERS" ;
         ex:bike_stands  59 ;
         geo:lat         45.75991e0 ;
         geo:lng         4.857555e0 ;
@@ -2420,6 +2721,7 @@
 
 <ex:station_7061_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7061 - JAURES / UNIVERSITE" ;
         ex:bike_stands  20 ;
         geo:lat         45.748545e0 ;
         geo:lng         4.843249e0 ;
@@ -2428,6 +2730,7 @@
 
 <ex:station_7004_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7004 - MAIRIE DU 7E" ;
         ex:bike_stands  30 ;
         geo:lat         45.74656e0 ;
         geo:lng         4.842265e0 ;
@@ -2436,6 +2739,7 @@
 
 <ex:station_2004_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2004 - PERRACHE / CARNOT" ;
         ex:bike_stands  18 ;
         geo:lat         45.750116e0 ;
         geo:lng         4.82801e0 ;
@@ -2444,6 +2748,7 @@
 
 <ex:station_5047_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5047 - ALBÉRIC PONT" ;
         ex:bike_stands  16 ;
         geo:lat         45.753452e0 ;
         geo:lng         4.804401e0 ;
@@ -2452,6 +2757,7 @@
 
 <ex:station_10043_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10043 - SALENGRO / FEYSSINE" ;
         ex:bike_stands  20 ;
         geo:lat         45.782994e0 ;
         geo:lng         4.890614e0 ;
@@ -2460,6 +2766,7 @@
 
 <ex:station_4012_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4012 - PLACE ADRIEN GODIEN" ;
         ex:bike_stands  30 ;
         geo:lat         45.778767e0 ;
         geo:lng         4.841109e0 ;
@@ -2468,6 +2775,7 @@
 
 <ex:station_3005_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3005 - SAXE / GAMBETTA" ;
         ex:bike_stands  20 ;
         geo:lat         45.75377e0 ;
         geo:lng         4.848043e0 ;
@@ -2476,6 +2784,7 @@
 
 <ex:station_7055_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7055 - SERVANT / JABOULAY" ;
         ex:bike_stands  16 ;
         geo:lat         45.746779e0 ;
         geo:lng         4.842051e0 ;
@@ -2484,6 +2793,7 @@
 
 <ex:station_18001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "18001 - PIERRE BÉNITE - EUROPE" ;
         ex:bike_stands  15 ;
         geo:lat         45.703245e0 ;
         geo:lng         4.821204e0 ;
@@ -2492,6 +2802,7 @@
 
 <ex:station_9002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9002 - MAIRIE DU 9E" ;
         ex:bike_stands  27 ;
         geo:lat         45.774241e0 ;
         geo:lng         4.805676e0 ;
@@ -2500,6 +2811,7 @@
 
 <ex:station_1020_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1020 - TERREAUX / CHENAVARD" ;
         ex:bike_stands  18 ;
         geo:lat         45.766763e0 ;
         geo:lng         4.832942e0 ;
@@ -2508,6 +2820,7 @@
 
 <ex:station_8052_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8052 - CLINIQUE MONPLAISIR" ;
         ex:bike_stands  16 ;
         geo:lat         45.747091e0 ;
         geo:lng         4.860196e0 ;
@@ -2516,6 +2829,7 @@
 
 <ex:station_555_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "0-555 - ATELIER VÉLO'V" ;
         ex:bike_stands  3 ;
         geo:lat         45.780403e0 ;
         geo:lng         4.904869e0 ;
@@ -2524,6 +2838,7 @@
 
 <ex:station_7045_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7045 - PARC DES BERGES" ;
         ex:bike_stands  25 ;
         geo:lat         45.737745e0 ;
         geo:lng         4.824495e0 ;
@@ -2532,6 +2847,7 @@
 
 <ex:station_10088_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10088 - 4 AOÛT 1789 / PRESSENSÉ" ;
         ex:bike_stands  19 ;
         geo:lat         45.76611e0 ;
         geo:lng         4.898539e0 ;
@@ -2540,6 +2856,7 @@
 
 <ex:station_7039_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7039 - GUILLOTIÈRE / MADELEINE" ;
         ex:bike_stands  10 ;
         geo:lat         45.751073e0 ;
         geo:lng         4.848018e0 ;
@@ -2548,6 +2865,7 @@
 
 <ex:station_2039_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2039 - CHARITÉ / RÉCAMIER" ;
         ex:bike_stands  17 ;
         geo:lat         45.749257e0 ;
         geo:lng         4.82984e0 ;
@@ -2556,6 +2874,7 @@
 
 <ex:station_10060_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10060 - SAINT EXUPÉRY" ;
         ex:bike_stands  15 ;
         geo:lat         45.758874e0 ;
         geo:lng         4.878683e0 ;
@@ -2564,6 +2883,7 @@
 
 <ex:station_7011_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7011 - BERTHELOT / GARIBALDI" ;
         ex:bike_stands  10 ;
         geo:lat         45.743756e0 ;
         geo:lng         4.847406e0 ;
@@ -2572,6 +2892,7 @@
 
 <ex:station_2011_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2011 - SALA / RUE DU PLAT" ;
         ex:bike_stands  14 ;
         geo:lat         45.756813e0 ;
         geo:lng         4.828342e0 ;
@@ -2580,6 +2901,7 @@
 
 <ex:station_6004_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6004 - FOCH" ;
         ex:bike_stands  20 ;
         geo:lat         45.768896e0 ;
         geo:lng         4.844845e0 ;
@@ -2588,6 +2910,7 @@
 
 <ex:station_5054_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5054 - CHAMPVERT" ;
         ex:bike_stands  18 ;
         geo:lat         45.763906e0 ;
         geo:lng         4.792643e0 ;
@@ -2596,6 +2919,7 @@
 
 <ex:station_3097_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3097 - AUGAGNEUR / FOSSE AUX OURS" ;
         ex:bike_stands  40 ;
         geo:lat         45.757192e0 ;
         geo:lng         4.840495e0 ;
@@ -2604,6 +2928,7 @@
 
 <ex:station_16004_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "16004 - VENISSIEUX PARILLY" ;
         ex:bike_stands  25 ;
         geo:lat         45.719784e0 ;
         geo:lng         4.888194e0 ;
@@ -2612,6 +2937,7 @@
 
 <ex:station_7062_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7062 - GARIBALDI / DOMER" ;
         ex:bike_stands  19 ;
         geo:lat         45.747735e0 ;
         geo:lng         4.85162e0 ;
@@ -2620,6 +2946,7 @@
 
 <ex:station_10054_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10054 - STALINGRAD / MELIÈS" ;
         ex:bike_stands  24 ;
         geo:lat         45.776715e0 ;
         geo:lng         4.859573e0 ;
@@ -2628,6 +2955,7 @@
 
 <ex:station_3012_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3012 - PLACE DU CHÂTEAU" ;
         ex:bike_stands  25 ;
         geo:lat         45.749565e0 ;
         geo:lng         4.887311e0 ;
@@ -2636,6 +2964,7 @@
 
 <ex:station_2005_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2005 - CONFLUENCE HÔTEL DE RÉGION" ;
         ex:bike_stands  32 ;
         geo:lat         45.740675e0 ;
         geo:lng         4.819284e0 ;
@@ -2644,6 +2973,7 @@
 
 <ex:station_7005_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7005 - DEBOURG" ;
         ex:bike_stands  20 ;
         geo:lat         45.73182e0 ;
         geo:lng         4.833996e0 ;
@@ -2652,6 +2982,7 @@
 
 <ex:station_21001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "21001 - LA MULATIERE - AQUARIUM" ;
         ex:bike_stands  24 ;
         geo:lat         45.727323e0 ;
         geo:lng         4.814627e0 ;
@@ -2660,6 +2991,7 @@
 
 <ex:station_9013_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9013 - QUAI PAUL SÉDALLIAN" ;
         ex:bike_stands  20 ;
         geo:lat         45.787522e0 ;
         geo:lng         4.814418e0 ;
@@ -2668,6 +3000,7 @@
 
 <ex:station_8006_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8006 - PLACE DU 8 MAI 1945" ;
         ex:bike_stands  20 ;
         geo:lat         45.729771e0 ;
         geo:lng         4.868157e0 ;
@@ -2676,6 +3009,7 @@
 
 <ex:station_10048_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10048 - PLACE MARENGO" ;
         ex:bike_stands  27 ;
         geo:lat         45.759176e0 ;
         geo:lng         4.875958e0 ;
@@ -2684,6 +3018,7 @@
 
 <ex:station_3006_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3006 - VILLETTE / SAINT-ANTOINE" ;
         ex:bike_stands  23 ;
         geo:lat         45.762876e0 ;
         geo:lng         4.862249e0 ;
@@ -2692,6 +3027,7 @@
 
 <ex:station_7056_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7056 - PLACE RASPAIL" ;
         ex:bike_stands  22 ;
         geo:lat         45.755783e0 ;
         geo:lng         4.840745e0 ;
@@ -2700,6 +3036,7 @@
 
 <ex:station_3103_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3103 - PLACE DANTON" ;
         ex:bike_stands  18 ;
         geo:lat         45.7548502313005e0 ;
         geo:lng         4.85748756866509e0 ;
@@ -2708,6 +3045,7 @@
 
 <ex:station_6021_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6021 - GARIBALDI" ;
         ex:bike_stands  11 ;
         geo:lat         45.770664e0 ;
         geo:lng         4.849946e0 ;
@@ -2716,6 +3054,7 @@
 
 <ex:station_1021_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1021 - TERREAUX / BEAUX ARTS" ;
         ex:bike_stands  11 ;
         geo:lat         45.767062e0 ;
         geo:lng         4.834294e0 ;
@@ -2724,6 +3063,7 @@
 
 <ex:station_4007_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4007 - PLACE FLAMMARION" ;
         ex:bike_stands  18 ;
         geo:lat         45.779332e0 ;
         geo:lng         4.820259e0 ;
@@ -2732,22 +3072,16 @@
 
 <ex:station_8057_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8057 - VIENNE / MONTAGNY" ;
         ex:bike_stands  20 ;
         geo:lat         45.732483e0 ;
         geo:lng         4.853406e0 ;
         wdp:P131        city:Lyon ;
         wdp:P669        "184 ROUTE DE VIENNE" .
 
-<ex:station_310_Lyon>
-        a               sosa:FeatureOfInterest ;
-        ex:bike_stands  27 ;
-        geo:lat         53.354626e0 ;
-        geo:lng         -6.242612e0 ;
-        wdp:P131        city:Lyon ;
-        wdp:P669        "" .
-
 <ex:station_14003_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "14003 - BRON - PLACE CURIAL" ;
         ex:bike_stands  25 ;
         geo:lat         45.736633e0 ;
         geo:lng         4.917009e0 ;
@@ -2756,6 +3090,7 @@
 
 <ex:station_7022_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7022 - JAURÈS / LAGRANGE" ;
         ex:bike_stands  30 ;
         geo:lat         45.743975e0 ;
         geo:lng         4.841463e0 ;
@@ -2764,6 +3099,7 @@
 
 <ex:station_2022_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2022 - PLACE CARNOT" ;
         ex:bike_stands  30 ;
         geo:lat         45.751233e0 ;
         geo:lng         4.82688e0 ;
@@ -2772,6 +3108,7 @@
 
 <ex:station_10089_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10089 - COLIN / PERRONCEL" ;
         ex:bike_stands  15 ;
         geo:lat         45.774581e0 ;
         geo:lng         4.87406e0 ;
@@ -2780,6 +3117,7 @@
 
 <ex:station_5008_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5008 - SAINTE-IRÉNÉE" ;
         ex:bike_stands  20 ;
         geo:lat         45.754978e0 ;
         geo:lng         4.812427e0 ;
@@ -2788,6 +3126,7 @@
 
 <ex:station_10061_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10061 - RÉPUBLIQUE" ;
         ex:bike_stands  17 ;
         geo:lat         45.77081e0 ;
         geo:lng         4.872844e0 ;
@@ -2796,6 +3135,7 @@
 
 <ex:station_34001_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "34001 - NEUVILLE - QUAI PASTEUR" ;
         ex:bike_stands  20 ;
         geo:lat         45.876622e0 ;
         geo:lng         4.838578e0 ;
@@ -2804,6 +3144,7 @@
 
 <ex:station_10004_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10004 - TONKIN" ;
         ex:bike_stands  10 ;
         geo:lat         45.776217e0 ;
         geo:lng         4.862636e0 ;
@@ -2812,6 +3153,7 @@
 
 <ex:station_8023_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8023 - MERMOZ / PINEL" ;
         ex:bike_stands  23 ;
         geo:lat         45.730788e0 ;
         geo:lng         4.887513e0 ;
@@ -2820,6 +3162,7 @@
 
 <ex:station_3080_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3080 - PART-DIEU / VILLETTE" ;
         ex:bike_stands  30 ;
         geo:lat         45.760042e0 ;
         geo:lng         4.861734e0 ;
@@ -2828,6 +3171,7 @@
 
 <ex:station_7016_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7016 - PLACE SAINT LOUIS" ;
         ex:bike_stands  15 ;
         geo:lat         45.748925e0 ;
         geo:lng         4.847714e0 ;
@@ -2836,6 +3180,7 @@
 
 <ex:station_10101_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10101 - EINSTEIN / 11 NOVEMBRE 1918" ;
         ex:bike_stands  34 ;
         geo:lat         45.779429e0 ;
         geo:lng         4.873992e0 ;
@@ -2844,6 +3189,7 @@
 
 <ex:station_2016_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2016 - PLACE REGAUD" ;
         ex:bike_stands  12 ;
         geo:lat         45.763065e0 ;
         geo:lng         4.83425e0 ;
@@ -2852,6 +3198,7 @@
 
 <ex:station_11005_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "11005 - CALUIRE - PASSERELLE DE LA PAIX" ;
         ex:bike_stands  25 ;
         geo:lat         45.787941e0 ;
         geo:lng         4.853035e0 ;
@@ -2860,6 +3207,7 @@
 
 <ex:station_16005_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "16005 - VENISSIEUX - GARE" ;
         ex:bike_stands  25 ;
         geo:lat         45.708509e0 ;
         geo:lng         4.886939e0 ;
@@ -2868,6 +3216,7 @@
 
 <ex:station_30002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "30002 - RILLIEUX - LOUP PENDU" ;
         ex:bike_stands  18 ;
         geo:lat         45.815973e0 ;
         geo:lng         4.887019e0 ;
@@ -2876,6 +3225,7 @@
 
 <ex:station_5031_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5031- MÉNIVAL / JOLIOT CURIE" ;
         ex:bike_stands  20 ;
         geo:lat         45.754654e0 ;
         geo:lng         4.78821e0 ;
@@ -2884,6 +3234,7 @@
 
 <ex:station_10055_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10055 - CONDORCET / GALLINE" ;
         ex:bike_stands  15 ;
         geo:lat         45.776428e0 ;
         geo:lng         4.866976e0 ;
@@ -2892,6 +3243,7 @@
 
 <ex:station_4024_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4024 - LYON METROPOLE" ;
         ex:bike_stands  25 ;
         geo:lat         45.788204e0 ;
         geo:lng         4.818572e0 ;
@@ -2900,6 +3252,7 @@
 
 <ex:station_3017_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3017 - SAXE / DUNOIR" ;
         ex:bike_stands  37 ;
         geo:lat         45.760912e0 ;
         geo:lng         4.845291e0 ;
@@ -2908,6 +3261,7 @@
 
 <ex:station_6032_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6032 - PRÉFECTURE / SARRAIL" ;
         ex:bike_stands  20 ;
         geo:lat         45.764821e0 ;
         geo:lng         4.841567e0 ;
@@ -2916,6 +3270,7 @@
 
 <ex:station_1032_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1032 - PIZAY" ;
         ex:bike_stands  22 ;
         geo:lat         45.767165e0 ;
         geo:lng         4.836334e0 ;
@@ -2924,6 +3279,7 @@
 
 <ex:station_10049_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10049 - PRESSENSÉ" ;
         ex:bike_stands  16 ;
         geo:lat         45.769158e0 ;
         geo:lng         4.89678e0 ;
@@ -2932,6 +3288,7 @@
 
 <ex:station_7057_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7057 - JAURES / BOLLIER" ;
         ex:bike_stands  34 ;
         geo:lat         45.734712e0 ;
         geo:lng         4.835486e0 ;
@@ -2940,6 +3297,7 @@
 
 <ex:station_10021_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10021 - GRANDCLÉMENT" ;
         ex:bike_stands  19 ;
         geo:lat         45.759743e0 ;
         geo:lng         4.889938e0 ;
@@ -2948,6 +3306,7 @@
 
 <ex:station_6022_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6022 - PLACE MARÉCHAL LYAUTEY" ;
         ex:bike_stands  20 ;
         geo:lat         45.769383e0 ;
         geo:lng         4.842364e0 ;
@@ -2956,6 +3315,7 @@
 
 <ex:station_5015_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5015 - FULCHIRON" ;
         ex:bike_stands  19 ;
         geo:lat         45.75197e0 ;
         geo:lng         4.821662e0 ;
@@ -2964,6 +3324,7 @@
 
 <ex:station_9008_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9008 - L'ILE BARBE" ;
         ex:bike_stands  16 ;
         geo:lat         45.797415e0 ;
         geo:lng         4.829038e0 ;
@@ -2972,6 +3333,7 @@
 
 <ex:station_4008_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4008 - CLOS SAVARON" ;
         ex:bike_stands  20 ;
         geo:lat         45.782631e0 ;
         geo:lng         4.825576e0 ;
@@ -2980,6 +3342,7 @@
 
 <ex:station_8058_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8058 - LONGEFER / KRUGER" ;
         ex:bike_stands  16 ;
         geo:lat         45.738671e0 ;
         geo:lng         4.878117e0 ;
@@ -2988,6 +3351,7 @@
 
 <ex:station_3058_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3058 - PLACE DU LAC" ;
         ex:bike_stands  19 ;
         geo:lat         45.758974e0 ;
         geo:lng         4.853599e0 ;
@@ -2996,6 +3360,7 @@
 
 <ex:station_8030_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8030 - LAËNNEC" ;
         ex:bike_stands  16 ;
         geo:lat         45.741425e0 ;
         geo:lng         4.879733e0 ;
@@ -3004,6 +3369,7 @@
 
 <ex:station_10072_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10072 - JACQUES BREL" ;
         ex:bike_stands  23 ;
         geo:lat         45.774228e0 ;
         geo:lng         4.864269e0 ;
@@ -3012,6 +3378,7 @@
 
 <ex:station_7023_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7023 - BERTHELOT / ROUTE DE VIENNE" ;
         ex:bike_stands  15 ;
         geo:lat         45.742639e0 ;
         geo:lng         4.850538e0 ;
@@ -3020,6 +3387,7 @@
 
 <ex:station_1016_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1016 - PÊCHERIE" ;
         ex:bike_stands  17 ;
         geo:lat         45.765944e0 ;
         geo:lng         4.831089e0 ;
@@ -3028,6 +3396,7 @@
 
 <ex:station_5009_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5009 - PLACE ENNEMOND FOUSSERET" ;
         ex:bike_stands  16 ;
         geo:lat         45.764695e0 ;
         geo:lng         4.828969e0 ;
@@ -3036,6 +3405,7 @@
 
 <ex:station_10112_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10112 - PLACE DE LA RECONNAISSANCE" ;
         ex:bike_stands  32 ;
         geo:lat         45.754415e0 ;
         geo:lng         4.885249e0 ;
@@ -3044,6 +3414,7 @@
 
 <ex:station_34002_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "34002 - NEUVILLE - STADE" ;
         ex:bike_stands  15 ;
         geo:lat         45.870877e0 ;
         geo:lng         4.839595e0 ;
@@ -3052,6 +3423,7 @@
 
 <ex:station_8024_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8024 - MERMOZ / MICHELET" ;
         ex:bike_stands  12 ;
         geo:lat         45.733317e0 ;
         geo:lng         4.878607e0 ;
@@ -3060,6 +3432,7 @@
 
 <ex:station_3081_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3081 - PART-DIEU / FRANCFORT" ;
         ex:bike_stands  28 ;
         geo:lat         45.760689e0 ;
         geo:lng         4.863069e0 ;
@@ -3068,6 +3441,7 @@
 
 <ex:station_3024_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3024 - ROCKEFELLER / ESQUIROL" ;
         ex:bike_stands  19 ;
         geo:lat         45.741336e0 ;
         geo:lng         4.885538e0 ;
@@ -3076,6 +3450,7 @@
 
 <ex:station_7017_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7017 - BEAUVOIR / MAROT" ;
         ex:bike_stands  20 ;
         geo:lat         45.73674e0 ;
         geo:lng         4.834106e0 ;
@@ -3084,6 +3459,7 @@
 
 <ex:station_2017_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2017 - RÉPUBLIQUE / FERRANDIÈRE" ;
         ex:bike_stands  25 ;
         geo:lat         45.762184e0 ;
         geo:lng         4.836023e0 ;
@@ -3092,6 +3468,7 @@
 
 <ex:station_5032_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5032 - MÉNIVAL / EISENHOWER" ;
         ex:bike_stands  12 ;
         geo:lat         45.756757e0 ;
         geo:lng         4.783206e0 ;
@@ -3100,6 +3477,7 @@
 
 <ex:station_4025_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4025 - CHAZIÈRE" ;
         ex:bike_stands  20 ;
         geo:lat         45.775425e0 ;
         geo:lng         4.817888e0 ;
@@ -3108,6 +3486,7 @@
 
 <ex:station_3018_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3018 - CRÉQUI / VOLTAIRE" ;
         ex:bike_stands  30 ;
         geo:lat         45.756596e0 ;
         geo:lng         4.848442e0 ;
@@ -3116,6 +3495,7 @@
 
 <ex:station_10032_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10032 - PRIMAT / DECORPS" ;
         ex:bike_stands  13 ;
         geo:lat         45.757173e0 ;
         geo:lng         4.89998e0 ;
@@ -3124,6 +3504,7 @@
 
 <ex:station_6033_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6033 - CRÉQUI / LAFAYETTE" ;
         ex:bike_stands  15 ;
         geo:lat         45.763755e0 ;
         geo:lng         4.847082e0 ;
@@ -3132,6 +3513,7 @@
 
 <ex:station_5026_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5026 - RUE DE LA BALEINE" ;
         ex:bike_stands  14 ;
         geo:lat         45.763383e0 ;
         geo:lng         4.829024e0 ;
@@ -3140,6 +3522,7 @@
 
 <ex:station_3069_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3069 - DAUPHINÉ / SAINT-MAXIMIN" ;
         ex:bike_stands  30 ;
         geo:lat         45.750002e0 ;
         geo:lng         4.864587e0 ;
@@ -3148,6 +3531,7 @@
 
 <ex:station_8041_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8041 - ETATS-UNIS / VIVIANI" ;
         ex:bike_stands  20 ;
         geo:lat         45.724775e0 ;
         geo:lng         4.870745e0 ;
@@ -3156,6 +3540,7 @@
 
 <ex:station_7034_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7034 - PISCINE DU RHÔNE" ;
         ex:bike_stands  31 ;
         geo:lat         45.753705e0 ;
         geo:lng         4.838283e0 ;
@@ -3164,6 +3549,7 @@
 
 <ex:station_10073_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10073 - INSTITUT D'ART CONTEMPORAIN" ;
         ex:bike_stands  15 ;
         geo:lat         45.761468e0 ;
         geo:lng         4.872466e0 ;
@@ -3172,6 +3558,7 @@
 
 <ex:station_10016_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10016 - PLACE DE LA PAIX" ;
         ex:bike_stands  17 ;
         geo:lat         45.752074e0 ;
         geo:lng         4.91466e0 ;
@@ -3180,6 +3567,7 @@
 
 <ex:station_9042_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9042 - VAISE DOCKS" ;
         ex:bike_stands  19 ;
         geo:lat         45.786533e0 ;
         geo:lng         4.811446e0 ;
@@ -3188,6 +3576,7 @@
 
 <ex:station_4042_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4042 - GREGORY COUPET" ;
         ex:bike_stands  16 ;
         geo:lat         45.781699e0 ;
         geo:lng         4.820596e0 ;
@@ -3196,6 +3585,7 @@
 
 <ex:station_8035_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8035 - SANS SOUCI" ;
         ex:bike_stands  20 ;
         geo:lat         45.747251e0 ;
         geo:lng         4.865386e0 ;
@@ -3204,6 +3594,7 @@
 
 <ex:station_3035_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3035 - PHILOMENE MAGNIN" ;
         ex:bike_stands  24 ;
         geo:lat         45.752453e0 ;
         geo:lng         4.858785e0 ;
@@ -3212,6 +3603,7 @@
 
 <ex:station_10113_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10113 - GARE DE VILLEURBANNE" ;
         ex:bike_stands  22 ;
         geo:lat         45.755768e0 ;
         geo:lng         4.891542e0 ;
@@ -3220,6 +3612,7 @@
 
 <ex:station_2028_Lyon>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2028 - SAINTE-BLANDINE" ;
         ex:bike_stands  16 ;
         geo:lat         45.744438e0 ;
         geo:lng         4.822152e0 ;

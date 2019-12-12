@@ -45,7 +45,7 @@ public class StationDAO {
                     station = new Station();
                     stationId = qs.get("s").toString();
                     String[] idstation = qs.get("s").toString().split("_");
-                    station.setId(idstation[1]);
+                    station.setId(idstation[1] +"_"+ idstation[2]);
                     isStation = true;
                 }
                 switch (qs.get("p").toString()) {
@@ -80,9 +80,9 @@ public class StationDAO {
         String stationId = idStation;
         if (idStation.contains("ex")) {
             String[] splitid = idStation.split("_");
-            stationId = splitid[1];
+            stationId = splitid[1] +"_"+ splitid[2];
         }
-        station.setId(idStation);
+        station.setId(stationId);
         if (!JenaFusekiConnexion.getConnexion().isClosed()) {
             QueryExecution qExec = JenaFusekiConnexion
                     .getConnexion()

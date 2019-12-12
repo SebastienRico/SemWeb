@@ -12,6 +12,7 @@
 
 <ex:station_148_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "148 - SANDFORD ST / AUSTRAL ST" ;
         ex:bike_stands  22 ;
         geo:lat         -27.492489e0 ;
         geo:lng         152.996768e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_7_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7 - MARGARET STREET / EDWARD STREET" ;
         ex:bike_stands  29 ;
         geo:lat         -27.47148e0 ;
         geo:lng         153.029647e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_145_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "145 - CORONATION DR / ARCHER ST" ;
         ex:bike_stands  22 ;
         geo:lat         -27.485872e0 ;
         geo:lng         152.99347e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_4_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4 - CHARLOTTE STREET / EAGLE STREET" ;
         ex:bike_stands  23 ;
         geo:lat         -27.468675e0 ;
         geo:lng         153.029834e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_118_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "118 - MELBOURNE ST / MERIVALE ST" ;
         ex:bike_stands  16 ;
         geo:lat         -27.474755e0 ;
         geo:lng         153.016687e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_142_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "142 - SYLVAN RD / CORONATION DR" ;
         ex:bike_stands  17 ;
         geo:lat         -27.482081e0 ;
         geo:lng         152.995804e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_69_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "69 - VERNON TCE / FLORENCE ST" ;
         ex:bike_stands  23 ;
         geo:lat         -27.455907e0 ;
         geo:lng         153.050013e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_97_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "97 - THYNNE RD / COLLEGE RD" ;
         ex:bike_stands  25 ;
         geo:lat         -27.499963e0 ;
         geo:lng         153.017633e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_111_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "111 - DONKIN ST / MONTAGUE RD" ;
         ex:bike_stands  21 ;
         geo:lat         -27.476474e0 ;
         geo:lng         153.008182e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_66_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "66 - COMMERCIAL RD / SKYRING TCE" ;
         ex:bike_stands  21 ;
         geo:lat         -27.45296e0 ;
         geo:lng         153.048107e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_94_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "94 - GLENELG ST / MERIVALE ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.478653e0 ;
         geo:lng         153.019123e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_63_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "63 - ANN ST / MURRI WAY" ;
         ex:bike_stands  20 ;
         geo:lat         -27.452468e0 ;
         geo:lng         153.040565e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_39_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "39 - TURBOT ST / WICKHAM TCE" ;
         ex:bike_stands  19 ;
         geo:lat         -27.464628e0 ;
         geo:lng         153.026863e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_91_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "91 - MAIN ST / DARRAGH ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.47059e0 ;
         geo:lng         153.036046e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_32_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "32 - TANK ST / GEORGE ST" ;
         ex:bike_stands  18 ;
         geo:lat         -27.468678e0 ;
         geo:lng         153.019801e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_60_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "60 - WICKHAM STREET / BROOKES STREET" ;
         ex:bike_stands  23 ;
         geo:lat         -27.453127e0 ;
         geo:lng         153.037559e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_138_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "138 - ROY ST / LANG PDE" ;
         ex:bike_stands  26 ;
         geo:lat         -27.473888e0 ;
         geo:lng         153.000599e0 ;
@@ -148,6 +165,7 @@
 
 <ex:station_107_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "107 - DRURY ST / MONTAGUE RD" ;
         ex:bike_stands  21 ;
         geo:lat         -27.48872e0 ;
         geo:lng         152.999585e0 ;
@@ -156,6 +174,7 @@
 
 <ex:station_135_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "135 - PARK RD / RAILWAY TCE" ;
         ex:bike_stands  19 ;
         geo:lat         -27.469501e0 ;
         geo:lng         153.004129e0 ;
@@ -164,6 +183,7 @@
 
 <ex:station_104_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "104 - HARDGRAVE RD / SKINNER ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.482082e0 ;
         geo:lng         153.006981e0 ;
@@ -172,6 +192,7 @@
 
 <ex:station_101_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "101 - RUSSELL ST / EDMONDSTONE ST" ;
         ex:bike_stands  22 ;
         geo:lat         -27.478235e0 ;
         geo:lng         153.015173e0 ;
@@ -180,6 +201,7 @@
 
 <ex:station_59_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "59 - JAMES ST / MCLACHLAN ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.456276e0 ;
         geo:lng         153.039196e0 ;
@@ -188,6 +210,7 @@
 
 <ex:station_83_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "83 - SYDNEY ST / BRUNSWICK ST" ;
         ex:bike_stands  23 ;
         geo:lat         -27.468407e0 ;
         geo:lng         153.048273e0 ;
@@ -196,6 +219,7 @@
 
 <ex:station_28_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "28 - GEORGE ST / ADELAIDE ST" ;
         ex:bike_stands  17 ;
         geo:lat         -27.469902e0 ;
         geo:lng         153.022603e0 ;
@@ -204,6 +228,7 @@
 
 <ex:station_56_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "56 - CONSTANCE ST / ST PAULS TCE" ;
         ex:bike_stands  24 ;
         geo:lat         -27.453717e0 ;
         geo:lng         153.034042e0 ;
@@ -212,6 +237,7 @@
 
 <ex:station_80_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "80 - BARKER ST / BRUNSWICK ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.464681e0 ;
         geo:lng         153.042561e0 ;
@@ -220,6 +246,7 @@
 
 <ex:station_25_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "25 - REDDACLIFF PL / QUEEN ST" ;
         ex:bike_stands  26 ;
         geo:lat         -27.471332e0 ;
         geo:lng         153.022991e0 ;
@@ -228,6 +255,7 @@
 
 <ex:station_22_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "22 - GEORGE ST / TANK ST" ;
         ex:bike_stands  28 ;
         geo:lat         -27.467591e0 ;
         geo:lng         153.020372e0 ;
@@ -236,6 +264,7 @@
 
 <ex:station_127_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "127 - GLADSTONE RD / ANNERLEY RD" ;
         ex:bike_stands  25 ;
         geo:lat         -27.497934e0 ;
         geo:lng         153.027333e0 ;
@@ -244,6 +273,7 @@
 
 <ex:station_124_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "124 - ANNERLEY ROAD / GROVE ST" ;
         ex:bike_stands  26 ;
         geo:lat         -27.491284e0 ;
         geo:lng         153.027138e0 ;
@@ -252,6 +282,7 @@
 
 <ex:station_79_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "79 - BALFOUR ST / BRUNSWICK ST" ;
         ex:bike_stands  20 ;
         geo:lat         -27.463431e0 ;
         geo:lng         153.041031e0 ;
@@ -260,6 +291,7 @@
 
 <ex:station_121_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "121 - VULTURE ST / STANLEY ST" ;
         ex:bike_stands  17 ;
         geo:lat         -27.483259e0 ;
         geo:lng         153.026946e0 ;
@@ -268,6 +300,7 @@
 
 <ex:station_76_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "76 - WATERLOO ST (GASWORKS PARK) / NEWSTEAD TCE" ;
         ex:bike_stands  23 ;
         geo:lat         -27.448074e0 ;
         geo:lng         153.045762e0 ;
@@ -276,6 +309,7 @@
 
 <ex:station_48_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "48 - ANN ST / GOTHA ST" ;
         ex:bike_stands  10 ;
         geo:lat         -27.46048e0 ;
         geo:lng         153.032768e0 ;
@@ -284,6 +318,7 @@
 
 <ex:station_45_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "45 - TURBOT ST / BOWEN ST" ;
         ex:bike_stands  20 ;
         geo:lat         -27.462665e0 ;
         geo:lng         153.029087e0 ;
@@ -292,6 +327,7 @@
 
 <ex:station_73_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "73 - LAMINGTON ST / REFINERY PDE" ;
         ex:bike_stands  21 ;
         geo:lat         -27.465226e0 ;
         geo:lng         153.050864e0 ;
@@ -300,6 +336,7 @@
 
 <ex:station_42_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "42 - WHARF STREET / ADELAIDE STREET" ;
         ex:bike_stands  19 ;
         geo:lat         -27.464647e0 ;
         geo:lng         153.029361e0 ;
@@ -308,6 +345,7 @@
 
 <ex:station_18_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "18 - LITTLE STANLEY ST / TRIBUNE ST" ;
         ex:bike_stands  22 ;
         geo:lat         -27.480385e0 ;
         geo:lng         153.023564e0 ;
@@ -316,6 +354,7 @@
 
 <ex:station_70_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "70 - MACQUARIE ST / BEESTON ST" ;
         ex:bike_stands  17 ;
         geo:lat         -27.459091e0 ;
         geo:lng         153.050239e0 ;
@@ -324,6 +363,7 @@
 
 <ex:station_11_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "11 - KING GEORGE SQUARE / ANN ST" ;
         ex:bike_stands  20 ;
         geo:lat         -27.468422e0 ;
         geo:lng         153.024635e0 ;
@@ -332,6 +372,7 @@
 
 <ex:station_9_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9 - CHARLOTTE STREET / EDWARD STREET" ;
         ex:bike_stands  23 ;
         geo:lat         -27.469924e0 ;
         geo:lng         153.02822e0 ;
@@ -340,6 +381,7 @@
 
 <ex:station_6_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6 - ALICE STREET / EDWARD STREET" ;
         ex:bike_stands  22 ;
         geo:lat         -27.472291e0 ;
         geo:lng         153.030639e0 ;
@@ -348,6 +390,7 @@
 
 <ex:station_3_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3 - CREEK ST / ELIZABETH ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.467556e0 ;
         geo:lng         153.029202e0 ;
@@ -356,6 +399,7 @@
 
 <ex:station_99_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "99 - CORDELIA ST / PEEL ST" ;
         ex:bike_stands  20 ;
         geo:lat         -27.474011e0 ;
         geo:lng         153.014541e0 ;
@@ -364,6 +408,7 @@
 
 <ex:station_117_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "117 - VULTURE ST / TRIBUNE ST" ;
         ex:bike_stands  20 ;
         geo:lat         -27.482197e0 ;
         geo:lng         153.020894e0 ;
@@ -372,6 +417,7 @@
 
 <ex:station_141_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "141 - LAND ST / CORONATION DR" ;
         ex:bike_stands  35 ;
         geo:lat         -27.479453e0 ;
         geo:lng         152.997215e0 ;
@@ -380,6 +426,7 @@
 
 <ex:station_114_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "114 - COLCHESTER ST / ERNEST ST" ;
         ex:bike_stands  20 ;
         geo:lat         -27.479876e0 ;
         geo:lng         153.021076e0 ;
@@ -388,6 +435,7 @@
 
 <ex:station_96_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "96 - GREY ST / MELBOURNE ST" ;
         ex:bike_stands  23 ;
         geo:lat         -27.474722e0 ;
         geo:lng         153.018694e0 ;
@@ -396,6 +444,7 @@
 
 <ex:station_93_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "93 - GREY ST / QCA" ;
         ex:bike_stands  20 ;
         geo:lat         -27.48148e0 ;
         geo:lng         153.02368e0 ;
@@ -404,6 +453,7 @@
 
 <ex:station_38_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "38 - ANN ST / CREEK ST" ;
         ex:bike_stands  23 ;
         geo:lat         -27.46588e0 ;
         geo:lng         153.026861e0 ;
@@ -412,6 +462,7 @@
 
 <ex:station_62_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "62 - ANN ST / CHESTER ST" ;
         ex:bike_stands  16 ;
         geo:lat         -27.453195e0 ;
         geo:lng         153.0401e0 ;
@@ -420,6 +471,7 @@
 
 <ex:station_90_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "90 - MAIN ST / ROTHERHAM ST (MAHONEY PARK)" ;
         ex:bike_stands  45 ;
         geo:lat         -27.469296e0 ;
         geo:lng         153.035533e0 ;
@@ -428,6 +480,7 @@
 
 <ex:station_35_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "35 - ANNERLEY ROAD / STANLEY STREET" ;
         ex:bike_stands  28 ;
         geo:lat         -27.486498e0 ;
         geo:lng         153.028874e0 ;
@@ -436,6 +489,7 @@
 
 <ex:station_137_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "137 - KILROE ST / DORSEY ST" ;
         ex:bike_stands  20 ;
         geo:lat         -27.472413e0 ;
         geo:lng         153.001803e0 ;
@@ -444,6 +498,7 @@
 
 <ex:station_106_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "106 - ORLEIGH ST / HOOGLEY ST" ;
         ex:bike_stands  22 ;
         geo:lat         -27.489807e0 ;
         geo:lng         153.002405e0 ;
@@ -452,6 +507,7 @@
 
 <ex:station_134_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "134 - RAILWAY TCE / CRIBB ST" ;
         ex:bike_stands  17 ;
         geo:lat         -27.468845e0 ;
         geo:lng         153.007364e0 ;
@@ -460,6 +516,7 @@
 
 <ex:station_131_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "131 - SHAFSTON AVE / THORN ST" ;
         ex:bike_stands  31 ;
         geo:lat         -27.476792e0 ;
         geo:lng         153.039186e0 ;
@@ -468,6 +525,7 @@
 
 <ex:station_89_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "89 - HOLMAN ST / MAIN ST" ;
         ex:bike_stands  18 ;
         geo:lat         -27.465733e0 ;
         geo:lng         153.034329e0 ;
@@ -476,6 +534,7 @@
 
 <ex:station_103_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "103 - VULTURE ST / THOMAS ST" ;
         ex:bike_stands  20 ;
         geo:lat         -27.480768e0 ;
         geo:lng         153.011121e0 ;
@@ -484,6 +543,7 @@
 
 <ex:station_86_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "86 - SYDNEY ST / MORAY ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.471422e0 ;
         geo:lng         153.04519e0 ;
@@ -492,6 +552,7 @@
 
 <ex:station_58_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "58 - EAST ST / ANN ST" ;
         ex:bike_stands  39 ;
         geo:lat         -27.455472e0 ;
         geo:lng         153.037775e0 ;
@@ -500,6 +561,7 @@
 
 <ex:station_100_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "100 - MELBOURNE ST / EDMONDSTONE ST" ;
         ex:bike_stands  16 ;
         geo:lat         -27.47666e0 ;
         geo:lng         153.013287e0 ;
@@ -508,6 +570,7 @@
 
 <ex:station_27_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "27 - BLAIR DR / SIR WILLIAM MACGREGOR DR" ;
         ex:bike_stands  29 ;
         geo:lat         -27.494561e0 ;
         geo:lng         153.016318e0 ;
@@ -516,6 +579,7 @@
 
 <ex:station_55_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "55 - ALDEN ST / WICKHAM ST" ;
         ex:bike_stands  15 ;
         geo:lat         -27.456085e0 ;
         geo:lng         153.03453e0 ;
@@ -524,6 +588,7 @@
 
 <ex:station_52_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "52 - BRUNSWICK ST MALL / WICKHAM ST" ;
         ex:bike_stands  14 ;
         geo:lat         -27.457512e0 ;
         geo:lng         153.033841e0 ;
@@ -532,6 +597,7 @@
 
 <ex:station_24_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "24 - SIR WILLIAM MCGREGOR DR / SIR FRED SCHONNELL" ;
         ex:bike_stands  24 ;
         geo:lat         -27.493963e0 ;
         geo:lng         153.011938e0 ;
@@ -540,6 +606,7 @@
 
 <ex:station_21_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "21 - BOTANICAL GARDENS / QUT" ;
         ex:bike_stands  34 ;
         geo:lat         -27.475922e0 ;
         geo:lng         153.0288e0 ;
@@ -548,6 +615,7 @@
 
 <ex:station_78_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "78 - MALT ST / BRUNSWICK ST" ;
         ex:bike_stands  15 ;
         geo:lat         -27.461041e0 ;
         geo:lng         153.037902e0 ;
@@ -556,6 +624,7 @@
 
 <ex:station_120_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "120 - BOUNDARY ST / VULTURE ST" ;
         ex:bike_stands  13 ;
         geo:lat         -27.482562e0 ;
         geo:lng         153.011831e0 ;
@@ -564,6 +633,7 @@
 
 <ex:station_75_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "75 - BROWNE ST / JAMES ST" ;
         ex:bike_stands  23 ;
         geo:lat         -27.461881e0 ;
         geo:lng         153.046986e0 ;
@@ -572,6 +642,7 @@
 
 <ex:station_72_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "72 - LAMINGTON ST / POWERHOUSE" ;
         ex:bike_stands  20 ;
         geo:lat         -27.467802e0 ;
         geo:lng         153.053645e0 ;
@@ -580,6 +651,7 @@
 
 <ex:station_17_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "17 - MARGARET ST / ALBERT ST" ;
         ex:bike_stands  11 ;
         geo:lat         -27.472598e0 ;
         geo:lng         153.028383e0 ;
@@ -588,6 +660,7 @@
 
 <ex:station_41_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "41 - ANN ST / WHARF ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.46383e0 ;
         geo:lng         153.029125e0 ;
@@ -596,6 +669,7 @@
 
 <ex:station_14_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "14 - ALBERT STREET MALL / ELIZABETH STREET" ;
         ex:bike_stands  21 ;
         geo:lat         -27.47011e0 ;
         geo:lng         153.025627e0 ;
@@ -604,6 +678,7 @@
 
 <ex:station_5_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5 - MARKET STREET / MARY STREET" ;
         ex:bike_stands  21 ;
         geo:lat         -27.469702e0 ;
         geo:lng         153.029828e0 ;
@@ -612,6 +687,7 @@
 
 <ex:station_147_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "147 - SANDFORD ST / BRISBANE ST" ;
         ex:bike_stands  26 ;
         geo:lat         -27.490776e0 ;
         geo:lng         152.994747e0 ;
@@ -620,6 +696,7 @@
 
 <ex:station_119_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "119 - SIDON ST / LITTLE STANLEY ST" ;
         ex:bike_stands  15 ;
         geo:lat         -27.481808e0 ;
         geo:lng         153.025477e0 ;
@@ -628,6 +705,7 @@
 
 <ex:station_2_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2 - QUEEN ST / EAGLE ST" ;
         ex:bike_stands  23 ;
         geo:lat         -27.466369e0 ;
         geo:lng         153.029597e0 ;
@@ -636,6 +714,7 @@
 
 <ex:station_116_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "116 - CORDELIA ST / ERNEST ST" ;
         ex:bike_stands  19 ;
         geo:lat         -27.481137e0 ;
         geo:lng         153.019284e0 ;
@@ -644,6 +723,7 @@
 
 <ex:station_144_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "144 - JEPHSON ST / SHERWOOD RD" ;
         ex:bike_stands  30 ;
         geo:lat         -27.485075e0 ;
         geo:lng         152.990627e0 ;
@@ -652,6 +732,7 @@
 
 <ex:station_113_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "113 - EDMONDSTONE ST / VULTURE ST" ;
         ex:bike_stands  22 ;
         geo:lat         -27.480164e0 ;
         geo:lng         153.016181e0 ;
@@ -660,6 +741,7 @@
 
 <ex:station_95_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "95 - STANLEY ST / MELBOURNE ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.475039e0 ;
         geo:lng         153.020323e0 ;
@@ -668,6 +750,7 @@
 
 <ex:station_92_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "92 - THORNTON ST FERRY TERMINAL / MAIN ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.471025e0 ;
         geo:lng         153.034306e0 ;
@@ -676,6 +759,7 @@
 
 <ex:station_68_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "68 - VERNON TCE / ETHEL ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.454394e0 ;
         geo:lng         153.049519e0 ;
@@ -684,6 +768,7 @@
 
 <ex:station_110_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "110 - JANE ST / MONTAGUE RD" ;
         ex:bike_stands  21 ;
         geo:lat         -27.478214e0 ;
         geo:lng         153.006181e0 ;
@@ -692,6 +777,7 @@
 
 <ex:station_37_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "37 - UPPER ROMA ST / EAGLE TCE" ;
         ex:bike_stands  24 ;
         geo:lat         -27.466032e0 ;
         geo:lng         153.01476e0 ;
@@ -700,6 +786,7 @@
 
 <ex:station_65_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "65 - CHERMSIDE ST / COMMERCIAL RD" ;
         ex:bike_stands  21 ;
         geo:lat         -27.454482e0 ;
         geo:lng         153.046802e0 ;
@@ -708,6 +795,7 @@
 
 <ex:station_34_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "34 - MAKERSTON ST / ROMA ST" ;
         ex:bike_stands  22 ;
         geo:lat         -27.467037e0 ;
         geo:lng         153.018471e0 ;
@@ -716,6 +804,7 @@
 
 <ex:station_31_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "31 - ROMA ST / TURBOT ST" ;
         ex:bike_stands  11 ;
         geo:lat         -27.467464e0 ;
         geo:lng         153.022094e0 ;
@@ -724,6 +813,7 @@
 
 <ex:station_136_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "136 - PARK RD / DOUGLAS ST" ;
         ex:bike_stands  23 ;
         geo:lat         -27.470987e0 ;
         geo:lng         153.004602e0 ;
@@ -732,6 +822,7 @@
 
 <ex:station_109_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "109 - MONTAGUE RD / SKINNER ST" ;
         ex:bike_stands  14 ;
         geo:lat         -27.48172e0 ;
         geo:lng         153.00436e0 ;
@@ -740,6 +831,7 @@
 
 <ex:station_133_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "133 - CORONATION DR / GO BETWEEN BRIDGE" ;
         ex:bike_stands  23 ;
         geo:lat         -27.468839e0 ;
         geo:lng         153.011115e0 ;
@@ -748,6 +840,7 @@
 
 <ex:station_1101_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1101 - KING GEORGE SQUARE 2" ;
         ex:bike_stands  40 ;
         geo:lat         -27.468447e0 ;
         geo:lng         153.024662e0 ;
@@ -756,6 +849,7 @@
 
 <ex:station_88_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "88 - SYDNEY ST FERRY TERMINAL / PARK" ;
         ex:bike_stands  30 ;
         geo:lat         -27.474531e0 ;
         geo:lng         153.042728e0 ;
@@ -764,6 +858,7 @@
 
 <ex:station_130_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "130 - O'CONNELL ST / LAMBERT ST" ;
         ex:bike_stands  17 ;
         geo:lat         -27.474992e0 ;
         geo:lng         153.037647e0 ;
@@ -772,6 +867,7 @@
 
 <ex:station_57_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "57 - BRIDGE ST / WICKHAM ST" ;
         ex:bike_stands  19 ;
         geo:lat         -27.454746e0 ;
         geo:lng         153.036154e0 ;
@@ -780,6 +876,7 @@
 
 <ex:station_85_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "85 - OXLADE DR / TURNER AVE" ;
         ex:bike_stands  21 ;
         geo:lat         -27.473304e0 ;
         geo:lng         153.048757e0 ;
@@ -788,6 +885,7 @@
 
 <ex:station_82_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "82 - BRUNSWICK ST / MERTHYR RD" ;
         ex:bike_stands  23 ;
         geo:lat         -27.467498e0 ;
         geo:lng         153.0467e0 ;
@@ -796,6 +894,7 @@
 
 <ex:station_54_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "54 - MCLACHLAN ST / WINN ST" ;
         ex:bike_stands  25 ;
         geo:lat         -27.457825e0 ;
         geo:lng         153.036866e0 ;
@@ -804,6 +903,7 @@
 
 <ex:station_51_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "51 - BRUNSWICK ST / ALFRED ST" ;
         ex:bike_stands  23 ;
         geo:lat         -27.45663e0 ;
         geo:lng         153.032779e0 ;
@@ -812,6 +912,7 @@
 
 <ex:station_20_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "20 - GARDENS POINT RD / SE OF GOODWILL BRIDGE" ;
         ex:bike_stands  16 ;
         geo:lat         -27.478846e0 ;
         geo:lng         153.028296e0 ;
@@ -820,6 +921,7 @@
 
 <ex:station_129_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "129 - LOWER RIVER TCE / PARKLANDS" ;
         ex:bike_stands  35 ;
         geo:lat         -27.478032e0 ;
         geo:lng         153.034186e0 ;
@@ -828,6 +930,7 @@
 
 <ex:station_126_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "126 - JANE ST / BOUNDARY ST" ;
         ex:bike_stands  18 ;
         geo:lat         -27.479149e0 ;
         geo:lng         153.012132e0 ;
@@ -836,6 +939,7 @@
 
 <ex:station_150_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "150 - MACQUARIE ST / MUNRO ST" ;
         ex:bike_stands  17 ;
         geo:lat         -27.492876e0 ;
         geo:lng         153.006071e0 ;
@@ -844,6 +948,7 @@
 
 <ex:station_123_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "123 - CHARLOTTE ST / ALBERT ST" ;
         ex:bike_stands  19 ;
         geo:lat         -27.471315e0 ;
         geo:lng         153.026627e0 ;
@@ -852,6 +957,7 @@
 
 <ex:station_74_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "74 - MERTHYR RD / JAMES ST" ;
         ex:bike_stands  23 ;
         geo:lat         -27.463678e0 ;
         geo:lng         153.049485e0 ;
@@ -860,6 +966,7 @@
 
 <ex:station_19_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "19 - GARDENS POINT ROAD / ADJ. BRIDGE" ;
         ex:bike_stands  20 ;
         geo:lat         -27.479004e0 ;
         geo:lng         153.028853e0 ;
@@ -868,6 +975,7 @@
 
 <ex:station_47_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "47 - TURBOT ST / BARRY PDE" ;
         ex:bike_stands  17 ;
         geo:lat         -27.46123e0 ;
         geo:lng         153.031077e0 ;
@@ -876,6 +984,7 @@
 
 <ex:station_71_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "71 - HASTINGS ST / MACQUARIE ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.460914e0 ;
         geo:lng         153.04987e0 ;
@@ -884,6 +993,7 @@
 
 <ex:station_44_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "44 - QUEEN STREET / ADELAIDE STREET" ;
         ex:bike_stands  16 ;
         geo:lat         -27.463405e0 ;
         geo:lng         153.031142e0 ;
@@ -892,6 +1002,7 @@
 
 <ex:station_16_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "16 - MARY STREET / ALBERT STREET" ;
         ex:bike_stands  10 ;
         geo:lat         -27.472044e0 ;
         geo:lng         153.027193e0 ;
@@ -900,6 +1011,7 @@
 
 <ex:station_13_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "13 - ALBERT STREET MALL / ADELAIDE STREET" ;
         ex:bike_stands  18 ;
         geo:lat         -27.469183e0 ;
         geo:lng         153.024719e0 ;
@@ -908,6 +1020,7 @@
 
 <ex:station_10_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10 - EDWARD STREET / QUEEN STREET" ;
         ex:bike_stands  15 ;
         geo:lat         -27.468206e0 ;
         geo:lng         153.026744e0 ;
@@ -916,6 +1029,7 @@
 
 <ex:station_8_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8 - RIVERSIDE DR / VICTORIA ST" ;
         ex:bike_stands  28 ;
         geo:lat         -27.481696e0 ;
         geo:lng         153.000486e0 ;
@@ -924,6 +1038,7 @@
 
 <ex:station_149_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "149 - MACQUARIE ST / GUYATT PARK" ;
         ex:bike_stands  22 ;
         geo:lat         -27.493626e0 ;
         geo:lng         153.001482e0 ;
@@ -932,6 +1047,7 @@
 
 <ex:station_146_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "146 - BRISBANE ST / GLEN RD" ;
         ex:bike_stands  21 ;
         geo:lat         -27.487187e0 ;
         geo:lng         152.993052e0 ;
@@ -940,6 +1056,7 @@
 
 <ex:station_1_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1 - EDWARD ST / QUEEN ST" ;
         ex:bike_stands  15 ;
         geo:lat         -27.46812e0 ;
         geo:lng         153.02682e0 ;
@@ -948,6 +1065,7 @@
 
 <ex:station_115_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "115 - MONTAGUE RD / BRERETON ST" ;
         ex:bike_stands  20 ;
         geo:lat         -27.474227e0 ;
         geo:lng         153.011164e0 ;
@@ -956,6 +1074,7 @@
 
 <ex:station_143_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "143 - REGATTA FERRY TERMINAL / SYLVAN RD" ;
         ex:bike_stands  18 ;
         geo:lat         -27.483168e0 ;
         geo:lng         152.996419e0 ;
@@ -964,6 +1083,7 @@
 
 <ex:station_112_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "112 - BANK ST / MOLLISON ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.476724e0 ;
         geo:lng         153.010063e0 ;
@@ -972,6 +1092,7 @@
 
 <ex:station_98_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "98 - KURILPA POINT / MONTAGUE RD" ;
         ex:bike_stands  20 ;
         geo:lat         -27.469658e0 ;
         geo:lng         153.016696e0 ;
@@ -980,6 +1101,7 @@
 
 <ex:station_140_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "140 - DUNMORE TCE / KINGSFORD ST" ;
         ex:bike_stands  17 ;
         geo:lat         -27.476003e0 ;
         geo:lng         153.000676e0 ;
@@ -988,6 +1110,7 @@
 
 <ex:station_67_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "67 - COMMERCIAL RD / TENERIFFE FERRY TERMINAL" ;
         ex:bike_stands  21 ;
         geo:lat         -27.452027e0 ;
         geo:lng         153.04911e0 ;
@@ -996,6 +1119,7 @@
 
 <ex:station_36_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "36 - ROMA STREET / GARRICK STREET" ;
         ex:bike_stands  17 ;
         geo:lat         -27.466307e0 ;
         geo:lng         153.017351e0 ;
@@ -1004,6 +1128,7 @@
 
 <ex:station_64_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "64 - SKYRING TCE / CUNNINGHAM ST" ;
         ex:bike_stands  26 ;
         geo:lat         -27.44979e0 ;
         geo:lng         153.044925e0 ;
@@ -1012,6 +1137,7 @@
 
 <ex:station_61_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "61 - WICKHAM ST / MURRI WAY" ;
         ex:bike_stands  23 ;
         geo:lat         -27.451793e0 ;
         geo:lng         153.039562e0 ;
@@ -1020,6 +1146,7 @@
 
 <ex:station_33_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "33 - ROMA ST / HERSCHEL ST" ;
         ex:bike_stands  16 ;
         geo:lat         -27.466753e0 ;
         geo:lng         153.020012e0 ;
@@ -1028,6 +1155,7 @@
 
 <ex:station_30_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "30 - ROMA ST / ANN ST" ;
         ex:bike_stands  12 ;
         geo:lat         -27.467963e0 ;
         geo:lng         153.0231e0 ;
@@ -1036,6 +1164,7 @@
 
 <ex:station_139_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "139 - BI-CENTENNIAL BIKE WAY / LANG PDE" ;
         ex:bike_stands  18 ;
         geo:lat         -27.476076e0 ;
         geo:lng         153.002459e0 ;
@@ -1044,6 +1173,7 @@
 
 <ex:station_108_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "108 - ROGERS ST / MONTAGUE RD" ;
         ex:bike_stands  18 ;
         geo:lat         -27.485078e0 ;
         geo:lng         153.002382e0 ;
@@ -1052,6 +1182,7 @@
 
 <ex:station_132_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "132 - LITTLE CRIBB ST / BOOMERANG ST" ;
         ex:bike_stands  20 ;
         geo:lat         -27.467971e0 ;
         geo:lng         153.009968e0 ;
@@ -1060,6 +1191,7 @@
 
 <ex:station_105_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "105 - DORNOCH TCE / HARDGRAVE RD" ;
         ex:bike_stands  31 ;
         geo:lat         -27.487155e0 ;
         geo:lng         153.007281e0 ;
@@ -1068,6 +1200,7 @@
 
 <ex:station_87_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "87 - MERTHYR RD / REGINALD ST" ;
         ex:bike_stands  17 ;
         geo:lat         -27.469931e0 ;
         geo:lng         153.043525e0 ;
@@ -1076,6 +1209,7 @@
 
 <ex:station_102_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "102 - BESANT ST / VULTURE ST" ;
         ex:bike_stands  31 ;
         geo:lat         -27.480885e0 ;
         geo:lng         153.014585e0 ;
@@ -1084,6 +1218,7 @@
 
 <ex:station_84_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "84 - NEW FARM FERRY TERMINAL / NEW FARM PARK" ;
         ex:bike_stands  30 ;
         geo:lat         -27.471481e0 ;
         geo:lng         153.051966e0 ;
@@ -1092,6 +1227,7 @@
 
 <ex:station_81_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "81 - GRIFFITH ST / RIVERVIEW CT" ;
         ex:bike_stands  15 ;
         geo:lat         -27.471886e0 ;
         geo:lng         153.041854e0 ;
@@ -1100,6 +1236,7 @@
 
 <ex:station_29_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "29 - GEORGE STREET / ANN STREET" ;
         ex:bike_stands  22 ;
         geo:lat         -27.469075e0 ;
         geo:lng         153.021808e0 ;
@@ -1108,6 +1245,7 @@
 
 <ex:station_53_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "53 - BOWEN TCE / BRADFIELD HWY" ;
         ex:bike_stands  26 ;
         geo:lat         -27.461803e0 ;
         geo:lng         153.036021e0 ;
@@ -1116,6 +1254,7 @@
 
 <ex:station_26_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "26 - NORTH QUAY / REDDACLIFF PLACE" ;
         ex:bike_stands  15 ;
         geo:lat         -27.471297e0 ;
         geo:lng         153.02257e0 ;
@@ -1124,6 +1263,7 @@
 
 <ex:station_50_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "50 - GIPPS ST / WICKHAM ST" ;
         ex:bike_stands  21 ;
         geo:lat         -27.458641e0 ;
         geo:lng         153.03208e0 ;
@@ -1132,6 +1272,7 @@
 
 <ex:station_23_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "23 - BOUNDARY STREET / HOWARD SMITH WHARVES" ;
         ex:bike_stands  20 ;
         geo:lat         -27.462161e0 ;
         geo:lng         153.034771e0 ;
@@ -1140,6 +1281,7 @@
 
 <ex:station_128_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "128 - BOUQUET ST / MONTAGUE RD" ;
         ex:bike_stands  29 ;
         geo:lat         -27.471712e0 ;
         geo:lng         153.013188e0 ;
@@ -1148,6 +1290,7 @@
 
 <ex:station_125_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "125 - ANNERLEY RD / BOGGO RD" ;
         ex:bike_stands  22 ;
         geo:lat         -27.494959e0 ;
         geo:lng         153.02802e0 ;
@@ -1156,6 +1299,7 @@
 
 <ex:station_122_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "122 - LOWER RIVER TCE / ELLIS ST" ;
         ex:bike_stands  16 ;
         geo:lat         -27.482279e0 ;
         geo:lng         153.028723e0 ;
@@ -1164,6 +1308,7 @@
 
 <ex:station_49_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "49 - ANN STREET / GIPPS STREET" ;
         ex:bike_stands  20 ;
         geo:lat         -27.459833e0 ;
         geo:lng         153.033445e0 ;
@@ -1172,6 +1317,7 @@
 
 <ex:station_77_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "77 - JAMES ST / HARCOURT ST" ;
         ex:bike_stands  23 ;
         geo:lat         -27.458199e0 ;
         geo:lng         153.041688e0 ;
@@ -1180,6 +1326,7 @@
 
 <ex:station_46_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "46 - ANN ST / BOUNDARY ST" ;
         ex:bike_stands  19 ;
         geo:lat         -27.461984e0 ;
         geo:lng         153.031782e0 ;
@@ -1188,6 +1335,7 @@
 
 <ex:station_15_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "15 - ALBERT STREET MALL / ELIZABETH STREET" ;
         ex:bike_stands  18 ;
         geo:lat         -27.47019e0 ;
         geo:lng         153.025852e0 ;
@@ -1196,6 +1344,7 @@
 
 <ex:station_43_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "43 - QUEEN ST / WHARF ST" ;
         ex:bike_stands  24 ;
         geo:lat         -27.465043e0 ;
         geo:lng         153.030991e0 ;
@@ -1204,6 +1353,7 @@
 
 <ex:station_12_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "12 - ALBERT ST MALL / ADELAIDE ST" ;
         ex:bike_stands  15 ;
         geo:lat         -27.468963e0 ;
         geo:lng         153.02461e0 ;
@@ -1212,6 +1362,7 @@
 
 <ex:station_40_Brisbane>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "40 - ANN STREET / CREEK STREET" ;
         ex:bike_stands  18 ;
         geo:lat         -27.464986e0 ;
         geo:lng         153.027679e0 ;

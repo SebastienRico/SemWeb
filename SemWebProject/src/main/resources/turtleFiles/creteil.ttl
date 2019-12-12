@@ -12,6 +12,7 @@
 
 <ex:station_1_Creteil>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "01 - LATTRE DE TASSIGNY" ;
         ex:bike_stands  26 ;
         geo:lat         48.7988350967829e0 ;
         geo:lng         2.45387633773323e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_10_Creteil>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10 - MAGELLAN" ;
         ex:bike_stands  20 ;
         geo:lat         48.76895633113984e0 ;
         geo:lng         2.456664667660431e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_7_Creteil>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "07- AVENUE DU DOCTEUR PAUL CASALIS" ;
         ex:bike_stands  20 ;
         geo:lat         48.78021352952279e0 ;
         geo:lng         2.469692230994849e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_8_Creteil>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "08 - ROND POINT HOTEL DE VILLE" ;
         ex:bike_stands  34 ;
         geo:lat         48.7773524472175e0 ;
         geo:lng         2.45537843175518e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_5_Creteil>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "05 - GENERAL LECLERC / BARRAGE" ;
         ex:bike_stands  18 ;
         geo:lat         48.7868389124326e0 ;
         geo:lng         2.46856657248876e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_9_Creteil>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "09 - EUROPARC" ;
         ex:bike_stands  22 ;
         geo:lat         48.76603756422197e0 ;
         geo:lng         2.471314855226071e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_2_Creteil>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "02 - HOPITAL INTERCOMMUNAL (CHIC)" ;
         ex:bike_stands  22 ;
         geo:lat         48.796173633089616e0 ;
         geo:lng         2.46370624551545e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_6_Creteil>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "06 - AVENUE DE LA BRECHE" ;
         ex:bike_stands  24 ;
         geo:lat         48.78350102672993e0 ;
         geo:lng         2.454576358402657e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_3_Creteil>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "03 - RUE DU GENERAL LECLERC - CENTRE ANCIEN" ;
         ex:bike_stands  24 ;
         geo:lat         48.7907886168279e0 ;
         geo:lng         2.46489018474127e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_4_Creteil>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "04 - UNIVERSITE - MAIL DES MECHES" ;
         ex:bike_stands  40 ;
         geo:lat         48.788110780811415e0 ;
         geo:lng         2.446248652158302e0 ;
