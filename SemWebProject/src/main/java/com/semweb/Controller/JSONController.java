@@ -1,7 +1,6 @@
 package com.semweb.Controller;
 
 import com.semweb.DAO.StationDAO;
-import com.semweb.Model.City;
 import com.semweb.Model.Station;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -76,19 +75,19 @@ public class JSONController {
         }
     }
 
-    private static City getCity(String cityName) {
-        List<City> cities = MainController.getCities();
-        City c = null;
+    private static String getCity(String cityName) {
+        List<String> cities = MainController.getCities();
+        String c = null;
         for (int j = 0; j < cities.size(); j++) {
-            if (cities.get(j).getName().equals(cityName)) {
+            if (cities.get(j).equals(cityName)) {
                 c = cities.get(j);
             }
         }
         return c;
     }
 
-    private static Station getStation(City city, String stationId) {
-        List<Station> stations = StationDAO.getAllStationByCityName(city.getName());
+    private static Station getStation(String city, String stationId) {
+        List<Station> stations = StationDAO.getAllStationByCityName(city);
         MainController.setStations(stations);
         Station station = null;
         stationExist = false;
@@ -110,7 +109,7 @@ public class JSONController {
             JSONObject station = (JSONObject) stations.get(i);
             String stationId = station.getAsString("station_id");
 
-            City saintEtienne = getCity(SAINT_ETIENNE_CITY_NAME);
+            String saintEtienne = getCity(SAINT_ETIENNE_CITY_NAME);
             Station stationSaintEtienne = getStation(saintEtienne, stationId);
 
             if (!stationExist) {

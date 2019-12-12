@@ -3,8 +3,6 @@ package com.semweb.Controller;
 import com.semweb.DAO.CityDAO;
 import com.semweb.DAO.StationDAO;
 import com.semweb.Model.Station;
-import com.semweb.Model.City;
-import java.util.ArrayList;
 import java.util.List;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -17,9 +15,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 public class MainController {
 
     public static List<Station> stations;
-    public static List<City> cities;
+    public static List<String> cities;
 
-    public static List<City> getCities() {
+    public static List<String> getCities() {
         return cities;
     }
 
@@ -27,7 +25,7 @@ public class MainController {
         return stations;
     }
 
-    public static void setCities(List<City> cities) {
+    public static void setCities(List<String> cities) {
         MainController.cities = cities;
     }
 
@@ -55,8 +53,8 @@ public class MainController {
     public String goToStationDetailPage(@PathVariable String idStation, Model m) {
         String url = "";
         Station station = StationDAO.getStationById(idStation);
-        if (!station.getCity().getName().equals("Saint-Etienne")) {
-            url = "https://api.jcdecaux.com/vls/v3/stations/"+station.getId()+"?contract="+station.getCity().getName()+"&apiKey=b0d471d68f580414dc830cde44ce32d66def361e";
+        if (!station.getCity().equals("Saint-Etienne")) {
+            url = "https://api.jcdecaux.com/vls/v3/stations/" + station.getId() + "?contract=" + station.getCity() + "&apiKey=b0d471d68f580414dc830cde44ce32d66def361e";
         }
         m.addAttribute("station", station);
         m.addAttribute("url", url);

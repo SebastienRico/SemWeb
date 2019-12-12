@@ -58,7 +58,7 @@ public class StationDAO {
                     case CITY:
                         String cityname = qs.get("o").toString();
                         String[] splitcityname = cityname.split("\\/");
-                        station.getCity().setName(splitcityname[4]);
+                        station.setCity(splitcityname[4]);
                         break;
                     default:
                         break;
@@ -134,7 +134,7 @@ public class StationDAO {
                     case CITY:
                         String cityname = qs.get("o").toString();
                         String[] splitcityname = cityname.split("\\/");
-                        station.getCity().setName(splitcityname[4]);
+                        station.setCity(splitcityname[4]);
                         break;
                     default:
                         break;
