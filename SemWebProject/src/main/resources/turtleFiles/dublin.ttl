@@ -10,765 +10,874 @@
 @prefix sosa:  <http://www.w3.org/ns/sosa/> .
 @prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
 
-<ex:station_101>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.350291e0 ;
-        geo:lng         -6.273507e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "King Street North" .
-
-<ex:station_11>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.334019e0 ;
-        geo:lng         -6.258371e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Earlsfort Terrace" .
-
-<ex:station_80>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.341359e0 ;
-        geo:lng         -6.292951e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "St James Hospital (Luas)" .
-
-<ex:station_52>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  32 ;
-        geo:lat         53.338755e0 ;
-        geo:lng         -6.262003e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "York Street East" .
-
-<ex:station_114>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.333653e0 ;
-        geo:lng         -6.248345e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Wilton Terrace (Park)" .
-
-<ex:station_24>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.352149e0 ;
-        geo:lng         -6.260533e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Cathal Brugha Street" .
-
-<ex:station_5>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.330662e0 ;
-        geo:lng         -6.260177e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Charlemont Street" .
-
-<ex:station_93>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.346603e0 ;
-        geo:lng         -6.296924e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Heuston Station (Central)" .
-
-<ex:station_65>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.34744e0 ;
-        geo:lng         -6.238523e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Convention Centre" .
-
-<ex:station_37>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.337494e0 ;
-        geo:lng         -6.26199e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "St. Stephen's Green South" .
-
-<ex:station_78>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.359967e0 ;
-        geo:lng         -6.264828e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Mater Hospital" .
-
-<ex:station_31>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.350929e0 ;
-        geo:lng         -6.265125e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Parnell Street" .
-
-<ex:station_72>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  31 ;
-        geo:lat         53.343105e0 ;
-        geo:lng         -6.277167e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "John Street West" .
-
-<ex:station_44>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.358437e0 ;
-        geo:lng         -6.260641e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Upper Sherrard Street" .
-
-<ex:station_106>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.35893e0 ;
-        geo:lng         -6.280337e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Rathdown Road" .
-
-<ex:station_16>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.347508e0 ;
-        geo:lng         -6.252192e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Georges Quay" .
-
-<ex:station_85>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  35 ;
-        geo:lat         53.338776e0 ;
-        geo:lng         -6.30395e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Rothe Abbey" .
-
-<ex:station_57>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  23 ;
-        geo:lat         53.339629e0 ;
-        geo:lng         -6.243778e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Grattan Street" .
-
-<ex:station_29>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  29 ;
-        geo:lat         53.346057e0 ;
-        geo:lng         -6.268001e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Ormond Quay Upper" .
-
-<ex:station_98>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.341515e0 ;
-        geo:lng         -6.256853e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Frederick Street South" .
-
-<ex:station_100>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         53.347106e0 ;
-        geo:lng         -6.292041e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Heuston Bridge (South)" .
-
-<ex:station_10>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  16 ;
-        geo:lat         53.344007e0 ;
-        geo:lng         -6.266802e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Dame Street" .
-
-<ex:station_51>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.339334e0 ;
-        geo:lng         -6.264699e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "York Street West" .
-
-<ex:station_113>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.338614e0 ;
-        geo:lng         -6.248606e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Merrion Square South" .
-
-<ex:station_23>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.348279e0 ;
-        geo:lng         -6.254662e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Custom House" .
-
-<ex:station_4>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.346874e0 ;
-        geo:lng         -6.272976e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Greek Street" .
-
-<ex:station_92>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.347802e0 ;
-        geo:lng         -6.292432e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Heuston Bridge (North)" .
-
-<ex:station_64>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.345203e0 ;
-        geo:lng         -6.247163e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Sandwith Street" .
-
-<ex:station_36>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.337824e0 ;
-        geo:lng         -6.256035e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "St. Stephen's Green East" .
-
-<ex:station_77>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  29 ;
-        geo:lat         53.348875e0 ;
-        geo:lng         -6.267459e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Wolfe Tone Street" .
-
-<ex:station_49>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.347932e0 ;
-        geo:lng         -6.240928e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Guild Street" .
-
-<ex:station_30>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.353462e0 ;
-        geo:lng         -6.265305e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Parnell Square North" .
-
-<ex:station_71>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.337757e0 ;
-        geo:lng         -6.267699e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Kevin Street" .
-
-<ex:station_105>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  36 ;
-        geo:lat         53.355954e0 ;
-        geo:lng         -6.278378e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Grangegorman Lower (North)" .
-
-<ex:station_43>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.330091e0 ;
-        geo:lng         -6.268044e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Portobello Road" .
-
-<ex:station_15>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  16 ;
-        geo:lat         53.355473e0 ;
-        geo:lng         -6.264423e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Hardwicke Street" .
-
-<ex:station_84>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.339005e0 ;
-        geo:lng         -6.300217e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Brookfield Road" .
-
-<ex:station_56>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.33796e0 ;
-        geo:lng         -6.24153e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Mount Street Lower" .
-
-<ex:station_28>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.356299e0 ;
-        geo:lng         -6.258586e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Mountjoy Square West" .
-
-<ex:station_9>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  24 ;
-        geo:lat         53.343034e0 ;
-        geo:lng         -6.263578e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Exchequer Street" .
-
-<ex:station_97>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.342113e0 ;
-        geo:lng         -6.310015e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Kilmainham Gaol" .
-
-<ex:station_69>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.342638e0 ;
-        geo:lng         -6.238695e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Grand Canal Dock" .
-
-<ex:station_50>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.35023e0 ;
-        geo:lng         -6.279696e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "George's Lane" .
-
-<ex:station_112>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.357841e0 ;
-        geo:lng         -6.251557e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "North Circular Road (O'Connell's)" .
-
-<ex:station_22>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.345922e0 ;
-        geo:lng         -6.254614e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Townsend Street" .
-
-<ex:station_3>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.351182e0 ;
-        geo:lng         -6.269859e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Bolton Street" .
-
-<ex:station_91>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.341833e0 ;
-        geo:lng         -6.231291e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "South Dock Road" .
-
-<ex:station_63>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  35 ;
-        geo:lat         53.341428e0 ;
-        geo:lng         -6.24672e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Fenian Street" .
-
-<ex:station_35>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.347692e0 ;
-        geo:lng         -6.278214e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Smithfield" .
-
-<ex:station_76>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  38 ;
-        geo:lat         53.342296e0 ;
-        geo:lng         -6.287661e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Market Street South" .
-
-<ex:station_48>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.347777e0 ;
-        geo:lng         -6.244239e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Excise Walk" .
-
-<ex:station_89>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.335211e0 ;
-        geo:lng         -6.2509e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Fitzwilliam Square East" .
-
-<ex:station_104>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.355173e0 ;
-        geo:lng         -6.278424e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Grangegorman Lower (Central)" .
-
-<ex:station_42>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.349562e0 ;
-        geo:lng         -6.278198e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Smithfield North" .
-
-<ex:station_83>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.340714e0 ;
-        geo:lng         -6.308191e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Emmet Road" .
-
-<ex:station_55>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  36 ;
-        geo:lat         53.33403e0 ;
-        geo:lng         -6.260714e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Hatch Street" .
-
-<ex:station_27>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.341288e0 ;
-        geo:lng         -6.258117e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Molesworth Street" .
-
-<ex:station_8>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.347884e0 ;
-        geo:lng         -6.248048e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Custom House Quay" .
-
-<ex:station_96>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.341805e0 ;
-        geo:lng         -6.305085e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Kilmainham Lane" .
-
-<ex:station_68>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.344115e0 ;
-        geo:lng         -6.237153e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Hanover Quay" .
-
-<ex:station_111>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.356717e0 ;
-        geo:lng         -6.256359e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Mountjoy Square East" .
-
-<ex:station_21>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.34218e0 ;
-        geo:lng         -6.254485e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Leinster Street South" .
-
-<ex:station_2>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.356769e0 ;
-        geo:lng         -6.26814e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Blessington Street" .
-
-<ex:station_90>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.344153e0 ;
-        geo:lng         -6.233451e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Benson Street" .
-
-<ex:station_62>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.346026e0 ;
-        geo:lng         -6.243576e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Lime Street" .
-
-<ex:station_34>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.330362e0 ;
-        geo:lng         -6.265163e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Portobello Harbour" .
-
-<ex:station_75>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.343456e0 ;
-        geo:lng         -6.287409e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "James Street" .
-
-<ex:station_109>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  29 ;
-        geo:lat         53.353331e0 ;
-        geo:lng         -6.249319e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Buckingham Street Lower" .
-
-<ex:station_47>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.335742e0 ;
-        geo:lng         -6.24551e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Herbert Street" .
-
-<ex:station_19>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.334432e0 ;
-        geo:lng         -6.245575e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Herbert Place" .
-
-<ex:station_88>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.3488e0 ;
-        geo:lng         -6.281637e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Blackhall Place" .
-
-<ex:station_103>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.354663e0 ;
-        geo:lng         -6.278681e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Grangegorman Lower (South)" .
-
-<ex:station_41>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.332763e0 ;
-        geo:lng         -6.257942e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Harcourt Terrace" .
-
-<ex:station_13>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.336074e0 ;
-        geo:lng         -6.252825e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Fitzwilliam Square West" .
-
-<ex:station_82>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  22 ;
-        geo:lat         53.341645e0 ;
-        geo:lng         -6.29719e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Mount Brown" .
-
-<ex:station_54>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  33 ;
-        geo:lat         53.336021e0 ;
-        geo:lng         -6.26298e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Clonmel Street" .
-
-<ex:station_26>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.339764e0 ;
-        geo:lng         -6.251988e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Merrion Square West" .
-
-<ex:station_7>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  29 ;
-        geo:lat         53.343565e0 ;
-        geo:lng         -6.275071e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "High Street" .
-
-<ex:station_95>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.343897e0 ;
-        geo:lng         -6.29706e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Royal Hospital" .
-
-<ex:station_67>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.346867e0 ;
-        geo:lng         -6.230852e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "The Point" .
-
-<ex:station_39>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.332383e0 ;
-        geo:lng         -6.252717e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Wilton Terrace" .
-
-<ex:station_110>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.356307e0 ;
-        geo:lng         -6.273717e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Phibsborough Road" .
-
-<ex:station_61>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         53.357043e0 ;
-        geo:lng         -6.263232e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Hardwicke Place" .
-
-<ex:station_33>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  23 ;
-        geo:lat         53.349013e0 ;
-        geo:lng         -6.260311e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Princes Street / O'Connell Street" .
-
-<ex:station_74>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.343893e0 ;
-        geo:lng         -6.280531e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Oliver Bond Street" .
-
-<ex:station_108>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.359405e0 ;
-        geo:lng         -6.276142e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Avondale Road" .
-
-<ex:station_18>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.334123e0 ;
-        geo:lng         -6.265436e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Grantham Street" .
-
-<ex:station_87>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  38 ;
-        geo:lat         53.347477e0 ;
-        geo:lng         -6.28525e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Collins Barracks Museum" .
-
-<ex:station_59>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.35561e0 ;
-        geo:lng         -6.261397e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Denmark Street Great" .
-
-<ex:station_40>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  21 ;
-        geo:lat         53.3483e0 ;
-        geo:lng         -6.266651e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Jervis Street" .
-
-<ex:station_102>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.354929e0 ;
-        geo:lng         -6.269425e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Western Way" .
-
-<ex:station_12>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.359246e0 ;
-        geo:lng         -6.269779e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Eccles Street" .
-
-<ex:station_81>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.339983e0 ;
-        geo:lng         -6.295594e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "St. James Hospital (Central)" .
-
-<ex:station_115>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.354845e0 ;
-        geo:lng         -6.247579e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Killarney Street" .
-
-<ex:station_53>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.337132e0 ;
-        geo:lng         -6.26059e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Newman House" .
-
-<ex:station_25>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.339434e0 ;
-        geo:lng         -6.246548e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Merrion Square East" .
-
-<ex:station_6>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         53.343368e0 ;
-        geo:lng         -6.27012e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Christchurch Place" .
-
-<ex:station_94>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.346985e0 ;
-        geo:lng         -6.297804e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Heuston Station (Car Park)" .
-
-<ex:station_66>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.347122e0 ;
-        geo:lng         -6.234749e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "New Central Bank" .
-
-<ex:station_38>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         53.350974e0 ;
-        geo:lng         -6.25294e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Talbot Street" .
-
-<ex:station_79>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  27 ;
-        geo:lat         53.358115e0 ;
-        geo:lng         -6.265601e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Eccles Street East" .
-
-<ex:station_32>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.344304e0 ;
-        geo:lng         -6.250427e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Pearse Street" .
-
-<ex:station_73>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.342081e0 ;
-        geo:lng         -6.275233e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Francis Street" .
-
-<ex:station_107>  a     sosa:FeatureOfInterest ;
+<ex:station_107_Dublin>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  40 ;
         geo:lat         53.359157e0 ;
         geo:lng         -6.281866e0 ;
-        wdp:P131        city:dublin ;
+        wdp:P131        city:Dublin ;
         wdp:P669        "Charleville Road" .
 
-<ex:station_45>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         53.351464e0 ;
-        geo:lng         -6.255265e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Deverell Place" .
-
-<ex:station_17>  a      sosa:FeatureOfInterest ;
+<ex:station_6_Dublin>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
-        geo:lat         53.340803e0 ;
-        geo:lng         -6.267732e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Golden Lane" .
+        geo:lat         53.343368e0 ;
+        geo:lng         -6.27012e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Christchurch Place" .
 
-<ex:station_86>  a      sosa:FeatureOfInterest ;
+<ex:station_87_Dublin>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  38 ;
-        geo:lat         53.347972e0 ;
-        geo:lng         -6.291804e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Parkgate Street" .
+        geo:lat         53.347477e0 ;
+        geo:lng         -6.28525e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Collins Barracks Museum" .
 
-<ex:station_58>  a      sosa:FeatureOfInterest ;
+<ex:station_64_Dublin>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  40 ;
-        geo:lat         53.339218e0 ;
-        geo:lng         -6.240642e0 ;
-        wdp:P131        city:dublin ;
-        wdp:P669        "Sir Patrick's Dun" .
+        geo:lat         53.345203e0 ;
+        geo:lng         -6.247163e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Sandwith Street" .
 
-<ex:station_99>  a      sosa:FeatureOfInterest ;
+<ex:station_90_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.344153e0 ;
+        geo:lng         -6.233451e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Benson Street" .
+
+<ex:station_98_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.341515e0 ;
+        geo:lng         -6.256853e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Frederick Street South" .
+
+<ex:station_38_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.350974e0 ;
+        geo:lng         -6.25294e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Talbot Street" .
+
+<ex:station_41_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.332763e0 ;
+        geo:lng         -6.257942e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Harcourt Terrace" .
+
+<ex:station_15_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         53.355473e0 ;
+        geo:lng         -6.264423e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Hardwicke Street" .
+
+<ex:station_75_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.343456e0 ;
+        geo:lng         -6.287409e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "James Street" .
+
+<ex:station_49_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.347932e0 ;
+        geo:lng         -6.240928e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Guild Street" .
+
+<ex:station_52_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  32 ;
+        geo:lat         53.338755e0 ;
+        geo:lng         -6.262003e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "York Street East" .
+
+<ex:station_26_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.339764e0 ;
+        geo:lng         -6.251988e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Merrion Square West" .
+
+<ex:station_104_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.355173e0 ;
+        geo:lng         -6.278424e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Grangegorman Lower (Central)" .
+
+<ex:station_3_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.351182e0 ;
+        geo:lng         -6.269859e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Bolton Street" .
+
+<ex:station_115_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.354845e0 ;
+        geo:lng         -6.247579e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Killarney Street" .
+
+<ex:station_95_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.343897e0 ;
+        geo:lng         -6.29706e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Royal Hospital" .
+
+<ex:station_72_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  31 ;
+        geo:lat         53.343105e0 ;
+        geo:lng         -6.277167e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "John Street West" .
+
+<ex:station_83_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.340714e0 ;
+        geo:lng         -6.308191e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Emmet Road" .
+
+<ex:station_57_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         53.339629e0 ;
+        geo:lng         -6.243778e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Grattan Street" .
+
+<ex:station_34_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.330362e0 ;
+        geo:lng         -6.265163e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Portobello Harbour" .
+
+<ex:station_68_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.344115e0 ;
+        geo:lng         -6.237153e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Hanover Quay" .
+
+<ex:station_11_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.334019e0 ;
+        geo:lng         -6.258371e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Earlsfort Terrace" .
+
+<ex:station_19_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.334432e0 ;
+        geo:lng         -6.245575e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Herbert Place" .
+
+<ex:station_112_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.357841e0 ;
+        geo:lng         -6.251557e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "North Circular Road (O'Connell's)" .
+
+<ex:station_100_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         53.347106e0 ;
+        geo:lng         -6.292041e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Heuston Bridge (South)" .
+
+<ex:station_108_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.359405e0 ;
+        geo:lng         -6.276142e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Avondale Road" .
+
+<ex:station_7_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  29 ;
+        geo:lat         53.343565e0 ;
+        geo:lng         -6.275071e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "High Street" .
+
+<ex:station_80_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.341359e0 ;
+        geo:lng         -6.292951e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "St James Hospital (Luas)" .
+
+<ex:station_88_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.3488e0 ;
+        geo:lng         -6.281637e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Blackhall Place" .
+
+<ex:station_65_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.34744e0 ;
+        geo:lng         -6.238523e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Convention Centre" .
+
+<ex:station_91_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.341833e0 ;
+        geo:lng         -6.231291e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "South Dock Road" .
+
+<ex:station_99_Dublin>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  30 ;
         geo:lat         53.346637e0 ;
         geo:lng         -6.246154e0 ;
-        wdp:P131        city:dublin ;
+        wdp:P131        city:Dublin ;
         wdp:P669        "City Quay" .
+
+<ex:station_76_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  38 ;
+        geo:lat         53.342296e0 ;
+        geo:lng         -6.287661e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Market Street South" .
+
+<ex:station_42_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.349562e0 ;
+        geo:lng         -6.278198e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Smithfield North" .
+
+<ex:station_16_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.347508e0 ;
+        geo:lng         -6.252192e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Georges Quay" .
+
+<ex:station_53_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.337132e0 ;
+        geo:lng         -6.26059e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Newman House" .
+
+<ex:station_27_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.341288e0 ;
+        geo:lng         -6.258117e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Molesworth Street" .
+
+<ex:station_30_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.353462e0 ;
+        geo:lng         -6.265305e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Parnell Square North" .
+
+<ex:station_105_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  36 ;
+        geo:lat         53.355954e0 ;
+        geo:lng         -6.278378e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Grangegorman Lower (North)" .
+
+<ex:station_4_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.346874e0 ;
+        geo:lng         -6.272976e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Greek Street" .
+
+<ex:station_96_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.341805e0 ;
+        geo:lng         -6.305085e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Kilmainham Lane" .
+
+<ex:station_73_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.342081e0 ;
+        geo:lng         -6.275233e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Francis Street" .
+
+<ex:station_50_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.35023e0 ;
+        geo:lng         -6.279696e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "George's Lane" .
+
+<ex:station_84_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.339005e0 ;
+        geo:lng         -6.300217e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Brookfield Road" .
+
+<ex:station_58_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.339218e0 ;
+        geo:lng         -6.240642e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Sir Patrick's Dun" .
+
+<ex:station_35_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.347692e0 ;
+        geo:lng         -6.278214e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Smithfield" .
+
+<ex:station_61_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         53.357043e0 ;
+        geo:lng         -6.263232e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Hardwicke Place" .
+
+<ex:station_69_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.342638e0 ;
+        geo:lng         -6.238695e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Grand Canal Dock" .
+
+<ex:station_12_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.359246e0 ;
+        geo:lng         -6.269779e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Eccles Street" .
+
+<ex:station_113_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.338614e0 ;
+        geo:lng         -6.248606e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Merrion Square South" .
+
+<ex:station_23_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.348279e0 ;
+        geo:lng         -6.254662e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Custom House" .
+
+<ex:station_101_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.350291e0 ;
+        geo:lng         -6.273507e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "King Street North" .
+
+<ex:station_109_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  29 ;
+        geo:lat         53.353331e0 ;
+        geo:lng         -6.249319e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Buckingham Street Lower" .
+
+<ex:station_8_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.347884e0 ;
+        geo:lng         -6.248048e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Custom House Quay" .
+
+<ex:station_89_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.335211e0 ;
+        geo:lng         -6.2509e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Fitzwilliam Square East" .
+
+<ex:station_92_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.347802e0 ;
+        geo:lng         -6.292432e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Heuston Bridge (North)" .
+
+<ex:station_66_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.347122e0 ;
+        geo:lng         -6.234749e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "New Central Bank" .
+
+<ex:station_77_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  29 ;
+        geo:lat         53.348875e0 ;
+        geo:lng         -6.267459e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Wolfe Tone Street" .
+
+<ex:station_43_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.330091e0 ;
+        geo:lng         -6.268044e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Portobello Road" .
+
+<ex:station_54_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  33 ;
+        geo:lat         53.336021e0 ;
+        geo:lng         -6.26298e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Clonmel Street" .
+
+<ex:station_28_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.356299e0 ;
+        geo:lng         -6.258586e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Mountjoy Square West" .
+
+<ex:station_31_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.350929e0 ;
+        geo:lng         -6.265125e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Parnell Street" .
+
+<ex:station_39_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.332383e0 ;
+        geo:lng         -6.252717e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Wilton Terrace" .
+
+<ex:station_106_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.35893e0 ;
+        geo:lng         -6.280337e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Rathdown Road" .
+
+<ex:station_85_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         53.338776e0 ;
+        geo:lng         -6.30395e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Rothe Abbey" .
+
+<ex:station_51_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.339334e0 ;
+        geo:lng         -6.264699e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "York Street West" .
+
+<ex:station_59_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.35561e0 ;
+        geo:lng         -6.261397e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Denmark Street Great" .
+
+<ex:station_62_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.346026e0 ;
+        geo:lng         -6.243576e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Lime Street" .
+
+<ex:station_36_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.337824e0 ;
+        geo:lng         -6.256035e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "St. Stephen's Green East" .
+
+<ex:station_47_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.335742e0 ;
+        geo:lng         -6.24551e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Herbert Street" .
+
+<ex:station_13_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.336074e0 ;
+        geo:lng         -6.252825e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Fitzwilliam Square West" .
+
+<ex:station_24_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.352149e0 ;
+        geo:lng         -6.260533e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Cathal Brugha Street" .
+
+<ex:station_102_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.354929e0 ;
+        geo:lng         -6.269425e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Western Way" .
+
+<ex:station_9_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         53.343034e0 ;
+        geo:lng         -6.263578e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Exchequer Street" .
+
+<ex:station_93_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.346603e0 ;
+        geo:lng         -6.296924e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Heuston Station (Central)" .
+
+<ex:station_67_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.346867e0 ;
+        geo:lng         -6.230852e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "The Point" .
+
+<ex:station_44_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.358437e0 ;
+        geo:lng         -6.260641e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Upper Sherrard Street" .
+
+<ex:station_78_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.359967e0 ;
+        geo:lng         -6.264828e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Mater Hospital" .
+
+<ex:station_21_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.34218e0 ;
+        geo:lng         -6.254485e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Leinster Street South" .
+
+<ex:station_81_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.339983e0 ;
+        geo:lng         -6.295594e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "St. James Hospital (Central)" .
+
+<ex:station_55_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  36 ;
+        geo:lat         53.33403e0 ;
+        geo:lng         -6.260714e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Hatch Street" .
+
+<ex:station_29_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  29 ;
+        geo:lat         53.346057e0 ;
+        geo:lng         -6.268001e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Ormond Quay Upper" .
+
+<ex:station_32_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.344304e0 ;
+        geo:lng         -6.250427e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Pearse Street" .
+
+<ex:station_17_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.340803e0 ;
+        geo:lng         -6.267732e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Golden Lane" .
+
+<ex:station_110_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.356307e0 ;
+        geo:lng         -6.273717e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Phibsborough Road" .
+
+<ex:station_5_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.330662e0 ;
+        geo:lng         -6.260177e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Charlemont Street" .
+
+<ex:station_86_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  38 ;
+        geo:lat         53.347972e0 ;
+        geo:lng         -6.291804e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Parkgate Street" .
+
+<ex:station_97_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.342113e0 ;
+        geo:lng         -6.310015e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Kilmainham Gaol" .
+
+<ex:station_63_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         53.341428e0 ;
+        geo:lng         -6.24672e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Fenian Street" .
+
+<ex:station_37_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.337494e0 ;
+        geo:lng         -6.26199e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "St. Stephen's Green South" .
+
+<ex:station_40_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         53.3483e0 ;
+        geo:lng         -6.266651e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Jervis Street" .
+
+<ex:station_74_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.343893e0 ;
+        geo:lng         -6.280531e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Oliver Bond Street" .
+
+<ex:station_48_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.347777e0 ;
+        geo:lng         -6.244239e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Excise Walk" .
+
+<ex:station_25_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.339434e0 ;
+        geo:lng         -6.246548e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Merrion Square East" .
+
+<ex:station_103_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.354663e0 ;
+        geo:lng         -6.278681e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Grangegorman Lower (South)" .
+
+<ex:station_2_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.356769e0 ;
+        geo:lng         -6.26814e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Blessington Street" .
+
+<ex:station_114_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.333653e0 ;
+        geo:lng         -6.248345e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Wilton Terrace (Park)" .
+
+<ex:station_94_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.346985e0 ;
+        geo:lng         -6.297804e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Heuston Station (Car Park)" .
+
+<ex:station_79_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  27 ;
+        geo:lat         53.358115e0 ;
+        geo:lng         -6.265601e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Eccles Street East" .
+
+<ex:station_71_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.337757e0 ;
+        geo:lng         -6.267699e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Kevin Street" .
+
+<ex:station_45_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.351464e0 ;
+        geo:lng         -6.255265e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Deverell Place" .
+
+<ex:station_22_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         53.345922e0 ;
+        geo:lng         -6.254614e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Townsend Street" .
+
+<ex:station_82_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         53.341645e0 ;
+        geo:lng         -6.29719e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Mount Brown" .
+
+<ex:station_56_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.33796e0 ;
+        geo:lng         -6.24153e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Mount Street Lower" .
+
+<ex:station_33_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         53.349013e0 ;
+        geo:lng         -6.260311e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Princes Street / O'Connell Street" .
+
+<ex:station_10_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         53.344007e0 ;
+        geo:lng         -6.266802e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Dame Street" .
+
+<ex:station_18_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         53.334123e0 ;
+        geo:lng         -6.265436e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Grantham Street" .
+
+<ex:station_111_Dublin>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         53.356717e0 ;
+        geo:lng         -6.256359e0 ;
+        wdp:P131        city:Dublin ;
+        wdp:P669        "Mountjoy Square East" .

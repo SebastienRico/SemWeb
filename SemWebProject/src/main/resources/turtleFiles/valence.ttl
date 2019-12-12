@@ -10,1934 +10,2210 @@
 @prefix sosa:  <http://www.w3.org/ns/sosa/> .
 @prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
 
-<ex:station_231>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.495040177417366e0 ;
-        geo:lng         -0.378712119815713e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Alcañiz - Cambrils" .
-
-<ex:station_210>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.45552103825903e0 ;
-        geo:lng         -0.396807152864784e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Campos Crespo - Juan de Garay" .
-
-<ex:station_181>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.45796705574948e0 ;
-        geo:lng         -0.368282068629998e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Zapadores, 23" .
-
-<ex:station_160>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46730409669327e0 ;
-        geo:lng         -0.33907198613268e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "José María de Haro - Justo y Pastor" .
-
-<ex:station_94>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.47534611972441e0 ;
-        geo:lng         -0.351674028220146e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Blasco Ibañez - Clariano" .
-
-<ex:station_139>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.48567414446925e0 ;
-        geo:lng         -0.382964127549696e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Reus - Alquería de la Estrella" .
-
-<ex:station_73>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46622709180114e0 ;
-        geo:lng         -0.342969997228533e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Jerónimo Monsoriu - Industria" .
-
-<ex:station_118>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.4804341340267e0 ;
-        geo:lng         -0.360507057423573e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Gómez Ferrer - Álvaro de Bazán" .
-
-<ex:station_52>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.45600205620843e0 ;
-        geo:lng         -0.346431002074561e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Luis García Berlanga Martí - Menorca" .
-
-<ex:station_31>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46733308836422e0 ;
-        geo:lng         -0.365119064198398e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Salamanca - Conde Altea" .
-
-<ex:station_260>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.45952404837945e0 ;
-        geo:lng         -0.407308186532079e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Traginers - Pedrapiquers" .
-
-<ex:station_10>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.47078409432719e0 ;
-        geo:lng         -0.382701118769287e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Hospital - Horno del Hospital" .
-
-<ex:station_239>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.496953177032466e0 ;
-        geo:lng         -0.400055184833165e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Florista - T4 (Palau de Congressos)" .
-
-<ex:station_218>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.470708089307045e0 ;
-        geo:lng         -0.397475163041212e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Salvador Ferrandis Luna - Juan Bautista Vives" .
-
-<ex:station_7>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.474840109114226e0 ;
-        geo:lng         -0.379276110679168e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza del Mercado - Taula de Canvis" .
-
-<ex:station_189>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         39.4446390082756e0 ;
-        geo:lng         -0.37599308454911e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Hospital Nueva Fe (administración)" .
-
-<ex:station_168>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.47683913241012e0 ;
-        geo:lng         -0.327977958049006e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Malvarrosa - Río Tajo" .
-
-<ex:station_147>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.473169103148095e0 ;
-        geo:lng         -0.38029811284559e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pie de la Cruz - Rejas" .
-
-<ex:station_81>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.47509611584928e0 ;
-        geo:lng         -0.361069056238335e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Micer Mascó - Rodriguez Fornos" .
-
-<ex:station_126>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.493066176705305e0 ;
-        geo:lng         -0.36019506326505e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Alfahuir - José Chabas Bordehore" .
-
-<ex:station_60>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  19 ;
-        geo:lat         39.462199075340266e0 ;
-        geo:lng         -0.351867021712218e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Baleares - Lebón" .
-
-<ex:station_105>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         39.477658129796865e0 ;
-        geo:lng         -0.344611008304436e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Aularios Universidad de Valencia" .
-
-<ex:station_39>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  19 ;
-        geo:lat         39.457822053401024e0 ;
-        geo:lng         -0.374022085762198e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Peris y Valero - Cuba" .
-
-<ex:station_268>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  10 ;
-        geo:lat         39.50141318615774e0 ;
-        geo:lng         -0.418584242795808e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza Luis Cano, 5" .
-
-<ex:station_18>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  24 ;
-        geo:lat         39.46815908853249e0 ;
-        geo:lng         -0.373220088928677e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Colón 20-22" .
-
-<ex:station_247>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.46737807542721e0 ;
-        geo:lng         -0.405664185821979e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Tres Cruces - Músico Ayllón" .
-
-<ex:station_226>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         39.490832156737454e0 ;
-        geo:lng         -0.398950178249295e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Corts Valencianes - La Safor" .
-
-<ex:station_205>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  24 ;
-        geo:lat         39.489255153267536e0 ;
-        geo:lng         -0.393181160103781e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Nicasio Benlloch - Amics dels Corpus" .
-
-<ex:station_197>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.458152048558595e0 ;
-        geo:lng         -0.392424141132886e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Fontanars dels Aforins - Jacinto Labaila" .
-
-<ex:station_176>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.491985167042394e0 ;
-        geo:lng         -0.378944118876901e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Cno. Moncada - Pedro Patricio Mey" .
-
-<ex:station_155>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46492108086036e0 ;
-        geo:lng         -0.363169057053421e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Salamanca - Reina Doña Germana" .
-
-<ex:station_89>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         39.47777012539991e0 ;
-        geo:lng         -0.359409052701581e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Blasco Ibañez, 23 (F. Filosofía y Psicología)" .
-
-<ex:station_134>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.48762415410862e0 ;
-        geo:lng         -0.373430100012801e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Maximiliano Thous - Luz Casanova" .
-
-<ex:station_113>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  38 ;
-        geo:lat         39.48124414217441e0 ;
-        geo:lng         -0.343702007510602e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "UPV Caminos" .
-
-<ex:station_68>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46277108052299e0 ;
-        geo:lng         -0.341823991929563e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Av. Puerto - José Aguilar" .
-
-<ex:station_47>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.45648005487459e0 ;
-        geo:lng         -0.355509029538065e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Autopista del Saler - Puente Monteolivete" .
-
-<ex:station_276>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.4619430835605e0 ;
-        geo:lng         -0.323855937664754e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Veles e Vents" .
-
-<ex:station_26>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.46616307762487e0 ;
-        geo:lng         -0.386143126606345e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "San José de Calasanz - Salas Quiroga" .
-
-<ex:station_255>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         39.44767101522146e0 ;
-        geo:lng         -0.386120116565009e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Tomas de Villarroya - San Vicente" .
-
-<ex:station_234>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.49646718382403e0 ;
-        geo:lng         -0.373735105660714e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza Músico Espí" .
-
-<ex:station_213>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.463133063872554e0 ;
-        geo:lng         -0.397063157732616e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Archiduque Carlos - José María Mortes Lerma" .
-
-<ex:station_2>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.4798571258551e0 ;
-        geo:lng         -0.379839115061075e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Salvador Giner - C. Museo" .
-
-<ex:station_184>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.452750038999675e0 ;
-        geo:lng         -0.365661057953976e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Bombero Ramón Duart - Hermanos Maristas" .
-
-<ex:station_163>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.464405091973795e0 ;
-        geo:lng         -0.323491937905993e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Paseo Neptuno 32-34" .
-
-<ex:station_142>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.48188812951767e0 ;
-        geo:lng         -0.389750145869399e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Gregorio Gea - Profesor Beltrán Báguena" .
-
-<ex:station_97>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  23 ;
-        geo:lat         39.47303611466866e0 ;
-        geo:lng         -0.343223001657882e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Blasco Ibañez 121" .
-
-<ex:station_76>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  19 ;
-        geo:lat         39.4700511045018e0 ;
-        geo:lng         -0.343552001034738e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Campoamor - Músico Ginés" .
-
-<ex:station_121>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.48615015382428e0 ;
-        geo:lng         -0.358862055563278e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Murta - Sant Eperit" .
-
-<ex:station_55>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.45931106660426e0 ;
-        geo:lng         -0.348777010892994e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Francia - Pintor Maella" .
-
-<ex:station_100>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.471602111446835e0 ;
-        geo:lng         -0.33824098596173e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Blasco Ibañez - Mestre Ripoll" .
-
-<ex:station_34>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  17 ;
-        geo:lat         39.46409007583113e0 ;
-        geo:lng         -0.370052077239064e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Regne de Valencia - Doctor Sumsi" .
-
-<ex:station_263>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         39.46701107287583e0 ;
-        geo:lng         -0.409735197841415e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Padre Esteban Pernet - Casa Misericordia" .
-
-<ex:station_13>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  24 ;
-        geo:lat         39.472030102316914e0 ;
-        geo:lng         -0.370965084251257e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Alfonso el Magnánimo - Nave" .
-
-<ex:station_242>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.48787514504915e0 ;
-        geo:lng         -0.404288192680299e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "La Safor - Maestro Rodrigo" .
-
-<ex:station_221>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.47523810283483e0 ;
-        geo:lng         -0.40294418188015e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Manuel de Falla - Hernández Lázaro" .
-
-<ex:station_200>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.4677050805168e0 ;
-        geo:lng         -0.393305148918046e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Av. del Cid - Julián Peña" .
-
-<ex:station_192>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.45260503424732e0 ;
-        geo:lng         -0.378805097289263e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Cra. Malilla - Oltá" .
-
-<ex:station_171>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.48302815289556e0 ;
-        geo:lng         -0.329098964737767e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Gran Canaria - Ingeniero Manuel Maese" .
-
-<ex:station_150>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.467689094227495e0 ;
-        geo:lng         -0.350700021177111e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Manuel Candela - Rodriguez de Cepeda" .
-
-<ex:station_84>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.46726209778759e0 ;
-        geo:lng         -0.335255974679776e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Serrería, 67" .
-
-<ex:station_129>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.485943149532034e0 ;
-        geo:lng         -0.37003608893869e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Almazora - Benimuslem" .
-
-<ex:station_63>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.467747091898616e0 ;
-        geo:lng         -0.358505044597536e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Av Puerto 19 (Telefónica)" .
-
-<ex:station_108>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.47365411982902e0 ;
-        geo:lng         -0.333702973476317e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Luís Peixó 20" .
-
-<ex:station_42>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.45874906147631e0 ;
-        geo:lng         -0.358749040474832e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Av. de la Plata (Museo Fallero)" .
-
-<ex:station_271>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.499247187993085e0 ;
-        geo:lng         -0.389982155850781e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Salvador Cerveró - Carlos Cortina" .
-
-<ex:station_21>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  16 ;
-        geo:lat         39.4723390971218e0 ;
-        geo:lng         -0.390305142409828e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Juan Llorens - Literato Gabriel Miró" .
-
-<ex:station_250>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.45632e0 ;
-        geo:lng         -0.4008977e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Tres Cruces - Pio XI" .
-
-<ex:station_229>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  16 ;
-        geo:lat         39.49307216559276e0 ;
-        geo:lng         -0.394897167291038e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Aitana - Florista" .
-
-<ex:station_208>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.451660027860314e0 ;
-        geo:lng         -0.38866912636635e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Carteros - Mossen Febrer" .
-
-<ex:station_179>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  23 ;
-        geo:lat         39.455440047796785e0 ;
-        geo:lng         -0.366517061973888e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Av. de la Plata - Zapadores" .
-
-<ex:station_158>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.46666609819163e0 ;
-        geo:lng         -0.327809952057852e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Doctor Lluch - Virgen del Sufragio" .
-
-<ex:station_92>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.475828119933816e0 ;
-        geo:lng         -0.356059041618514e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Blasco Ibañez - Aragón" .
-
-<ex:station_137>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.489001156645486e0 ;
-        geo:lng         -0.379987120406342e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Economista Gay - Luis Crumiere" .
-
-<ex:station_71>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.460348075016185e0 ;
-        geo:lng         -0.333621966050435e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Av. Puerto - Plaza Tribunal de les Aigües" .
-
-<ex:station_116>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.483221144341215e0 ;
-        geo:lng         -0.357652050365347e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Doctor Vicente Zaragozá - Ramón Asensio" .
-
-<ex:station_50>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         39.453286044933414e0 ;
-        geo:lng         -0.352950020141597e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Autopista del Saler - Antonio Ferrandis (C.C. El Saler)" .
-
-<ex:station_29>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.47008009754055e0 ;
-        geo:lng         -0.36539006649012e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza América - Cirilo Amorós - Sorní" .
-
-<ex:station_258>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.43979598762512e0 ;
-        geo:lng         -0.38922812163005e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pintor Rafael Solves - Jose Soto Mico" .
-
-<ex:station_237>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.4947261723789e0 ;
-        geo:lng         -0.391129156875508e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Levante U.D. - Ecuador" .
-
-<ex:station_216>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  17 ;
-        geo:lat         39.46913e0 ;
-        geo:lng         -0.399552e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Av. del Cid - Burgos" .
-
-<ex:station_5>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.4768631185303e0 ;
-        geo:lng         -0.371231087646942e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza Poeta Llorente" .
-
-<ex:station_187>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.447928021676226e0 ;
-        geo:lng         -0.368909065084874e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Ángel Villena - Ausias March" .
-
-<ex:station_166>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.47331712024639e0 ;
-        geo:lng         -0.328901958917283e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Don Vicente Guillot - Progreso" .
-
-<ex:station_145>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.481515125451246e0 ;
-        geo:lng         -0.398486171871458e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza Badajoz" .
-
-<ex:station_124>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.48846916061659e0 ;
-        geo:lng         -0.362046066347782e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Azagador de Alboraya - Dolores Marqués" .
-
-<ex:station_79>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.47274710913562e0 ;
-        geo:lng         -0.357333043778256e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Aragón - Ernesto Ferrer" .
-
-<ex:station_103>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.47842112983494e0 ;
-        geo:lng         -0.35246203223541e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Rubén Darío - Plaza Fray Luis Colomer" .
-
-<ex:station_58>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46618607914484e0 ;
-        geo:lng         -0.381677113224894e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza España" .
-
-<ex:station_37>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46090558239442e0 ;
-        geo:lng         -0.366531327258963e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Peris y Valero - Luis Santángel" .
-
-<ex:station_266>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         39.490257152389816e0 ;
-        geo:lng         -0.406462200475517e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Canal de Navarrés - Maestro Rodrigo" .
-
-<ex:station_16>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.47006009581504e0 ;
-        geo:lng         -0.370524081869223e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Colón, 60" .
-
-<ex:station_245>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.472098e0 ;
-        geo:lng         -0.405361e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Nueve de Octubre - Cieza" .
-
-<ex:station_224>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.480536120478945e0 ;
-        geo:lng         -0.403679186925212e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Jorge Comin (Metge) - Terrateig" .
-
-<ex:station_203>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.48457713488814e0 ;
-        geo:lng         -0.401273181871356e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Reina Violante - Escultor García Mas" .
-
-<ex:station_195>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  16 ;
-        geo:lat         39.45935205521343e0 ;
-        geo:lng         -0.384372117626406e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Giorgeta - Roig de Corella" .
-
-<ex:station_174>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  19 ;
-        geo:lat         39.48940615584413e0 ;
-        geo:lng         -0.386738140863954e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Monduber - Peset Aleixandre" .
-
-<ex:station_153>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  24 ;
-        geo:lat         39.483026e0 ;
-        geo:lng         -0.380682e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Llano de la Zaidía - Doctor Olóriz" .
-
-<ex:station_87>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  33 ;
-        geo:lat         39.47848612698768e0 ;
-        geo:lng         -0.361971060764256e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Blasco Ibañez - Doctor Gómez Ferrer (Clínico)" .
-
-<ex:station_132>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.48525414608695e0 ;
-        geo:lng         -0.373525099027208e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Platero Suárez - Milagrosa" .
-
-<ex:station_66>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.46423908400446e0 ;
-        geo:lng         -0.346352006288128e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Guillem de Anglesola - Av. Puerto" .
-
-<ex:station_111>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         39.480184139586505e0 ;
-        geo:lng         -0.340651997804929e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "UPV Galileo" .
-
-<ex:station_45>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.45378704370325e0 ;
-        geo:lng         -0.361946047377204e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Hermanos Maristas - General Urrutia" .
-
-<ex:station_274>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.448038033633594e0 ;
-        geo:lng         -0.333278958357397e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "San Francisco de Paula - Castell de Pop" .
-
-<ex:station_24>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.469045088002915e0 ;
-        geo:lng         -0.384118122083548e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Fernando el Católico - Cuenca" .
-
-<ex:station_253>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.452694027294896e0 ;
-        geo:lng         -0.401192164498328e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "José Meliá Castelló - Campos Crespo" .
-
-<ex:station_232>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.49461218010229e0 ;
-        geo:lng         -0.365844081019678e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "San Vicente Paul - Santiago Rusiñol" .
-
-<ex:station_211>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.45869404863428e0 ;
-        geo:lng         -0.397848157697943e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Fray Junípero Serra - Vall d'Uixó" .
-
-<ex:station_182>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  21 ;
-        geo:lat         39.455400044894006e0 ;
-        geo:lng         -0.375056087555512e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Ausias March - Pianista Amparo Iturbi" .
-
-<ex:station_161>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.467937101175984e0 ;
-        geo:lng         -0.331816964744236e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Mediterráneo - Plaza Cruz de Cañamelar" .
-
-<ex:station_95>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  33 ;
-        geo:lat         39.479803136509446e0 ;
-        geo:lng         -0.34621001424835e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Naranjos (Magisterio)" .
-
-<ex:station_140>  a     sosa:FeatureOfInterest ;
+<ex:station_140_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         39.48797215005971e0 ;
         geo:lng         -0.38969114895134e0 ;
-        wdp:P131        city:valence ;
+        wdp:P131        city:Valence ;
         wdp:P669        "Campanar - Nicasio Benlloch" .
 
-<ex:station_74>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.469917100728054e0 ;
-        geo:lng         -0.353825031741888e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza San Felipe Neri (Mercado Algirós)" .
-
-<ex:station_119>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.48248814004604e0 ;
-        geo:lng         -0.363317066947724e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Jaime Roig - Bachiller" .
-
-<ex:station_53>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.456732058086e0 ;
-        geo:lng         -0.348230007860048e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Alameda - Pintor Maella" .
-
-<ex:station_32>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.4659740827401e0 ;
-        geo:lng         -0.368338073115823e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Conde Altea - Almirante Cadarso" .
-
-<ex:station_261>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  19 ;
-        geo:lat         39.47664412448885e0 ;
-        geo:lng         -0.350468025305313e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza Xuquer - Vinalopó" .
-
-<ex:station_11>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  27 ;
-        geo:lat         39.471154097455006e0 ;
-        geo:lng         -0.376875101498657e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza Ayuntamiento - Cotanda" .
-
-<ex:station_240>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.494972169842995e0 ;
-        geo:lng         -0.401638188523523e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Camp del Turia - Corts Valencianes" .
-
-<ex:station_219>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         39.472789e0 ;
-        geo:lng         -0.401684e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Castán Tobeñas - Rincon de Ademuz" .
-
-<ex:station_8>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  23 ;
-        geo:lat         39.47428810857441e0 ;
-        geo:lng         -0.375175098086736e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza de la Reina - Mar" .
-
-<ex:station_190>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         39.446050011610645e0 ;
-        geo:lng         -0.380387098491455e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Cra. Malilla - Bulevar Sur" .
-
-<ex:station_169>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.478753139905066e0 ;
-        geo:lng         -0.324735949373236e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pavía (Instituto Isabel de Villena)" .
-
-<ex:station_148>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  35 ;
-        geo:lat         39.467113e0 ;
-        geo:lng         -0.375469e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "C/Xàtiva 30-32" .
-
-<ex:station_82>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.47602411158443e0 ;
-        geo:lng         -0.384005125495213e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Guillem de Castro (Torres de Quart)" .
-
-<ex:station_127>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.49055916686075e0 ;
-        geo:lng         -0.36453707493258e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Alfahuir - Duque de Mandas" .
-
-<ex:station_61>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46126107345635e0 ;
-        geo:lng         -0.347921009381426e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Vicent Vidal - Pintor Maella" .
-
-<ex:station_106>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.47671212762051e0 ;
-        geo:lng         -0.341477998410525e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Albalat dels Tarongers - Professor Ernest Lluch" .
-
-<ex:station_40>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  26 ;
-        geo:lat         39.470434095658966e0 ;
-        geo:lng         -0.374915095234885e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Barcas, 11" .
-
-<ex:station_269>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.499875178486775e0 ;
-        geo:lng         -0.426354265293528e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Campamento, 81" .
-
-<ex:station_19>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.47433710342028e0 ;
-        geo:lng         -0.391681147609965e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Juan Llorens - Quart" .
-
-<ex:station_248>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46280806019345e0 ;
-        geo:lng         -0.40506018155276e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Tres Cruces - Jose Maria Mortes Lerma" .
-
-<ex:station_227>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.490216153353934e0 ;
-        geo:lng         -0.403022190134151e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "San Clemente - Hospital Arnau de Vilanova" .
-
-<ex:station_206>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.49268016612935e0 ;
-        geo:lng         -0.389098149691761e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Periodista Gil Sumbiela - Poeta Serrano Clavero" .
-
-<ex:station_198>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.460848056694466e0 ;
-        geo:lng         -0.3954071515343e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Fontanars dels Aforins - Vall d'Uixó" .
-
-<ex:station_177>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.493513173915595e0 ;
-        geo:lng         -0.373579103612918e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Alcudia de Crespins - Pedro Patricio Mey" .
-
-<ex:station_156>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.460932063112466e0 ;
-        geo:lng         -0.376436094678165e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Puerto Rico - Cuba" .
-
-<ex:station_90>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         39.47670212191253e0 ;
-        geo:lng         -0.35905805107551e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Blasco Ibañez, 32 (F. Filología)" .
-
-<ex:station_135>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.48567014586083e0 ;
-        geo:lng         -0.378592114439778e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Constitución - Reus" .
-
-<ex:station_69>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.46192007863096e0 ;
-        geo:lng         -0.338811982446624e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Av. Puerto - Serrería" .
-
-<ex:station_114>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         39.481772142992675e0 ;
-        geo:lng         -0.346682016720988e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "UPV Informática" .
-
-<ex:station_48>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.450775142005085e0 ;
-        geo:lng         -0.358643429344464e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Antonio Ferrandis - General Urrutia" .
-
-<ex:station_27>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46333006942278e0 ;
-        geo:lng         -0.381942112481819e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "San Vicente Martir - Doctor Vilá Barberá" .
-
-<ex:station_256>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.4639310680958e0 ;
-        geo:lng         -0.392326143951058e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Tres Forques - Turís" .
-
-<ex:station_235>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.49801318789519e0 ;
-        geo:lng         -0.377294117154526e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Conde Torrefiel - Cecilio Plá" .
-
-<ex:station_214>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.46490006867376e0 ;
-        geo:lng         -0.400667169496185e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Santa Cruz de Tenerife, 21" .
-
-<ex:station_3>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.47680311538018e0 ;
-        geo:lng         -0.38037911504075e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza del Musico López Chavarri" .
-
-<ex:station_185>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.45001202816097e0 ;
-        geo:lng         -0.37059407126453e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Ebanista Caselles - Ausias March" .
-
-<ex:station_164>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  17 ;
-        geo:lat         39.468428105127856e0 ;
-        geo:lng         -0.324724943771547e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pavía - Columbretes" .
-
-<ex:station_143>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         39.47950512106764e0 ;
-        geo:lng         -0.391027148421504e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pio XII - Menéndez PIdal (Nuevo Centro)" .
-
-<ex:station_98>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.46964810153237e0 ;
-        geo:lng         -0.348533015740284e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Justo y Pastor - Duque de Gaeta" .
-
-<ex:station_122>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.48445314961921e0 ;
-        geo:lng         -0.354157040555065e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Músico Hipólito Martínez - Diógenes López Mecho" .
-
-<ex:station_77>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.484941147529945e0 ;
-        geo:lng         -0.365758075579642e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Molinell - Calderón de la Barca" .
-
-<ex:station_101>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         39.470036107395714e0 ;
-        geo:lng         -0.334451973768557e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Marino Blas de Lezo (estación Cabañal Adif)" .
-
-<ex:station_56>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.45838906488428e0 ;
-        geo:lng         -0.344495997567289e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Francia - Menorca" .
-
-<ex:station_35>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46371707553277e0 ;
-        geo:lng         -0.367085068143159e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Regne de Valencia - Almirante Cadarso" .
-
-<ex:station_264>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46912807848099e0 ;
-        geo:lng         -0.414523213347863e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Av. del Cid - Marconi" .
-
-<ex:station_14>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46893508902061e0 ;
-        geo:lng         -0.379815109120643e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Huesca - Barón de Cárcer" .
-
-<ex:station_243>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         39.46278806672407e0 ;
-        geo:lng         -0.384633120260506e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Albacete - Maluquer" .
-
-<ex:station_222>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.47686111010473e0 ;
-        geo:lng         -0.397373166037864e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Maestro Rodrigo - Manuel de Falla" .
-
-<ex:station_201>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.471680093784954e0 ;
-        geo:lng         -0.393759152416117e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Perez Galdós - Nou Moles" .
-
-<ex:station_193>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.4551140401216e0 ;
-        geo:lng         -0.38680912265075e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Uruguay - Carteros" .
-
-<ex:station_172>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.481430126787565e0 ;
-        geo:lng         -0.39343615667867e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pío XII - Campanar" .
-
-<ex:station_151>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46463708827678e0 ;
-        geo:lng         -0.337207979114133e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Jerónimo Monsoriu - Alcalde Cano Coloma" .
-
-<ex:station_130>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.48320614021858e0 ;
-        geo:lng         -0.370301088264948e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Convento Carmelitas - Alboraya" .
-
-<ex:station_85>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  23 ;
-        geo:lat         39.47943212926333e0 ;
-        geo:lng         -0.364806069768998e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Blasco Ibañez - Jaime Roig" .
-
-<ex:station_64>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46648608901148e0 ;
-        geo:lng         -0.354286031274125e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Av. Puerto 61-63" .
-
-<ex:station_109>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.47678713041781e0 ;
-        geo:lng         -0.333600974859012e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Naranjos - Ingeniero Fausto Elio" .
-
-<ex:station_43>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.45944506301512e0 ;
-        geo:lng         -0.361244048329219e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Escultor José Capuz - Oriente" .
-
-<ex:station_272>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.480591143659446e0 ;
-        geo:lng         -0.332280972954351e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Vicente la Roda - Ingeniero Fausto Elio" .
-
-<ex:station_22>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.469755089002845e0 ;
-        geo:lng         -0.388444135439494e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Angel Guimerá - Juan Llorens" .
-
-<ex:station_251>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.45579803670432e0 ;
-        geo:lng         -0.404504176110588e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Arquitecto Segura del Lago - Camino Nuevo de Picaña" .
-
-<ex:station_230>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.494718173715064e0 ;
-        geo:lng         -0.386875144115863e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Poeta Serrano Clavero - General Llorens" .
-
-<ex:station_209>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         39.45205002773928e0 ;
-        geo:lng         -0.393106139888379e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Gaspar Aguilar - Músico Penella" .
-
-<ex:station_180>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.45598904826899e0 ;
-        geo:lng         -0.370774075033782e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Doctor Waksman - Nieves" .
-
-<ex:station_159>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  17 ;
-        geo:lat         39.46341708497314e0 ;
-        geo:lng         -0.334812971276553e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Francisco Cubells - San José de la Vega" .
-
-<ex:station_93>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  38 ;
-        geo:lat         39.47225011180076e0 ;
-        geo:lng         -0.34390000326249e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Blasco Ibañez - Poeta Durán Tortajada" .
-
-<ex:station_138>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.48815815241352e0 ;
-        geo:lng         -0.384313132924836e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "San Pancracio - Periodista Llorente" .
-
-<ex:station_72>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.467225e0 ;
-        geo:lng         -0.346537e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Ramiro de Maeztu - Peris Brell" .
-
-<ex:station_117>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         39.47921913101099e0 ;
-        geo:lng         -0.357156046729095e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Gascó Oliag - Primado Reig" .
-
-<ex:station_51>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.45215104293519e0 ;
-        geo:lng         -0.347318002649104e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Moreras (Oceanográfico)" .
-
-<ex:station_30>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.468569091411034e0 ;
-        geo:lng         -0.368590075268948e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Cirilo Amorós - Jorge Juan (Mercado Colón)" .
-
-<ex:station_259>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.44542800538199e0 ;
-        geo:lng         -0.393106136312086e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pio IX - Músico Cabanilles" .
-
-<ex:station_238>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.497417180383685e0 ;
-        geo:lng         -0.394474168343446e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "San Jose Artesano - Francisco Morote Greus" .
-
-<ex:station_217>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.47029608559258e0 ;
-        geo:lng         -0.404687184457659e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pintor Stolz - Nueve de Octubre" .
-
-<ex:station_6>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.47276610053889e0 ;
-        geo:lng         -0.384174124251856e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Guillem de Castro - San Pedro Pascual" .
-
-<ex:station_188>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         39.44446300836761e0 ;
-        geo:lng         -0.373882078122754e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Hospital Nueva Fe (consultas externas)" .
-
-<ex:station_167>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.4748761268572e0 ;
-        geo:lng         -0.324700947178956e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pavía - Acequia de la Cadena" .
-
-<ex:station_146>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  26 ;
-        geo:lat         39.48507813986351e0 ;
-        geo:lng         -0.391043151456223e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Av. Campanar (La Fe)" .
-
-<ex:station_80>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.47371011075012e0 ;
-        geo:lng         -0.362389059448826e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Amadeo de Saboya (frente Ayuntamiento)" .
-
-<ex:station_125>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.489661165707126e0 ;
-        geo:lng         -0.358709056987903e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Masquefa, 42 - 44" .
-
-<ex:station_59>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.46305607733176e0 ;
-        geo:lng         -0.354640030484729e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Baleares - Río Escalona" .
-
-<ex:station_104>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.47835413125328e0 ;
-        geo:lng         -0.34736601693197e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Albalat dels Tarongers - Paseo Facultades" .
-
-<ex:station_38>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.459369828677254e0 ;
-        geo:lng         -0.370340076012569e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Peris y Valero - Cabo Jubi" .
-
-<ex:station_267>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  16 ;
-        geo:lat         39.4941361656198e0 ;
-        geo:lng         -0.406020201221407e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Beniferri - Vicent Tomás Martí" .
-
-<ex:station_17>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         39.467436084759534e0 ;
-        geo:lng         -0.377350100922523e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Xátiva - Bailén (Estación del Norte)" .
-
-<ex:station_246>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46905808079698e0 ;
-        geo:lng         -0.406600189533111e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Tres Cruces - Hospital General" .
-
-<ex:station_225>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.48807514670377e0 ;
-        geo:lng         -0.401233183623003e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Padre Barranco - Carlos Ruano Llopis (Pintor)" .
-
-<ex:station_204>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.48581114052686e0 ;
-        geo:lng         -0.396678168748875e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Corts Valencianes - General Avilés" .
-
-<ex:station_196>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.4595430546337e0 ;
-        geo:lng         -0.388157129082296e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Jerónimo Muñoz - Gaspar Aguilar" .
-
-<ex:station_175>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.49255716773316e0 ;
-        geo:lng         -0.382803130751858e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Juan XXIII - Domingo Gómez" .
-
-<ex:station_154>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.46984410830488e0 ;
-        geo:lng         -0.329644959268791e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pescadores - Progreso" .
-
-<ex:station_88>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         39.47748012383395e0 ;
-        geo:lng         -0.361233058011854e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Blasco Ibañez, 28 (F. Geografía e Historia)" .
-
-<ex:station_133>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.48272413676827e0 ;
-        geo:lng         -0.375973105008805e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Alfambra - Poeta Monmeneu" .
-
-<ex:station_67>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  14 ;
-        geo:lat         39.45882806883267e0 ;
-        geo:lng         -0.336888975014669e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Juan Verdeguer - Toneleros" .
-
-<ex:station_112>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         39.47854813352072e0 ;
-        geo:lng         -0.342366002058633e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Manuel Broseta i Pont - Naranjos" .
-
-<ex:station_46>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.45547705039899e0 ;
-        geo:lng         -0.358878039093959e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pintor Luis Arcas - Inst. Obrero Valenciano" .
-
-<ex:station_275>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.452273047299634e0 ;
-        geo:lng         -0.33515596627555e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Moreras - Rona de Nazaret" .
-
-<ex:station_25>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  23 ;
-        geo:lat         39.46769708197544e0 ;
-        geo:lng         -0.388701135103807e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Alberique, 18 (Abastos)" .
-
-<ex:station_254>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  19 ;
-        geo:lat         39.44768201399717e0 ;
-        geo:lng         -0.39000812823506e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Doctor Tomás Sala - Carteros" .
-
-<ex:station_233>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.497128187401e0 ;
-        geo:lng         -0.369528093405798e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "San Juan Bosco - Santiago Rusiñol" .
-
-<ex:station_212>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.461452057092146e0 ;
-        geo:lng         -0.40048716710112e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Fray Juanípero Serra - Torrente" .
-
-<ex:station_1>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.48001e0 ;
-        geo:lng         -0.38302e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "C/GUILLEM DE CASTRO esquina con C/NA JORDANA" .
-
-<ex:station_183>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         39.452588036275e0 ;
-        geo:lng         -0.372375077997377e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Ausias March - Av. de la Plata" .
-
-<ex:station_162>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  19 ;
-        geo:lat         39.46357208709311e0 ;
-        geo:lng         -0.32988595660341e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Armada Española - Mariano Cuber" .
-
-<ex:station_96>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  21 ;
-        geo:lat         39.47352211466433e0 ;
-        geo:lng         -0.348305017144382e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Blasco Ibañez - Yecla" .
-
-<ex:station_141>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.48323613551247e0 ;
-        geo:lng         -0.385247133088568e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Gregorio Gea - Padre Ferris" .
-
-<ex:station_75>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.472081108680385e0 ;
-        geo:lng         -0.351792026815861e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "República Argentina - Campoamor" .
-
-<ex:station_120>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         39.484848148381595e0 ;
-        geo:lng         -0.362137064678155e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Doctor Vicente Zaragozá - Emilio Baró" .
-
-<ex:station_54>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.45974606677287e0 ;
-        geo:lng         -0.352781023126671e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza de Europa" .
-
-<ex:station_33>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.464786076876194e0 ;
-        geo:lng         -0.37408108969372e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Germanías - Ruzafa" .
-
-<ex:station_262>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.46344006095387e0 ;
-        geo:lng         -0.409316194664879e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Tres Forques - Colonia Española de Mexico" .
-
-<ex:station_12>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.471935e0 ;
-        geo:lng         -0.374101e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Calle Salvá - Calle Poeta Querol" .
-
-<ex:station_241>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.49294616289816e0 ;
-        geo:lng         -0.401981188470323e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "La Vall d'Albaida - Corts Valencianes" .
-
-<ex:station_220>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  16 ;
-        geo:lat         39.473823099518064e0 ;
-        geo:lng         -0.398412167524643e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Castán Tobeñas - Patriques" .
-
-<ex:station_9>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.474323110354575e0 ;
-        geo:lng         -0.370021082654504e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza de Tetuán" .
-
-<ex:station_191>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.450297026408926e0 ;
-        geo:lng         -0.378957096498364e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Esparraguera - Cra. Malilla" .
-
-<ex:station_170>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.48294115378812e0 ;
-        geo:lng         -0.325424953690914e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Isabel de Villena - Mendizábal" .
-
-<ex:station_149>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.462902074466406e0 ;
-        geo:lng         -0.361886052119026e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Peris y Valero - Salamanca" .
-
-<ex:station_83>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.47755312220108e0 ;
-        geo:lng         -0.367061075518166e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "General Elio - Llano del Real" .
-
-<ex:station_128>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.488734159713275e0 ;
-        geo:lng         -0.367635083238739e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Alfahuir - Peñiscola" .
-
-<ex:station_62>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.45977907030124e0 ;
-        geo:lng         -0.342242991568314e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Menorca - Baleares" .
-
-<ex:station_107>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.47521312423745e0 ;
-        geo:lng         -0.336314982139155e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Campillo de Altobuey (Polideportivo)" .
-
-<ex:station_41>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.458880059935595e0 ;
-        geo:lng         -0.364867058884755e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "General Urrutia - Granada" .
-
-<ex:station_270>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  16 ;
-        geo:lat         39.50004318971825e0 ;
-        geo:lng         -0.392980165265021e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Ninot - Regino Mas" .
-
-<ex:station_20>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  16 ;
-        geo:lat         39.47500210686962e0 ;
-        geo:lng         -0.387938136740957e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Quart - Fernando el Católico" .
-
-<ex:station_249>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.459474049657025e0 ;
-        geo:lng         -0.402831173069948e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Tres Cruces - Segunda República Española" .
-
-<ex:station_228>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.49366016633798e0 ;
-        geo:lng         -0.398762179196655e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Doctor Nicasio Benlloch - L'Horta Sud" .
-
-<ex:station_207>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.455361042514035e0 ;
-        geo:lng         -0.381996108347568e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Giorgeta, 64" .
-
-<ex:station_199>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.461556060298705e0 ;
-        geo:lng         -0.391649140641673e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Beato Nicolás Factor - Convento de Jesús" .
-
-<ex:station_178>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.492184170392264e0 ;
-        geo:lng         -0.37059709396399e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Reig Genovés - Ramón Contreras Mongrell" .
-
-<ex:station_157>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.464020069969e0 ;
-        geo:lng         -0.387457129393968e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pérez Galdós - Marqués de Zenete" .
-
-<ex:station_91>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.444093009140374e0 ;
-        geo:lng         -0.367664059275921e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Grabador Jordan - Escultor Pastor" .
-
-<ex:station_136>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.4899091610835e0 ;
-        geo:lng         -0.375701108044157e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Economista Gay - Constitución" .
-
-<ex:station_70>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  17 ;
-        geo:lat         39.469181e0 ;
-        geo:lng         -0.371737e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Colón, 44" .
-
-<ex:station_115>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  16 ;
-        geo:lat         39.481530140385686e0 ;
-        geo:lng         -0.352239033238509e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Cataluña - Doctor Vicente Zaragozá" .
-
-<ex:station_49>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.452954722176685e0 ;
-        geo:lng         -0.35720111550767e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Ricardo Muñoz Suay - María José Victoria Fuster (C.C. El Saler)" .
-
-<ex:station_28>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  29 ;
-        geo:lat         39.47155010170615e0 ;
-        geo:lng         -0.367842074631205e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Navarro Reverter - Grabador Esteve" .
-
-<ex:station_257>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.44521900594571e0 ;
-        geo:lng         -0.389195124464717e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza Salvador Soria, 8" .
-
-<ex:station_236>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.495034176224834e0 ;
-        geo:lng         -0.382369130775341e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Rio Segre - Rafael Company" .
-
-<ex:station_215>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.46563907240366e0 ;
-        geo:lng         -0.39683915840866e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Músico Ayllón - Francisco Dolz" .
-
-<ex:station_4>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.476715116676885e0 ;
-        geo:lng         -0.375433100164395e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza de la Virgen - Bailía" .
-
-<ex:station_186>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  14 ;
-        geo:lat         39.450359028192096e0 ;
-        geo:lng         -0.374106081983545e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Benifairó de Valldigna - Joaquín Benlloch" .
-
-<ex:station_165>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.47137711508329e0 ;
-        geo:lng         -0.324660945171817e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pavía - Espadán" .
-
-<ex:station_144>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         39.478747117048464e0 ;
-        geo:lng         -0.395571161644053e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Marqués de San Juan - Diputat Lluís Lucía" .
-
-<ex:station_99>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  21 ;
-        geo:lat         39.471312109714646e0 ;
-        geo:lng         -0.34057499279659e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Blasco Ibañez - Pintor José Mongrell" .
-
-<ex:station_78>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.469913099113434e0 ;
-        geo:lng         -0.358779046585651e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Aragón - Vicente Sancho Tello" .
-
-<ex:station_123>  a     sosa:FeatureOfInterest ;
+<ex:station_123_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         39.487639156890914e0 ;
         geo:lng         -0.364932074551232e0 ;
-        wdp:P131        city:valence ;
+        wdp:P131        city:Valence ;
         wdp:P669        "Albocácer - Vinaroz" .
 
-<ex:station_57>  a      sosa:FeatureOfInterest ;
+<ex:station_176_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
-        geo:lat         39.46444408081199e0 ;
-        geo:lng         -0.35834704234339e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Alameda - Pintor Monleón" .
+        geo:lat         39.491985167042394e0 ;
+        geo:lng         -0.378944118876901e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Cno. Moncada - Pedro Patricio Mey" .
 
-<ex:station_102>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.47580112282824e0 ;
-        geo:lng         -0.346811013895548e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Ramón Llull - Serpis" .
-
-<ex:station_36>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         39.47904012448793e0 ;
-        geo:lng         -0.375527101694727e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Plaza de los Fueros - Conde Trenor" .
-
-<ex:station_265>  a     sosa:FeatureOfInterest ;
+<ex:station_171_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
-        geo:lat         39.470941086635776e0 ;
-        geo:lng         -0.408208195369257e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Alcasser - Poeta Alberto Lista" .
+        geo:lat         39.48302815289556e0 ;
+        geo:lng         -0.329098964737767e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Gran Canaria - Ingeniero Manuel Maese" .
 
-<ex:station_15>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  34 ;
-        geo:lat         39.469056090688554e0 ;
-        geo:lng         -0.375728096943875e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Ribera - Plaza Ayuntamiento" .
-
-<ex:station_244>  a     sosa:FeatureOfInterest ;
+<ex:station_239_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
-        geo:lat         39.47847411270088e0 ;
-        geo:lng         -0.406227193465013e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Valle de la Ballestera - Pio Baroja" .
+        geo:lat         39.496953177032466e0 ;
+        geo:lng         -0.400055184833165e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Florista - T4 (Palau de Congressos)" .
 
-<ex:station_223>  a     sosa:FeatureOfInterest ;
+<ex:station_46_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
-        geo:lat         39.47852611446744e0 ;
-        geo:lng         -0.40127817864509e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Valle de la Ballestera - Hospital Nueve de Octubre" .
+        geo:lat         39.45547705039899e0 ;
+        geo:lng         -0.358878039093959e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pintor Luis Arcas - Inst. Obrero Valenciano" .
 
-<ex:station_202>  a     sosa:FeatureOfInterest ;
+<ex:station_29_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
-        geo:lat         39.4761901091111e0 ;
-        geo:lng         -0.393425153835504e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pechina - Teruel" .
+        geo:lat         39.47008009754055e0 ;
+        geo:lng         -0.36539006649012e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza América - Cirilo Amorós - Sorní" .
 
-<ex:station_194>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         39.46098606179716e0 ;
-        geo:lng         -0.381065108588874e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Estación AVE Joaquín Sorolla" .
+<ex:station_99_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         39.471312109714646e0 ;
+        geo:lng         -0.34057499279659e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Blasco Ibañez - Pintor José Mongrell" .
 
-<ex:station_173>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         39.48450913674717e0 ;
-        geo:lng         -0.394769162326153e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Pío XII - Monestir de Poblet" .
-
-<ex:station_152>  a     sosa:FeatureOfInterest ;
+<ex:station_234_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
-        geo:lat         39.460893064158775e0 ;
-        geo:lng         -0.372796083742631e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Reina Doña María - Cádiz" .
+        geo:lat         39.49646718382403e0 ;
+        geo:lng         -0.373735105660714e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza Músico Espí" .
 
-<ex:station_86>  a      sosa:FeatureOfInterest ;
+<ex:station_41_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
-        geo:lat         39.45520803898995e0 ;
-        geo:lng         -0.391284136125771e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Gaspar Aguilar - Vicente Parra" .
+        geo:lat         39.458880059935595e0 ;
+        geo:lng         -0.364867058884755e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "General Urrutia - Granada" .
 
-<ex:station_131>  a     sosa:FeatureOfInterest ;
+<ex:station_105_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         39.477658129796865e0 ;
+        geo:lng         -0.344611008304436e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Aularios Universidad de Valencia" .
+
+<ex:station_94_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47534611972441e0 ;
+        geo:lng         -0.351674028220146e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Blasco Ibañez - Clariano" .
+
+<ex:station_77_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.484941147529945e0 ;
+        geo:lng         -0.365758075579642e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Molinell - Calderón de la Barca" .
+
+<ex:station_100_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.471602111446835e0 ;
+        geo:lng         -0.33824098596173e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Blasco Ibañez - Mestre Ripoll" .
+
+<ex:station_72_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.467225e0 ;
+        geo:lng         -0.346537e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Ramiro de Maeztu - Peris Brell" .
+
+<ex:station_136_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.4899091610835e0 ;
+        geo:lng         -0.375701108044157e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Economista Gay - Constitución" .
+
+<ex:station_189_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         39.4446390082756e0 ;
+        geo:lng         -0.37599308454911e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Hospital Nueva Fe (administración)" .
+
+<ex:station_131_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         39.481385e0 ;
         geo:lng         -0.373003e0 ;
-        wdp:P131        city:valence ;
+        wdp:P131        city:Valence ;
         wdp:P669        "CALLE SANTA AMALIA  2, esquina POETA BODRIA" .
 
-<ex:station_110>  a     sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         39.48070814260447e0 ;
-        geo:lng         -0.336770986463246e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "UPV Trinquet" .
-
-<ex:station_65>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  19 ;
-        geo:lat         39.46548408671991e0 ;
-        geo:lng         -0.350928020671138e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Av. Puerto - Doctor Manuel Candela" .
-
-<ex:station_44>  a      sosa:FeatureOfInterest ;
-        ex:bike_stands  19 ;
-        geo:lat         39.456397052131265e0 ;
-        geo:lng         -0.363105052261891e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "General Urrutia - Av. de la Plata" .
-
-<ex:station_273>  a     sosa:FeatureOfInterest ;
+<ex:station_184_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
-        geo:lat         39.450273041140704e0 ;
-        geo:lng         -0.33336295982062e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Moraira - Alta del Mar" .
+        geo:lat         39.452750038999675e0 ;
+        geo:lng         -0.365661057953976e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Bombero Ramón Duart - Hermanos Maristas" .
 
-<ex:station_23>  a      sosa:FeatureOfInterest ;
+<ex:station_59_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.46305607733176e0 ;
+        geo:lng         -0.354640030484729e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Baleares - Río Escalona" .
+
+<ex:station_247_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.46737807542721e0 ;
+        geo:lng         -0.405664185821979e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Tres Cruces - Músico Ayllón" .
+
+<ex:station_54_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.45974606677287e0 ;
+        geo:lng         -0.352781023126671e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza de Europa" .
+
+<ex:station_37_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46090558239442e0 ;
+        geo:lng         -0.366531327258963e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Peris y Valero - Luis Santángel" .
+
+<ex:station_242_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.48787514504915e0 ;
+        geo:lng         -0.404288192680299e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "La Safor - Maestro Rodrigo" .
+
+<ex:station_85_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         39.47943212926333e0 ;
+        geo:lng         -0.364806069768998e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Blasco Ibañez - Jaime Roig" .
+
+<ex:station_149_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.462902074466406e0 ;
+        geo:lng         -0.361886052119026e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Peris y Valero - Salamanca" .
+
+<ex:station_80_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.47371011075012e0 ;
+        geo:lng         -0.362389059448826e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Amadeo de Saboya (frente Ayuntamiento)" .
+
+<ex:station_144_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.478747117048464e0 ;
+        geo:lng         -0.395571161644053e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Marqués de San Juan - Diputat Lluís Lucía" .
+
+<ex:station_19_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.47433710342028e0 ;
+        geo:lng         -0.391681147609965e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Juan Llorens - Quart" .
+
+<ex:station_197_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.458152048558595e0 ;
+        geo:lng         -0.392424141132886e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Fontanars dels Aforins - Jacinto Labaila" .
+
+<ex:station_207_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.455361042514035e0 ;
+        geo:lng         -0.381996108347568e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Giorgeta, 64" .
+
+<ex:station_14_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46893508902061e0 ;
+        geo:lng         -0.379815109120643e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Huesca - Barón de Cárcer" .
+
+<ex:station_192_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.45260503424732e0 ;
+        geo:lng         -0.378805097289263e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Cra. Malilla - Oltá" .
+
+<ex:station_67_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         39.45882806883267e0 ;
+        geo:lng         -0.336888975014669e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Juan Verdeguer - Toneleros" .
+
+<ex:station_202_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.4761901091111e0 ;
+        geo:lng         -0.393425153835504e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pechina - Teruel" .
+
+<ex:station_255_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         39.44767101522146e0 ;
+        geo:lng         -0.386120116565009e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Tomas de Villarroya - San Vicente" .
+
+<ex:station_62_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.45977907030124e0 ;
+        geo:lng         -0.342242991568314e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Menorca - Baleares" .
+
+<ex:station_238_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.497417180383685e0 ;
+        geo:lng         -0.394474168343446e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "San Jose Artesano - Francisco Morote Greus" .
+
+<ex:station_45_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.45378704370325e0 ;
+        geo:lng         -0.361946047377204e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Hermanos Maristas - General Urrutia" .
+
+<ex:station_109_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47678713041781e0 ;
+        geo:lng         -0.333600974859012e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Naranjos - Ingeniero Fausto Elio" .
+
+<ex:station_98_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.46964810153237e0 ;
+        geo:lng         -0.348533015740284e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Justo y Pastor - Duque de Gaeta" .
+
+<ex:station_250_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.45632e0 ;
+        geo:lng         -0.4008977e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Tres Cruces - Pio XI" .
+
+<ex:station_104_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47835413125328e0 ;
+        geo:lng         -0.34736601693197e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Albalat dels Tarongers - Paseo Facultades" .
+
+<ex:station_93_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  38 ;
+        geo:lat         39.47225011180076e0 ;
+        geo:lng         -0.34390000326249e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Blasco Ibañez - Poeta Durán Tortajada" .
+
+<ex:station_157_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.464020069969e0 ;
+        geo:lng         -0.387457129393968e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pérez Galdós - Marqués de Zenete" .
+
+<ex:station_152_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.460893064158775e0 ;
+        geo:lng         -0.372796083742631e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Reina Doña María - Cádiz" .
+
+<ex:station_27_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46333006942278e0 ;
+        geo:lng         -0.381942112481819e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "San Vicente Martir - Doctor Vilá Barberá" .
+
+<ex:station_188_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         39.44446300836761e0 ;
+        geo:lng         -0.373882078122754e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Hospital Nueva Fe (consultas externas)" .
+
+<ex:station_215_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.46563907240366e0 ;
+        geo:lng         -0.39683915840866e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Músico Ayllón - Francisco Dolz" .
+
+<ex:station_22_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.469755089002845e0 ;
+        geo:lng         -0.388444135439494e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Angel Guimerá - Juan Llorens" .
+
+<ex:station_268_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         39.50141318615774e0 ;
+        geo:lng         -0.418584242795808e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza Luis Cano, 5" .
+
+<ex:station_75_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.472081108680385e0 ;
+        geo:lng         -0.351792026815861e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "República Argentina - Campoamor" .
+
+<ex:station_58_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46618607914484e0 ;
+        geo:lng         -0.381677113224894e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza España" .
+
+<ex:station_210_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.45552103825903e0 ;
+        geo:lng         -0.396807152864784e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Campos Crespo - Juan de Garay" .
+
+<ex:station_263_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         39.46701107287583e0 ;
+        geo:lng         -0.409735197841415e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Padre Esteban Pernet - Casa Misericordia" .
+
+<ex:station_70_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         39.469181e0 ;
+        geo:lng         -0.371737e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Colón, 44" .
+
+<ex:station_246_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46905808079698e0 ;
+        geo:lng         -0.406600189533111e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Tres Cruces - Hospital General" .
+
+<ex:station_53_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.456732058086e0 ;
+        geo:lng         -0.348230007860048e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Alameda - Pintor Maella" .
+
+<ex:station_117_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         39.47921913101099e0 ;
+        geo:lng         -0.357156046729095e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Gascó Oliag - Primado Reig" .
+
+<ex:station_112_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         39.47854813352072e0 ;
+        geo:lng         -0.342366002058633e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Manuel Broseta i Pont - Naranjos" .
+
+<ex:station_165_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47137711508329e0 ;
+        geo:lng         -0.324660945171817e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pavía - Espadán" .
+
+<ex:station_5_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.4768631185303e0 ;
+        geo:lng         -0.371231087646942e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza Poeta Llorente" .
+
+<ex:station_160_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46730409669327e0 ;
+        geo:lng         -0.33907198613268e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "José María de Haro - Justo y Pastor" .
+
+<ex:station_228_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.49366016633798e0 ;
+        geo:lng         -0.398762179196655e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Doctor Nicasio Benlloch - L'Horta Sud" .
+
+<ex:station_35_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46371707553277e0 ;
+        geo:lng         -0.367085068143159e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Regne de Valencia - Almirante Cadarso" .
+
+<ex:station_18_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         39.46815908853249e0 ;
+        geo:lng         -0.373220088928677e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Colón 20-22" .
+
+<ex:station_196_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.4595430546337e0 ;
+        geo:lng         -0.388157129082296e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Jerónimo Muñoz - Gaspar Aguilar" .
+
+<ex:station_223_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47852611446744e0 ;
+        geo:lng         -0.40127817864509e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Valle de la Ballestera - Hospital Nueve de Octubre" .
+
+<ex:station_30_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.468569091411034e0 ;
+        geo:lng         -0.368590075268948e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Cirilo Amorós - Jorge Juan (Mercado Colón)" .
+
+<ex:station_276_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.4619430835605e0 ;
+        geo:lng         -0.323855937664754e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Veles e Vents" .
+
+<ex:station_13_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         39.472030102316914e0 ;
+        geo:lng         -0.370965084251257e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Alfonso el Magnánimo - Nave" .
+
+<ex:station_83_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.47755312220108e0 ;
+        geo:lng         -0.367061075518166e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "General Elio - Llano del Real" .
+
+<ex:station_259_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.44542800538199e0 ;
+        geo:lng         -0.393106136312086e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pio IX - Músico Cabanilles" .
+
+<ex:station_66_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.46423908400446e0 ;
+        geo:lng         -0.346352006288128e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Guillem de Anglesola - Av. Puerto" .
+
+<ex:station_271_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.499247187993085e0 ;
+        geo:lng         -0.389982155850781e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Salvador Cerveró - Carlos Cortina" .
+
+<ex:station_254_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
-        geo:lat         39.47159609591605e0 ;
-        geo:lng         -0.3862691299059e0 ;
-        wdp:P131        city:valence ;
-        wdp:P669        "Fernando el Católico - Erudito Orellana" .
+        geo:lat         39.44768201399717e0 ;
+        geo:lng         -0.39000812823506e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Doctor Tomás Sala - Carteros" .
 
-<ex:station_252>  a     sosa:FeatureOfInterest ;
+<ex:station_61_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46126107345635e0 ;
+        geo:lng         -0.347921009381426e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Vicent Vidal - Pintor Maella" .
+
+<ex:station_125_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.489661165707126e0 ;
+        geo:lng         -0.358709056987903e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Masquefa, 42 - 44" .
+
+<ex:station_178_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.492184170392264e0 ;
+        geo:lng         -0.37059709396399e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Reig Genovés - Ramón Contreras Mongrell" .
+
+<ex:station_120_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         39.484848148381595e0 ;
+        geo:lng         -0.362137064678155e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Doctor Vicente Zaragozá - Emilio Baró" .
+
+<ex:station_173_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.48450913674717e0 ;
+        geo:lng         -0.394769162326153e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pío XII - Monestir de Poblet" .
+
+<ex:station_48_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.450775142005085e0 ;
+        geo:lng         -0.358643429344464e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Antonio Ferrandis - General Urrutia" .
+
+<ex:station_236_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.495034176224834e0 ;
+        geo:lng         -0.382369130775341e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Rio Segre - Rafael Company" .
+
+<ex:station_43_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.45944506301512e0 ;
+        geo:lng         -0.361244048329219e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Escultor José Capuz - Oriente" .
+
+<ex:station_219_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         39.472789e0 ;
+        geo:lng         -0.401684e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Castán Tobeñas - Rincon de Ademuz" .
+
+<ex:station_26_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.46616307762487e0 ;
+        geo:lng         -0.386143126606345e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "San José de Calasanz - Salas Quiroga" .
+
+<ex:station_79_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47274710913562e0 ;
+        geo:lng         -0.357333043778256e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Aragón - Ernesto Ferrer" .
+
+<ex:station_231_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.495040177417366e0 ;
+        geo:lng         -0.378712119815713e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Alcañiz - Cambrils" .
+
+<ex:station_21_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         39.4723390971218e0 ;
+        geo:lng         -0.390305142409828e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Juan Llorens - Literato Gabriel Miró" .
+
+<ex:station_91_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.444093009140374e0 ;
+        geo:lng         -0.367664059275921e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Grabador Jordan - Escultor Pastor" .
+
+<ex:station_267_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         39.4941361656198e0 ;
+        geo:lng         -0.406020201221407e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Beniferri - Vicent Tomás Martí" .
+
+<ex:station_74_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.469917100728054e0 ;
+        geo:lng         -0.353825031741888e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza San Felipe Neri (Mercado Algirós)" .
+
+<ex:station_138_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.48815815241352e0 ;
+        geo:lng         -0.384313132924836e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "San Pancracio - Periodista Llorente" .
+
+<ex:station_262_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46344006095387e0 ;
+        geo:lng         -0.409316194664879e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Tres Forques - Colonia Española de Mexico" .
+
+<ex:station_133_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.48272413676827e0 ;
+        geo:lng         -0.375973105008805e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Alfambra - Poeta Monmeneu" .
+
+<ex:station_186_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         39.450359028192096e0 ;
+        geo:lng         -0.374106081983545e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Benifairó de Valldigna - Joaquín Benlloch" .
+
+<ex:station_169_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.478753139905066e0 ;
+        geo:lng         -0.324735949373236e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pavía (Instituto Isabel de Villena)" .
+
+<ex:station_249_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.459474049657025e0 ;
+        geo:lng         -0.402831173069948e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Tres Cruces - Segunda República Española" .
+
+<ex:station_181_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.45796705574948e0 ;
+        geo:lng         -0.368282068629998e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Zapadores, 23" .
+
+<ex:station_9_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.474323110354575e0 ;
+        geo:lng         -0.370021082654504e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza de Tetuán" .
+
+<ex:station_56_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.45838906488428e0 ;
+        geo:lng         -0.344495997567289e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Francia - Menorca" .
+
+<ex:station_39_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         39.457822053401024e0 ;
+        geo:lng         -0.374022085762198e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Peris y Valero - Cuba" .
+
+<ex:station_244_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47847411270088e0 ;
+        geo:lng         -0.406227193465013e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Valle de la Ballestera - Pio Baroja" .
+
+<ex:station_4_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.476715116676885e0 ;
+        geo:lng         -0.375433100164395e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza de la Virgen - Bailía" .
+
+<ex:station_51_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.45215104293519e0 ;
+        geo:lng         -0.347318002649104e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Moreras (Oceanográfico)" .
+
+<ex:station_227_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.490216153353934e0 ;
+        geo:lng         -0.403022190134151e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "San Clemente - Hospital Arnau de Vilanova" .
+
+<ex:station_34_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         39.46409007583113e0 ;
+        geo:lng         -0.370052077239064e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Regne de Valencia - Doctor Sumsi" .
+
+<ex:station_87_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  33 ;
+        geo:lat         39.47848612698768e0 ;
+        geo:lng         -0.361971060764256e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Blasco Ibañez - Doctor Gómez Ferrer (Clínico)" .
+
+<ex:station_222_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47686111010473e0 ;
+        geo:lng         -0.397373166037864e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Maestro Rodrigo - Manuel de Falla" .
+
+<ex:station_275_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.452273047299634e0 ;
+        geo:lng         -0.33515596627555e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Moreras - Rona de Nazaret" .
+
+<ex:station_82_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.47602411158443e0 ;
+        geo:lng         -0.384005125495213e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Guillem de Castro (Torres de Quart)" .
+
+<ex:station_146_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         39.48507813986351e0 ;
+        geo:lng         -0.391043151456223e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Av. Campanar (La Fe)" .
+
+<ex:station_129_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.485943149532034e0 ;
+        geo:lng         -0.37003608893869e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Almazora - Benimuslem" .
+
+<ex:station_199_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.461556060298705e0 ;
+        geo:lng         -0.391649140641673e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Beato Nicolás Factor - Convento de Jesús" .
+
+<ex:station_270_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         39.50004318971825e0 ;
+        geo:lng         -0.392980165265021e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Ninot - Regino Mas" .
+
+<ex:station_141_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.48323613551247e0 ;
+        geo:lng         -0.385247133088568e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Gregorio Gea - Padre Ferris" .
+
+<ex:station_209_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         39.45205002773928e0 ;
+        geo:lng         -0.393106139888379e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Gaspar Aguilar - Músico Penella" .
+
+<ex:station_16_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47006009581504e0 ;
+        geo:lng         -0.370524081869223e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Colón, 60" .
+
+<ex:station_194_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         39.46098606179716e0 ;
+        geo:lng         -0.381065108588874e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Estación AVE Joaquín Sorolla" .
+
+<ex:station_177_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.493513173915595e0 ;
+        geo:lng         -0.373579103612918e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Alcudia de Crespins - Pedro Patricio Mey" .
+
+<ex:station_204_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.48581114052686e0 ;
+        geo:lng         -0.396678168748875e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Corts Valencianes - General Avilés" .
+
+<ex:station_11_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  27 ;
+        geo:lat         39.471154097455006e0 ;
+        geo:lng         -0.376875101498657e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza Ayuntamiento - Cotanda" .
+
+<ex:station_257_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.44521900594571e0 ;
+        geo:lng         -0.389195124464717e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza Salvador Soria, 8" .
+
+<ex:station_172_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.481430126787565e0 ;
+        geo:lng         -0.39343615667867e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pío XII - Campanar" .
+
+<ex:station_47_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.45648005487459e0 ;
+        geo:lng         -0.355509029538065e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Autopista del Saler - Puente Monteolivete" .
+
+<ex:station_252_Valence>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         39.450256018261534e0 ;
         geo:lng         -0.4036651706049e0 ;
-        wdp:P131        city:valence ;
+        wdp:P131        city:Valence ;
         wdp:P669        "Dels Gremis - Campos Crespo" .
+
+<ex:station_235_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.49801318789519e0 ;
+        geo:lng         -0.377294117154526e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Conde Torrefiel - Cecilio Plá" .
+
+<ex:station_42_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.45874906147631e0 ;
+        geo:lng         -0.358749040474832e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Av. de la Plata (Museo Fallero)" .
+
+<ex:station_106_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.47671212762051e0 ;
+        geo:lng         -0.341477998410525e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Albalat dels Tarongers - Professor Ernest Lluch" .
+
+<ex:station_95_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  33 ;
+        geo:lat         39.479803136509446e0 ;
+        geo:lng         -0.34621001424835e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Naranjos (Magisterio)" .
+
+<ex:station_159_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         39.46341708497314e0 ;
+        geo:lng         -0.334812971276553e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Francisco Cubells - San José de la Vega" .
+
+<ex:station_230_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.494718173715064e0 ;
+        geo:lng         -0.386875144115863e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Poeta Serrano Clavero - General Llorens" .
+
+<ex:station_101_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         39.470036107395714e0 ;
+        geo:lng         -0.334451973768557e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Marino Blas de Lezo (estación Cabañal Adif)" .
+
+<ex:station_90_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         39.47670212191253e0 ;
+        geo:lng         -0.35905805107551e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Blasco Ibañez, 32 (F. Filología)" .
+
+<ex:station_154_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.46984410830488e0 ;
+        geo:lng         -0.329644959268791e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pescadores - Progreso" .
+
+<ex:station_137_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.489001156645486e0 ;
+        geo:lng         -0.379987120406342e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Economista Gay - Luis Crumiere" .
+
+<ex:station_217_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.47029608559258e0 ;
+        geo:lng         -0.404687184457659e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pintor Stolz - Nueve de Octubre" .
+
+<ex:station_24_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.469045088002915e0 ;
+        geo:lng         -0.384118122083548e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Fernando el Católico - Cuenca" .
+
+<ex:station_185_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.45001202816097e0 ;
+        geo:lng         -0.37059407126453e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Ebanista Caselles - Ausias March" .
+
+<ex:station_212_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.461452057092146e0 ;
+        geo:lng         -0.40048716710112e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Fray Juanípero Serra - Torrente" .
+
+<ex:station_265_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.470941086635776e0 ;
+        geo:lng         -0.408208195369257e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Alcasser - Poeta Alberto Lista" .
+
+<ex:station_180_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.45598904826899e0 ;
+        geo:lng         -0.370774075033782e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Doctor Waksman - Nieves" .
+
+<ex:station_248_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46280806019345e0 ;
+        geo:lng         -0.40506018155276e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Tres Cruces - Jose Maria Mortes Lerma" .
+
+<ex:station_55_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.45931106660426e0 ;
+        geo:lng         -0.348777010892994e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Francia - Pintor Maella" .
+
+<ex:station_119_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.48248814004604e0 ;
+        geo:lng         -0.363317066947724e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Jaime Roig - Bachiller" .
+
+<ex:station_260_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.45952404837945e0 ;
+        geo:lng         -0.407308186532079e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Traginers - Pedrapiquers" .
+
+<ex:station_243_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         39.46278806672407e0 ;
+        geo:lng         -0.384633120260506e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Albacete - Maluquer" .
+
+<ex:station_50_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         39.453286044933414e0 ;
+        geo:lng         -0.352950020141597e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Autopista del Saler - Antonio Ferrandis (C.C. El Saler)" .
+
+<ex:station_114_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         39.481772142992675e0 ;
+        geo:lng         -0.346682016720988e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "UPV Informática" .
+
+<ex:station_167_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.4748761268572e0 ;
+        geo:lng         -0.324700947178956e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pavía - Acequia de la Cadena" .
+
+<ex:station_7_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.474840109114226e0 ;
+        geo:lng         -0.379276110679168e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza del Mercado - Taula de Canvis" .
+
+<ex:station_162_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         39.46357208709311e0 ;
+        geo:lng         -0.32988595660341e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Armada Española - Mariano Cuber" .
+
+<ex:station_145_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.481515125451246e0 ;
+        geo:lng         -0.398486171871458e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza Badajoz" .
+
+<ex:station_198_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.460848056694466e0 ;
+        geo:lng         -0.3954071515343e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Fontanars dels Aforins - Vall d'Uixó" .
+
+<ex:station_2_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.4798571258551e0 ;
+        geo:lng         -0.379839115061075e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Salvador Giner - C. Museo" .
+
+<ex:station_225_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.48807514670377e0 ;
+        geo:lng         -0.401233183623003e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Padre Barranco - Carlos Ruano Llopis (Pintor)" .
+
+<ex:station_32_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.4659740827401e0 ;
+        geo:lng         -0.368338073115823e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Conde Altea - Almirante Cadarso" .
+
+<ex:station_208_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.451660027860314e0 ;
+        geo:lng         -0.38866912636635e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Carteros - Mossen Febrer" .
+
+<ex:station_15_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  34 ;
+        geo:lat         39.469056090688554e0 ;
+        geo:lng         -0.375728096943875e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Ribera - Plaza Ayuntamiento" .
+
+<ex:station_193_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.4551140401216e0 ;
+        geo:lng         -0.38680912265075e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Uruguay - Carteros" .
+
+<ex:station_68_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46277108052299e0 ;
+        geo:lng         -0.341823991929563e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Av. Puerto - José Aguilar" .
+
+<ex:station_220_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         39.473823099518064e0 ;
+        geo:lng         -0.398412167524643e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Castán Tobeñas - Patriques" .
+
+<ex:station_10_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.47078409432719e0 ;
+        geo:lng         -0.382701118769287e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Hospital - Horno del Hospital" .
+
+<ex:station_203_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.48457713488814e0 ;
+        geo:lng         -0.401273181871356e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Reina Violante - Escultor García Mas" .
+
+<ex:station_273_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.450273041140704e0 ;
+        geo:lng         -0.33336295982062e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Moraira - Alta del Mar" .
+
+<ex:station_256_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.4639310680958e0 ;
+        geo:lng         -0.392326143951058e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Tres Forques - Turís" .
+
+<ex:station_63_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.467747091898616e0 ;
+        geo:lng         -0.358505044597536e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Av Puerto 19 (Telefónica)" .
+
+<ex:station_127_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.49055916686075e0 ;
+        geo:lng         -0.36453707493258e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Alfahuir - Duque de Mandas" .
+
+<ex:station_251_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.45579803670432e0 ;
+        geo:lng         -0.404504176110588e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Arquitecto Segura del Lago - Camino Nuevo de Picaña" .
+
+<ex:station_122_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.48445314961921e0 ;
+        geo:lng         -0.354157040555065e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Músico Hipólito Martínez - Diógenes López Mecho" .
+
+<ex:station_175_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.49255716773316e0 ;
+        geo:lng         -0.382803130751858e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Juan XXIII - Domingo Gómez" .
+
+<ex:station_158_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.46666609819163e0 ;
+        geo:lng         -0.327809952057852e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Doctor Lluch - Virgen del Sufragio" .
+
+<ex:station_170_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.48294115378812e0 ;
+        geo:lng         -0.325424953690914e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Isabel de Villena - Mendizábal" .
+
+<ex:station_153_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         39.483026e0 ;
+        geo:lng         -0.380682e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Llano de la Zaidía - Doctor Olóriz" .
+
+<ex:station_28_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  29 ;
+        geo:lat         39.47155010170615e0 ;
+        geo:lng         -0.367842074631205e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Navarro Reverter - Grabador Esteve" .
+
+<ex:station_233_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.497128187401e0 ;
+        geo:lng         -0.369528093405798e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "San Juan Bosco - Santiago Rusiñol" .
+
+<ex:station_40_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         39.470434095658966e0 ;
+        geo:lng         -0.374915095234885e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Barcas, 11" .
+
+<ex:station_216_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         39.46913e0 ;
+        geo:lng         -0.399552e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Av. del Cid - Burgos" .
+
+<ex:station_23_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         39.47159609591605e0 ;
+        geo:lng         -0.3862691299059e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Fernando el Católico - Erudito Orellana" .
+
+<ex:station_269_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.499875178486775e0 ;
+        geo:lng         -0.426354265293528e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Campamento, 81" .
+
+<ex:station_76_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         39.4700511045018e0 ;
+        geo:lng         -0.343552001034738e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Campoamor - Músico Ginés" .
+
+<ex:station_211_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.45869404863428e0 ;
+        geo:lng         -0.397848157697943e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Fray Junípero Serra - Vall d'Uixó" .
+
+<ex:station_264_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46912807848099e0 ;
+        geo:lng         -0.414523213347863e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Av. del Cid - Marconi" .
+
+<ex:station_71_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.460348075016185e0 ;
+        geo:lng         -0.333621966050435e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Av. Puerto - Plaza Tribunal de les Aigües" .
+
+<ex:station_135_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.48567014586083e0 ;
+        geo:lng         -0.378592114439778e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Constitución - Reus" .
+
+<ex:station_118_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.4804341340267e0 ;
+        geo:lng         -0.360507057423573e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Gómez Ferrer - Álvaro de Bazán" .
+
+<ex:station_130_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.48320614021858e0 ;
+        geo:lng         -0.370301088264948e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Convento Carmelitas - Alboraya" .
+
+<ex:station_113_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  38 ;
+        geo:lat         39.48124414217441e0 ;
+        geo:lng         -0.343702007510602e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "UPV Caminos" .
+
+<ex:station_183_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         39.452588036275e0 ;
+        geo:lng         -0.372375077997377e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Ausias March - Av. de la Plata" .
+
+<ex:station_166_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.47331712024639e0 ;
+        geo:lng         -0.328901958917283e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Don Vicente Guillot - Progreso" .
+
+<ex:station_6_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.47276610053889e0 ;
+        geo:lng         -0.384174124251856e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Guillem de Castro - San Pedro Pascual" .
+
+<ex:station_161_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.467937101175984e0 ;
+        geo:lng         -0.331816964744236e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Mediterráneo - Plaza Cruz de Cañamelar" .
+
+<ex:station_229_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         39.49307216559276e0 ;
+        geo:lng         -0.394897167291038e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Aitana - Florista" .
+
+<ex:station_36_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.47904012448793e0 ;
+        geo:lng         -0.375527101694727e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza de los Fueros - Conde Trenor" .
+
+<ex:station_241_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.49294616289816e0 ;
+        geo:lng         -0.401981188470323e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "La Vall d'Albaida - Corts Valencianes" .
+
+<ex:station_89_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         39.47777012539991e0 ;
+        geo:lng         -0.359409052701581e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Blasco Ibañez, 23 (F. Filosofía y Psicología)" .
+
+<ex:station_1_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.48001e0 ;
+        geo:lng         -0.38302e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "C/GUILLEM DE CASTRO esquina con C/NA JORDANA" .
+
+<ex:station_224_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.480536120478945e0 ;
+        geo:lng         -0.403679186925212e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Jorge Comin (Metge) - Terrateig" .
+
+<ex:station_31_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46733308836422e0 ;
+        geo:lng         -0.365119064198398e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Salamanca - Conde Altea" .
+
+<ex:station_84_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.46726209778759e0 ;
+        geo:lng         -0.335255974679776e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Serrería, 67" .
+
+<ex:station_148_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         39.467113e0 ;
+        geo:lng         -0.375469e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "C/Xàtiva 30-32" .
+
+<ex:station_272_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.480591143659446e0 ;
+        geo:lng         -0.332280972954351e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Vicente la Roda - Ingeniero Fausto Elio" .
+
+<ex:station_143_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         39.47950512106764e0 ;
+        geo:lng         -0.391027148421504e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pio XII - Menéndez PIdal (Nuevo Centro)" .
+
+<ex:station_126_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.493066176705305e0 ;
+        geo:lng         -0.36019506326505e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Alfahuir - José Chabas Bordehore" .
+
+<ex:station_179_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         39.455440047796785e0 ;
+        geo:lng         -0.366517061973888e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Av. de la Plata - Zapadores" .
+
+<ex:station_206_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.49268016612935e0 ;
+        geo:lng         -0.389098149691761e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Periodista Gil Sumbiela - Poeta Serrano Clavero" .
+
+<ex:station_121_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.48615015382428e0 ;
+        geo:lng         -0.358862055563278e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Murta - Sant Eperit" .
+
+<ex:station_191_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.450297026408926e0 ;
+        geo:lng         -0.378957096498364e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Esparraguera - Cra. Malilla" .
+
+<ex:station_174_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         39.48940615584413e0 ;
+        geo:lng         -0.386738140863954e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Monduber - Peset Aleixandre" .
+
+<ex:station_49_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.452954722176685e0 ;
+        geo:lng         -0.35720111550767e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Ricardo Muñoz Suay - María José Victoria Fuster (C.C. El Saler)" .
+
+<ex:station_201_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.471680093784954e0 ;
+        geo:lng         -0.393759152416117e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Perez Galdós - Nou Moles" .
+
+<ex:station_237_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.4947261723789e0 ;
+        geo:lng         -0.391129156875508e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Levante U.D. - Ecuador" .
+
+<ex:station_44_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         39.456397052131265e0 ;
+        geo:lng         -0.363105052261891e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "General Urrutia - Av. de la Plata" .
+
+<ex:station_108_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.47365411982902e0 ;
+        geo:lng         -0.333702973476317e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Luís Peixó 20" .
+
+<ex:station_97_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         39.47303611466866e0 ;
+        geo:lng         -0.343223001657882e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Blasco Ibañez 121" .
+
+<ex:station_232_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.49461218010229e0 ;
+        geo:lng         -0.365844081019678e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "San Vicente Paul - Santiago Rusiñol" .
+
+<ex:station_103_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.47842112983494e0 ;
+        geo:lng         -0.35246203223541e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Rubén Darío - Plaza Fray Luis Colomer" .
+
+<ex:station_92_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.475828119933816e0 ;
+        geo:lng         -0.356059041618514e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Blasco Ibañez - Aragón" .
+
+<ex:station_156_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.460932063112466e0 ;
+        geo:lng         -0.376436094678165e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Puerto Rico - Cuba" .
+
+<ex:station_139_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.48567414446925e0 ;
+        geo:lng         -0.382964127549696e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Reus - Alquería de la Estrella" .
+
+<ex:station_151_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46463708827678e0 ;
+        geo:lng         -0.337207979114133e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Jerónimo Monsoriu - Alcalde Cano Coloma" .
+
+<ex:station_134_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.48762415410862e0 ;
+        geo:lng         -0.373430100012801e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Maximiliano Thous - Luz Casanova" .
+
+<ex:station_187_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.447928021676226e0 ;
+        geo:lng         -0.368909065084874e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Ángel Villena - Ausias March" .
+
+<ex:station_214_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.46490006867376e0 ;
+        geo:lng         -0.400667169496185e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Santa Cruz de Tenerife, 21" .
+
+<ex:station_182_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         39.455400044894006e0 ;
+        geo:lng         -0.375056087555512e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Ausias March - Pianista Amparo Iturbi" .
+
+<ex:station_57_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46444408081199e0 ;
+        geo:lng         -0.35834704234339e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Alameda - Pintor Monleón" .
+
+<ex:station_245_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.472098e0 ;
+        geo:lng         -0.405361e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Nueve de Octubre - Cieza" .
+
+<ex:station_52_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.45600205620843e0 ;
+        geo:lng         -0.346431002074561e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Luis García Berlanga Martí - Menorca" .
+
+<ex:station_116_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.483221144341215e0 ;
+        geo:lng         -0.357652050365347e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Doctor Vicente Zaragozá - Ramón Asensio" .
+
+<ex:station_88_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         39.47748012383395e0 ;
+        geo:lng         -0.361233058011854e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Blasco Ibañez, 28 (F. Geografía e Historia)" .
+
+<ex:station_240_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.494972169842995e0 ;
+        geo:lng         -0.401638188523523e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Camp del Turia - Corts Valencianes" .
+
+<ex:station_111_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         39.480184139586505e0 ;
+        geo:lng         -0.340651997804929e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "UPV Galileo" .
+
+<ex:station_164_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         39.468428105127856e0 ;
+        geo:lng         -0.324724943771547e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pavía - Columbretes" .
+
+<ex:station_147_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.473169103148095e0 ;
+        geo:lng         -0.38029811284559e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pie de la Cruz - Rejas" .
+
+<ex:station_142_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.48188812951767e0 ;
+        geo:lng         -0.389750145869399e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Gregorio Gea - Profesor Beltrán Báguena" .
+
+<ex:station_17_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         39.467436084759534e0 ;
+        geo:lng         -0.377350100922523e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Xátiva - Bailén (Estación del Norte)" .
+
+<ex:station_195_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         39.45935205521343e0 ;
+        geo:lng         -0.384372117626406e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Giorgeta - Roig de Corella" .
+
+<ex:station_205_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         39.489255153267536e0 ;
+        geo:lng         -0.393181160103781e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Nicasio Benlloch - Amics dels Corpus" .
+
+<ex:station_12_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.471935e0 ;
+        geo:lng         -0.374101e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Calle Salvá - Calle Poeta Querol" .
+
+<ex:station_190_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         39.446050011610645e0 ;
+        geo:lng         -0.380387098491455e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Cra. Malilla - Bulevar Sur" .
+
+<ex:station_258_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.43979598762512e0 ;
+        geo:lng         -0.38922812163005e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Pintor Rafael Solves - Jose Soto Mico" .
+
+<ex:station_65_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         39.46548408671991e0 ;
+        geo:lng         -0.350928020671138e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Av. Puerto - Doctor Manuel Candela" .
+
+<ex:station_200_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.4677050805168e0 ;
+        geo:lng         -0.393305148918046e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Av. del Cid - Julián Peña" .
+
+<ex:station_253_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.452694027294896e0 ;
+        geo:lng         -0.401192164498328e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "José Meliá Castelló - Campos Crespo" .
+
+<ex:station_60_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         39.462199075340266e0 ;
+        geo:lng         -0.351867021712218e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Baleares - Lebón" .
+
+<ex:station_124_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.48846916061659e0 ;
+        geo:lng         -0.362046066347782e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Azagador de Alboraya - Dolores Marqués" .
+
+<ex:station_107_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.47521312423745e0 ;
+        geo:lng         -0.336314982139155e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Campillo de Altobuey (Polideportivo)" .
+
+<ex:station_96_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         39.47352211466433e0 ;
+        geo:lng         -0.348305017144382e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Blasco Ibañez - Yecla" .
+
+<ex:station_102_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47580112282824e0 ;
+        geo:lng         -0.346811013895548e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Ramón Llull - Serpis" .
+
+<ex:station_155_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46492108086036e0 ;
+        geo:lng         -0.363169057053421e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Salamanca - Reina Doña Germana" .
+
+<ex:station_150_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.467689094227495e0 ;
+        geo:lng         -0.350700021177111e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Manuel Candela - Rodriguez de Cepeda" .
+
+<ex:station_218_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.470708089307045e0 ;
+        geo:lng         -0.397475163041212e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Salvador Ferrandis Luna - Juan Bautista Vives" .
+
+<ex:station_25_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         39.46769708197544e0 ;
+        geo:lng         -0.388701135103807e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Alberique, 18 (Abastos)" .
+
+<ex:station_78_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.469913099113434e0 ;
+        geo:lng         -0.358779046585651e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Aragón - Vicente Sancho Tello" .
+
+<ex:station_213_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.463133063872554e0 ;
+        geo:lng         -0.397063157732616e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Archiduque Carlos - José María Mortes Lerma" .
+
+<ex:station_20_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         39.47500210686962e0 ;
+        geo:lng         -0.387938136740957e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Quart - Fernando el Católico" .
+
+<ex:station_266_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         39.490257152389816e0 ;
+        geo:lng         -0.406462200475517e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Canal de Navarrés - Maestro Rodrigo" .
+
+<ex:station_73_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46622709180114e0 ;
+        geo:lng         -0.342969997228533e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Jerónimo Monsoriu - Industria" .
+
+<ex:station_261_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         39.47664412448885e0 ;
+        geo:lng         -0.350468025305313e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza Xuquer - Vinalopó" .
+
+<ex:station_132_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.48525414608695e0 ;
+        geo:lng         -0.373525099027208e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Platero Suárez - Milagrosa" .
+
+<ex:station_115_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         39.481530140385686e0 ;
+        geo:lng         -0.352239033238509e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Cataluña - Doctor Vicente Zaragozá" .
+
+<ex:station_168_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.47683913241012e0 ;
+        geo:lng         -0.327977958049006e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Malvarrosa - Río Tajo" .
+
+<ex:station_110_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         39.48070814260447e0 ;
+        geo:lng         -0.336770986463246e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "UPV Trinquet" .
+
+<ex:station_8_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         39.47428810857441e0 ;
+        geo:lng         -0.375175098086736e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza de la Reina - Mar" .
+
+<ex:station_163_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.464405091973795e0 ;
+        geo:lng         -0.323491937905993e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Paseo Neptuno 32-34" .
+
+<ex:station_38_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.459369828677254e0 ;
+        geo:lng         -0.370340076012569e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Peris y Valero - Cabo Jubi" .
+
+<ex:station_3_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47680311538018e0 ;
+        geo:lng         -0.38037911504075e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Plaza del Musico López Chavarri" .
+
+<ex:station_226_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         39.490832156737454e0 ;
+        geo:lng         -0.398950178249295e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Corts Valencianes - La Safor" .
+
+<ex:station_33_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.464786076876194e0 ;
+        geo:lng         -0.37408108969372e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Germanías - Ruzafa" .
+
+<ex:station_86_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.45520803898995e0 ;
+        geo:lng         -0.391284136125771e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Gaspar Aguilar - Vicente Parra" .
+
+<ex:station_69_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.46192007863096e0 ;
+        geo:lng         -0.338811982446624e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Av. Puerto - Serrería" .
+
+<ex:station_221_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47523810283483e0 ;
+        geo:lng         -0.40294418188015e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Manuel de Falla - Hernández Lázaro" .
+
+<ex:station_274_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         39.448038033633594e0 ;
+        geo:lng         -0.333278958357397e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "San Francisco de Paula - Castell de Pop" .
+
+<ex:station_81_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.47509611584928e0 ;
+        geo:lng         -0.361069056238335e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Micer Mascó - Rodriguez Fornos" .
+
+<ex:station_64_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         39.46648608901148e0 ;
+        geo:lng         -0.354286031274125e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Av. Puerto 61-63" .
+
+<ex:station_128_Valence>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         39.488734159713275e0 ;
+        geo:lng         -0.367635083238739e0 ;
+        wdp:P131        city:Valence ;
+        wdp:P669        "Alfahuir - Peñiscola" .
