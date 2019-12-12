@@ -1,0 +1,221 @@
+
+@base          <http://example.org/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
+@prefix ex:    <http://example.org/> .
+@prefix city:  <http://fr.dbpedia.org/page/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ite:   <http://w3id.org/sparql-generate/iter/> .
+@prefix sosa:  <http://www.w3.org/ns/sosa/> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<ex:station_10>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.237665e0 ;
+        geo:lng         6.024203e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Place du 8 Septembre" .
+
+<ex:station_16>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  11 ;
+        geo:lat         47.244985e0 ;
+        geo:lng         6.032536e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Avenue Fontaine Argent angle rue Beauregard" .
+
+<ex:station_25>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         47.238133e0 ;
+        geo:lng         6.026309e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "2 rue Morand" .
+
+<ex:station_1>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         47.24656e0 ;
+        geo:lng         6.022551e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Parc des Glacis - Entrée Avenue de la Paix" .
+
+<ex:station_7>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         47.240166e0 ;
+        geo:lng         6.033729e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Parvis de la Gare" .
+
+<ex:station_15>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         47.231111e0 ;
+        geo:lng         6.026695e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Place De Lattre de Tassigny, 25000 Besancon" .
+
+<ex:station_24>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         47.240083e0 ;
+        geo:lng         6.027359e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Rue de la République angle rue d'Alsace face à la médiathèque" .
+
+<ex:station_6>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.242544e0 ;
+        geo:lng         6.029782e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Avenue Edouard Droz" .
+
+<ex:station_14>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         47.234525e0 ;
+        geo:lng         6.033161e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Place Jacobins" .
+
+<ex:station_23>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         47.232189e0 ;
+        geo:lng         6.034991e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Rue Charles NODIER Sortie du tunnel, direction Morne" .
+
+<ex:station_29>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         47.248886e0 ;
+        geo:lng         6.030818e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Rue de Belfort angle rue Suard" .
+
+<ex:station_5>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         47.242756e0 ;
+        geo:lng         6.02529e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Quai de Strasbourg (Pont Denfert Rochereau)" .
+
+<ex:station_13>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         47.234749e0 ;
+        geo:lng         6.029566e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Place Victor Hugo (au niveau de la porte Noire, entrée de la Citadelle)" .
+
+<ex:station_19>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         47.240827e0 ;
+        geo:lng         6.02527e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Angle de la rue Gustave Courbet et rue Pierre Joseph Proudhon" .
+
+<ex:station_22>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         47.247455e0 ;
+        geo:lng         6.028569e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Place de la Liberté" .
+
+<ex:station_28>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         47.242273e0 ;
+        geo:lng         6.014452e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Place Leclerc" .
+
+<ex:station_4>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  11 ;
+        geo:lat         47.245801e0 ;
+        geo:lng         6.028143e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "7 rue de la Cassotte" .
+
+<ex:station_12>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.235437e0 ;
+        geo:lng         6.025724e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Place Granvelle" .
+
+<ex:station_18>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         47.23526e0 ;
+        geo:lng         6.021363e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Place Saint Jacques (en face de l'hopital)" .
+
+<ex:station_21>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         47.247787e0 ;
+        geo:lng         6.036415e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Avenue Fontaine Argent angle Bld Diderot" .
+
+<ex:station_27>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.23678e0 ;
+        geo:lng         6.022275e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Rue Megevand" .
+
+<ex:station_3>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.239978e0 ;
+        geo:lng         6.019691e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Rue de la Madeleine- Face à la rue de l'Ecole" .
+
+<ex:station_30>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         47.241652e0 ;
+        geo:lng         6.007549e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "18 rue Xavier Marmier" .
+
+<ex:station_9>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         47.235425e0 ;
+        geo:lng         6.015281e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Avenue Louise Michel angle rue Plançon" .
+
+<ex:station_11>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         47.236363e0 ;
+        geo:lng         6.028817e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Place Jean Cornet" .
+
+<ex:station_17>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         47.232903e0 ;
+        geo:lng         6.020116e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Avenue de la Gare d'Eau face commissariat" .
+
+<ex:station_20>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.239529e0 ;
+        geo:lng         6.023377e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Place de la Révolution rue Luc Breton" .
+
+<ex:station_26>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         47.238867e0 ;
+        geo:lng         6.029564e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Place de la 7ème Brigade blindée" .
+
+<ex:station_2>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         47.243569e0 ;
+        geo:lng         6.021966e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Rue Battant (au niveau du Square Bouchot)" .
+
+<ex:station_8>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         47.239595e0 ;
+        geo:lng         6.017044e0 ;
+        wdp:P131        city:besancon ;
+        wdp:P669        "Place Marulaz" .

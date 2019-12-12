@@ -1,0 +1,2489 @@
+
+@base          <http://example.org/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
+@prefix ex:    <http://example.org/> .
+@prefix city:  <http://fr.dbpedia.org/page/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ite:   <http://w3id.org/sparql-generate/iter/> .
+@prefix sosa:  <http://www.w3.org/ns/sosa/> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<ex:station_88>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.873354e0 ;
+        geo:lng         4.334311e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "WOESTE - AVENUE NOTRE DAME DE LOURDES / ONZE-LIEVE-VROUW VAN LOURDESLAAN" .
+
+<ex:station_281>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.895485e0 ;
+        geo:lng         4.341311e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ATOMIUM - BOULEVARD DU CENTENAIRE / EEUWFEESTLAAN" .
+
+<ex:station_196>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.846874e0 ;
+        geo:lng         4.29817e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PRINCE DE LIEGE / PRINS VAN LUIK - CHEE DE NINOVE (FACE 629) / NINOOFSESTEENWEG (TEGENOVER 629)" .
+
+<ex:station_58>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  43 ;
+        geo:lat         50.859181e0 ;
+        geo:lng         4.35942e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE DU NORD/NOORDSTATION - PLACE DU NORD / NOORDPLAATS" .
+
+<ex:station_251>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.800377e0 ;
+        geo:lng         4.326985e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PAOLA - RUE VICTOR ALLARD FACE 222 / VICTOR ALLARD STRAAT VOOR 222" .
+
+<ex:station_166>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.876205e0 ;
+        geo:lng         4.337137e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GC ESSEGEM - RUE AMELIE GOMAND 51- 45" .
+
+<ex:station_28>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  27 ;
+        geo:lat         50.842005e0 ;
+        geo:lng         4.3305e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CLEMENCEAU - CHEE DE MONS/ BERGENSE STEENWEG 159-161-163" .
+
+<ex:station_347>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.81482e0 ;
+        geo:lng         4.26534e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ERASME - ROUTE DE LENNIK N°808" .
+
+<ex:station_221>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.821846e0 ;
+        geo:lng         4.284394e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CURIE - SQUARE MARIE CURIE (FACE 30) / MARIE CURIE SQUARE (TEGENOVER 30)" .
+
+<ex:station_136>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.869809e0 ;
+        geo:lng         4.371808e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PAVILLON/PAVILJOEN - PLACE PAVILLON /PAVILJOENPLAATS 92-94-96" .
+
+<ex:station_317>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.82015e0 ;
+        geo:lng         4.4222e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GEYSKENS - AVENUE ISIDORE GEYSKENSLAAN FACE/TEGENOVER 108" .
+
+<ex:station_293>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.810528e0 ;
+        geo:lng         4.40231e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "KEYM - AVENUE DU COLVERT" .
+
+<ex:station_106>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.830012e0 ;
+        geo:lng         4.378625e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GERMOIR/MOUTERIJ - AVENUE DE LA COURONNE/KROONLAAN 92-94-96" .
+
+<ex:station_263>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         50.872002e0 ;
+        geo:lng         4.403286e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MAISON COMMUNALE D'EVERE/ EVERE GEMEENTEHUIS - SQUARE HOEDEMAEKERS / HOEDEMAEKERSESQUARE 7-8" .
+
+<ex:station_178>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.85043e0 ;
+        geo:lng         4.402169e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DIAMANT/DIAMANT - RUE COLONEL BOURG EN FACE 3" .
+
+<ex:station_359>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.867708e0 ;
+        geo:lng         4.357532e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "JCDECAUX - ALLÉE VERTE 50 À 1000 BRUXELLES" .
+
+<ex:station_233>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.813858e0 ;
+        geo:lng         4.330992e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PARC DUDEN / DUDEN PARK - AV VICTOR ROUSSEAU FACE 132 / VICTOR ROUSSEAULAAN VOOR 132" .
+
+<ex:station_148>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.855629e0 ;
+        geo:lng         4.394807e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE MEISER / MEISER STATION - AVENUE ROGIER/ ROGIERLAAN 377 - 379" .
+
+<ex:station_1>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.836304e0 ;
+        geo:lng         4.41505e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LEOPOLD II - AVENUE DE TERVUREN FACE / TERVURENLAAN VOOR 218" .
+
+<ex:station_329>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.847617e0 ;
+        geo:lng         4.436084e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "FERMÉE - TRAVAUX - AV PAUL HYMANS FACE À L'ARRÊT METRO ROODEBEEK" .
+
+<ex:station_203>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.84045e0 ;
+        geo:lng         4.305055e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DEMOSTHENE - BD PRINCE DE LIEGE / PRINS VAN LUIKLAAN 216-218-220" .
+
+<ex:station_71>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.815019e0 ;
+        geo:lng         4.371982e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LEGRAND - AV LOUISE/LOUIZALAAN 525" .
+
+<ex:station_118>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.864622e0 ;
+        geo:lng         4.297878e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SCHWEITZER - PLACE DOCTEUR SCHWEITZER" .
+
+<ex:station_41>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.859302e0 ;
+        geo:lng         4.35485e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SAINT ROCH/SINT-ROCHUS - CHAUSSEE D'ANVERS/ANTWERPSELAAN 37" .
+
+<ex:station_360>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.84157e0 ;
+        geo:lng         4.46577e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "STOCKEL/STOKKEL - AVENUE D'OPHEMLAAN, 1-3" .
+
+<ex:station_275>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.896278e0 ;
+        geo:lng         4.372427e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VERSAILLES - AVENUE DE VERSAILLES / VERSAILLESLAAN 125" .
+
+<ex:station_330>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.847546e0 ;
+        geo:lng         4.450015e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VANDERVELDE - AVENUE EMILE VANDERVELDE 90" .
+
+<ex:station_11>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         50.8405e0 ;
+        geo:lng         4.356878e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SABLON / ZAVEL - RUE DE LA REGENCE / REGENTSCHAPSSTRAAT 20" .
+
+<ex:station_245>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.798988e0 ;
+        geo:lng         4.375581e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CHEE DE WATERLOO/WATERLOOSESTEENWEG 1050" .
+
+<ex:station_300>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.801434e0 ;
+        geo:lng         4.392831e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE DE BOONDAELSTATION - AV DE LA FORET 23 / VORSTLAAN 23" .
+
+<ex:station_215>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.836864e0 ;
+        geo:lng         4.317321e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CUREGHEM / KUREGEM - AV RAYMOND VANDER BRUGGEN / VANDEN BRUGGENLAAN" .
+
+<ex:station_83>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  32 ;
+        geo:lat         50.86284e0 ;
+        geo:lng         4.33126e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SIMONIS / BD LEOPOLD II (DEVANT 282)/ LEOPOLD II-LAAN (N° 282)" .
+
+<ex:station_191>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.853973e0 ;
+        geo:lng         4.38374e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ARTAN - RUE CLAYS" .
+
+<ex:station_53>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         50.837499e0 ;
+        geo:lng         4.335947e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE DU MIDI / ZUIDSTATION - PLACE VICTOR HORTA / VICTOR HORTAPLEIN" .
+
+<ex:station_287>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         50.809334e0 ;
+        geo:lng         4.345243e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "FLOREAL - AV BRUGMANN 359 / BRUGMANNLAAN 359" .
+
+<ex:station_161>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.872592e0 ;
+        geo:lng         4.379886e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "FERMÉE - TRAVAUX - DEMOLDER - AVENUE EUGENE DEMOLDER / EUGENE DEMOLDERLAAN 68" .
+
+<ex:station_23>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         50.846331e0 ;
+        geo:lng         4.355193e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "AGORA - PLACE AGORA/AGORAPLEIN 120" .
+
+<ex:station_342>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.864761e0 ;
+        geo:lng         4.294429e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MAISON COMMUNALE DE BERCHEM ST AGHATE - AVENUE DU ROI ALBERT DVT 38" .
+
+<ex:station_257>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.872169e0 ;
+        geo:lng         4.298216e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PLACE MARGHERITE D'AUTRICHE / MARGARETHA VAN OOSTENRIJKPLEIN" .
+
+<ex:station_131>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.81329e0 ;
+        geo:lng         4.434751e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "JARDIN MASSART - AV HERMANN DEBROUXLAAN" .
+
+<ex:station_312>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.816948e0 ;
+        geo:lng         4.426551e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CENTRE CULTUREL / CULTUREEL CENTRUM - BD DU SOUVERAIN FACE 282 / VORSTLAAN VOOR 282" .
+
+<ex:station_227>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.816695e0 ;
+        geo:lng         4.319891e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PATINAGE - RUE SAINT DENIS DEVANT 122" .
+
+<ex:station_95>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.87808e0 ;
+        geo:lng         4.34793e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PLACE BOCKSTAEL/BOCKSTAELPLAATS - BLD EMILE BOCKSTAEL/EMILE BOCKSTAELLAAN 254" .
+
+<ex:station_101>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.869204e0 ;
+        geo:lng         4.291663e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ZELLIK - CHAUSSEE DE ZELLIK 4" .
+
+<ex:station_65>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.829985e0 ;
+        geo:lng         4.344557e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PARVIS DE ST GILLES/ST-GILLISVOORPLEIN - CHAUSSEE DE WATERLOO/ WATERLOOSESTEENWEG 65-69" .
+
+<ex:station_299>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.809355e0 ;
+        geo:lng         4.386606e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SAINT-ADRIEN - AV DU PESAGE N°21" .
+
+<ex:station_173>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.864656e0 ;
+        geo:lng         4.394448e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BICHON - PLACE BICHON / BICHONPLEIN" .
+
+<ex:station_354>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.821557e0 ;
+        geo:lng         4.402288e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "TRIOMPHE - BD DU TRIOMPHE / TRIOMFLAAN  105 - 107" .
+
+<ex:station_269>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.860859e0 ;
+        geo:lng         4.421375e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CICERON - CHAUSSE DE LOUVAIN / LEUVENSESTEENWEG1166" .
+
+<ex:station_143>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.857218e0 ;
+        geo:lng         4.407879e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "RTL  - CHAUSSEE DE LOUVAIN (DVT 770)/ LEUVENSE STEENWEG (N° 770)" .
+
+<ex:station_324>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.819641e0 ;
+        geo:lng         4.412926e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "THOMAS BALIS - CHEE DE WAVRE 1395 à 1403 / WAVERSESTEENWEG 1395 TOT 1403" .
+
+<ex:station_239>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.817777e0 ;
+        geo:lng         4.350406e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DARWIN - AV. BRUGMANN / BRUGMANNLAAN 139-147" .
+
+<ex:station_113>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.820042e0 ;
+        geo:lng         4.374785e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ABBAYE DE LA CAMBRE/ABDIJ TER KAMEREN - AVENUE EMILE DURAY (FACE AU N° 2) /EMILE DURAYLAAN (TEGENOVER N° 2)" .
+
+<ex:station_7>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.846319e0 ;
+        geo:lng         4.362244e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PARC/PARK - RUE ROYALE  (FACE N°66-68)/KONINGSSTRAAT (TEGENOVER N°66-68)" .
+
+<ex:station_209>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.828602e0 ;
+        geo:lng         4.299621e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VEEWEYDE / VEEWEIDE - BD THEO LAMBERT (FACE 5 a 9) / THEO LAMBERTLAAN (TEGENOVER ( tot 9)" .
+
+<ex:station_77>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.827399e0 ;
+        geo:lng         4.355281e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PAUL JANSON - CHAUSSEE DE CHARLEROI/ CHARLEROISESTEENWEG 159" .
+
+<ex:station_270>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.859127e0 ;
+        geo:lng         4.414406e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DE PADUWA - AVENUE DES ANCIENS COMBATTANTS / OUD-STRIJDERSLAAN 1" .
+
+<ex:station_185>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.835797e0 ;
+        geo:lng         4.401599e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PERE DE DEKEN/PATER DE DEKEN - RUE PÈRE DE DEKEN/ PATER DE DEKENSTRAAT 40" .
+
+<ex:station_47>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.854714e0 ;
+        geo:lng         4.347151e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LES QUAIS/KAAIEN - QUAI A LA CHAUX/KALKKAAI 1-2" .
+
+<ex:station_240>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         50.81418e0 ;
+        geo:lng         4.347721e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VANDERKINDERE - AVENUE ALBERT/ALBERTLAAN N° 272" .
+
+<ex:station_155>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.824953e0 ;
+        geo:lng         4.399088e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LES MARRONNIERS - CHEE DE WAVRE / WAVERSESTEENWEG FACE / VOOR 1049 - 1055" .
+
+<ex:station_336>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         50.848578e0 ;
+        geo:lng         4.459038e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "KRAAINEM - AV DE WEZEMBEEK 7A" .
+
+<ex:station_17>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.855358e0 ;
+        geo:lng         4.339465e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "COMTE DE FLANDRE/GRAAF VAN VLAANDEREN - RUE SAINTE-MARIE / SINT-MARIASTRAAT" .
+
+<ex:station_210>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.827873e0 ;
+        geo:lng         4.288707e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MARIUS RENARD - AV CHARLES DE TOLLENAERE (FACE 60) - CHARLES DE TOLLENAERELAAN (TEGENOVER 60)" .
+
+<ex:station_125>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.817392e0 ;
+        geo:lng         4.354105e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GEORGES BRUGMANN - PLACE GEORGES BRUGMANN/GEORGES BRUGMANNPLEIN N° 10 - 11" .
+
+<ex:station_306>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.889073e0 ;
+        geo:lng         4.375073e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HEMBEEK - ANGLE AV DES CROIX DE FEU / VUURKRUISENLAAN 7-9" .
+
+<ex:station_89>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.8711927450574e0 ;
+        geo:lng         4.32992476563641e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ATHENEE DE JETTE/ATHENEUM VAN JETTE - AVENUE DE LEVIS MIREPOIX / DE LEVIS MIREPOIXLAAN 100" .
+
+<ex:station_282>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.89097e0 ;
+        geo:lng         4.344827e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CENTENAIRE / EEUWFEEST - BOULEVARD DU CENTENAIRE / EEUWFEESTLAAN" .
+
+<ex:station_197>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.848255e0 ;
+        geo:lng         4.314854e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DE SMET - PLACE HENRI DE SMET / HENRI DE SMETPLEIN" .
+
+<ex:station_59>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.849681e0 ;
+        geo:lng         4.375312e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PLACE ST-JOSSE/ST-JOOSTPLEIN  -  RUE WILLEMS (FACE 5 - 11) / WILLEMSSTRAAT (TEGENOVER 5 - 11)" .
+
+<ex:station_252>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.802563e0 ;
+        geo:lng         4.315701e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BEMPT - CH DE NEERSTALLE DEVANT 333-335-337 / NEERSTALLESESTEENWEG 333-335-337" .
+
+<ex:station_167>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.869032e0 ;
+        geo:lng         4.309731e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CHARLES V/KAREL V - AVENUE CHARLES QUINT/KEIZER KARELLAAN 129-131" .
+
+<ex:station_29>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.856584e0 ;
+        geo:lng         4.352877e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BAUDOUIN/BOUDEWIJN - RUE DE LAEKEN / LAKENSESTRAAT" .
+
+<ex:station_348>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.831078e0 ;
+        geo:lng         4.398546e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HANSEN-SOULIE - AVENUE HANSEN-SOULIE 42" .
+
+<ex:station_222>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.817162e0 ;
+        geo:lng         4.280012e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MERCKX - ROUTE DE LENNIK / LENNIKSEBAAN" .
+
+<ex:station_90>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         50.867448e0 ;
+        geo:lng         4.326807e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BROUSTIN - AV DE JETTE/ JETSELAAN 73 - 81" .
+
+<ex:station_137>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.86661e0 ;
+        geo:lng         4.373102e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MAISON COMMUNALE DE SCHAERBEEK / SCHAARBEEK GEMEENTEHUIS - RUE ROYALE SAINTE MARIE/KONINKLIJKE SINTE-MARIASTRAAT 241-243-245" .
+
+<ex:station_318>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         50.880539e0 ;
+        geo:lng         4.32823e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CARDINAL MERCIER / KARDINAAL MERCIER - PLACE CARDINAL MERCIER / KARDINAAL MERCIER PLEIN 6" .
+
+<ex:station_60>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.856714e0 ;
+        geo:lng         4.362106e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "FERMÉE - TRAVAUX - ST-LAZARE/SINT-LAZARUS   -   BLD SAINT-LAZARE/SINT-LAZARUSLAAN 4 -10" .
+
+<ex:station_294>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.798344e0 ;
+        geo:lng         4.419014e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "WIENER - PLACE WIENER 2 / WIENERPLAATS 2" .
+
+<ex:station_107>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.827652e0 ;
+        geo:lng         4.359031e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DEFACQZ - RUE DEFACQZ/ DEFACQZSTRAAT 25-27-29" .
+
+<ex:station_30>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.853666e0 ;
+        geo:lng         4.351771e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LAEKEN/LAKEN - RUE DE LAEKEN (ENTRE N° 119 ET 109) / LAKENSESTRAAT (TUSSEN N° 119 EN 109)" .
+
+<ex:station_264>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.870983e0 ;
+        geo:lng         4.397506e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "NOTRE DAME / ONZE LIEVE VROUW - AV NOTRE DAME 53 A 61 / ONZE LIEVE VROUWLAAN 53 TOT 61" .
+
+<ex:station_179>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  44 ;
+        geo:lat         50.839217e0 ;
+        geo:lng         4.398015e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CELTES/KELTEN - AVENUE DE TERVUEREN (FACE AU 17) / TERVURENLAAN (TEGENOVER 17)" .
+
+<ex:station_234>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.809799e0 ;
+        geo:lng         4.317546e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ST DENIS / ST DENIJS - PLACE ST DENIS FACE 68 / ST DENIJSPLAATS VOOR 68" .
+
+<ex:station_149>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.856208e0 ;
+        geo:lng         4.403386e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "JULES LEBRUN - CHAUSSEE DE LOUVAIN (FACE 593) / LEUVENSE STEENWEG (TEGENOVER 593)" .
+
+<ex:station_2>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.836151e0 ;
+        geo:lng         4.326019e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ELOY - RUE ELOY / ELOYSTRAAT" .
+
+<ex:station_72>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.812489e0 ;
+        geo:lng         4.379203e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ULB SOLBOSCH / VUB SOLBOSCH - AV. F.ROOSEVELT/F.ROOSEVELTLAAN 19" .
+
+<ex:station_204>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.837326e0 ;
+        geo:lng         4.293932e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DUPUIS - BD SYLVAIN DUPUIS / SYLVAIN DUPUISLAAN 209-211-213" .
+
+<ex:station_119>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.82559e0 ;
+        geo:lng         4.379555e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PAQUOT -  RUE JEAN PAQUOT (44 A 48) /JEAN PAQUOTSTRAAT (44 T.E.M 48)" .
+
+<ex:station_180>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.837726e0 ;
+        geo:lng         4.381565e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "JOURDAN - RUE FROISSART (FACE 3 - 5) / FROISSARTSTRAAT (TEGENOVER 3 - 5)" .
+
+<ex:station_42>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.84917e0 ;
+        geo:lng         4.338383e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PORTE DE NINOVE/NINOOFSEPOORT - PLACE DE NINOVE/NINOOFSEPLEIN/SUR BLD DE L'ABATTOIR/OP SLACHTHUISLAAN" .
+
+<ex:station_276>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.889748e0 ;
+        geo:lng         4.380755e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CROIX DE GUERRES / OORLOGSKRUISEN - AVENUE DES CROIX DE GUERRE / OORLOGSKRUISENLAAN 116" .
+
+<ex:station_150>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.854654e0 ;
+        geo:lng         4.398451e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MEISER - PLACE GENERAL MEISER (FACE 1 - 3) / GENERAAL MEISERPLEIN (TEGENOVER 1 - 3)" .
+
+<ex:station_331>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.842319e0 ;
+        geo:lng         4.406295e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GEORGES HENRI - AV GEORGES HENRI" .
+
+<ex:station_246>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.796471e0 ;
+        geo:lng         4.328415e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GATTI DE GAMMOND - RUE DE STALLE PROLONGEE/STALLE STRAAT 160" .
+
+<ex:station_120>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.832872e0 ;
+        geo:lng         4.37483e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BLYCKAERTS - PLACE RAYMOND BLYCKAERTS/RAYMOND BLYCKAERTSPLEIN" .
+
+<ex:station_301>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.806271e0 ;
+        geo:lng         4.387673e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "FERMÉE - TRAVAUX - MARIE-JOSE - PLACE MARIE-JOSE FACE 6 / MARIE-JOSE PLAATS VOOR 6" .
+
+<ex:station_216>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.828873e0 ;
+        geo:lng         4.303918e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ARISTIDE BRIAND - CH DE MONS 718 a 720 / BERGENSESTEENWEG 718 tot 720" .
+
+<ex:station_84>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.85896e0 ;
+        geo:lng         4.330107e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "STE ANNE/SINT-ANNA  -  RUE DE L'EGLISE STE ANNE/SINT-ANNAKERKSTRAAT 116" .
+
+<ex:station_192>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.851562e0 ;
+        geo:lng         4.332924e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "AUBERGE DE JEUNESSE - RUE DELAUNOY/STRAAT ,67" .
+
+<ex:station_54>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  39 ;
+        geo:lat         50.863445e0 ;
+        geo:lng         4.34635e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "TOUR ET TAXIS/THURN &TAXIS - RUE PICARD/ PICARDSTRAAT 3" .
+
+<ex:station_288>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.80351e0 ;
+        geo:lng         4.3589e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HOUZEAU - AVENUE HOUZEAU 21 / HOUZEAULAAN 21" .
+
+<ex:station_343>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.861788e0 ;
+        geo:lng         4.292913e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VANDENDRIESCH - RUE J-B VANDENDRIESCH 22-24" .
+
+<ex:station_24>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  36 ;
+        geo:lat         50.855268e0 ;
+        geo:lng         4.358717e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ROGIER - BOULEVARD DU JARDIN BOTANIQUE/KRUIDTUINLAAN" .
+
+<ex:station_258>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         50.862152e0 ;
+        geo:lng         4.323353e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LIBERTE - AV DE LA LIBERTE, 44 / VRIJHEIDSLAAN,44" .
+
+<ex:station_132>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         50.816338e0 ;
+        geo:lng         4.433895e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DEUX CHAUSSEES - CHEE DE TERVURENLAAN FACE/TEGENOVER 93A" .
+
+<ex:station_313>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.814958e0 ;
+        geo:lng         4.416987e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DEMEY - INTERSECTION BD INVALIDENLAAN / AV LOUIS DEHOUXLAAN" .
+
+<ex:station_228>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.816525e0 ;
+        geo:lng         4.336212e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ALTITUDE CENT / HOOGTE HONDERD - PLACE DE L'ALTITUDE 100 (FACE 31) / HOOGTE HONDERDPLEIN (TEGENOVER 31)" .
+
+<ex:station_96>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.863875e0 ;
+        geo:lng         4.358708e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HOTEL PRESIDENT/PRESIDENT HOTEL - BOULEVARD DU ROI ALBERT II/KONING ALBERT-II LAAN" .
+
+<ex:station_102>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.83579e0 ;
+        geo:lng         4.375782e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MUSEUM - CHAUSSEE DE WAVRE (FACE 229 - 233)  /  WAVERSESTEENWEG (TEGENOVER 229 - 233)" .
+
+<ex:station_66>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         50.843359e0 ;
+        geo:lng         4.379946e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SCHUMAN - RUE DE LA LOI 170" .
+
+<ex:station_174>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.853947e0 ;
+        geo:lng         4.31635e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MENNEKENS - AVENUE BRIGADE PIRON (FACE AUX 80 - 82 - 84)/ BRIGADE PIRONLAAN (TEGENOVER 80 - 82 - 84)" .
+
+<ex:station_36>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         50.845124e0 ;
+        geo:lng         4.351486e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PLACE ST JEAN/SINT-JANSPLEIN - RUE DU LOMBARD/LOMBARDSTRAAT 42" .
+
+<ex:station_355>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.837714e0 ;
+        geo:lng         4.369117e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PARNASSE - RUE DU TRONE N°66 (CLOS PARNASSE)" .
+
+<ex:station_144>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.85778e0 ;
+        geo:lng         4.368144e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SAINTE MARIE/SINTE-MARIA - RUE ROYALE/ KONINGSSTRAAT 257 - 259" .
+
+<ex:station_325>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.821735e0 ;
+        geo:lng         4.405622e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HANKAR - CHEE DE WAVRE / WAVERSESTEENWEG 1208" .
+
+<ex:station_114>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.820391e0 ;
+        geo:lng         4.385358e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SAISONS/JAARGETIJDEN  -  AVENUE DES SAISONS 2 / JAARGETIJDENLAAN 2" .
+
+<ex:station_8>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  42 ;
+        geo:lat         50.845683e0 ;
+        geo:lng         4.368582e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ARTS-LOI/KUNST-WET -  AVENUE DES ARTS/KUNSTLAAN 24" .
+
+<ex:station_78>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.823699e0 ;
+        geo:lng         4.351623e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DUC PETIAUX - CHAUSSEE DE WATERLOO/ WATERLOOSESTEENWEG 376 - 370" .
+
+<ex:station_271>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.851158e0 ;
+        geo:lng         4.309591e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DUBOIS - BD EMILE MACHTENS/LAAN 102-104" .
+
+<ex:station_186>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.861783e0 ;
+        geo:lng         4.302607e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GENOT - CHAUSSEE DE GAND DEVANT 1033" .
+
+<ex:station_48>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         50.849358e0 ;
+        geo:lng         4.363589e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CONGRES - RUE ROYALE/KONINGSSTRAAT 144-146-148" .
+
+<ex:station_241>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.803917e0 ;
+        geo:lng         4.349116e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "STATUAIRES/BEELDHOUWWERK - AVENUE DE FRE/DE FRELAAN 62" .
+
+<ex:station_156>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.847158e0 ;
+        geo:lng         4.393255e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "JAMBLINE DE MEUX - PLACE JAMBLINNE DE MEUX / JAMBLINNE DE MEUXPLEIN 43 - 44 - 45" .
+
+<ex:station_337>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.843779e0 ;
+        geo:lng         4.437698e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SHOPPING - BD DE LA WOLUWE" .
+
+<ex:station_18>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.84771e0 ;
+        geo:lng         4.377552e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GUTENBERG - SQUARE GUTENBERG (FACE N° 5)/GUTENBERGSSQUARE (TEGENOVER N° 5)" .
+
+<ex:station_211>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.816528e0 ;
+        geo:lng         4.290832e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "METRO CERIA - CH DE MONS (FACE AU 1292 a 1284) / BERGENSESTEENWEG (TEGENOVER 1292 TOT 1284)" .
+
+<ex:station_126>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.837288e0 ;
+        geo:lng         4.43462e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "FABRY - BOULEVARD DE LA WOLUWE / WOLUWELAAN 28" .
+
+<ex:station_307>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.881889e0 ;
+        geo:lng         4.347448e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "KAREL BOGAERT - BD EMILE BOCKSTAEL / EMILE BOCKSTAELLAAN 307" .
+
+<ex:station_283>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         50.893158e0 ;
+        geo:lng         4.376931e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PISCINE / ZWEMBAD - RUE DE LOMBARTZYDE / LOMBARDSIJDESTRAAT" .
+
+<ex:station_198>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.847649e0 ;
+        geo:lng         4.307714e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SCHEUT - CHEE DE NINOVE (FACE 441) / NINOOFSESTEENWEG (TEGENOVER 441)" .
+
+<ex:station_253>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.872475e0 ;
+        geo:lng         4.314266e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "REINE FABIOLA / KONINGIN FABIOLA - AV PIETER GODEFROY / PIETER GODEFROYLAAN" .
+
+<ex:station_168>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.866379e0 ;
+        geo:lng         4.303281e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HOPITAL FRANÇAIS/FRANS HOSPITAAL - AVENUE JOS GOFFINLAAN 133-135" .
+
+<ex:station_349>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.833444e0 ;
+        geo:lng         4.334857e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "FONSNY - AVENUE FONSNY EN FACE DES DEBOUCHES DES RUES COENRAETS ET J. CLAES" .
+
+<ex:station_223>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.824055e0 ;
+        geo:lng         4.326376e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "WIELS - AV.WIELEMANS CEUPPENS/LAAN 7" .
+
+<ex:station_91>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.867773e0 ;
+        geo:lng         4.335217e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BELGICA - PLACE WERRIE/ WERRIEPLEIN 24" .
+
+<ex:station_138>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.865218e0 ;
+        geo:lng         4.377735e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HOUFFALIZE - PLACE DE HOUFFALIZE /HOUFFALIZEPLEIN 58" .
+
+<ex:station_319>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.885197e0 ;
+        geo:lng         4.317648e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ANCIENNE BARRIERE / OUDE AFSPANNINGSPLEIN - PLACE DE L'ANCIENNE BARRIERE FACE 10" .
+
+<ex:station_61>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         50.843836e0 ;
+        geo:lng         4.378002e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MAELBEEK/MAALBEEK - CHAUSSEE D'ETTERBEEK/ETTERBEEKSESTEENWEG 15" .
+
+<ex:station_295>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.793682e0 ;
+        geo:lng         4.418497e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "COIN DU BALAI - AV DE LA FORESTERIE" .
+
+<ex:station_108>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         50.828012e0 ;
+        geo:lng         4.371756e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "FLAGEY - PLACE FLAGEY (FACE 11)/EUGENE FLAGEYPLEIN (TEGENOVER 11)" .
+
+<ex:station_31>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.850303e0 ;
+        geo:lng         4.360706e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MUSEE DE LA BD/STRIPMUSEUM - BOULEVARD PACHECO/PACHECOLAAN" .
+
+<ex:station_350>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.848184e0 ;
+        geo:lng         4.425621e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VERHEYLEWEGHEN - PLACE VERHEYLEWEGHEN DVT LES N°32-34" .
+
+<ex:station_265>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.867241e0 ;
+        geo:lng         4.40287e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "EVERE SHOPPING - AV DES LOISIRS / VRIJETIJDSLAAN" .
+
+<ex:station_320>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.886451e0 ;
+        geo:lng         4.310966e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "UZ BRUSSEL - AVENUE DE L'ARBRE BALLON / DIKKE-BEUKLAAN" .
+
+<ex:station_235>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.810085e0 ;
+        geo:lng         4.324864e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "FOREST NATIONAL / VORST NATIONAAL - AV VICTOR ROUSSEAU DVT FOREST NATIONAL / VICTOR ROUSSEAU LAAN VOOR VORST NATIONAAL" .
+
+<ex:station_3>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         50.853203e0 ;
+        geo:lng         4.341823e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PORTE DE FLANDRE/VLAAMSEPOORT - BLD DE NIEUPORT/NIEUWPOORTLAAN 1" .
+
+<ex:station_205>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.835503e0 ;
+        geo:lng         4.299573e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DE LINDE - PLACE DE LINDE 22 / DE LINDEPLEIN 22" .
+
+<ex:station_73>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.823898e0 ;
+        geo:lng         4.367752e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VLEURGAT - AVENUE LOUISE/LOUIZALAAN 300" .
+
+<ex:station_181>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.835723e0 ;
+        geo:lng         4.394395e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LOUIS TITZ - AVENUE DE LA CHASSE/ JACHTLAAN 182 - 184" .
+
+<ex:station_362>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.872501e0 ;
+        geo:lng         4.290218e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE BERCHEM ST AGATHE/ST AGATA BERCHEM STATION - RUE BOIS DES ÎLES/EILANDENHOUTSTRAAT 1-15" .
+
+<ex:station_43>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.845256e0 ;
+        geo:lng         4.374501e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "JOSEPH II/JOZEF II - RUE JOSEPH II/JOZEF II-STRAAT" .
+
+<ex:station_277>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         50.881588e0 ;
+        geo:lng         4.373817e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VAN PRAET - AVENUE VAN PRAET / VAN PRAETLAAN" .
+
+<ex:station_151>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.853518e0 ;
+        geo:lng         4.392491e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LOUVAIN / LEUVEN - CHAUSSEE DE LOUVAIN - LEUVENSESTEENWEG  488-494" .
+
+<ex:station_13>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.840184e0 ;
+        geo:lng         4.341324e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LEMONNIER - BLD. MAURICE LEMONNIER/DE MAURICE LEMONNIERLAAN 202-204-206" .
+
+<ex:station_332>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.845229e0 ;
+        geo:lng         4.404311e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VERGOTE - BD BRAND WHITLOK" .
+
+<ex:station_247>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.79586e0 ;
+        geo:lng         4.32058e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "STALLE - RUE DE STALLE PROLONGEE/VERLENGDE STALLESTRAAT" .
+
+<ex:station_121>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.823986e0 ;
+        geo:lng         4.37379e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ETANGS / VIJVERS - RUE GUILLAUME STOCQ (FACE AU N° 1-3-5)/ GUILLAUME STOCQSTRAAT (TEGENOVER N° 1-3-5)" .
+
+<ex:station_217>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         50.824913e0 ;
+        geo:lng         4.297248e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BIZET - PLACE BIZET (face 11 a 19) / BIZETPLEIN (TEGENOVER 11 tot 19)" .
+
+<ex:station_85>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.8572655240874e0 ;
+        geo:lng         4.33236837868758e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ETANGS NOIRS /ZWARTE VIJVERS - CHEE DE GAND/STEENWEG OP GENT" .
+
+<ex:station_193>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         50.848866e0 ;
+        geo:lng         4.320628e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE DE L'OUEST - CHEE DE NINOVE 207,209 / NINOOFSESTEENWEG 207,209" .
+
+<ex:station_55>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.853248e0 ;
+        geo:lng         4.366188e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BOTANIQUE/KRUIDTUIN - AVENUE GALILEE/GALILEELAAN" .
+
+<ex:station_289>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.801816e0 ;
+        geo:lng         4.340738e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SQUARE GEORGES MARLOWSQUARE - SQUARE MARLOW FACE 3-4-5 / MARLOWSQUARE VOOR 3-4-5" .
+
+<ex:station_163>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.859112e0 ;
+        geo:lng         4.39157e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CHAZAL - AVENUE ERNEST CAMBIER (FACE 7)/ ERNEST CAMBIERLAAN (TEGENOVER 7)" .
+
+<ex:station_344>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.830179e0 ;
+        geo:lng         4.337958e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BETHLEEM - PLACE BETHLEEM" .
+
+<ex:station_25>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.845769e0 ;
+        geo:lng         4.338961e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PORTE D'ANDERLECHT - BD DE L'ABATTOIR, 43-44" .
+
+<ex:station_259>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.859608e0 ;
+        geo:lng         4.33409e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "NOVILLE - SQ NOVILLE" .
+
+<ex:station_133>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.866795e0 ;
+        geo:lng         4.3092224e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CHATEAU-KASTEEL - AVENUE DU CHÂTEAU/KASTEELLAAN" .
+
+<ex:station_314>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         50.812325e0 ;
+        geo:lng         4.427962e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HERRMANN DEBROUX - AV HERRMANN DEBROUXLAAN" .
+
+<ex:station_229>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         50.813587e0 ;
+        geo:lng         4.324681e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ZAMAN FOREST NATIONAL/ZAMAN VORST NATIONAAL - AV VAN VOLXEM 2 / VAN VOLXEMLAAN 2" .
+
+<ex:station_97>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.858058e0 ;
+        geo:lng         4.318689e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "KARREVELD - CHAUSSEE DE GAND/ GENTSESTEENWEG 1-3" .
+
+<ex:station_290>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.79158e0 ;
+        geo:lng         4.332669e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE DE CALEVOET / KALEVOET STATION - CHEE D'ALSEMBERG / ALSEMBERGSESTEENWEG 1006" .
+
+<ex:station_67>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         50.83975e0 ;
+        geo:lng         4.385426e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PARC CINQUANTENAIRE/JUBELPARK - AVENUE D'AUDERGHEM/OUDERGEMSESTEENWEG 45" .
+
+<ex:station_260>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.86702e0 ;
+        geo:lng         4.406995e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "TRITON - AVENUE DES ANCIENS COMBATTANTS - PISCINE / OUD-STRIJDERSLAAN - ZWEMBAD" .
+
+<ex:station_175>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.854166e0 ;
+        geo:lng         4.322948e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BEEKANT - BOULEVARD EDMOND MACHTENS / EDMOND MACHTENSLAAN" .
+
+<ex:station_356>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         50.829715e0 ;
+        geo:lng         4.455151e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CENTRE SPORTIF - AVENUE JULES DU JARDIN FACE AU N°45 (ROND POINT DU TIBET)" .
+
+<ex:station_37>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.83795e0 ;
+        geo:lng         4.353019e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "POELAERT - PLACE POELAERT/POELAERTPLEIN 3" .
+
+<ex:station_230>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.818382e0 ;
+        geo:lng         4.346061e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BERKENDAEL / BERKENDAAL - AVENUE ALBERT / ALBERTLAAN 134" .
+
+<ex:station_145>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.859096e0 ;
+        geo:lng         4.379117e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "COTEAUX/WIJNHEUVELEN - AVENUE ROGIER / ROGIERLAAN 128" .
+
+<ex:station_326>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.809406e0 ;
+        geo:lng         4.443777e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ADEPS - CHEE DE WAVRE / WAVERSESTEENWEG 2057" .
+
+<ex:station_200>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.843967e0 ;
+        geo:lng         4.313537e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VETERANS COLONIAUX / KOLONIALE VETERANEN - BD JULES GRAINDOR / JULES GRAINDORLAAN" .
+
+<ex:station_115>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.817775e0 ;
+        geo:lng         4.384971e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PETITE SUISSE / KLEIN ZWITSERLAND - PLACE DE LA PETITE SUISSE (FACE 16-18) / KLEIN ZWITSERLANDPLEIN (TEGENOVER 16 - 18)" .
+
+<ex:station_9>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         50.844045e0 ;
+        geo:lng         4.345048e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ANNEESSENS - BLD MAURICE LEMONNIER/MAURICE LEMONNIERLAAN 42-44-46" .
+
+<ex:station_79>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.84413e0 ;
+        geo:lng         4.374871e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LOI/WET - RUE D'ARLON/STRAAT 120" .
+
+<ex:station_272>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.850845e0 ;
+        geo:lng         4.299659e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SCHEUTBOS - BD METTEWIE/LAAN FACE/VOOR 419" .
+
+<ex:station_187>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.826603e0 ;
+        geo:lng         4.397117e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ARSENAL/ARSENAAL - BOULEVARD LOUIS SCHMIDT/ LOUIS SCHMIDTLAAN 2" .
+
+<ex:station_49>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.8615e0 ;
+        geo:lng         4.351143e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "WILLEBROECK/WILLEBROEK - QUAI DE WILLEBROECK/WILLEBROEKKAAI 22 BIS" .
+
+<ex:station_242>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.803791e0 ;
+        geo:lng         4.333321e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MAISON COMMUNALE D'UCCLE/UKKEL GEMEENTEHUIS - PLACE JEAN VANDER ELST / JEAN VANDER ELST PLEIN" .
+
+<ex:station_157>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.863388e0 ;
+        geo:lng         4.386222e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HELIOTROPES/HELIOTROPEN - BOULEVARD LAMBERMONT /  LAMBERMONTLAAN 374" .
+
+<ex:station_19>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.828046e0 ;
+        geo:lng         4.347596e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PLACE MORICHAR / MORICHARPLEIN - RUE DES ETUDIANTS/ STUDENTENSTRAAT 32 - 34" .
+
+<ex:station_338>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         50.851073e0 ;
+        geo:lng         4.452706e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "UCL - AVENUE E.MOUNIER,40" .
+
+<ex:station_212>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.827106e0 ;
+        geo:lng         4.2925e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "THEO LAMBERT - BD THEO LAMBERT (FACE 60) / THEO LAMBERT LAAN (TEGENOVER 60)" .
+
+<ex:station_80>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.814852e0 ;
+        geo:lng         4.376794e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CERES - AV. F. ROOSEVELT/F. ROOSEVELTLAAN, 14" .
+
+<ex:station_127>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         50.832194e0 ;
+        geo:lng         4.377694e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GRAY  -  RUE DES DEUX PONTS (FACE 4)/ TWEEBRUGGENSTRAAT (TEGENOVER 4)" .
+
+<ex:station_308>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         50.872265e0 ;
+        geo:lng         4.352158e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "TIVOLI - RUE DE MOLENBEEK CROISEMENT RUE DE WAUTIER/ KRUISPUNT MOLENBEEKSTRAAT-DE WAUTIERSTRAAT" .
+
+<ex:station_50>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.860862e0 ;
+        geo:lng         4.339182e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "RIBAUCOURT - BLD LEOPOLD II / LEOPOLD II-LAAN 121-123" .
+
+<ex:station_284>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.873085e0 ;
+        geo:lng         4.35859e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CLAESSENS - RUE CLAESSENS FACE 7 / CLAESSENSSTRAAT VOOR 7" .
+
+<ex:station_199>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.843693e0 ;
+        geo:lng         4.304986e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "STATION HENRI REY - BD FELIX PAULSEN / FELIX PAULSENLAAN 3-5-7-9" .
+
+<ex:station_20>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.843613e0 ;
+        geo:lng         4.360628e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PALAIS ROYAL/KONINGSSTRAAT PALEIS - RUE ROYALE (DEVANT N°14)/KONINKLIJKESTRAAT (N°14)" .
+
+<ex:station_254>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.867393e0 ;
+        geo:lng         4.320344e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BASILIQUE / BASILIEK - AV JACQUES SERMON / JACUES SERMONLAAN" .
+
+<ex:station_169>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.877125e0 ;
+        geo:lng         4.387515e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GEORGES EEKHOUD - AVENUE GEORGES EEKHOUD/GEORGES EEKHOUDLAAN 56" .
+
+<ex:station_224>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.824352e0 ;
+        geo:lng         4.334465e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ROCHEFORT - AV. WIELEMANS CEUPPENS LAAN 184-190" .
+
+<ex:station_92>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.875826e0 ;
+        geo:lng         4.329921e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LENOIR - BLD DE SMET DE NAEYER/DE SMET DE NAEYERLAAN 187 - 189" .
+
+<ex:station_139>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.863872e0 ;
+        geo:lng         4.366741e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LIEDTS - PLACE LIEDTS (FACE AU 38)/ LIEDTSPLEIN (TEGENOVER 38)" .
+
+<ex:station_62>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         50.84177e0 ;
+        geo:lng         4.38418e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CORTENBERGH / KORTENBERG - AVENUE D'AUDERGHEM 1 - 9 /OUDERGHEMLAAN 1-9" .
+
+<ex:station_296>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.79528e0 ;
+        geo:lng         4.40832e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE DE BOITSFORT / BOSVOORDE STATION - CHEE DE LA HULPE DVT 187 / HULPSESTEENWEG 187" .
+
+<ex:station_109>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.824048e0 ;
+        geo:lng         4.359896e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CHATELAIN/KASTELEIN - RUE DE L'AQUEDUC /AQUADUCTSTRAAT 115-117-119" .
+
+<ex:station_170>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.87453e0 ;
+        geo:lng         4.385378e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "RIGA - SQUARE FRANCOIS RIGA / FRANCOIS RIGASQUARE" .
+
+<ex:station_351>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.813724e0 ;
+        geo:lng         4.384205e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ULB - AV BUYL CROISEMENT AV DE L'UNIVERSITE (DEVANT L'ULB)" .
+
+<ex:station_32>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         50.850176e0 ;
+        geo:lng         4.346384e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DANSAERT - RUE ANTOINE DANSAERT/ANTOINE DANSAERTSTRAAT 60-62-64" .
+
+<ex:station_266>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         50.877552e0 ;
+        geo:lng         4.409136e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE BORDET / BORDET STATION - CHAUSSEE D'HAECHT FACE 1147 / HAACHTSESTEENWEG VOOR 1147" .
+
+<ex:station_140>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.862704e0 ;
+        geo:lng         4.381289e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "AZALEES / AZALEA -   AVENUE PAUL DESCHANEL/LAAN FACE/TEGENOVER N°  6-8" .
+
+<ex:station_321>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         50.884251e0 ;
+        geo:lng         4.330287e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SACRE-CŒUR DE JETTE/HEILIGE HART VAN JETTE - AVENUE DU SACREE CŒUR FACE 71 A 79/HEILIGE HARTLAAN VOOR 71 TOT 79" .
+
+<ex:station_236>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.812328e0 ;
+        geo:lng         4.318885e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MAISON COMMUNALE DE FOREST / VORST GEMEENTEHUIS - RUE SAINT DENIS 4 / SINT DENIJSSTRAAT 4" .
+
+<ex:station_110>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.826992e0 ;
+        geo:lng         4.382379e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "RODIN - AVENUE DE LA COURONNE (DEVANT 145 D) / KROONLAAN (N° 145 D)" .
+
+<ex:station_4>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.847976e0 ;
+        geo:lng         4.343696e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "JARDIN AUX FLEURS/BLOEMENHOF - PLACE DU JARDIN AUX FLEURS/BLOEMENHOFPLEIN - RUE DES 6 JETONS/ZES PENNIGENSTRAAT 71" .
+
+<ex:station_206>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.834755e0 ;
+        geo:lng         4.305962e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SAINT GUIDON / SINT GUIDO - AV PAUL JANSON (FACE AU 34-28) / PAUL JANSONLAAN (TEGENOVER 34-28)" .
+
+<ex:station_74>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.831936e0 ;
+        geo:lng         4.353037e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PLACE LOIX/LOIXPLEIN - RUE BERCKMANS/ BERCKMANSSTRAAT 78 - 84" .
+
+<ex:station_182>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.83168e0 ;
+        geo:lng         4.404769e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BOILEAU - BOULEVARD SAINT MICHEL / SINT-MICHIELSLAAN" .
+
+<ex:station_44>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.841707e0 ;
+        geo:lng         4.370986e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CHARLEMAGNE/KAREL DE GROTE - RUE DE LA SCIENCE/WETENSCHAPSSTRAAT 11" .
+
+<ex:station_278>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.894005e0 ;
+        geo:lng         4.331902e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "STADE / STADIUM - AVENUE HOUBA DE STROOPER / HOUBA DE STROOPERLAAN" .
+
+<ex:station_152>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.852389e0 ;
+        geo:lng         4.387373e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PLACE DAILLY / DAILLYPLEIN - PLACE DAILLY / DAILLYPLEIN 24 - 25" .
+
+<ex:station_333>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.856582e0 ;
+        geo:lng         4.430988e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "TRACTEBEL - AV MARCEL THIRY FACE AU N°93" .
+
+<ex:station_14>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  42 ;
+        geo:lat         50.838816e0 ;
+        geo:lng         4.361557e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PORTE DE NAMUR/NAAMSEPOORT - BOULEVARD DE WATERLOO 2" .
+
+<ex:station_248>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.795704e0 ;
+        geo:lng         4.373631e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PRINCE DE LIGNE / PRINCE LIJN - CHEE DE WATERLOO FACE 1170 / WATERLOOSESTEENWEG VOOR 1170" .
+
+<ex:station_122>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         50.822207e0 ;
+        geo:lng         4.389325e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE D'ETTERBEEK/STATION VAN ETTERBEEK - BOULEVARD GENERAL JACQUES/GENERAAL JACQUESLAAN" .
+
+<ex:station_303>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.807903e0 ;
+        geo:lng         4.392756e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VIEUX TILLEUL - AV DU BOIS DE LA CAMBRE FACE 113" .
+
+<ex:station_86>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.876195e0 ;
+        geo:lng         4.324477e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MAISON COMMUNALE DE JETTE / JETTE GEMEENTEHUIS - CHAUSSEE DE WEMMEL/WEMMELSESTEENWEG 102" .
+
+<ex:station_218>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.845928e0 ;
+        geo:lng         4.323812e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DELACROIX - RUE LEON DELACROIX 1 a 7 / LEON DELACROIXSTRAAT 1 tot 7" .
+
+<ex:station_194>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.885885e0 ;
+        geo:lng         4.342003e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "AVENUE HOUBA DE STROOPER LAAN 30-32" .
+
+<ex:station_56>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.845817e0 ;
+        geo:lng         4.383722e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ARCHIMEDE / ARCHIMEDES - RUE ARCHIMEDE/ARCHIMEDESSTRAAT 58-64" .
+
+<ex:station_164>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.867643e0 ;
+        geo:lng         4.385817e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "KENNIS - BOULEVARD LAMBERMONT (20 M APRES 284)/LAMBERMONTLAAN   (20 M NA N° 284)" .
+
+<ex:station_345>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         50.802675e0 ;
+        geo:lng         4.412073e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "3 TILLEULS - AV DES ORTOLANS 2" .
+
+<ex:station_26>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         50.839413e0 ;
+        geo:lng         4.328914e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VAN LINT - RUE VAN LINT/ VAN LINTSTRAAT 6 - 8" .
+
+<ex:station_134>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.862652e0 ;
+        geo:lng         4.316644e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BASTOGNE/BASTENAKEN - PLACE DE BASTOGNE/BASTENAKENPLEIN" .
+
+<ex:station_315>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.810322e0 ;
+        geo:lng         4.435789e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SACRE COEUR AUDERGHEM / HEILIGE HART OUDERGHEM - SQUARE DU SACREE CŒUR / HEILIG-HARTSQUARE" .
+
+<ex:station_98>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.85904e0 ;
+        geo:lng         4.312402e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CIMETIERE/KERKHOF - BLD METTEWIE/METTEWIELAAN 40 INTERSECTION CHAUSSÉE DE GAND/GENTSESTEENWEEG" .
+
+<ex:station_291>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         50.804661e0 ;
+        geo:lng         4.327886e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DECROLY - RUE GATTI DE GAMMOND / GATTI DE GAMMOND STRAAT" .
+
+<ex:station_68>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  33 ;
+        geo:lat         50.840282e0 ;
+        geo:lng         4.380131e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "JEAN REY - PLACE JEAN REY/JEAN REYPLAATS" .
+
+<ex:station_261>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.86879e0 ;
+        geo:lng         4.399587e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CONSCIENCE - AVENUE HENRI CONSCIENCE / HENRI CONSCIENCELAAN 83" .
+
+<ex:station_176>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.852356e0 ;
+        geo:lng         4.408635e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "COLONEL BOURG/KOLONEL BOURG - RUE COLONEL BOURG/ KOLONEL BOURGSTRAAT 104" .
+
+<ex:station_357>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.834634e0 ;
+        geo:lng         4.456746e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "AVIATION - INTERSECTION AVENUE DE L'AVIATION ET AVENUE ORBAN" .
+
+<ex:station_38>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         50.837912e0 ;
+        geo:lng         4.347421e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "JEU DE BALLE/VOSSENPLEIN - RUE BLAES/BLAESSTRAAT 135-141" .
+
+<ex:station_231>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         50.805801e0 ;
+        geo:lng         4.3194e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "KERSBEEK - AV KERSBEEK 107 / KERSBEEKLAAN 107" .
+
+<ex:station_146>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.859243e0 ;
+        geo:lng         4.401022e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LEOPOLD III -  BOULEVARD LEOPOLD III / LEOPOLD III-LAAN" .
+
+<ex:station_327>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.874082e0 ;
+        geo:lng         4.362205e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SIBELGA - QUAI DES USINES / WERKHUIZENKAAI 16" .
+
+<ex:station_201>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.8414e0 ;
+        geo:lng         4.296013e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PETERBOS - BD MARIA GROENINCKX DE MAY (FACE 26) / MARIA GROENINCKX DE MAYLAAN (TEGENOVER 26)" .
+
+<ex:station_116>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.818253e0 ;
+        geo:lng         4.395749e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ULB PLAINE - BOULEVARD DE LA PLAINE  (ENTREE ULB) / PLEINLAAN (INGANG VUB)" .
+
+<ex:station_273>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.854824e0 ;
+        geo:lng         4.306209e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "TAMARIS - BD METTEWIE LAAN VOOR/FACE 71" .
+
+<ex:station_188>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.857235e0 ;
+        geo:lng         4.324354e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "OSSEGHEM -  AVENUE MAHATMA GANDHI/ MAHATMA GANDHILAAN 10" .
+
+<ex:station_243>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.811752e0 ;
+        geo:lng         4.353424e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "RONDPOINT CHURCHILL/ROTONDE CHURCHILL - AV MESSIDOR FACE 338/MESSIDORLAAN TEGENOVER 338" .
+
+<ex:station_158>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.867955e0 ;
+        geo:lng         4.379577e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VAN YSENDIJCK - AVENUE VOLTAIRE (FACE 6) / VOLTAIRELAAN (TEGENOVER 6)" .
+
+<ex:station_339>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.845365e0 ;
+        geo:lng         4.41788e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MEUDON - SQUARE MEUDON" .
+
+<ex:station_213>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.821018e0 ;
+        geo:lng         4.293865e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LA ROUE / HET RAD - CH DE MONS 1100-1106 / BERGENSESTEENWEG 1100-1106" .
+
+<ex:station_81>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.870259e0 ;
+        geo:lng         4.343195e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PONT BOCKSTAEL/BRUG BOCKSTAEL - BLD EMILE BOCKSTAEL/EMILE BOCKSTAELLAAN 5" .
+
+<ex:station_128>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.832355e0 ;
+        geo:lng         4.432358e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MUSEE DU TRAM - AVENUE DE TERVUREN / TERVURENLAAN" .
+
+<ex:station_309>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.87521e0 ;
+        geo:lng         4.317954e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SQUARE DU CENTENAIRE / EEUWFEESTSQUARE- SQUARE DU CENTENAIRE" .
+
+<ex:station_51>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.835699e0 ;
+        geo:lng         4.338826e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MIDI FONSNY/ZUID FONSNY - RUE D'ANGLETERRE / ENGELANDSTRAAT" .
+
+<ex:station_285>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.813469e0 ;
+        geo:lng         4.338951e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "COGHEN - AV COGHEN 1 A 5 / COGHENSTRAAT 1 TOT 5" .
+
+<ex:station_21>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  43 ;
+        geo:lat         50.85223e0 ;
+        geo:lng         4.35316e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DE BROUCKERE - PLACE DE BROUCKERE/DE BROUCKEREPLEIN" .
+
+<ex:station_340>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.843617e0 ;
+        geo:lng         4.425324e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "AVENUE PAUL HYMANSLAAN" .
+
+<ex:station_255>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.868011e0 ;
+        geo:lng         4.313968e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SACRE-COEUR DE GANSHOREN / HEILIGE HART VAN GANSHOREN - AV CHARLESQUINT,9 / KEISERKARELLAAN,9" .
+
+<ex:station_310>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.88058e0 ;
+        geo:lng         4.401674e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SAINT VINCENT / SINT-VINCENTIUS - RUE STROOBANTS/STROOBANTSSTRAAT" .
+
+<ex:station_225>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.821117e0 ;
+        geo:lng         4.342008e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PLACE ALBERT/PLEIN - PLACE ALBERT / ALBERTPLEIN" .
+
+<ex:station_93>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         50.85062e0 ;
+        geo:lng         4.381152e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CLOVIS - CHAUSSEE DE LOUVAIN - LEUVENSESTEENWEG 260-264" .
+
+<ex:station_63>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.834705e0 ;
+        geo:lng         4.421643e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "JULES CESAR - AVENUE DE TERVUREN DEVANT / TERVURENLAAN VOOR 278" .
+
+<ex:station_297>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.804775e0 ;
+        geo:lng         4.426387e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "TEN REUKEN - BD DU SOUVERAIN FACE 76" .
+
+<ex:station_171>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.854789e0 ;
+        geo:lng         4.312201e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PISCINE LOUIS NAMECHE ZWEMBAD - RUE CHARLES MALISSTRAAT / PARKING PISCINE / ZWEMBAD PARKING" .
+
+<ex:station_33>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.848701e0 ;
+        geo:lng         4.356055e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MORT SUBITE - RUE MONTAGNE AUX-HERBES-POTAGERES (FACE N° 7)/WARMOESBERG (TEGENOVER N°7)" .
+
+<ex:station_352>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         50.814264e0 ;
+        geo:lng         4.443479e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ROUGE-CLOÎTRE - RUE DU ROUGE-CLOÎTRE (PARKING CENTRE D'ART) / ROOD-KLOOSTERSTRAAT (PARKING KUNSTENCENTRUM)" .
+
+<ex:station_267>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.862912e0 ;
+        geo:lng         4.403226e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GENEVE - RUE DE GENEVE /  GENEVESTRAT 12" .
+
+<ex:station_141>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  42 ;
+        geo:lat         50.860652e0 ;
+        geo:lng         4.358116e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE DU NORD/NOORDSTATION - PLACE SIMON BOLIVAR/ SIMON BOLIVARLAAN" .
+
+<ex:station_322>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.889523e0 ;
+        geo:lng         4.315953e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PARC DU ROI BAUDOUIN / BOUDEWIJNPARK - RUE JEAN BAPTISTE MOYENSSTRAAT 400" .
+
+<ex:station_237>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.827972e0 ;
+        geo:lng         4.330705e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PARVIS ST ANTOINE / ST ANTONIUS VOORPLEIN - RUE DE MERODE/MERODESTRAAT 290" .
+
+<ex:station_111>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.827831e0 ;
+        geo:lng         4.431822e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ETANGS MELLAERTS VIJVERS - BOULEVARD DU SOUVERAIN FACE / VORSTLAAN VOOR 275" .
+
+<ex:station_5>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  44 ;
+        geo:lat         50.848893e0 ;
+        geo:lng         4.349396e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BOURSE / BEURS - RUE PAUL DEVAUX/PAUL DEVAUXSTRAAT" .
+
+<ex:station_207>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.833424e0 ;
+        geo:lng         4.313378e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BIESTEBROECK / BIESTEBROEK - CHEE DE MONS (FACE AU 518-526) / BERGENSESTEENWEG (TEGENOVER 518-526)" .
+
+<ex:station_75>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.825888e0 ;
+        geo:lng         4.340388e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GENERAL BARON/GENERAAL BARON - AV DU PARC / PARKLAAN 51 - 55" .
+
+<ex:station_183>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.829928e0 ;
+        geo:lng         4.390357e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LA CHASSE/JACHT - AVENUE DES CASERNES/ KAZERNENLAAN 4 - 6" .
+
+<ex:station_45>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.83308e0 ;
+        geo:lng         4.35743e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "STEPHANIE/STEFANIA - AV LOUISE/LOUIZALAAN 61A-63-65" .
+
+<ex:station_364>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.879086e0 ;
+        geo:lng         4.374729e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DOCKS BRUXSEL - AVENUE JULES VAN PRAETLAAN" .
+
+<ex:station_279>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.890181e0 ;
+        geo:lng         4.336962e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HOUBA BRUGMANN - AVENUE HOUBA DE STROOPER / HOUBA DE STROOPERLAAN" .
+
+<ex:station_153>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.854128e0 ;
+        geo:lng         4.378002e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SQUARE ARMAND STEURS/ARMAND STEURSSQUARE - AVENUE PAUL DESCHANEL (FACE N° 267 - 269) / PAUL DESCHANELLAAN (TEGENOVER 267 - 269)" .
+
+<ex:station_334>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.855593e0 ;
+        geo:lng         4.439625e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MARCEL THIRY - AV MARCEL THIRY FACE 23" .
+
+<ex:station_15>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.837036e0 ;
+        geo:lng         4.406826e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MONTGOMERY - AVENUE DE TERVUREN / TERVURENLAAN 136-138" .
+
+<ex:station_249>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.794186e0 ;
+        geo:lng         4.366336e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SAINT-JOB/SINT JOB - PLACE SAINT JOB/SINT-JOB PLEIN" .
+
+<ex:station_123>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.817507e0 ;
+        geo:lng         4.366498e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BASCULE -  CHAUSSEE DE VLEURGAT (DEVANT 315 - 317) / VLEURGATSESTEENWEG  (N° 315 - 317)" .
+
+<ex:station_304>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.893497e0 ;
+        geo:lng         4.363297e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ARAUCARIA - AV DES CROIX DE FEU DEV 221C" .
+
+<ex:station_219>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         50.829491e0 ;
+        geo:lng         4.286006e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VAN HELLEMONT - RUE DE NEERPEDE 372-374 / NEERPEDESTRAAT 372-374 (FERMEE SUITE ACCIDENT)" .
+
+<ex:station_87>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.871391e0 ;
+        geo:lng         4.323914e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MIROIR/SPIEGEL - AVENUE DE LAEKEN (FACE 36) / LAKENSE LAAN (TEGENOVER 36)" .
+
+<ex:station_280>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.897522e0 ;
+        geo:lng         4.334831e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HEYSEL / HEISEL - AVENUE DE L'IMPERATRICE CHARLOTTE / KEIZERIN CHARLOTTELAAN" .
+
+<ex:station_195>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.8377e0 ;
+        geo:lng         4.288726e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "WESTLAND SHOPPING - BD SYLVAIN DUPUIS 265 / SYLVAIN DUPUIS LAAN 265" .
+
+<ex:station_57>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.848712e0 ;
+        geo:lng         4.369509e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MADOU - AVENUE DES ARTS/KUNSTLAAN 1-2" .
+
+<ex:station_250>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.80534e0 ;
+        geo:lng         4.372123e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SAINTE-ELISABETH - AV DE FRE CROISEMENT CH DE WATERLOO / DEFRELAAN - WATERLOOSESTEENWEG" .
+
+<ex:station_165>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.879668e0 ;
+        geo:lng         4.33425e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CIMETIERE DE JETTE / KERKHOF JETTE - BLD DE SMET DE NAEYER (FACE AU 322)/ DE SMET DE NAEYERSTRAAT (TEGENOVER 322)" .
+
+<ex:station_346>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.81591e0 ;
+        geo:lng         4.2737e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "RECHERCHE - ROUTE DE LENNIK N°788" .
+
+<ex:station_27>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.838733e0 ;
+        geo:lng         4.32176e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SQUARE ALBERT I / ALBERT I-SQUARE 25 - 26 - 27" .
+
+<ex:station_220>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.825706e0 ;
+        geo:lng         4.288377e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LUTHER KING - BD MAURICE CAREME 30 / MAURICE CAREMELAAN 30" .
+
+<ex:station_135>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.872744e0 ;
+        geo:lng         4.376647e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PARC LACROIX / LACROIX PARK - AV PRINCESSE ELISABETH/PRINSES ELISABETHLAAN" .
+
+<ex:station_99>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.864992e0 ;
+        geo:lng         4.338431e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "JUBILE - BOULEVARD DU JUBILE/ JUBELFEESTLAAN 79" .
+
+<ex:station_292>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.797739e0 ;
+        geo:lng         4.336083e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "RITTWEGER - RUE RITTWEGER 6-8 / RITTWEGERSTRAAT 6-8" .
+
+<ex:station_105>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.829631e0 ;
+        geo:lng         4.3692e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DE HENNIN -  CHAUSSEE D'IXELLES/ELSENSE STEENWEG 254 - 260" .
+
+<ex:station_69>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  29 ;
+        geo:lat         50.827577e0 ;
+        geo:lng         4.363797e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LESBROUSSART - AVENUE LOUISE/LOUIZALAAN 192" .
+
+<ex:station_262>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.87693e0 ;
+        geo:lng         4.400722e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PLACE DE LA PAIX / VREDEPLAIN - PLACE DE LA PAIX FACE 24 / VREDEPLEIN VOOR 24" .
+
+<ex:station_177>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.849409e0 ;
+        geo:lng         4.389263e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CHASSEURS ARDENNAIS/ARDENSE JAGERSPLEIN - RUE DU NOYER 81-87 /NOTELAARSSTRAAT 81-87" .
+
+<ex:station_358>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.82708e0 ;
+        geo:lng         4.444795e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MADOUX - AVENUE DE TERVUREN FACE 403" .
+
+<ex:station_39>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.834237e0 ;
+        geo:lng         4.350732e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HOTEL DES MONNAIES/MUNTHOTEL - BLD DE WATERLOO- WATERLOOLAAN 93/94/95/96/98" .
+
+<ex:station_232>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.810875e0 ;
+        geo:lng         4.329158e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DOMAINE / DOMEIN - AV DU DOMAINE (FACE 150) / DOMEINELAAN (VOOR 150)" .
+
+<ex:station_147>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.861874e0 ;
+        geo:lng         4.372146e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "EMILE MAX LYCEE/LYCEUM EMILE MAX - CHAUSSEE D'HAECHT/ HAACHTSESTEENWEG 226 - 230" .
+
+<ex:station_328>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.849988e0 ;
+        geo:lng         4.417064e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HEYDENBERG - AV HEYDENBERG FACE 99-101" .
+
+<ex:station_202>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.840217e0 ;
+        geo:lng         4.313386e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "AUMALE - RUE D'AUMALE / AUMALESTRAAT 339-341" .
+
+<ex:station_70>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.818113e0 ;
+        geo:lng         4.371446e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "AURORE/DAGERAAD - AVENUE LOUISE/LOUIZALAAN 440" .
+
+<ex:station_117>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  34 ;
+        geo:lat         50.816029e0 ;
+        geo:lng         4.391006e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CIMETIERE D'IXELLES / BEGRAAFPLAATS VAN ELSENE - AVENUE DE LA COURONNE/KROONLAAN 449" .
+
+<ex:station_40>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.833931e0 ;
+        geo:lng         4.343155e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PORTE DE HAL/HALLEPOORT - BOULEVARD DU MIDI/ZUIDLAAN 142" .
+
+<ex:station_274>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.86002e0 ;
+        geo:lng         4.307502e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CORAY - CHEE DE GAND DEVANT 579-587 GENTSESTEENWEG VOOR 579-587" .
+
+<ex:station_189>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         50.836924e0 ;
+        geo:lng         4.389073e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PLACE VAN MEYEL/VAN MEYELPLEIN" .
+
+<ex:station_10>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.841345e0 ;
+        geo:lng         4.351729e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CHAPELLE/KAPEL - PLACE DE LA CHAPELLE/KAPELLEPLEIN" .
+
+<ex:station_244>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.81218e0 ;
+        geo:lng         4.368321e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BOIS DE LA CAMBRE - AV WINSTON CHURCHIL 254 / WINSTON CHURCHILLAAN 254" .
+
+<ex:station_159>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.869297e0 ;
+        geo:lng         4.36257e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MASUI - AVENUE DE LA REINE / KONINGINNELAAN 153" .
+
+<ex:station_214>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         50.816002e0 ;
+        geo:lng         4.295121e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CAMPUS CERIA / CAMPUS VAN CERIA - AV EMILE GRYSON (FACE 6 a 10) / EMILE GRYSONLAAN (TEGENOVER 6 tot 10)" .
+
+<ex:station_82>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.872811e0 ;
+        geo:lng         4.341149e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PANNENHUIS - RUE CHARLES DEMEER/CHARLES DEMEERSTRAAT  71" .
+
+<ex:station_190>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.867904e0 ;
+        geo:lng         4.390696e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "TERDELT - PLACE TERDELT / TERDELTPLEIN" .
+
+<ex:station_52>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         50.859212e0 ;
+        geo:lng         4.34551e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "SAINCTELETTE - PLACE SAINCTELETTE/SAINCTELETTEPLEIN" .
+
+<ex:station_286>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.80814e0 ;
+        geo:lng         4.336901e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BENS - CHEE D'ALSEMBERG DEVANT LE 548 / ALSEMBERSESTEENWEG VOOR 548" .
+
+<ex:station_160>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         50.877501e0 ;
+        geo:lng         4.380315e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ELISA - PLACE PRINCESSE ELISABETH / PRINSES ELISABETHPLEIN 8 - 19" .
+
+<ex:station_341>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         50.840942e0 ;
+        geo:lng         4.436529e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VOOT - BD DE LA WOLUWE DVT 58" .
+
+<ex:station_22>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         50.85587e0 ;
+        geo:lng         4.35585e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "JACQMAIN - BLD. D'ANVERS / ANTWERPSELAAN 4" .
+
+<ex:station_256>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.874767e0 ;
+        geo:lng         4.308977e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VAN OVERBEKE / AV VAN OVERBEKE / VAN OVERBEKELAAN" .
+
+<ex:station_130>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         50.819448e0 ;
+        geo:lng         4.429082e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ROND POINT DU SOUVERAIN - BOULEVARD DU SOUVERAIN FACE / VORSTLAAN VOOR 207" .
+
+<ex:station_311>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         50.818322e0 ;
+        geo:lng         4.404122e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DELTA - BD DES INVALIDES / INVALIDENLAAN" .
+
+<ex:station_226>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.819939e0 ;
+        geo:lng         4.325277e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "UNION/UNIE - BD DE LA DEUXIEME ARMEE BRITANNIQUE / BRITS TWEEDELEGERLAAN 8 - 2" .
+
+<ex:station_94>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.849215e0 ;
+        geo:lng         4.329184e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DUCHESSE DE BRABANT/HERTOGIN VAN BRABANT - RUE DE BIRMINGHAM / BIRMINGHAMSTRAAT" .
+
+<ex:station_100>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  44 ;
+        geo:lat         50.838411e0 ;
+        geo:lng         4.37302e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE DE LUXEMBOURG/LUXEMBURGSTATION - RUE DE TREVES / TRIERSTRAAT" .
+
+<ex:station_64>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.832749e0 ;
+        geo:lng         4.331058e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "VETERINAIRES/VEEARTSEN - RUE DE FRANCE / FRANKRIJKSTRAAT" .
+
+<ex:station_298>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.877037e0 ;
+        geo:lng         4.300847e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "HALL DES SPORTS - AV DES 9 PROVINCES / 9 PROVINCIES LAAN / RUE VANDERVEKEN/STRAAT" .
+
+<ex:station_172>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.869764e0 ;
+        geo:lng         4.388191e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "AEROPOLIS - CHAUSSEE D'HAECHT (FACE 586) / HAACHTSESTEENWEG (TEGENOVER 586)" .
+
+<ex:station_353>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.815681e0 ;
+        geo:lng         4.40812e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BEAULIEU - RUE JULES COCKX / JULES COCKXSTRAAT" .
+
+<ex:station_34>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         50.84563e0 ;
+        geo:lng         4.346942e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "FONTAINAS - BLD ANSPACH N°180 A 192/ANSPACHLAAN N°180 TOT 192" .
+
+<ex:station_268>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.862808e0 ;
+        geo:lng         4.410791e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "DUNANT - AV HENRI DUNANT / HENRI DUNANTLAAN" .
+
+<ex:station_142>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.857319e0 ;
+        geo:lng         4.386724e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "BIENFAITEURS/WELDOENERS - AVENUE ROGIER / ROGIERLAAN 269/271" .
+
+<ex:station_323>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.855186e0 ;
+        geo:lng         4.415246e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CARENE - AV LEON GROSJEAN 79" .
+
+<ex:station_238>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.820278e0 ;
+        geo:lng         4.330802e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "UNION SAINT-GILLOISE / SINT-GILLIS UNIE - CH DE BRUXELLES 366-362 / BRUSSELSESTEENWEG 366-362" .
+
+<ex:station_112>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         50.821567e0 ;
+        geo:lng         4.356508e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PAGE-EDELKNAAP  -  CHAUSSEE DE WATERLOO/  WATERLOOSE STEENWEG 440 - 442" .
+
+<ex:station_6>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         50.845333e0 ;
+        geo:lng         4.356475e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "GARE CENTRALE/CENTRAAL STATION - BLD DE L'IMPERATRICE/KEIZERINLAAN" .
+
+<ex:station_208>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.832565e0 ;
+        geo:lng         4.294311e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "MELBA - AV NELLIE MELBA (FACE 1 a 9) / NELLIE MELBALAAN (TEGENOVER 1 tot 9)" .
+
+<ex:station_76>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.825749e0 ;
+        geo:lng         4.345165e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PLACE VAN MEENEN/VAN MEENENPLEIN - AV PAUL DEJAER (FACE 35 - 39) / PAUL DEJAERLAAN (TEGENOVER 35 - 39)" .
+
+<ex:station_184>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.831592e0 ;
+        geo:lng         4.385786e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PHILIPPE BAUCQ - RUE PHILIPPE BAUCQ / PHILIPPE BAUCQSTRAAT 32 - 38" .
+
+<ex:station_46>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         50.843556e0 ;
+        geo:lng         4.355006e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "ALBERTINE/ALBERTINA - BLD DE L'EMPEREUR/KEIZERSLAAN FACE/TEGENOVER 2" .
+
+<ex:station_154>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.851241e0 ;
+        geo:lng         4.396386e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PLASKY - SQUARE EUGENE PLASKY (FACE 100) / EUGENE PLASKYSQUARE (TEGENOVER 100)" .
+
+<ex:station_335>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         50.854231e0 ;
+        geo:lng         4.444034e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "THIRY - BD DE LA WOLUWE DVT 100" .
+
+<ex:station_16>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         50.835968e0 ;
+        geo:lng         4.355508e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "LOUISE/LOUIZA - PLACE LOUISE/LOUIZAPLEIN 53" .
+
+<ex:station_124>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.818283e0 ;
+        geo:lng         4.363568e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "CHARLES GRAUX - CHAUSSEE DE WATERLOO (DEVANT N° 585 - 587)/ WATERLOOSESTEENWEG (N° 585 - 587)" .
+
+<ex:station_305>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         50.895592e0 ;
+        geo:lng         4.387965e0 ;
+        wdp:P131        city:bruxelles ;
+        wdp:P669        "PETER BENOIT - PLACE PETER BENOIT PLAATS 2-4" .

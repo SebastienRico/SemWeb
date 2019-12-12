@@ -1,0 +1,1068 @@
+
+@base          <http://example.org/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
+@prefix ex:    <http://example.org/> .
+@prefix city:  <http://fr.dbpedia.org/page/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ite:   <http://w3id.org/sparql-generate/iter/> .
+@prefix sosa:  <http://www.w3.org/ns/sosa/> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<ex:station_101>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         -27.478235e0 ;
+        geo:lng         153.015173e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Russell St / Edmondstone St" .
+
+<ex:station_11>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.468422e0 ;
+        geo:lng         153.024635e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "King George Square / Ann St" .
+
+<ex:station_142>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         -27.482081e0 ;
+        geo:lng         152.995804e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Sylvan Rd / Coronation Dr" .
+
+<ex:station_80>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.464681e0 ;
+        geo:lng         153.042561e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Barker St / Brunswick St" .
+
+<ex:station_114>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.479876e0 ;
+        geo:lng         153.021076e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Colchester St / Ernest St" .
+
+<ex:station_52>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         -27.457512e0 ;
+        geo:lng         153.033841e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Brunswick St Mall / Wickham St" .
+
+<ex:station_24>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         -27.493963e0 ;
+        geo:lng         153.011938e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Sir William McGregor Dr / Sir Fred Schonnell" .
+
+<ex:station_5>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.469702e0 ;
+        geo:lng         153.029828e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Market St / Mary St" .
+
+<ex:station_93>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.48148e0 ;
+        geo:lng         153.02368e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Grey St / QCA" .
+
+<ex:station_127>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         -27.497934e0 ;
+        geo:lng         153.027333e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Gladstone Rd / Annerley Rd" .
+
+<ex:station_65>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.454482e0 ;
+        geo:lng         153.046802e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Chermside St / Commercial Rd" .
+
+<ex:station_37>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         -27.466032e0 ;
+        geo:lng         153.01476e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Upper Roma St / Eagle Tce" .
+
+<ex:station_78>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         -27.461041e0 ;
+        geo:lng         153.037902e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Malt St / Brunswick St" .
+
+<ex:station_121>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         -27.483259e0 ;
+        geo:lng         153.026946e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "VULTURE ST / STANLEY ST" .
+
+<ex:station_31>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  11 ;
+        geo:lat         -27.467464e0 ;
+        geo:lng         153.022094e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Roma St / Turbot St" .
+
+<ex:station_72>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.467802e0 ;
+        geo:lng         153.053645e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Lamington St / Powerhouse" .
+
+<ex:station_134>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         -27.468845e0 ;
+        geo:lng         153.007364e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Railway Tce / Cribb St" .
+
+<ex:station_106>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         -27.489807e0 ;
+        geo:lng         153.002405e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Orleigh St / Hoogley St" .
+
+<ex:station_44>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         -27.463405e0 ;
+        geo:lng         153.031142e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Queen St / Adelaide St" .
+
+<ex:station_16>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         -27.472044e0 ;
+        geo:lng         153.027193e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Mary St / Albert St" .
+
+<ex:station_85>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.473304e0 ;
+        geo:lng         153.048757e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Oxlade Dr / Turner Ave" .
+
+<ex:station_147>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         -27.490776e0 ;
+        geo:lng         152.994747e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Sandford St / Brisbane St" .
+
+<ex:station_57>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         -27.454746e0 ;
+        geo:lng         153.036154e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Bridge St / Wickham St" .
+
+<ex:station_119>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         -27.481808e0 ;
+        geo:lng         153.025477e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Sidon St / Little Stanley St" .
+
+<ex:station_29>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         -27.469075e0 ;
+        geo:lng         153.021808e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "George St / Ann St" .
+
+<ex:station_98>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.469658e0 ;
+        geo:lng         153.016696e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Kurilpa Point / Montague Rd" .
+
+<ex:station_100>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         -27.47666e0 ;
+        geo:lng         153.013287e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Melbourne St /  Edmondstone St" .
+
+<ex:station_10>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         -27.468206e0 ;
+        geo:lng         153.026744e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Edward St / Queen St" .
+
+<ex:station_141>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         -27.479453e0 ;
+        geo:lng         152.997215e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Land St / Coronation Dr" .
+
+<ex:station_1101>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         -27.468447e0 ;
+        geo:lng         153.024662e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "King George Square 2" .
+
+<ex:station_51>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.45663e0 ;
+        geo:lng         153.032779e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Brunswick St / Alfred St" .
+
+<ex:station_113>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         -27.480164e0 ;
+        geo:lng         153.016181e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Edmondstone St / Vulture St" .
+
+<ex:station_23>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.462161e0 ;
+        geo:lng         153.034771e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "BOUNDARY STREET / HOWARD SMITH WHARVES" .
+
+<ex:station_4>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.468675e0 ;
+        geo:lng         153.029834e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Charlotte St / Eagle St" .
+
+<ex:station_92>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.471025e0 ;
+        geo:lng         153.034306e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Thornton St Ferry Terminal / Main St" .
+
+<ex:station_64>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         -27.44979e0 ;
+        geo:lng         153.044925e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Skyring Tce / Cunningham St" .
+
+<ex:station_126>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         -27.479149e0 ;
+        geo:lng         153.012132e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Jane St / Boundary St" .
+
+<ex:station_36>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         -27.466307e0 ;
+        geo:lng         153.017351e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Roma St / Garrick St" .
+
+<ex:station_77>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.458199e0 ;
+        geo:lng         153.041688e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "James St / Harcourt St" .
+
+<ex:station_139>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         -27.476076e0 ;
+        geo:lng         153.002459e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Bi-centennial Bike Way / Lang Pde" .
+
+<ex:station_49>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.459833e0 ;
+        geo:lng         153.033445e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Ann St / Gipps St" .
+
+<ex:station_120>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         -27.482562e0 ;
+        geo:lng         153.011831e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Boundary St / Vulture St" .
+
+<ex:station_30>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         -27.467963e0 ;
+        geo:lng         153.0231e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Roma St / Ann St" .
+
+<ex:station_71>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.460914e0 ;
+        geo:lng         153.04987e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Hastings St / Macquarie St" .
+
+<ex:station_133>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.468839e0 ;
+        geo:lng         153.011115e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Coronation Dr / Go Between Bridge" .
+
+<ex:station_105>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  31 ;
+        geo:lat         -27.487155e0 ;
+        geo:lng         153.007281e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Dornoch Tce / Hardgrave Rd" .
+
+<ex:station_43>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         -27.465043e0 ;
+        geo:lng         153.030991e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Queen St / Wharf St" .
+
+<ex:station_15>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         -27.47019e0 ;
+        geo:lng         153.025852e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Albert St Mall / Elizabeth St" .
+
+<ex:station_146>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.487187e0 ;
+        geo:lng         152.993052e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Brisbane St / Glen Rd" .
+
+<ex:station_84>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         -27.471481e0 ;
+        geo:lng         153.051966e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "New Farm Ferry Terminal / New Farm Park" .
+
+<ex:station_118>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         -27.474755e0 ;
+        geo:lng         153.016687e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Melbourne St / Merivale St" .
+
+<ex:station_56>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         -27.453717e0 ;
+        geo:lng         153.034042e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Constance St / St Pauls Tce" .
+
+<ex:station_28>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         -27.469902e0 ;
+        geo:lng         153.022603e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "George St / Adelaide St" .
+
+<ex:station_9>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.469924e0 ;
+        geo:lng         153.02822e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Charlotte St / Edward St" .
+
+<ex:station_97>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         -27.499963e0 ;
+        geo:lng         153.017633e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Thynne Rd / College Rd" .
+
+<ex:station_69>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.455907e0 ;
+        geo:lng         153.050013e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Vernon Tce / Florence St" .
+
+<ex:station_140>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         -27.476003e0 ;
+        geo:lng         153.000676e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Dunmore Tce / Kingsford St" .
+
+<ex:station_112>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.476724e0 ;
+        geo:lng         153.010063e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Bank St / Mollison St" .
+
+<ex:station_50>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.458641e0 ;
+        geo:lng         153.03208e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Gipps St / Wickham St" .
+
+<ex:station_22>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  28 ;
+        geo:lat         -27.467591e0 ;
+        geo:lng         153.020372e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "George St / Tank St" .
+
+<ex:station_3>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.467556e0 ;
+        geo:lng         153.029202e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Creek St / Elizabeth St" .
+
+<ex:station_91>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.47059e0 ;
+        geo:lng         153.036046e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Main St / Darragh St" .
+
+<ex:station_63>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.452468e0 ;
+        geo:lng         153.040565e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Ann St / Murri Way" .
+
+<ex:station_125>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         -27.494959e0 ;
+        geo:lng         153.02802e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Annerley Rd / Boggo Rd" .
+
+<ex:station_35>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  28 ;
+        geo:lat         -27.486498e0 ;
+        geo:lng         153.028874e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Annerley Road and Stanley Street" .
+
+<ex:station_76>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.448074e0 ;
+        geo:lng         153.045762e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "WATERLOO ST (GASWORKS PARK) / NEWSTEAD TCE" .
+
+<ex:station_138>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         -27.473888e0 ;
+        geo:lng         153.000599e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Roy St / Lang Pde" .
+
+<ex:station_48>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         -27.46048e0 ;
+        geo:lng         153.032768e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Ann St / Gotha St" .
+
+<ex:station_89>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         -27.465733e0 ;
+        geo:lng         153.034329e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Holman St / Main St" .
+
+<ex:station_132>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.467971e0 ;
+        geo:lng         153.009968e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Little Cribb St / Boomerang St" .
+
+<ex:station_70>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         -27.459091e0 ;
+        geo:lng         153.050239e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Macquarie St / Beeston St" .
+
+<ex:station_104>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.482082e0 ;
+        geo:lng         153.006981e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Hardgrave Rd / Skinner St" .
+
+<ex:station_42>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         -27.464647e0 ;
+        geo:lng         153.029361e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Wharf St / Adelaide St" .
+
+<ex:station_14>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.47011e0 ;
+        geo:lng         153.025627e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Albert St Mall / Elizabeth St" .
+
+<ex:station_83>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.468407e0 ;
+        geo:lng         153.048273e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Sydney St / Brunswick St" .
+
+<ex:station_145>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         -27.485872e0 ;
+        geo:lng         152.99347e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Coronation Dr / Archer St" .
+
+<ex:station_55>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         -27.456085e0 ;
+        geo:lng         153.03453e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Alden St / Wickham St" .
+
+<ex:station_117>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.482197e0 ;
+        geo:lng         153.020894e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Vulture St / Tribune St" .
+
+<ex:station_27>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  29 ;
+        geo:lat         -27.494561e0 ;
+        geo:lng         153.016318e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Blair Dr / Sir William McGregor Dr" .
+
+<ex:station_8>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  28 ;
+        geo:lat         -27.481696e0 ;
+        geo:lng         153.000486e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Riverside Dr / Victoria St" .
+
+<ex:station_96>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.474722e0 ;
+        geo:lng         153.018694e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Grey St / Melbourne St" .
+
+<ex:station_68>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.454394e0 ;
+        geo:lng         153.049519e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Vernon Tce / Ethel St" .
+
+<ex:station_111>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.476474e0 ;
+        geo:lng         153.008182e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Donkin St / Montague Rd" .
+
+<ex:station_21>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  34 ;
+        geo:lat         -27.475922e0 ;
+        geo:lng         153.0288e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Botanical Gardens / QUT" .
+
+<ex:station_2>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.466369e0 ;
+        geo:lng         153.029597e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Queen St / Eagle St" .
+
+<ex:station_90>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  45 ;
+        geo:lat         -27.469296e0 ;
+        geo:lng         153.035533e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Main St / Rotherham St (Mahoney Park)" .
+
+<ex:station_124>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         -27.491284e0 ;
+        geo:lng         153.027138e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Annerley Rd / Grove St" .
+
+<ex:station_62>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         -27.453195e0 ;
+        geo:lng         153.0401e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Ann St / Chester St" .
+
+<ex:station_34>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         -27.467037e0 ;
+        geo:lng         153.018471e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Makerston St / Roma St" .
+
+<ex:station_137>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.472413e0 ;
+        geo:lng         153.001803e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Kilroe St / Dorsey St" .
+
+<ex:station_75>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.461881e0 ;
+        geo:lng         153.046986e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Browne St / James St" .
+
+<ex:station_47>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         -27.46123e0 ;
+        geo:lng         153.031077e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Turbot St / Barry Pde" .
+
+<ex:station_109>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         -27.48172e0 ;
+        geo:lng         153.00436e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Montague Rd / Skinner St" .
+
+<ex:station_19>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.479004e0 ;
+        geo:lng         153.028853e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Gardens Point Rd / Adj. Bridge" .
+
+<ex:station_88>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         -27.474531e0 ;
+        geo:lng         153.042728e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Sydney St Ferry Terminal / Park" .
+
+<ex:station_131>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  31 ;
+        geo:lat         -27.476792e0 ;
+        geo:lng         153.039186e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Shafston Ave / Thorn St" .
+
+<ex:station_41>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.46383e0 ;
+        geo:lng         153.029125e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Ann St / Wharf St" .
+
+<ex:station_103>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.480768e0 ;
+        geo:lng         153.011121e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Vulture St / Thomas St" .
+
+<ex:station_13>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         -27.469183e0 ;
+        geo:lng         153.024719e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Albert St Mall / Adelaide St" .
+
+<ex:station_144>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         -27.485075e0 ;
+        geo:lng         152.990627e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Jephson St / Sherwood Rd" .
+
+<ex:station_82>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.467498e0 ;
+        geo:lng         153.0467e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Brunswick St / Merthyr Rd" .
+
+<ex:station_116>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         -27.481137e0 ;
+        geo:lng         153.019284e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Cordelia St / Ernest St" .
+
+<ex:station_54>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         -27.457825e0 ;
+        geo:lng         153.036866e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "McLachlan St / Winn St" .
+
+<ex:station_26>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         -27.471297e0 ;
+        geo:lng         153.02257e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "North Quay /Reddacliff Place" .
+
+<ex:station_7>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  29 ;
+        geo:lat         -27.47148e0 ;
+        geo:lng         153.029647e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Margaret St / Edward St" .
+
+<ex:station_95>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.475039e0 ;
+        geo:lng         153.020323e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Stanley St / Melbourne St" .
+
+<ex:station_129>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  35 ;
+        geo:lat         -27.478032e0 ;
+        geo:lng         153.034186e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Lower River Tce / Parklands" .
+
+<ex:station_67>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.452027e0 ;
+        geo:lng         153.04911e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Commercial Rd / Teneriffe Ferry Terminal" .
+
+<ex:station_39>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         -27.464628e0 ;
+        geo:lng         153.026863e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Turbot St / Wickham Tce" .
+
+<ex:station_110>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.478214e0 ;
+        geo:lng         153.006181e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Jane St / Montague Rd" .
+
+<ex:station_20>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         -27.478846e0 ;
+        geo:lng         153.028296e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Gardens Point Rd / SE of Goodwill Bridge" .
+
+<ex:station_1>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         -27.46812e0 ;
+        geo:lng         153.02682e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Edward St / Queen St" .
+
+<ex:station_61>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.451793e0 ;
+        geo:lng         153.039562e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Wickham St / Murri Way" .
+
+<ex:station_123>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         -27.471315e0 ;
+        geo:lng         153.026627e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Charlotte St / Albert St" .
+
+<ex:station_33>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         -27.466753e0 ;
+        geo:lng         153.020012e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Roma St / Herschel St" .
+
+<ex:station_74>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.463678e0 ;
+        geo:lng         153.049485e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Merthyr Rd / James St" .
+
+<ex:station_136>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.470987e0 ;
+        geo:lng         153.004602e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Park Rd / Douglas St" .
+
+<ex:station_46>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         -27.461984e0 ;
+        geo:lng         153.031782e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Ann St / Boundary St" .
+
+<ex:station_108>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         -27.485078e0 ;
+        geo:lng         153.002382e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Rogers St / Montague Rd" .
+
+<ex:station_18>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         -27.480385e0 ;
+        geo:lng         153.023564e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Little Stanley St / Tribune St" .
+
+<ex:station_87>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         -27.469931e0 ;
+        geo:lng         153.043525e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Merthyr Rd / Reginald St" .
+
+<ex:station_149>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         -27.493626e0 ;
+        geo:lng         153.001482e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Macquarie St / Guyatt Park" .
+
+<ex:station_59>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.456276e0 ;
+        geo:lng         153.039196e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "James St / McLachlan St" .
+
+<ex:station_130>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         -27.474992e0 ;
+        geo:lng         153.037647e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "O'Connell St / Lambert St" .
+
+<ex:station_102>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  31 ;
+        geo:lat         -27.480885e0 ;
+        geo:lng         153.014585e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Besant St / Vulture St" .
+
+<ex:station_40>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         -27.464986e0 ;
+        geo:lng         153.027679e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Ann St / Creek St" .
+
+<ex:station_12>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         -27.468963e0 ;
+        geo:lng         153.02461e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Albert St Mall / Adelaide St" .
+
+<ex:station_81>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         -27.471886e0 ;
+        geo:lng         153.041854e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Griffith St / Riverview Ct" .
+
+<ex:station_143>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         -27.483168e0 ;
+        geo:lng         152.996419e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Regatta Ferry Terminal / Sylvan Rd" .
+
+<ex:station_115>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.474227e0 ;
+        geo:lng         153.011164e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Montague Rd / Brereton St" .
+
+<ex:station_53>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         -27.461803e0 ;
+        geo:lng         153.036021e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Bowen Tce / Bradfield Hwy" .
+
+<ex:station_25>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         -27.471332e0 ;
+        geo:lng         153.022991e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Reddacliff Pl / Queen St" .
+
+<ex:station_6>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         -27.472291e0 ;
+        geo:lng         153.030639e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Alice St / Edward St" .
+
+<ex:station_94>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.478653e0 ;
+        geo:lng         153.019123e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Glenelg St / Merivale St" .
+
+<ex:station_128>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  29 ;
+        geo:lat         -27.471712e0 ;
+        geo:lng         153.013188e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Bouquet St / Montague Rd" .
+
+<ex:station_66>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.45296e0 ;
+        geo:lng         153.048107e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Commercial Rd / Skyring Tce" .
+
+<ex:station_38>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.46588e0 ;
+        geo:lng         153.026861e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "38 - Ann St / Creek St" .
+
+<ex:station_79>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.463431e0 ;
+        geo:lng         153.041031e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Balfour St / Brunswick St" .
+
+<ex:station_150>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         -27.492876e0 ;
+        geo:lng         153.006071e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Macquarie St / Munro St" .
+
+<ex:station_60>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         -27.453127e0 ;
+        geo:lng         153.037559e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Wickham St / Brookes St" .
+
+<ex:station_122>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         -27.482279e0 ;
+        geo:lng         153.028723e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Lower River Tce / Ellis St" .
+
+<ex:station_32>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         -27.468678e0 ;
+        geo:lng         153.019801e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Tank St / George St" .
+
+<ex:station_135>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         -27.469501e0 ;
+        geo:lng         153.004129e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Park Rd / Railway Tce" .
+
+<ex:station_73>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.465226e0 ;
+        geo:lng         153.050864e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Lamington St / Refinery Pde" .
+
+<ex:station_45>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.462665e0 ;
+        geo:lng         153.029087e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Turbot St / Bowen St" .
+
+<ex:station_107>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.48872e0 ;
+        geo:lng         152.999585e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Drury St / Montague Rd" .
+
+<ex:station_17>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  11 ;
+        geo:lat         -27.472598e0 ;
+        geo:lng         153.028383e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Margaret St / Albert St" .
+
+<ex:station_86>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         -27.471422e0 ;
+        geo:lng         153.04519e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Sydney St / Moray St" .
+
+<ex:station_148>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         -27.492489e0 ;
+        geo:lng         152.996768e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Sandford St / Austral St" .
+
+<ex:station_58>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  39 ;
+        geo:lat         -27.455472e0 ;
+        geo:lng         153.037775e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "East St / Ann St" .
+
+<ex:station_99>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         -27.474011e0 ;
+        geo:lng         153.014541e0 ;
+        wdp:P131        city:brisbane ;
+        wdp:P669        "Cordelia St / Peel St" .

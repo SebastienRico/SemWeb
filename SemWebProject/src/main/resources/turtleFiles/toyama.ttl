@@ -1,0 +1,172 @@
+
+@base          <http://example.org/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
+@prefix ex:    <http://example.org/> .
+@prefix city:  <http://fr.dbpedia.org/page/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ite:   <http://w3id.org/sparql-generate/iter/> .
+@prefix sosa:  <http://www.w3.org/ns/sosa/> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<ex:station_10>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         36.692294e0 ;
+        geo:lng         137.209547e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "丸の内３丁目１番 3-1 Marunouchi" .
+
+<ex:station_16>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         36.69597e0 ;
+        geo:lng         137.210053e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "新総曲輪1丁目7番　1-7 Shinsogawa 3月13日まで休止中" .
+
+<ex:station_1>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         36.705842e0 ;
+        geo:lng         137.215829e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "奥田新町８番 8 Okudashin-machi" .
+
+<ex:station_7>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         36.693935e0 ;
+        geo:lng         137.220853e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "北新町１丁目３番 1-3 Kitashin-machi" .
+
+<ex:station_15>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         36.688891e0 ;
+        geo:lng         137.217613e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "堤町通り１丁目２番２６号 1-2-26 Tsutsumicho-dori" .
+
+<ex:station_6>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         36.696277e0 ;
+        geo:lng         137.213238e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "新桜町７番 7 Shinsakura-machi" .
+
+<ex:station_14>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         36.688971e0 ;
+        geo:lng         137.214437e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "西町３番 3 Nishi-cho" .
+
+<ex:station_23>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         36.708755e0 ;
+        geo:lng         137.190695e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "安養坊1118－1　1118-1Anyobo" .
+
+<ex:station_5>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         36.697144e0 ;
+        geo:lng         137.21636e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "桜橋通り６番 6 Sakurabashi-dori" .
+
+<ex:station_13>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         36.6893e0 ;
+        geo:lng         137.208727e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "旅籠町２番１０号 2-10 Hatago-machi" .
+
+<ex:station_19>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         36.700638e0 ;
+        geo:lng         137.21281e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "富山市明輪町1内 Station Plaza South" .
+
+<ex:station_22>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         36.704718e0 ;
+        geo:lng         137.182395e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "富山市五福　Gofuku" .
+
+<ex:station_4>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         36.699785e0 ;
+        geo:lng         137.212951e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "新富町１丁目２番４号 1-2-4 Shintomi-cho" .
+
+<ex:station_12>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         36.691711e0 ;
+        geo:lng         137.215395e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "荒町６番 6 Ara-machi" .
+
+<ex:station_18>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  45 ;
+        geo:lat         36.698655e0 ;
+        geo:lng         137.191297e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "五福字才勝1929番地8" .
+
+<ex:station_21>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  33 ;
+        geo:lat         36.700647e0 ;
+        geo:lng         137.188678e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "富山市五福3910　3910Gofuku" .
+
+<ex:station_3>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         36.700641e0 ;
+        geo:lng         137.211718e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "明輪町１番 1 Meirin-cho" .
+
+<ex:station_9>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         36.693453e0 ;
+        geo:lng         137.212635e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "本丸１番 1 Honmaru" .
+
+<ex:station_11>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         36.691732e0 ;
+        geo:lng         137.211425e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "大手町２番 2 Ote-machi" .
+
+<ex:station_17>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         36.709021e0 ;
+        geo:lng         137.21056e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "牛島本町2丁目1-38　2-1-38 Ushijimahonncho" .
+
+<ex:station_20>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         36.699082e0 ;
+        geo:lng         137.195685e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "五福777 777Gofuku" .
+
+<ex:station_2>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         36.703055e0 ;
+        geo:lng         137.214531e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "牛島町１７番 17 Ushijima-cho" .
+
+<ex:station_8>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         36.694109e0 ;
+        geo:lng         137.216014e0 ;
+        wdp:P131        city:toyama ;
+        wdp:P669        "本町３番 3 Hon-machi" .

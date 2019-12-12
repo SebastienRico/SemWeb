@@ -1,0 +1,291 @@
+
+@base          <http://example.org/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
+@prefix ex:    <http://example.org/> .
+@prefix city:  <http://fr.dbpedia.org/page/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ite:   <http://w3id.org/sparql-generate/iter/> .
+@prefix sosa:  <http://www.w3.org/ns/sosa/> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<ex:station_11>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         47.750127e0 ;
+        geo:lng         7.348552e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue du Printemps angle Rue Courte" .
+
+<ex:station_24>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         47.74305508622176e0 ;
+        geo:lng         7.347364171170129e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue de Tivoli angle Bd Wallack" .
+
+<ex:station_5>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.749314e0 ;
+        geo:lng         7.341124e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Angle rue de Metz / AV du President Kennedy devant Chambre des Métiers" .
+
+<ex:station_37>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         47.74329631548472e0 ;
+        geo:lng         7.315494395852651e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "CHATEAU ZU-RHEIN MULHOUSE" .
+
+<ex:station_31>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.76001e0 ;
+        geo:lng         7.351265e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Cinema Kinepolis Nouveau Bassin" .
+
+<ex:station_16>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  11 ;
+        geo:lat         47.751456e0 ;
+        geo:lng         7.33392e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue Engel Dollfus dans le prolongement de la rue de la Filature" .
+
+<ex:station_29>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  11 ;
+        geo:lat         47.752205822026475e0 ;
+        geo:lng         7.352306114121824e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "72 Rue Laurent" .
+
+<ex:station_10>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         47.7441863794142e0 ;
+        geo:lng         7.33572665536391e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue de la SINNE angle rue CH.BRUN devant Eglise St ETIENNE" .
+
+<ex:station_23>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.736019e0 ;
+        geo:lng         7.332088e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Avenue d'Altkirch entrée hopital" .
+
+<ex:station_4>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         47.748312192104606e0 ;
+        geo:lng         7.343104706876782e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue de Metz devant parking Face rue de la SOMME" .
+
+<ex:station_36>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.75986276611346e0 ;
+        geo:lng         7.332262051959153e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "RUE DE LA MERTZAU  MULHOUSE" .
+
+<ex:station_30>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  11 ;
+        geo:lat         47.7532e0 ;
+        geo:lng         7.3554e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue de la Hardt face au 40" .
+
+<ex:station_15>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.75243313452126e0 ;
+        geo:lng         7.337387363569732e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Av de Colmar angle Rue Engel Dollfus" .
+
+<ex:station_28>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.756465e0 ;
+        geo:lng         7.348388e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Face 113 Avenue Robert Schuman angle Rue lefebvre" .
+
+<ex:station_9>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.745105e0 ;
+        geo:lng         7.329143e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "BOULEVARD CHARLES STOESSEL" .
+
+<ex:station_22>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  11 ;
+        geo:lat         47.742397e0 ;
+        geo:lng         7.331582e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue de Zillisheim angle Rue St Sauveur" .
+
+<ex:station_3>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         47.746818e0 ;
+        geo:lng         7.335238e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Place de la Concorde / Angle rue de l'Arsenal" .
+
+<ex:station_35>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         47.75269193786139e0 ;
+        geo:lng         7.346458858175643e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue du Capitaine Dreyfus angle Bd de l'Europe" .
+
+<ex:station_14>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         47.75243e0 ;
+        geo:lng         7.342944e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Av Robert Schuman angle Rue de Stalingrad" .
+
+<ex:station_27>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         47.75645059182136e0 ;
+        geo:lng         7.335962697690334e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Avenue de Colmar devant Maison des Associations" .
+
+<ex:station_8>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.7469931994958e0 ;
+        geo:lng         7.33206326834505e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue Gutenberg angle rue l'Arsenal" .
+
+<ex:station_21>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  27 ;
+        geo:lat         47.73966e0 ;
+        geo:lng         7.332354e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue de la Locomotive angle Rue des Monteurs" .
+
+<ex:station_2>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         47.7459607192146e0 ;
+        geo:lng         7.34141256758124e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "3 Place de la République" .
+
+<ex:station_34>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.736212e0 ;
+        geo:lng         7.31875e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Boulevard Charles Stoessel entrée Parc des Sport Patinoire" .
+
+<ex:station_19>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         47.74409332327696e0 ;
+        geo:lng         7.333486550613367e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue Jacques Preiss angle rue des Rabbins" .
+
+<ex:station_13>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         47.750923e0 ;
+        geo:lng         7.329854e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue du Président Roosevelt angle rue Franklin" .
+
+<ex:station_26>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         47.7432593602607e0 ;
+        geo:lng         7.32393495955664e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue Charles Goerich angle Rue Koechlim-Dolfus" .
+
+<ex:station_7>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.74941110084169e0 ;
+        geo:lng         7.335779025655298e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Av du Président Kennedy angle rue Pierre et Marie Curie devant Credit Mutuel" .
+
+<ex:station_39>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         47.746152e0 ;
+        geo:lng         7.357114e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "AVE DE RIEDISHEIM, angle RUE DE LA WANNE" .
+
+<ex:station_20>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         47.753533915217425e0 ;
+        geo:lng         7.348462912266421e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Allee Nathan Katz Parvis de la Filature" .
+
+<ex:station_1>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         47.742424e0 ;
+        geo:lng         7.342152e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Avenue du Général Leclerc" .
+
+<ex:station_33>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         47.738321115207405e0 ;
+        geo:lng         7.317404625830476e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue de Brunstatt angle Rue de l'Illberg" .
+
+<ex:station_18>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  11 ;
+        geo:lat         47.744426e0 ;
+        geo:lng         7.340096e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "14 AVENUE AUGUSTE WICKY" .
+
+<ex:station_40>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.746490991763224e0 ;
+        geo:lng         7.308432590232066e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "RUE LEON JOUHAUX MULHOUSE" .
+
+<ex:station_12>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         47.74929728207385e0 ;
+        geo:lng         7.346391524337651e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue de Stalingrad angle rue Savator" .
+
+<ex:station_25>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  11 ;
+        geo:lat         47.740487e0 ;
+        geo:lng         7.320169e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue du Château Zu-Rhein angle Rue de Hirsingue" .
+
+<ex:station_6>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         47.7500690513047e0 ;
+        geo:lng         7.33871413913301e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Angle av de Colmar / av du President Kennedy devant Porte Jeune" .
+
+<ex:station_38>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         47.743132e0 ;
+        geo:lng         7.352147e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "RUE DE LA WANNE, angle RUE KOECHLIN" .
+
+<ex:station_32>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         47.7329045e0 ;
+        geo:lng         7.3155374e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue Alfred Verner Allée Brenard Thierry-Mieg" .
+
+<ex:station_17>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  28 ;
+        geo:lat         47.747038e0 ;
+        geo:lng         7.338923e0 ;
+        wdp:P131        city:mulhouse ;
+        wdp:P669        "Rue de la Lanterne contre Temple St ETIENNE" .

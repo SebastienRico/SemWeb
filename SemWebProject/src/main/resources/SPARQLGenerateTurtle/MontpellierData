@@ -6,11 +6,12 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 PREFIX wdp: <https://www.wikidata.org/wiki/Property:>
 PREFIX ex: <http://example.org/>
+PREFIX city: <http://fr.dbpedia.org/page/>
 
 GENERATE { 
   <ex:station_{?stationId}> a sosa:FeatureOfInterest;
         rdfs:label ?name;
-        ex:city "Montpellier";
+        wdp:P131 city:Montpellier;
         wdp:P669 ?name;
         geo:lat "{?lat}"^^xsd:double;
         geo:lng "{?lng}"^^xsd:double;

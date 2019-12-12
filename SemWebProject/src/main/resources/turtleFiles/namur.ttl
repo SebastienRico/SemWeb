@@ -1,0 +1,200 @@
+
+@base          <http://example.org/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
+@prefix ex:    <http://example.org/> .
+@prefix city:  <http://fr.dbpedia.org/page/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ite:   <http://w3id.org/sparql-generate/iter/> .
+@prefix sosa:  <http://www.w3.org/ns/sosa/> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<ex:station_10>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.46364e0 ;
+        geo:lng         4.87353e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "010 - ARTHUR MASSON - SQUARE ARTHUR MASSON N 5" .
+
+<ex:station_16>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.45602e0 ;
+        geo:lng         4.87266e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "016 - PLACE DE WALLONIE - PLACE DE LA WALLONIE" .
+
+<ex:station_25>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.448224e0 ;
+        geo:lng         4.859506e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "025 - AUBERGE DE JEUNESSE - AVENUE FELICIEN ROPS" .
+
+<ex:station_1>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.47536e0 ;
+        geo:lng         4.84661e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "001 - OCTAVE HENRY - RUE DE GEMBLOUX / HALL OMNISPORT" .
+
+<ex:station_7>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.46424e0 ;
+        geo:lng         4.8652e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "007 - ANGE - PLACE DE L ANGE FACE 95" .
+
+<ex:station_34>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         50.46735e0 ;
+        geo:lng         4.86872e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "034 - ROGIER - RUE ROGIER / RUE NAMECHE" .
+
+<ex:station_15>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.457858e0 ;
+        geo:lng         4.86697e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "015 - PONT DE JAMBES - PONT DE JAMBES" .
+
+<ex:station_24>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.46387e0 ;
+        geo:lng         4.861142e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "024 - SAINT-AUBAIN - RUE DU COLLEGE / PLACE SAINT-AUBIN" .
+
+<ex:station_6>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.46697e0 ;
+        geo:lng         4.86546e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "006 - HOTEL DE VILLE - RUE DE FER DVT 101" .
+
+<ex:station_33>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.462741e0 ;
+        geo:lng         4.837198e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "033 - BOSQUETS - RUE DES BOSQUETS" .
+
+<ex:station_23>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         50.46204e0 ;
+        geo:lng         4.86499e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "023 - MAURICE SERVAIS - PLACE MAURICE SERVAIS DVT 92" .
+
+<ex:station_29>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.464476e0 ;
+        geo:lng         4.849289e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "029 - WIERTZ - PLACE WIERTZ FACE 8" .
+
+<ex:station_32>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         50.46603e0 ;
+        geo:lng         4.87735e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "032- ECOLE DES CADETS - PLACE DE L'ECOLE DES CADETS" .
+
+<ex:station_13>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.46155e0 ;
+        geo:lng         4.87609e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "013 - PONT DES ARDENNES - PONT DES ARDENNES" .
+
+<ex:station_22>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.462537e0 ;
+        geo:lng         4.869596e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "022 - GROGNON - AV F.GOLENVAUX / GROGNON" .
+
+<ex:station_28>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.46675e0 ;
+        geo:lng         4.84834e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "028 - EXPO - AV SGT VRITHOFF FACE PALAIS DES EXPO" .
+
+<ex:station_4>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         50.4683e0 ;
+        geo:lng         4.86266e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "004 - GARE DE NAMUR - PLACE DE LA STATION / GARE" .
+
+<ex:station_12>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.46687e0 ;
+        geo:lng         4.88484e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "012 - PLACE SAINT-NICOLAS - AVENUE ALBERT 1ER / PARKING P + R" .
+
+<ex:station_18>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         50.451892e0 ;
+        geo:lng         4.868837e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "018 - CPAS - RUE DE DAVE" .
+
+<ex:station_21>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.45617e0 ;
+        geo:lng         4.86269e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "021 - CASINO - AVENUE BARON DE MOREAU / CASINO" .
+
+<ex:station_27>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.4674e0 ;
+        geo:lng         4.8581e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "027 - OMALIUS - REMPART DE LA VIERGE / PLACE D'OMALIUS" .
+
+<ex:station_3>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.47001e0 ;
+        geo:lng         4.86199e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "003 - GARE DU NORD - BD DU NORD FACE 5" .
+
+<ex:station_30>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.460596e0 ;
+        geo:lng         4.842836e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "030 - PLACE LOUISE GODIN- LOUISE GODIN" .
+
+<ex:station_11>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         50.46786e0 ;
+        geo:lng         4.87352e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "011 - CITE ADMINISTRATIVE - BD CAUCHY" .
+
+<ex:station_17>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.455072e0 ;
+        geo:lng         4.8755827e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "017 - GARE DE JAMBES - RUE DE LA GARE FLEURIE" .
+
+<ex:station_26>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.464457e0 ;
+        geo:lng         4.85644e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "026 - ARSENAL - BOULEVARD FRERE ORBAN" .
+
+<ex:station_2>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         50.470692e0 ;
+        geo:lng         4.852803e0 ;
+        wdp:P131        city:namur ;
+        wdp:P669        "002 - CROIX DE FEUX - AV DES CROIX DE FEUX / RUE MUZET FACE N°7" .

@@ -1,0 +1,186 @@
+
+@base          <http://example.org/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
+@prefix ex:    <http://example.org/> .
+@prefix city:  <http://fr.dbpedia.org/page/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ite:   <http://w3id.org/sparql-generate/iter/> .
+@prefix sosa:  <http://www.w3.org/ns/sosa/> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<ex:station_10>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.8933588618336e0 ;
+        geo:lng         2.301314220716614e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Place D' Aguesseau" .
+
+<ex:station_16>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.88779293086959e0 ;
+        geo:lng         2.30361108882717e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Place du Maréchal Joffre" .
+
+<ex:station_25>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.896862536806346e0 ;
+        geo:lng         2.282867747579433e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Bd des Fédérés" .
+
+<ex:station_1>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.901646e0 ;
+        geo:lng         2.303244e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Rue Eloi Morel angle bd baraban" .
+
+<ex:station_7>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         49.8842726e0 ;
+        geo:lng         2.294836e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "68 rue Delpech à proximité du Collège St Martin" .
+
+<ex:station_15>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.8909435451942e0 ;
+        geo:lng         2.300843419403305e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Rue des Jacobins" .
+
+<ex:station_24>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.89413492763881e0 ;
+        geo:lng         2.287054048660281e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Boulevard Faidherbe" .
+
+<ex:station_6>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  50 ;
+        geo:lat         49.904325e0 ;
+        geo:lng         2.30082e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Avenue du général du Gaulle" .
+
+<ex:station_14>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.89028092622952e0 ;
+        geo:lng         2.307375584272146e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Passage Alphonse Fiquet" .
+
+<ex:station_23>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.893442525890926e0 ;
+        geo:lng         2.284525283004338e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Foch" .
+
+<ex:station_5>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.8990979e0 ;
+        geo:lng         2.3005394e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "66 Rue St Leu" .
+
+<ex:station_13>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         49.889774e0 ;
+        geo:lng         2.3091e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Rue Jules Barni" .
+
+<ex:station_19>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.892720073260215e0 ;
+        geo:lng         2.297075819641891e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "République Gambetta" .
+
+<ex:station_22>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.890242e0 ;
+        geo:lng         2.282163e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Avenue du Général Foy" .
+
+<ex:station_4>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.89729029741273e0 ;
+        geo:lng         2.297864452413288e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Place au Feurre" .
+
+<ex:station_12>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         49.89223828665915e0 ;
+        geo:lng         2.30769408025555e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Bd Alsace Lorraine" .
+
+<ex:station_21>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.89392165574068e0 ;
+        geo:lng         2.292724729098195e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Place Léon Gontier" .
+
+<ex:station_27>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         49.879239e0 ;
+        geo:lng         2.296116e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "" .
+
+<ex:station_9>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         49.89508211905397e0 ;
+        geo:lng         2.299395003901743e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Rue Flatters" .
+
+<ex:station_11>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.89557785209512e0 ;
+        geo:lng         2.306191079777315e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Bd Du Port D' Amont" .
+
+<ex:station_17>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.888850503721585e0 ;
+        geo:lng         2.297398509070277e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Mail Albert 1er" .
+
+<ex:station_20>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.89001551426808e0 ;
+        geo:lng         2.291227264216073e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Bd Maignan Larivière" .
+
+<ex:station_26>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.897251288573926e0 ;
+        geo:lng         2.289247027835661e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Rue du Marché aux Chevaux" .
+
+<ex:station_2>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.896032388592566e0 ;
+        geo:lng         2.295043974872919e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Rue J Natiere" .
+
+<ex:station_8>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         49.896851505866685e0 ;
+        geo:lng         2.301575828797199e0 ;
+        wdp:P131        city:amiens ;
+        wdp:P669        "Rue Edouard David" .
