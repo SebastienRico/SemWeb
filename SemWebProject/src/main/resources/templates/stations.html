@@ -15,7 +15,7 @@
                     <a id="linkstationdetail" th:href="@{'/station/' + ${station.id}}">
                         <div th:about="@{'ex:' + ${station.id}}" typeof="sosa:FeatureOfInterest" class=" textcard card">
                             <h5 property="rdfs:label" class="card-title">[[ ${station.name} ]]</h5>
-                            <h5 property="ex:city" class="card-title">[[ ${station.city.name} ]]</h5>
+                            <h5 property="wdp:P131" class="card-title">[[ ${station.city} ]]</h5>
                             <h5 property="wdp:P669" class="card-title" th:text="${station.address} == ${station.name} ? '' : ${station.address}"></h5>
                         </div>
                     </a>
