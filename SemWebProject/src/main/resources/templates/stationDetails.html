@@ -11,7 +11,7 @@
         <div th:include="/navbar::navbar"></div>
         <div class="container">
             <div class="row" th:about="@{'ex:' + ${station.id}}" typeof="sosa:FeatureOfInterest">
-                <div class="col" style="margin: 20px; width: 18rem">
+                <div id="app" class="col" style="margin: 20px; width: 18rem">
                     <span id="updatetime" property="ex:last_update">Last update: [[ ${station.lastUpdate} ]]</span>
                     <table class="table table-dark">
                         <tbody>
@@ -28,20 +28,21 @@
                                 <td property="wdp:P669" th:text="${station.address}"></td>
                             </tr>
                             <tr>
-                                <th scope="row">Available Bikes</th>
-                                <td property="ex:available_bikes" id="avbike">[[ ${station.availableBike} ]]</td>
-                            </tr>
-                            <tr>
                                 <th scope="row">Bike stands</th>
                                 <td property="ex:bike_stands">[[ ${station.bikeStand} ]]</td>
                             </tr>
                             <tr>
+                                <th scope="row">Available Bikes</th>
+                                <td property="ex:available_bikes" id="avbike">{{info.data.totalStands.availabilities.bikes}}</td>
+                            </tr>
+
+                            <tr>
                                 <th scope="row">Available bike stands</th>
-                                <td property="ex:available_bike_stands">[[ ${station.availableBikeStand} ]]</td>
+                                <td property="ex:available_bike_stands">{{info.data.totalStands.availabilities.stands}}</td>
                             </tr>
                             <tr>
                                 <th scope="row">Status</th>
-                                <td property="ex:status">[[ ${station.status} ]]</td>
+                                <td property="ex:status">{{info.data.status}}</td>
                             </tr>
                         </tbody>
                     </table>
@@ -49,32 +50,46 @@
                 <div class="col">
                     <div id="map" style="height: 100%;margin-top: 44px;"></div>
                     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA1QKwUHaT6jyOCOKsDDJjLziNua0lPYGw"></script>
+                    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+                    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
                     <script th:inline="javascript">
-                        var map;
-                        function initialize() {
-                        var mapOptions = {
-                        zoom: 15,
-                        center: {lat: [[${station.latitude}]], lng: [[${station.longitude}]]}
-                        };
-                        map = new google.maps.Map(document.getElementById('map'),
-                        mapOptions);
+var map;
+function initialize() {
+var mapOptions = {
+zoom: 15,
+        center: {lat: [[${station.latitude}]], lng: [[${station.longitude}]]}
+};
+map = new google.maps.Map(document.getElementById('map'),
+        mapOptions);
+var marker = new google.maps.Marker({
+position: {lat: [[${station.latitude}]], lng: [[${station.longitude}]]},
+        map: map
+});
+var infowindow = new google.maps.InfoWindow({
+content: '<p>Marker Location:' + marker.getPosition() + '</p>'
+});
+google.maps.event.addListener(marker, 'click', function() {
+infowindow.open(map, marker);
+});
+}
 
-                        var marker = new google.maps.Marker({
-                        position: {lat: [[${station.latitude}]], lng: [[${station.longitude}]]},
-                        map: map
-                        });
-
-                        var infowindow = new google.maps.InfoWindow({
-                        content: '<p>Marker Location:' + marker.getPosition() + '</p>'
-                        });
-
-                        google.maps.event.addListener(marker, 'click', function() {
-                        infowindow.open(map, marker);
-                        });
-                        }
-
-                        google.maps.event.addDomListener(window, 'load', initialize);
+google.maps.event.addDomListener(window, 'load', initialize);
                     </script>
+                    <script th:inline="javascript">
+                        new Vue({
+                        el: '#app',
+                                data () {
+                                    return {
+                                    info: null
+                                }
+                        },
+                        mounted () {
+                            axios
+                                .get([[${url}]])
+                                .then(response => (this.info = response))
+                        }
+                        })
+                    </script>   
                 </div>
             </div>
         </div>

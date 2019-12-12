@@ -15,7 +15,7 @@
         ex:bike_stands  24 ;
         geo:lat         45.426972e0 ;
         geo:lng         4.404048e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Congrès" .
 
 <ex:station_124>  a     sosa:FeatureOfInterest ;
@@ -23,7 +23,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.448458e0 ;
         geo:lng         4.39492e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Janin" .
 
 <ex:station_105>  a     sosa:FeatureOfInterest ;
@@ -31,7 +31,7 @@
         ex:bike_stands  32 ;
         geo:lat         45.440725e0 ;
         geo:lng         4.387295e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Jaures" .
 
 <ex:station_114>  a     sosa:FeatureOfInterest ;
@@ -39,7 +39,7 @@
         ex:bike_stands  24 ;
         geo:lat         45.415579e0 ;
         geo:lng         4.393322e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Bellevue" .
 
 <ex:station_123>  a     sosa:FeatureOfInterest ;
@@ -47,7 +47,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.422732e0 ;
         geo:lng         4.409376e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Marx" .
 
 <ex:station_129>  a     sosa:FeatureOfInterest ;
@@ -55,7 +55,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.4357171e0 ;
         geo:lng         4.3829931e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Roannelle" .
 
 <ex:station_104>  a     sosa:FeatureOfInterest ;
@@ -63,7 +63,7 @@
         ex:bike_stands  12 ;
         geo:lat         45.441888e0 ;
         geo:lng         4.382492e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Jacquard" .
 
 <ex:station_113>  a     sosa:FeatureOfInterest ;
@@ -71,7 +71,7 @@
         ex:bike_stands  24 ;
         geo:lat         45.42342e0 ;
         geo:lng         4.392292e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Centre 2" .
 
 <ex:station_119>  a     sosa:FeatureOfInterest ;
@@ -79,7 +79,7 @@
         ex:bike_stands  24 ;
         geo:lat         45.4395e0 ;
         geo:lng         4.395669e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Fourneyron" .
 
 <ex:station_122>  a     sosa:FeatureOfInterest ;
@@ -87,7 +87,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.46502e0 ;
         geo:lng         4.37874e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Terrasse" .
 
 <ex:station_128>  a     sosa:FeatureOfInterest ;
@@ -95,7 +95,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.457e0 ;
         geo:lng         4.39241e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Technopole" .
 
 <ex:station_103>  a     sosa:FeatureOfInterest ;
@@ -103,7 +103,7 @@
         ex:bike_stands  24 ;
         geo:lat         45.447093e0 ;
         geo:lng         4.385487e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Carnot" .
 
 <ex:station_109>  a     sosa:FeatureOfInterest ;
@@ -111,7 +111,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.4328e0 ;
         geo:lng         4.388035e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "A. Thomas" .
 
 <ex:station_112>  a     sosa:FeatureOfInterest ;
@@ -119,7 +119,7 @@
         ex:bike_stands  24 ;
         geo:lat         45.427296e0 ;
         geo:lng         4.390669e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Tréfilerie" .
 
 <ex:station_118>  a     sosa:FeatureOfInterest ;
@@ -127,7 +127,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.437404e0 ;
         geo:lng         4.392469e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "J. Moulin" .
 
 <ex:station_127>  a     sosa:FeatureOfInterest ;
@@ -135,7 +135,7 @@
         ex:bike_stands  24 ;
         geo:lat         45.4732778e0 ;
         geo:lng         4.3665277e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "J. Marc" .
 
 <ex:station_102>  a     sosa:FeatureOfInterest ;
@@ -143,7 +143,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.453601e0 ;
         geo:lng         4.383062e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Chaléassiere" .
 
 <ex:station_108>  a     sosa:FeatureOfInterest ;
@@ -151,7 +151,7 @@
         ex:bike_stands  32 ;
         geo:lat         45.436265e0 ;
         geo:lng         4.387539e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Peuple" .
 
 <ex:station_130>  a     sosa:FeatureOfInterest ;
@@ -159,7 +159,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.420286e0 ;
         geo:lng         4.392776e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Bicentenaire" .
 
 <ex:station_111>  a     sosa:FeatureOfInterest ;
@@ -167,7 +167,7 @@
         ex:bike_stands  12 ;
         geo:lat         45.427396e0 ;
         geo:lng         4.386718e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Tardy" .
 
 <ex:station_117>  a     sosa:FeatureOfInterest ;
@@ -175,7 +175,7 @@
         ex:bike_stands  24 ;
         geo:lat         45.435109e0 ;
         geo:lng         4.391962e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Chavanelle" .
 
 <ex:station_120>  a     sosa:FeatureOfInterest ;
@@ -183,7 +183,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.439538e0 ;
         geo:lng         4.403407e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "St Francois" .
 
 <ex:station_126>  a     sosa:FeatureOfInterest ;
@@ -191,7 +191,7 @@
         ex:bike_stands  32 ;
         geo:lat         45.479487e0 ;
         geo:lng         4.362541e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Hôp. Nord" .
 
 <ex:station_101>  a     sosa:FeatureOfInterest ;
@@ -199,7 +199,7 @@
         ex:bike_stands  32 ;
         geo:lat         45.442972e0 ;
         geo:lng         4.398855e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Châteaucreux" .
 
 <ex:station_107>  a     sosa:FeatureOfInterest ;
@@ -207,7 +207,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.436903e0 ;
         geo:lng         4.378789e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Clapier" .
 
 <ex:station_110>  a     sosa:FeatureOfInterest ;
@@ -215,7 +215,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.43065e0 ;
         geo:lng         4.389752e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "A. France" .
 
 <ex:station_116>  a     sosa:FeatureOfInterest ;
@@ -223,7 +223,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.431808e0 ;
         geo:lng         4.395127e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Villeboeuf" .
 
 <ex:station_125>  a     sosa:FeatureOfInterest ;
@@ -231,7 +231,7 @@
         ex:bike_stands  16 ;
         geo:lat         45.450533e0 ;
         geo:lng         4.403566e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Soleil" .
 
 <ex:station_106>  a     sosa:FeatureOfInterest ;
@@ -239,5 +239,5 @@
         ex:bike_stands  32 ;
         geo:lat         45.43836e0 ;
         geo:lng         4.388435e0 ;
-        wdp:P131        city:Saint-Étienne ;
+        wdp:P131        city:Saint-Etienne ;
         wdp:P669        "Dorian" .
