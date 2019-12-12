@@ -10,16 +10,12 @@ public class Station {
     Integer availableBikeStand;
     Integer availableBike;
     Integer bikeStand;
-    City city;
+    String city;
     String lastUpdate;
     StatusStation status;
     Double latitude;
     Double longitude;
     String address;
-
-    public Station() {
-        city = new City();
-    }
 
     @Override
     public String toString() {

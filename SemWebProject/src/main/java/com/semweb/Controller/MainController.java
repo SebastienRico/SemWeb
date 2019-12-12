@@ -3,7 +3,6 @@ package com.semweb.Controller;
 import com.semweb.DAO.CityDAO;
 import com.semweb.DAO.StationDAO;
 import com.semweb.Model.Station;
-import com.semweb.Model.City;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.stereotype.Controller;
@@ -17,9 +16,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 public class MainController {
     
     public static List<Station> stations;
-    public static List<City> cities;
+    public static List<String> cities;
     
-    public static List<City> getCities(){
+    public static List<String> getCities(){
         return cities;
     }
     
@@ -27,7 +26,7 @@ public class MainController {
         return stations;
     }
     
-    public static void setCities(List<City> cities){
+    public static void setCities(List<String> cities){
         MainController.cities = cities;
     }
     
