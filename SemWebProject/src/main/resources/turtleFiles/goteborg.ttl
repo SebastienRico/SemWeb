@@ -1,0 +1,508 @@
+
+@base          <http://example.org/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
+@prefix ex:    <http://example.org/> .
+@prefix city:  <http://fr.dbpedia.org/page/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ite:   <http://w3id.org/sparql-generate/iter/> .
+@prefix sosa:  <http://www.w3.org/ns/sosa/> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<ex:station_11>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         57.702482e0 ;
+        geo:lng         11.971552e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Storan" .
+
+<ex:station_52>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         57.68542e0 ;
+        geo:lng         11.98322e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Gibraltargatan/Eklandagatan" .
+
+<ex:station_24>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.704675e0 ;
+        geo:lng         11.992441e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Gårdatorget" .
+
+<ex:station_5>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         57.701419e0 ;
+        geo:lng         11.9766e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Vasagatan/Heden" .
+
+<ex:station_65>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  60 ;
+        geo:lat         57.716378e0 ;
+        geo:lng         11.97472e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Gullbergsvass" .
+
+<ex:station_37>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.69691e0 ;
+        geo:lng         11.97234e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Molinsgatan" .
+
+<ex:station_31>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.701249e0 ;
+        geo:lng         11.992191e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Åvägen" .
+
+<ex:station_72>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  60 ;
+        geo:lat         57.702514e0 ;
+        geo:lng         11.974299e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Heden bussterminal" .
+
+<ex:station_44>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         57.69841e0 ;
+        geo:lng         11.97694e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Engelbrektsgatan" .
+
+<ex:station_16>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         57.70452e0 ;
+        geo:lng         11.984298e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Bohusgatan" .
+
+<ex:station_57>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  32 ;
+        geo:lat         57.71185e0 ;
+        geo:lng         11.9806e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Kruthusgatan" .
+
+<ex:station_10>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.700324e0 ;
+        geo:lng         11.973429e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Valand" .
+
+<ex:station_51>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.696837e0 ;
+        geo:lng         11.951009e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Hagabion" .
+
+<ex:station_23>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  36 ;
+        geo:lat         57.707048e0 ;
+        geo:lng         11.983638e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Ullevigatan" .
+
+<ex:station_92>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         57.716516e0 ;
+        geo:lng         11.922146e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Volvo B-Port Lundby" .
+
+<ex:station_36>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         57.697984e0 ;
+        geo:lng         11.962405e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Hagaparken" .
+
+<ex:station_49>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         57.698949e0 ;
+        geo:lng         11.956468e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Kaponjärsgatan" .
+
+<ex:station_30>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.702135e0 ;
+        geo:lng         11.985035e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Bergakungen" .
+
+<ex:station_71>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  50 ;
+        geo:lat         57.714739e0 ;
+        geo:lng         11.99652e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "OLSKROKSTORGET" .
+
+<ex:station_15>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         57.702955e0 ;
+        geo:lng         11.98021e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Heden/Stensturegatan" .
+
+<ex:station_56>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  50 ;
+        geo:lat         57.68979e0 ;
+        geo:lng         11.97305e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Chalmersplatsen" .
+
+<ex:station_28>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  32 ;
+        geo:lat         57.696916e0 ;
+        geo:lng         11.985703e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Korsvägen 1/Södra Vägen" .
+
+<ex:station_69>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         57.705703e0 ;
+        geo:lng         11.957183e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Stenpiren" .
+
+<ex:station_50>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.70337e0 ;
+        geo:lng         11.96012e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Kungsgatan/Telekasern" .
+
+<ex:station_22>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.70701e0 ;
+        geo:lng         11.99039e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Dämmeplatsen" .
+
+<ex:station_3>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.707476e0 ;
+        geo:lng         11.963926e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Postgatan" .
+
+<ex:station_91>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.710749e0 ;
+        geo:lng         11.943626e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Lindholmsallén/regnbågsga" .
+
+<ex:station_63>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  29 ;
+        geo:lat         57.713496e0 ;
+        geo:lng         11.968013e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Läppstiftet" .
+
+<ex:station_35>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         57.695909e0 ;
+        geo:lng         11.958548e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Skanstorget" .
+
+<ex:station_48>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.69312e0 ;
+        geo:lng         11.98661e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Carlanderplatsen" .
+
+<ex:station_70>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  39 ;
+        geo:lat         57.7192479e0 ;
+        geo:lng         11.9838407e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "GULLBERGSVASS/GASVERKET" .
+
+<ex:station_42>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.708074e0 ;
+        geo:lng         11.972737e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Drottningtorget" .
+
+<ex:station_14>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         57.699939e0 ;
+        geo:lng         11.976176e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Kristinelundsgatan" .
+
+<ex:station_27>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         57.697923e0 ;
+        geo:lng         11.995107e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Liseberg Station" .
+
+<ex:station_8>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  27 ;
+        geo:lat         57.702793e0 ;
+        geo:lng         11.955461e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "008_ESPERANTOPLATSEN" .
+
+<ex:station_68>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         57.712972e0 ;
+        geo:lng         11.991428e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Svingeln" .
+
+<ex:station_21>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.704263e0 ;
+        geo:lng         11.972077e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Bastionsplatsen" .
+
+<ex:station_90>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         57.707608e0 ;
+        geo:lng         11.938275e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Lindholmsplatsen" .
+
+<ex:station_62>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         57.702301e0 ;
+        geo:lng         11.952395e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Rosenlund/Färgeläget" .
+
+<ex:station_34>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.693029e0 ;
+        geo:lng         11.955692e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Kastellgatan" .
+
+<ex:station_510>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         57.70434e0 ;
+        geo:lng         11.96388e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Domkyrkan" .
+
+<ex:station_47>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.69794e0 ;
+        geo:lng         11.98096e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Berzeliigatan" .
+
+<ex:station_19>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  31 ;
+        geo:lat         57.700662e0 ;
+        geo:lng         11.95364e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Olof Palmes Plats" .
+
+<ex:station_41>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         57.689983e0 ;
+        geo:lng         11.947047e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Slottskogen/Plikta" .
+
+<ex:station_13>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         57.707233e0 ;
+        geo:lng         11.967502e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Gustaf Adolfs Torg" .
+
+<ex:station_54>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.69032e0 ;
+        geo:lng         11.98854e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Eklanda/Utlandagatan" .
+
+<ex:station_26>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.699941e0 ;
+        geo:lng         11.979867e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Heden Syd" .
+
+<ex:station_7>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  31 ;
+        geo:lat         57.708554e0 ;
+        geo:lng         11.97559e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Posthuset/Åkareplatsen" .
+
+<ex:station_67>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  27 ;
+        geo:lat         57.704639e0 ;
+        geo:lng         11.969008e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Östra hamngatan" .
+
+<ex:station_39>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.697821e0 ;
+        geo:lng         11.952905e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Frigångsgatan" .
+
+<ex:station_20>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  27 ;
+        geo:lat         57.709443e0 ;
+        geo:lng         11.971845e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Nils-Ericsson Terminalen" .
+
+<ex:station_1>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.711547e0 ;
+        geo:lng         11.966574e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Lilla Bommen" .
+
+<ex:station_61>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         57.699415e0 ;
+        geo:lng         11.941861e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Masthuggstorget" .
+
+<ex:station_33>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         57.694554e0 ;
+        geo:lng         11.961987e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Föreningsgatan" .
+
+<ex:station_74>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.71233e0 ;
+        geo:lng         11.976763e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Centralen Långtidsparkering, Gullbergsvassgatan" .
+
+<ex:station_46>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  28 ;
+        geo:lat         57.69358e0 ;
+        geo:lng         11.97199e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Kapellplatsen" .
+
+<ex:station_18>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         57.700993e0 ;
+        geo:lng         11.958626e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Rosenlundsplatsen flyttad till Feskekörka" .
+
+<ex:station_59>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         57.699968e0 ;
+        geo:lng         11.946097e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Förstalång/Värmlandsgatan" .
+
+<ex:station_40>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.690278e0 ;
+        geo:lng         11.95165e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Linnéplatsen" .
+
+<ex:station_12>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  37 ;
+        geo:lat         57.702459e0 ;
+        geo:lng         11.965179e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Grönsakstorget" .
+
+<ex:station_53>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         57.69418e0 ;
+        geo:lng         11.97451e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Läraregatan/Molinsgatan" .
+
+<ex:station_25>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         57.700094e0 ;
+        geo:lng         11.987908e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Scandinavium" .
+
+<ex:station_6>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.707316e0 ;
+        geo:lng         11.973448e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Slussplatsen" .
+
+<ex:station_66>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  31 ;
+        geo:lat         57.704535e0 ;
+        geo:lng         11.990748e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Åvägen Norra" .
+
+<ex:station_38>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         57.698265e0 ;
+        geo:lng         11.967115e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Vasagatan/Schillerska" .
+
+<ex:station_60>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         57.698261e0 ;
+        geo:lng         11.946208e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Tredjelång/Värmlandsgatan" .
+
+<ex:station_32>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.693517e0 ;
+        geo:lng         11.958559e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Brunnsgatan" .
+
+<ex:station_73>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         57.70846e0 ;
+        geo:lng         11.966942e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Östra Hamngatan/Kronhusgatan" .
+
+<ex:station_45>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.71119e0 ;
+        geo:lng         11.98798e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Alströmer/Friggagatan" .
+
+<ex:station_17>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.702542e0 ;
+        geo:lng         11.968875e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Kungstorget" .
+
+<ex:station_58>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         57.70884e0 ;
+        geo:lng         11.98472e0 ;
+        wdp:P131        city:goteborg ;
+        wdp:P669        "Folkungagatan" .

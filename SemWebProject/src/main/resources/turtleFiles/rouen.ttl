@@ -14,180 +14,180 @@
         ex:bike_stands  15 ;
         geo:lat         49.4336973759198e0 ;
         geo:lng         1.09090294278958e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "COURS CLEMENCEAU" .
 
 <ex:station_16>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.431521256315975e0 ;
         geo:lng         1.102925918082832e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "AVENUE JACQUES CHASTELLAIN - PARKING DE LA PATINOIRE" .
 
 <ex:station_25>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.442768e0 ;
         geo:lng         1.091251e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "Place du Maréchal Foch (Palais de Justice)" .
 
 <ex:station_1>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         49.4395241490918e0 ;
         geo:lng         1.08880494987062e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "DEVANT N°7 BIS RUE JEANNE D'ARC" .
 
 <ex:station_7>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.43885379551624e0 ;
         geo:lng         1.107488426850231e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "RUE D' AMIENS" .
 
 <ex:station_15>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         49.448285193967465e0 ;
         geo:lng         1.09419956401142e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "RUE JEANNE D'ARC ANGLE RUE DE LA ROCHEFOUCAULD" .
 
 <ex:station_24>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  40 ;
         geo:lat         49.441286e0 ;
         geo:lng         1.07176e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "Allée Jean de Béthencourt devant LE HANGAR 108 76100 ROUEN" .
 
 <ex:station_6>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.441201188322225e0 ;
         geo:lng         1.105985502540096e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "DEVANT N° 6 RUE EDOUARD ADAM" .
 
 <ex:station_14>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         49.42582345143276e0 ;
         geo:lng         1.087912810909562e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "BOULEVARD DE L' EUROPE" .
 
 <ex:station_23>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.440312e0 ;
         geo:lng         1.075491e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "Quai Jean de Béthencourt devant le Hangar 106 76100 ROUEN" .
 
 <ex:station_5>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.44250558644192e0 ;
         geo:lng         1.098266338219107e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "RUE DE L HOPITAL" .
 
 <ex:station_13>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.430880514851474e0 ;
         geo:lng         1.086095305349564e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "PLACE SAINT SEVER" .
 
 <ex:station_19>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.42174920022087e0 ;
         geo:lng         1.079707617664568e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "Avenue des Martyrs de la Résistance angle rue de la mare au parc" .
 
 <ex:station_22>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.440904e0 ;
         geo:lng         1.09396e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "Rue des Carmes angle rue du Gros Horloge" .
 
 <ex:station_4>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.44430797679112e0 ;
         geo:lng         1.093579586130271e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "DEVANT N° 39 ALLEE EUGENE DELACROIX" .
 
 <ex:station_12>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.43087671678897e0 ;
         geo:lng         1.081412105910482e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "PLACE DES COTONNIERS" .
 
 <ex:station_18>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  26 ;
         geo:lat         49.44541856175536e0 ;
         geo:lng         1.063998154832871e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "bd ferdinands de lesseps angle rue amedee dormoy" .
 
 <ex:station_21>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         49.427214017510224e0 ;
         geo:lng         1.096418417222262e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "RUE DE LESSARD ANGLE AVENUE DE GRAMMOND" .
 
 <ex:station_3>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         49.44340061638054e0 ;
         geo:lng         1.089234065324399e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "PLACE DU VIEUX MARCHE" .
 
 <ex:station_9>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.437489866065405e0 ;
         geo:lng         1.096252291204278e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "RUE DE LA REPUBLIQUE" .
 
 <ex:station_11>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.43464613956876e0 ;
         geo:lng         1.087959490140167e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "COURS CLEMENCEAU" .
 
 <ex:station_17>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.42576540125409e0 ;
         geo:lng         1.076303569768087e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "RUE LECUYER ANGLE RUE LETHUILLIER PINEL" .
 
 <ex:station_20>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.441452231089485e0 ;
         geo:lng         1.120087272683398e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "ROUTE DE DARNETAL" .
 
 <ex:station_26>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.439524e0 ;
         geo:lng         1.116237e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "Centre sportif Antoine-de-Saint-Exupéry - Rue des Petites Eaux du Robec" .
 
 <ex:station_2>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.4442849736749e0 ;
         geo:lng         1.07838302560908e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "AVENUE PASTEUR" .
 
 <ex:station_8>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.43811211136788e0 ;
         geo:lng         1.100852281910646e0 ;
-        wdp:P131        <city:rouen> ;
+        wdp:P131        city:rouen ;
         wdp:P669        "RUE ARMAND CARREL" .

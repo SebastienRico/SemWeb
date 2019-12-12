@@ -14,642 +14,642 @@
         ex:bike_stands  15 ;
         geo:lat         49.611317e0 ;
         geo:lng         6.120003e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "WINSTON CHURCHILL - PLACE CHURCHILL" .
 
 <ex:station_80>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.612542e0 ;
         geo:lng         6.147918e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue du Fort Dumoulin/Rue de Trèves" .
 
 <ex:station_52>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.591404e0 ;
         geo:lng         6.125333e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "BEI DER AUER - RUE DE GASPERICH ( DEVANT N° 20 )" .
 
 <ex:station_24>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.631952e0 ;
         geo:lng         6.17048e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "WEICKER - AVENUE JF KENNEDY / RUE ALPHONSE WEICKER" .
 
 <ex:station_93>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.601652e0 ;
         geo:lng         6.145533e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue Auguste Charles/Rue Godchaux" .
 
 <ex:station_65>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.58421e0 ;
         geo:lng         6.14202e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "BEI DER SCHOUL - RUE FERDINAND KUHN" .
 
 <ex:station_37>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.60164e0 ;
         geo:lng         6.13736e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "GAULOIS - RUE DES GAULOIS 11" .
 
 <ex:station_78>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         49.619061e0 ;
         geo:lng         6.1323e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue St.Mathieu/ prés de l'arrêt Pafendall" .
 
 <ex:station_31>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.60625e0 ;
         geo:lng         6.105961e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "PLACE DE FRANCE - PLACE DE FRANCE" .
 
 <ex:station_72>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.61086e0 ;
         geo:lng         6.08097e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "- AN DER BOURMICHT - ZONE INDUSTRIELLE BOURMICHT / RES DES MEROVINGIENS" .
 
 <ex:station_44>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.6162e0 ;
         geo:lng         6.0984e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "ARELER STROOSS - RUE DES AUBEPINES ( FACE N° 187 )" .
 
 <ex:station_16>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.613339e0 ;
         geo:lng         6.125794e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "- AMELIE - BOULEVARD ROYAL / AVENUE AMELIE" .
 
 <ex:station_85>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         49.5842e0 ;
         geo:lng         6.1249e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue Albert Einstein/Bd de Kockelscheuer" .
 
 <ex:station_57>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  35 ;
         geo:lat         49.60001e0 ;
         geo:lng         6.10826e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "BOUILLON - RUE DE BOUILLON / PARKING" .
 
 <ex:station_29>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.609583e0 ;
         geo:lng         6.119523e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "MONTEREY - AVENUE DE MONTEREY ( FACE N° 49 )" .
 
 <ex:station_10>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.608146e0 ;
         geo:lng         6.111627e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "MÄRELER PARC - RUE DU 10 SEPTEMBRE ( DEVANT N° 108 )" .
 
 <ex:station_51>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.594088e0 ;
         geo:lng         6.125123e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "SAUERWISS - RUE ABBE FRANCOIS LASCOMBE ( DEVANT N° 54 )" .
 
 <ex:station_23>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         49.629448e0 ;
         geo:lng         6.157348e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "REIMERWEE - BOULEVARD K ADENAUER / RUE K KALERGI" .
 
 <ex:station_4>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.602989e0 ;
         geo:lng         6.136083e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "ROCADE-RUE DU LABORATOIRE ( DEVANT VDL )" .
 
 <ex:station_92>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.58914e0 ;
         geo:lng         6.099213e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue des Prunelles/Bd du Brill" .
 
 <ex:station_64>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.59383e0 ;
         geo:lng         6.14327e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "GRENIER - RUE EDOUARD GRENIER" .
 
 <ex:station_36>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.596787e0 ;
         geo:lng         6.1400375e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "J.B. GELLE - RUE JEAN- BAPTISTE GELLE ( DEVANT N° 6 )" .
 
 <ex:station_77>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.618823e0 ;
         geo:lng         6.136324e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Avenue J.F.Kennedy/Parvis au Plateau KB prés de l'arrêt Pafendall" .
 
 <ex:station_49>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.623837e0 ;
         geo:lng         6.160642e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "MARGUERITES - RUE DES MARGUERITES ( FACE N° 105 A )" .
 
 <ex:station_30>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.599846e0 ;
         geo:lng         6.122565e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "- MERKELS PLAZ - RUE JEAN BAPTISTE MERKELS / Bd CHARLES MARX" .
 
 <ex:station_71>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.61489e0 ;
         geo:lng         6.07275e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "LES THERMES - RUE DU CIMETIERE" .
 
 <ex:station_43>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.5911e0 ;
         geo:lng         6.1416e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "LYCEE TECHNIQUE DE BONNEVOIE - RUE DU CIMETIERE ( DEVANT N° 110 )" .
 
 <ex:station_15>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.612782e0 ;
         geo:lng         6.131208e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "THEATER PLAZ - PLACE DU THEATRE ( FACE N°1 )" .
 
 <ex:station_84>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.61349e0 ;
         geo:lng         6.17066e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue de Bitbourg devant n°20" .
 
 <ex:station_56>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         49.5911e0 ;
         geo:lng         6.1057e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "FISCHERHAFF- RUE DE CESSANGE 177" .
 
 <ex:station_28>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.61258e0 ;
         geo:lng         6.12391e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "CHARLY'S GARE - BOULEVARD PRINCE HENRI" .
 
 <ex:station_9>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.6059e0 ;
         geo:lng         6.1199e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "CONVICT - PLACE DU FOYER" .
 
 <ex:station_97>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.603644e0 ;
         geo:lng         6.077783e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue de Luxembourg/Route de Longwy" .
 
 <ex:station_69>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.61769e0 ;
         geo:lng         6.08276e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "UM REIMERWEE - RUE DU KIEM" .
 
 <ex:station_50>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.620489e0 ;
         geo:lng         6.146808e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "EUROPAPARLAMENT - Rue Léon Hammes, prés de l'arrêt Europaparlament" .
 
 <ex:station_22>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.6264e0 ;
         geo:lng         6.1613e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "CAMPUS KIRCHBIERG - BOULEVARD JF KENNEDY / RUE K KALERGI" .
 
 <ex:station_3>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.600541e0 ;
         geo:lng         6.128376e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "STROOSSBUERGER PLAZ - PLACE DE STRASBOURG ( FACE N° 41 )" .
 
 <ex:station_91>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.627834e0 ;
         geo:lng         6.122333e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue de Mühlenbach/ Rue Jules Mersch" .
 
 <ex:station_63>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.6301e0 ;
         geo:lng         6.16843e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "LABOURS - RUE DES LABOURS / BLD J.F.KENNEDY" .
 
 <ex:station_35>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.609904e0 ;
         geo:lng         6.106099e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "GASTON DIDERICH - AVENUE GASTON DIDERICH" .
 
 <ex:station_76>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.62521e0 ;
         geo:lng         6.13938e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "SAUVAGE - RUE JEAN-PIERRE SAUVAGE" .
 
 <ex:station_48>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.632179e0 ;
         geo:lng         6.174446e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "BGL BNP PARIBAS  - RUE EDOUARD STEICHEN ( FACE N° 10 )" .
 
 <ex:station_89>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.60361e0 ;
         geo:lng         6.10278e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Place Thorn/Bd Marcel Cahen ,50m avant rue Béatrix" .
 
 <ex:station_70>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.61909e0 ;
         geo:lng         6.07227e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "- GEMENG STROOSSEN - RUE DES ROMAINS" .
 
 <ex:station_42>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.6238e0 ;
         geo:lng         6.1188e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "SQUARE ANDRE - SQUARE EDOUARD ANDRE ( DEVANT N° 1 )" .
 
 <ex:station_14>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         49.610687e0 ;
         geo:lng         6.131621e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "KNUEDLER - PLACE GUILLAUME" .
 
 <ex:station_83>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.608758e0 ;
         geo:lng         6.149591e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue de Pulvermûhl/Rue du Fort Dumoulin" .
 
 <ex:station_55>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.58043e0 ;
         geo:lng         6.11465e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "- SCHAARFEN ECK- RUE EMILE BIAN" .
 
 <ex:station_27>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.5986e0 ;
         geo:lng         6.132119e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "MERCIER - PLACE DE LA GARE / RUE DU COMMERCE / PARKING" .
 
 <ex:station_8>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.607346e0 ;
         geo:lng         6.12762e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "METZER PLAZ - PLACE DE METZ" .
 
 <ex:station_96>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.613161e0 ;
         geo:lng         6.060382e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue de l'industrie/Rue Chemin de Fer/ Rue de Strassen" .
 
 <ex:station_68>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.57337e0 ;
         geo:lng         6.14397e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "UM SCHLASS - CEINTURE UM SCHLASS" .
 
 <ex:station_21>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.625714e0 ;
         geo:lng         6.148347e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "JEAN MONNET - BOULEVARD KONRAD ADENAUER / RUE ERASME" .
 
 <ex:station_2>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         49.601051e0 ;
         geo:lng         6.133744e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "GARE CENTRALE 2 - PLACE DE LA GARE N°3-5" .
 
 <ex:station_90>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.6294701613971e0 ;
         geo:lng         6.11780413988129e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue de Mühlenbach/Rue Jean-Pierre Huberty" .
 
 <ex:station_62>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.62915e0 ;
         geo:lng         6.173101e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "LEYDENBACH - RUE LEYDENBACH / RUE DES LABOURS" .
 
 <ex:station_34>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  31 ;
         geo:lat         49.604577e0 ;
         geo:lng         6.111927e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "- KOLLEISCH - RUE DE BRAGANCE" .
 
 <ex:station_75>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.61561e0 ;
         geo:lng         6.13097e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "BEINCHEN - RUE DU PONT" .
 
 <ex:station_47>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.6122e0 ;
         geo:lng         6.1072e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "LEOPOLD GOEBEL - ALLEE LEOPOLD GOEBEL ( DEVANT N° 109 )" .
 
 <ex:station_19>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         49.619345e0 ;
         geo:lng         6.143907e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "PHILHARMONIE - AVENUE JF KENNEDY / PLACE DE L'EUROPE" .
 
 <ex:station_41>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.620066e0 ;
         geo:lng         6.122905e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "PLACE LAURENT - PLACE AUGUSTE LAURENT" .
 
 <ex:station_13>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         49.60947e0 ;
         geo:lng         6.12963e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "" .
 
 <ex:station_82>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.614749e0 ;
         geo:lng         6.164772e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "GARE CENTS-HAMM - RUE DES ALOUETTES / GARE DE CENTS-HAMM" .
 
 <ex:station_54>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.583377e0 ;
         geo:lng         6.115817e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "CLOCHE D'OR - RUE JEAN PIRET ( DEVANT N° 3 )" .
 
 <ex:station_26>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         49.598613e0 ;
         geo:lng         6.117957e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "HOLLERECHER PLAZ - PLACE SAINT PIERRE ET PAUL / RUE BAUDOUIN" .
 
 <ex:station_7>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.605818e0 ;
         geo:lng         6.129062e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "ROUSEGAERTCHEN - PLACE DES MARTYRS" .
 
 <ex:station_95>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.61093e0 ;
         geo:lng         6.051527e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "2 Beim Schlass/ Rue de Leudelange" .
 
 <ex:station_67>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.571924e0 ;
         geo:lng         6.15965e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "MAIRIE DE HESPERANGE - ROUTE DE THIONVILLE 474" .
 
 <ex:station_39>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.613316e0 ;
         geo:lng         6.117582e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "KRAIZGRENNCHEN - SQUARE DE NEW- YORK" .
 
 <ex:station_20>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.62297e0 ;
         geo:lng         6.15497e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "COQUE - AVENUE JF KENNEDY / RUE ERASME" .
 
 <ex:station_1>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.598211e0 ;
         geo:lng         6.137526e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "LEON XIII-RUE DE BONNEVOIE ( DEVANT N° 103 )" .
 
 <ex:station_61>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.637327e0 ;
         geo:lng         6.164573e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "FRIEDEN - BVD PIERRE FRIEDEN" .
 
 <ex:station_33>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.620586e0 ;
         geo:lng         6.138998e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "K. ADENAUER - BOULEVARD KONRAD ADENAUER ( DEVANT BEI )" .
 
 <ex:station_74>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.6146e0 ;
         geo:lng         6.14283e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "SAINTE CUNEGONDE - PLACE STE CUNEGONDE" .
 
 <ex:station_46>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.60563e0 ;
         geo:lng         6.10003e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "LONKECHER STROOSS - ROUTE DE LONGWY ( DEVANT N° 241 )" .
 
 <ex:station_18>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         49.6219e0 ;
         geo:lng         6.1118e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "CAMPUS LAMPERTSBIERG - RUE DE LA FAIENCERIE ( DEVANT N° 151 )" .
 
 <ex:station_87>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.629865e0 ;
         geo:lng         6.166252e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "NATIONALBIBLIOTHEIK - Bd. KONRAD ADENAUER (Immeuble Bibliothèque Nationale)" .
 
 <ex:station_59>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.60289e0 ;
         geo:lng         6.09322e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "ST HUBERT - RUE DE MERL 147 / RUE ST HUBERT" .
 
 <ex:station_40>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         49.6147e0 ;
         geo:lng         6.1211e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "GLACIS KAPELL - BOULEVARD DE LA FOIRE ( DEVANT N° 21 )" .
 
 <ex:station_81>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.62019e0 ;
         geo:lng         6.172682e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Allée du Carmel/Rue Paul Albrecht face Police" .
 
 <ex:station_53>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.59e0 ;
         geo:lng         6.1172e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "- LUDWIG VAN BEETHOVEN - RUE LUDWIG VAN BEETHOVEN ( DEVANT N° 45 )" .
 
 <ex:station_25>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.634283e0 ;
         geo:lng         6.166633e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "KIEM - CIRCUIT DE LA FOIRE / RUE ALPHONSE WEICKER" .
 
 <ex:station_94>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.606983e0 ;
         geo:lng         6.154863e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue de Hamm/Rue des pruniers" .
 
 <ex:station_66>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.579231e0 ;
         geo:lng         6.134018e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "BEIM TENNIS - RUE DES SCILLAS 55/BANQUE LUXEMBOURG" .
 
 <ex:station_38>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.60771e0 ;
         geo:lng         6.13456e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "HELLEG GEESCHT - PLATEAU SAINT ESPRIT" .
 
 <ex:station_60>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.61925e0 ;
         geo:lng         6.10842e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "BOCH - RUE J-F BOCH" .
 
 <ex:station_32>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.623901e0 ;
         geo:lng         6.150013e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "PISCINE OLYMPIQUE - RUE LEON HENGEN" .
 
 <ex:station_73>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.59691e0 ;
         geo:lng         6.147957e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "- JEANNE D'ARC - PLACE JEANNE D'ARC" .
 
 <ex:station_45>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.61212e0 ;
         geo:lng         6.09749e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "AUBEPINES - VAL SAINTE CROIX / RUE DES AUBEPINES" .
 
 <ex:station_17>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         49.616669e0 ;
         geo:lng         6.126069e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "ROBERT SCHUMAN - SQUARE SCHUMAN" .
 
 <ex:station_86>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.580242e0 ;
         geo:lng         6.120862e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "Rue Gerhard Mercator n°2/Bd de Kockelscheuer" .
 
 <ex:station_58>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.60136e0 ;
         geo:lng         6.11581e0 ;
-        wdp:P131        <city:luxembourg> ;
+        wdp:P131        city:luxembourg ;
         wdp:P669        "SCHLUECHTHAUS - RUE DE L'ABATTOIR" .

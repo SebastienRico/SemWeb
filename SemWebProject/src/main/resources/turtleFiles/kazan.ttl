@@ -14,40 +14,40 @@
         ex:bike_stands  20 ;
         geo:lat         55.794903e0 ;
         geo:lng         49.138706e0 ;
-        wdp:P131        <city:kazan> ;
+        wdp:P131        city:kazan ;
         wdp:P669        "ул. К. Маркса, 70" .
 
 <ex:station_6>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         55.784126e0 ;
         geo:lng         49.118286e0 ;
-        wdp:P131        <city:kazan> ;
+        wdp:P131        city:kazan ;
         wdp:P669        "ул. Татарстан / ул. М. Салимжанова" .
 
 <ex:station_4>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  30 ;
         geo:lat         55.790813e0 ;
         geo:lng         49.123093e0 ;
-        wdp:P131        <city:kazan> ;
+        wdp:P131        city:kazan ;
         wdp:P669        "ул.Кремлевская, напротив 18" .
 
 <ex:station_10>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         55.790596e0 ;
         geo:lng         49.114269e0 ;
-        wdp:P131        <city:kazan> ;
+        wdp:P131        city:kazan ;
         wdp:P669        "ул. К. Наджми / ул. Баумана, 54" .
 
 <ex:station_2>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         55.795834e0 ;
         geo:lng         49.125511e0 ;
-        wdp:P131        <city:kazan> ;
+        wdp:P131        city:kazan ;
         wdp:P669        "ул. Пушкина, 33" .
 
 <ex:station_3>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         55.79583e0 ;
         geo:lng         49.1091e0 ;
-        wdp:P131        <city:kazan> ;
+        wdp:P131        city:kazan ;
         wdp:P669        "ул. Кремлевская, 2" .

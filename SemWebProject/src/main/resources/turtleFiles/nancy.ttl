@@ -14,194 +14,194 @@
         ex:bike_stands  30 ;
         geo:lat         48.69037e0 ;
         geo:lng         6.175677e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Rue Mazagran" .
 
 <ex:station_16>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         48.6984724451821e0 ;
         geo:lng         6.17798553705909e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Angle rue du Haut Bourgeois et place des Bourgets" .
 
 <ex:station_25>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         48.6859179816784e0 ;
         geo:lng         6.1674218161464e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Place de la Commanderie - Face au n°13" .
 
 <ex:station_1>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  28 ;
         geo:lat         48.6924654452072e0 ;
         geo:lng         6.18340055389445e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Angle rue Pierre FOURRIER et rue des Dominicains" .
 
 <ex:station_15>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         48.6954870039528e0 ;
         geo:lng         6.1906794896667e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Angle rue Henri BAZIN et quai Sainte-Catherine" .
 
 <ex:station_24>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  23 ;
         geo:lat         48.7008781485017e0 ;
         geo:lng         6.17706203367071e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "15 rue du faubourg des 3 Maisons - Angle boulevard Charles" .
 
 <ex:station_6>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         48.695420147586e0 ;
         geo:lng         6.19522861327582e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "2 rue Emilie du Châtelet" .
 
 <ex:station_14>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         48.6928180794454e0 ;
         geo:lng         6.16860978784457e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Place Godefroy de Bouillon" .
 
 <ex:station_23>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         48.6927939742599e0 ;
         geo:lng         6.19628435757015e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Promenade des Canaux" .
 
 <ex:station_29>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         48.666721193896e0 ;
         geo:lng         6.16661978303466e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Place du Vélodrôme" .
 
 <ex:station_5>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         48.6921301e0 ;
         geo:lng         6.1872695e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Rue Drouin - Face au n°2" .
 
 <ex:station_13>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         48.6878319691091e0 ;
         geo:lng         6.18780151507824e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "77 rue Saint-Nicolas" .
 
 <ex:station_19>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         48.6869197241039e0 ;
         geo:lng         6.17234789239391e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Angle rue Pierre CHALNOT et rue de la Commanderie" .
 
 <ex:station_22>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         48.6858574026886e0 ;
         geo:lng         6.19290171469907e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Angle rue Molitor et rue Foller" .
 
 <ex:station_28>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         48.67227619793021e0 ;
         geo:lng         6.165710709115886e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Boulevard d'Haussonville" .
 
 <ex:station_4>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         48.6891733257851e0 ;
         geo:lng         6.18390463043762e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Angle rue Saint-Dizier - Rue du Dr SCHMITT" .
 
 <ex:station_12>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         48.6886141256403e0 ;
         geo:lng         6.17950010441818e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Angle rue Saint-Thiebaut et rue du Grand Rabbin HAGUENAUER" .
 
 <ex:station_18>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         48.689560111075e0 ;
         geo:lng         6.17251545229862e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Angle rue Saint-Léon - Esplanade Saint-Léon" .
 
 <ex:station_21>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         48.6833502130976e0 ;
         geo:lng         6.19029660801914e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "45 avenue du Maréchal de Lattre de Tassigny" .
 
 <ex:station_27>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         48.67899967679407e0 ;
         geo:lng         6.167632567397485e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Rue du Sergent Blandan" .
 
 <ex:station_3>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  28 ;
         geo:lat         48.6919579483934e0 ;
         geo:lng         6.17851021950761e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Rue Stanislas - Face au n°68" .
 
 <ex:station_9>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         48.69950232851108e0 ;
         geo:lng         6.204735639873545e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Place Barrois" .
 
 <ex:station_11>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  28 ;
         geo:lat         48.6894760345252e0 ;
         geo:lng         6.17650546239553e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Boulevard Foch" .
 
 <ex:station_17>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         48.6957176856775e0 ;
         geo:lng         6.17133838702303e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "27 rue Baron Louis - Angle quai Claude le Lorrain" .
 
 <ex:station_20>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         48.684781e0 ;
         geo:lng         6.187631e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Angle avenue du Général Leclerc et rue du Maréchal De Lattre de Tassigny" .
 
 <ex:station_26>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         48.675248491826174e0 ;
         geo:lng         6.162844844269929e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Rue des 3 Epis Baudricourt" .
 
 <ex:station_2>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         48.6945981637388e0 ;
         geo:lng         6.18229408637817e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Angle Place de la Carrière et rue des Maréchaux" .
 
 <ex:station_8>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         48.6956140662607e0 ;
         geo:lng         6.17676840786255e0 ;
-        wdp:P131        <city:nancy> ;
+        wdp:P131        city:nancy ;
         wdp:P669        "Angle rue Saint-Michel et cours Léopold" .

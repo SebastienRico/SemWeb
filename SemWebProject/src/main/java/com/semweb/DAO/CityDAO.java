@@ -20,9 +20,9 @@ public class CityDAO {
         while (rs.hasNext()) {
             City city = new City();
             QuerySolution qs = rs.next();
-            String cityname = qs.get("o").toString();
-            String[] splitcityname = cityname.split("\\/");
-            city.setName(splitcityname[4]);
+            String cityName = qs.get("o").toString();
+            String[] splitCityName = cityName.split("\\/");
+            city.setName(splitCityName[4]);
             cities.add(city);
         }
         qExec.close();

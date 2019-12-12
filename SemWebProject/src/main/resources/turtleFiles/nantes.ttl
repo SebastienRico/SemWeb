@@ -14,838 +14,838 @@
         ex:bike_stands  28 ;
         geo:lat         47.1965313642396e0 ;
         geo:lng         -1.54156809120326e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "PIRMIL - RUE ESNOUL DES CHATELETS" .
 
 <ex:station_11>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2155789424271e0 ;
         geo:lng         -1.56067528370012e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "8, rue du Calvaire - Place des Volontaires de la Défense Passive" .
 
 <ex:station_80>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2040032084911e0 ;
         geo:lng         -1.5515484848032e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "25, boulevard Victor Hugo - 28, boulevard Gustave Roch" .
 
 <ex:station_114>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         47.194493e0 ;
         geo:lng         -1.570365e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "114 - ATOUTSUD ANGLE RUE DE L'ABBE GREGOIRE/AV MARECHAL TASSIGNY" .
 
 <ex:station_52>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2143275245891e0 ;
         geo:lng         -1.54875055574198e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "8, allée Baco" .
 
 <ex:station_24>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2245149071911e0 ;
         geo:lng         -1.55371196140233e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "25, quai de Versailles - Ile de Versailles" .
 
 <ex:station_5>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         47.2188372304694e0 ;
         geo:lng         -1.55674926307655e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "12, Allée Duquesne" .
 
 <ex:station_93>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  40 ;
         geo:lat         47.2462980684235e0 ;
         geo:lng         -1.5553090111073e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "A l'angle route de la Jonelière -  Boulevard Guy Mollet" .
 
 <ex:station_65>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2225873399067e0 ;
         geo:lng         -1.55166644254598e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "9, cours Sully" .
 
 <ex:station_37>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  27 ;
         geo:lat         47.211465063355e0 ;
         geo:lng         -1.5568245371939e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "1, allée de l'Île Gloriette" .
 
 <ex:station_78>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         47.2084436771829e0 ;
         geo:lng         -1.54051448829019e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "7, rue Françoise Giroud - Boulevard Général de Gaulle" .
 
 <ex:station_121>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.228614e0 ;
         geo:lng         -1.533329e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "12, place Victor Richard" .
 
 <ex:station_31>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         47.2120830307532e0 ;
         geo:lng         -1.55908655123987e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Allée de la Bourse - Boulevard des Nations-Unies" .
 
 <ex:station_72>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2286256905746e0 ;
         geo:lng         -1.56180639301113e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "138, rue Paul Bellamy" .
 
 <ex:station_44>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  31 ;
         geo:lat         47.2083172884415e0 ;
         geo:lng         -1.5611730779894e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "19, quai François Mitterand - 1, rue Olympe de Gouges" .
 
 <ex:station_106>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.202127e0 ;
         geo:lng         -1.5787e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "GARENNES - 2 RUE DES GARENNES" .
 
 <ex:station_16>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2190275447384e0 ;
         geo:lng         -1.56341948405375e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Face au 7, place Edouard Normand" .
 
 <ex:station_85>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  14 ;
         geo:lat         47.2263944309861e0 ;
         geo:lng         -1.56002281967663e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "102, rue Paul Bellamy" .
 
 <ex:station_119>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         47.213859e0 ;
         geo:lng         -1.586108e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "ZOLA - PLACE EMILE ZOLA" .
 
 <ex:station_57>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.2053961321791e0 ;
         geo:lng         -1.53758186300399e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "20, rue Gaëtan Rondeau" .
 
 <ex:station_98>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.189212047513e0 ;
         geo:lng         -1.55082803645635e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "HUIT MAI - AVENUE DE LA LIBERATION - REZE" .
 
 <ex:station_100>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.1999230929052e0 ;
         geo:lng         -1.53471754047048e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "GRENERAIE - PARC DE LA GRENERAIE" .
 
 <ex:station_10>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  40 ;
         geo:lat         47.216207e0 ;
         geo:lng         -1.533796e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "12, mail Pablo Picasso" .
 
 <ex:station_51>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.2141946314965e0 ;
         geo:lng         -1.52973588598036e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "5, boulevard de Berlin" .
 
 <ex:station_113>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         47.191117e0 ;
         geo:lng         -1.569362e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "REZE - PLACE JEAN DAVIAIS" .
 
 <ex:station_23>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  11 ;
         geo:lat         47.2271454682246e0 ;
         geo:lng         -1.5424047412504e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "118, rue de Coulmiers" .
 
 <ex:station_4>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  13 ;
         geo:lat         47.2166675820152e0 ;
         geo:lng         -1.5543847138777e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "18, rue du Moulin" .
 
 <ex:station_92>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.2330281847759e0 ;
         geo:lng         -1.56605906933562e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Angle boulevard Lelasseur - Rue Paul Bellamy" .
 
 <ex:station_64>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2217851835226e0 ;
         geo:lng         -1.5470992337185e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "24, rue du Maréchal Joffre" .
 
 <ex:station_36>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.210549e0 ;
         geo:lng         -1.567368e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "10, rue d'Alger" .
 
 <ex:station_77>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  32 ;
         geo:lat         47.2076056402121e0 ;
         geo:lng         -1.55753246791432e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "6, quai François Mitterrand" .
 
 <ex:station_49>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2167e0 ;
         geo:lng         -1.547253e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "2, place de la Duchesse Anne" .
 
 <ex:station_120>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  30 ;
         geo:lat         47.234853e0 ;
         geo:lng         -1.534981e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "#00120-ROND-POINT DE PARIS 16 BOULEVARD JULES VERNE" .
 
 <ex:station_30>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  45 ;
         geo:lat         47.2131205510312e0 ;
         geo:lng         -1.55739323562824e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Place du Commerce - Cours Franklin Roosevelt" .
 
 <ex:station_71>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  14 ;
         geo:lat         47.2218536381884e0 ;
         geo:lng         -1.55894074669074e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "18, rue Talensac - 26, rue de Bel Air" .
 
 <ex:station_105>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.199408e0 ;
         geo:lng         -1.573184e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "HANGAR A BANANES - 6 BOULEVARD DES ANTILLES" .
 
 <ex:station_43>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  36 ;
         geo:lat         47.206918958696e0 ;
         geo:lng         -1.56480679078299e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "3, boulevard Léon Bureau" .
 
 <ex:station_15>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         47.2171848232902e0 ;
         geo:lng         -1.56298679328837e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Place Aristide Briand" .
 
 <ex:station_84>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         47.2107421421814e0 ;
         geo:lng         -1.52593345192508e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "REGION - RUE DE LA LOIRE" .
 
 <ex:station_56>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2067986185753e0 ;
         geo:lng         -1.54177773985064e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "9, rue François Albert" .
 
 <ex:station_28>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  13 ;
         geo:lat         47.2144634273858e0 ;
         geo:lng         -1.56756801666384e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "2, rue de Gigant - Place de l'Edit de Nantes" .
 
 <ex:station_9>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  14 ;
         geo:lat         47.2158145871395e0 ;
         geo:lng         -1.55901748516744e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "8, rue de l'Arche Sèche" .
 
 <ex:station_97>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.2290880870929e0 ;
         geo:lng         -1.54029259428922e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "SAINT DONATIEN - PLACE DU 51éme RIMA" .
 
 <ex:station_69>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2192163807113e0 ;
         geo:lng         -1.53584744327638e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "11 bis, boulevard Stalingrad" .
 
 <ex:station_50>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         47.2151496951626e0 ;
         geo:lng         -1.55022624256337e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "7, rue des Etats" .
 
 <ex:station_112>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.188684e0 ;
         geo:lng         -1.567201e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "POLE SOCIAL MARION CAHOUR (CHAPEAU MARION CAHOUR) - 10 RUE MARION CAHOUR - REZE" .
 
 <ex:station_22>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.220392126692e0 ;
         geo:lng         -1.55553104193626e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "8, rue Moquechien - 17, allée des Tanneurs" .
 
 <ex:station_3>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2164797718207e0 ;
         geo:lng         -1.55154060534636e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "4, rue des Carmélites - Place Tirant Lo Blanc" .
 
 <ex:station_91>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         47.2295806053692e0 ;
         geo:lng         -1.57211457799373e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "65, boulevard Lelasseur" .
 
 <ex:station_63>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.219834197319e0 ;
         geo:lng         -1.54471896453159e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "JARDIN DES PLANTES - 6 RUE STANISLAS BAUDRY" .
 
 <ex:station_35>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2121689744121e0 ;
         geo:lng         -1.5655439860751e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Place Jean V" .
 
 <ex:station_76>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2094290925244e0 ;
         geo:lng         -1.57051533628071e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "8, place René Bouhier" .
 
 <ex:station_48>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  14 ;
         geo:lat         47.2175053746786e0 ;
         geo:lng         -1.55184978437031e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "15, rue de Verdun" .
 
 <ex:station_89>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  14 ;
         geo:lat         47.2074386375471e0 ;
         geo:lng         -1.57868926431099e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "65, boulevard Saint-Aignan" .
 
 <ex:station_70>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  70 ;
         geo:lat         47.215505e0 ;
         geo:lng         -1.542844e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Quai de Malakoff - Canal Saint-Félix" .
 
 <ex:station_104>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         47.202547e0 ;
         geo:lng         -1.572325e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "20 QUAI DES ANTILLES" .
 
 <ex:station_42>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  28 ;
         geo:lat         47.2065977289879e0 ;
         geo:lng         -1.5726102869705e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Quai Ernest Renaud - Place Jacksonville" .
 
 <ex:station_14>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  14 ;
         geo:lat         47.230334e0 ;
         geo:lng         -1.556133e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "35, Boulevard Amiral Courbet" .
 
 <ex:station_83>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  14 ;
         geo:lat         47.2081996450388e0 ;
         geo:lng         -1.53018043595997e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "9, boulevard Alexandre Millerand - 28, boulevard Georges Pompidou" .
 
 <ex:station_55>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2107814065594e0 ;
         geo:lng         -1.54429847094521e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "11, rue de Belfort" .
 
 <ex:station_117>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.20656e0 ;
         geo:lng         -1.58785e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "MAIRIE DE CHANTENAY - PLACE DE LA LIBERTE" .
 
 <ex:station_27>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2179298163251e0 ;
         geo:lng         -1.56917188330244e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "42, boulevard Gabriel Guist'Hau" .
 
 <ex:station_8>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         47.2162008925882e0 ;
         geo:lng         -1.55711168019757e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "4, rue de la Boucherie" .
 
 <ex:station_96>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         47.2353352222086e0 ;
         geo:lng         -1.54922176680989e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "TORTIERE - BD EUGENE ORIEUX" .
 
 <ex:station_68>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2240678794875e0 ;
         geo:lng         -1.54521243421509e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "65, rue Dufour" .
 
 <ex:station_111>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         47.184491e0 ;
         geo:lng         -1.562532e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Avenue de la Vendée - Face à l'Espace Diderot" .
 
 <ex:station_21>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         47.2211433291291e0 ;
         geo:lng         -1.55647633932779e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "6, rue Talensac" .
 
 <ex:station_2>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.2185718130915e0 ;
         geo:lng         -1.55348429039295e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "29, rue de Strasbourg" .
 
 <ex:station_90>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2241950617326e0 ;
         geo:lng         -1.57661284372726e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Angle boulevard Gaston Serpette - Boulevard Auguste Pageot" .
 
 <ex:station_62>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  40 ;
         geo:lat         47.218103e0 ;
         geo:lng         -1.541751e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "" .
 
 <ex:station_34>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         47.2108869258159e0 ;
         geo:lng         -1.56174490565258e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "24, quai de la Fosse" .
 
 <ex:station_75>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         47.212308958847e0 ;
         geo:lng         -1.57136936022191e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "14 bis, rue Lamoricière - Place Beaumanoir" .
 
 <ex:station_47>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  27 ;
         geo:lat         47.206933e0 ;
         geo:lng         -1.548169e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "1, boulevard des Martyrs Nantais de la Résistance" .
 
 <ex:station_109>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         47.19426e0 ;
         geo:lng         -1.529313e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "CLOS TOREAU - BOULEVARD EMILE GABORY" .
 
 <ex:station_19>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.21985446733e0 ;
         geo:lng         -1.55892089047478e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "1, place Saint Similien" .
 
 <ex:station_88>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2115010701178e0 ;
         geo:lng         -1.57717541432178e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "1, boulevard Allard - Place Général Mellinet" .
 
 <ex:station_41>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.208905e0 ;
         geo:lng         -1.56823e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "88, quai de la Fosse" .
 
 <ex:station_103>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         47.204879e0 ;
         geo:lng         -1.569191e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "GRUE JAUNE" .
 
 <ex:station_13>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.216787949913e0 ;
         geo:lng         -1.55916106661899e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "3, rue Pierre Chereau" .
 
 <ex:station_82>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         47.2067575123084e0 ;
         geo:lng         -1.53311824492362e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "120, rue Dr Jules Sébilleau" .
 
 <ex:station_54>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  36 ;
         geo:lat         47.2131800855278e0 ;
         geo:lng         -1.54495254166858e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "2, rue de Jemmapes - 2, avenue Jean-Claude Bonduelle" .
 
 <ex:station_116>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.198124e0 ;
         geo:lng         -1.588395e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "LIBERTE - ROND POINT DE LOUISIANE" .
 
 <ex:station_26>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2168279599745e0 ;
         geo:lng         -1.56700452626517e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "30, boulevard Gabriel Guist'Hau - Rue Harouys" .
 
 <ex:station_7>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  30 ;
         geo:lat         47.2153313580104e0 ;
         geo:lng         -1.55612612597517e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "2, allée Penthièvre" .
 
 <ex:station_95>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         47.235158e0 ;
         geo:lng         -1.556322e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "MICHELET - BD MICHELET" .
 
 <ex:station_67>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         47.2277747610651e0 ;
         geo:lng         -1.55214798607222e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Place Waldeck Rousseau - Pont Général de la Motte Rouge" .
 
 <ex:station_39>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         47.2094065738737e0 ;
         geo:lng         -1.55523314463147e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "1, quai Moncousu - Pont Haudaudine" .
 
 <ex:station_110>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.185402e0 ;
         geo:lng         -1.554025e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "AUDITORIUM - 1 AVENUE DE BRETAGNE - REZE" .
 
 <ex:station_20>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.214301e0 ;
         geo:lng         -1.552782e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "7, allée du Port Maillard - Cours Franklin Roosevelt" .
 
 <ex:station_1>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  28 ;
         geo:lat         47.2202551837245e0 ;
         geo:lng         -1.55408380740881e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "6, quai Ceineray" .
 
 <ex:station_61>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2155914639598e0 ;
         geo:lng         -1.54590593911211e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "23, quai Ferdinand Favre" .
 
 <ex:station_123>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.225957e0 ;
         geo:lng         -1.522334e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "TRARIEUX - 3 PLACE GABRIEL TRARIEUX" .
 
 <ex:station_33>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2135226137199e0 ;
         geo:lng         -1.5631408744314e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "5, rue Racine" .
 
 <ex:station_74>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2143336608893e0 ;
         geo:lng         -1.57492461719297e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "8, place Canclaux" .
 
 <ex:station_108>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         47.197217e0 ;
         geo:lng         -1.532105e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "BONNE GARDE - 97 RUE BONNE GARDE" .
 
 <ex:station_46>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  26 ;
         geo:lat         47.2053240902952e0 ;
         geo:lng         -1.55518310791618e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "3, place de la République" .
 
 <ex:station_18>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  14 ;
         geo:lat         47.2214293389855e0 ;
         geo:lng         -1.56330836686976e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "23, place Viarme" .
 
 <ex:station_87>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2236048153991e0 ;
         geo:lng         -1.57137357811241e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "41, rue Alexandre Dumas - Place Anatole France" .
 
 <ex:station_59>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         47.213682e0 ;
         geo:lng         -1.540181e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "35, quai de Malakoff" .
 
 <ex:station_40>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         47.2088046424378e0 ;
         geo:lng         -1.55041191411915e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Quai Moncousu - Pont Général Audibert" .
 
 <ex:station_102>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.19316e0 ;
         geo:lng         -1.549212e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "GARE PONT ROUSSEAU - RUE DE LA GARE - REZE" .
 
 <ex:station_12>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.2151581886857e0 ;
         geo:lng         -1.56390067346586e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "1, boulevard Gabriel Guist'Hau - Place Delorme" .
 
 <ex:station_81>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  14 ;
         geo:lat         47.2009555172397e0 ;
         geo:lng         -1.54550725123162e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Devant le 8, place Mangin" .
 
 <ex:station_53>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2117363932221e0 ;
         geo:lng         -1.54988602493776e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "10, rue des Olivettes" .
 
 <ex:station_115>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  26 ;
         geo:lat         47.19525e0 ;
         geo:lng         -1.580584e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "TRENTEMOULT - EN FACE 11 QUAI MARCEL BOISSARD" .
 
 <ex:station_25>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.223508869812e0 ;
         geo:lng         -1.52995959270347e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "61, boulevard Ernest Dalby" .
 
 <ex:station_6>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         47.217596682406e0 ;
         geo:lng         -1.55693764537887e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "7, allée Duquesne" .
 
 <ex:station_94>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         47.2432639149755e0 ;
         geo:lng         -1.55634461016798e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "PETIT PORT - BD DU PETIT PORT" .
 
 <ex:station_66>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.2254298853335e0 ;
         geo:lng         -1.54799992590737e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "CHANZY - FACE AU 23 AVENUE DE CHANZY" .
 
 <ex:station_38>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  40 ;
         geo:lat         47.2121084631418e0 ;
         geo:lng         -1.55304912932047e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Place Alexis-Ricordeau - Chaussée de la Madeleine" .
 
 <ex:station_79>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.213395e0 ;
         geo:lng         -1.536954e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "15, quai de Malakoff" .
 
 <ex:station_60>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  40 ;
         geo:lat         47.219009e0 ;
         geo:lng         -1.544071e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Rue Stanislas Baudry" .
 
 <ex:station_122>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.22865e0 ;
         geo:lng         -1.526193e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "MITRIE - 5 ROUTE DE SAINTE LUCE" .
 
 <ex:station_73>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  13 ;
         geo:lat         47.2208824330189e0 ;
         geo:lng         -1.57043859807393e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "4, place Emile Sarradin" .
 
 <ex:station_107>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.219901e0 ;
         geo:lng         -1.532947e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Rue Francisco Ferrer" .
 
 <ex:station_45>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  13 ;
         geo:lat         47.2047839355992e0 ;
         geo:lng         -1.55892310936669e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "25, boulevard de la Prairie au Duc" .
 
 <ex:station_17>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  14 ;
         geo:lat         47.2192139526135e0 ;
         geo:lng         -1.56157014764171e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "4, place Sainte Elisabeth" .
 
 <ex:station_86>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         47.2254706269804e0 ;
         geo:lng         -1.56750184250227e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "Rue de Berry - Rue des Hauts Pavés" .
 
 <ex:station_58>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.208465e0 ;
         geo:lng         -1.536657e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "PALAIS DES SPORTS - 8 RUE ANDRE TARDIEU" .
 
 <ex:station_99>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         47.1958989090141e0 ;
         geo:lng         -1.5365406634647e0 ;
-        wdp:P131        <city:nantes> ;
+        wdp:P131        city:nantes ;
         wdp:P669        "ST JACQUES - RUE ST JACQUES" .

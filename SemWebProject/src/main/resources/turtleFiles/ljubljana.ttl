@@ -14,418 +14,418 @@
         ex:bike_stands  20 ;
         geo:lat         46.06005e0 ;
         geo:lng         14.51302e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Vilharjeva cesta 23" .
 
 <ex:station_52>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.052454e0 ;
         geo:lng         14.472149e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Večna pot 70" .
 
 <ex:station_24>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         46.05441e0 ;
         geo:lng         14.52978e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Zaloška cesta 16" .
 
 <ex:station_5>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.046498e0 ;
         geo:lng         14.505148e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Breg 20" .
 
 <ex:station_37>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.03784e0 ;
         geo:lng         14.50001e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "TRNOVO" .
 
 <ex:station_31>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  26 ;
         geo:lat         46.08259e0 ;
         geo:lng         14.52016e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Vojkova cesta 91" .
 
 <ex:station_44>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.064546e0 ;
         geo:lng         14.518013e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Topniška 54" .
 
 <ex:station_16>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         46.05257e0 ;
         geo:lng         14.51928e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Zaloška cesta 1" .
 
 <ex:station_57>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         46.051863e0 ;
         geo:lng         14.530349e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Grabloviceva ulica 60" .
 
 <ex:station_29>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         46.074193e0 ;
         geo:lng         14.511134e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Dunajska cesta 105" .
 
 <ex:station_10>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         46.05763e0 ;
         geo:lng         14.514264e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Masarykova cesta 14" .
 
 <ex:station_51>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.047689e0 ;
         geo:lng         14.547416e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Litijska cesta 53" .
 
 <ex:station_23>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.04081e0 ;
         geo:lng         14.49951e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Devinska ulica 1a" .
 
 <ex:station_4>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  26 ;
         geo:lat         46.052431e0 ;
         geo:lng         14.503257e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Cankarjeva cesta 1" .
 
 <ex:station_36>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.063081e0 ;
         geo:lng         14.547851e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "BTC City Atlantis" .
 
 <ex:station_49>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.054398e0 ;
         geo:lng         14.553319e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Nove Fuzine 8" .
 
 <ex:station_43>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.086761e0 ;
         geo:lng         14.514151e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Dunajska 186" .
 
 <ex:station_15>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         46.049877e0 ;
         geo:lng         14.516308e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Poljanska cesta 20c" .
 
 <ex:station_56>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.080522e0 ;
         geo:lng         14.491439e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Litostrojska cesta 53" .
 
 <ex:station_28>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         46.06942e0 ;
         geo:lng         14.51052e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Dunajska cesta 70" .
 
 <ex:station_9>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  26 ;
         geo:lat         46.057421e0 ;
         geo:lng         14.510265e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Trg OF 12" .
 
 <ex:station_50>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.054554e0 ;
         geo:lng         14.55908e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Nove Fuzine 33" .
 
 <ex:station_22>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         46.040213e0 ;
         geo:lng         14.512044e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Prule 8" .
 
 <ex:station_3>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.050388e0 ;
         geo:lng         14.504623e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Kongresni trg 3" .
 
 <ex:station_35>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.065297e0 ;
         geo:lng         14.543996e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "BTC City/Dvorana A" .
 
 <ex:station_48>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.056405e0 ;
         geo:lng         14.540901e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Kajuhova ulica 42" .
 
 <ex:station_42>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.08929e0 ;
         geo:lng         14.513751e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Dunajska 211" .
 
 <ex:station_14>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.046377e0 ;
         geo:lng         14.501256e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Zoisova cesta 2" .
 
 <ex:station_55>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.048982e0 ;
         geo:lng         14.522709e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Poljanska cesta 50" .
 
 <ex:station_27>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.065136e0 ;
         geo:lng         14.509112e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Dunajska cesta 50" .
 
 <ex:station_8>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.05682e0 ;
         geo:lng         14.50551e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Slovenska cesta 55c" .
 
 <ex:station_21>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  26 ;
         geo:lat         46.06928e0 ;
         geo:lng         14.48971e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Celovška cesta 111c" .
 
 <ex:station_2>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         46.051093e0 ;
         geo:lng         14.507186e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Pogačarjev trg 3" .
 
 <ex:station_34>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.068805e0 ;
         geo:lng         14.546257e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Citypark - Šmartinska 152 g" .
 
 <ex:station_47>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         46.053047e0 ;
         geo:lng         14.545125e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Jakčeva ulica 37" .
 
 <ex:station_19>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.05952e0 ;
         geo:lng         14.4982e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Celovška cesta 26" .
 
 <ex:station_41>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.041753e0 ;
         geo:lng         14.477016e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Tržaška 91" .
 
 <ex:station_13>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         46.047565e0 ;
         geo:lng         14.495687e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Trg MDB 9" .
 
 <ex:station_54>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.065206e0 ;
         geo:lng         14.529911e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Smartinska cesta 58" .
 
 <ex:station_26>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         46.051439e0 ;
         geo:lng         14.49273e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Škrabčeva ulica 2" .
 
 <ex:station_7>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         46.054168e0 ;
         geo:lng         14.50706e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Miklošičeva cesta 20" .
 
 <ex:station_39>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.037003e0 ;
         geo:lng         14.465229e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "P+R Dolgi most" .
 
 <ex:station_20>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  14 ;
         geo:lat         46.06342e0 ;
         geo:lng         14.494588e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Celovška cesta 69" .
 
 <ex:station_1>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.051367e0 ;
         geo:lng         14.506542e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Prešernov trg 6" .
 
 <ex:station_61>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.036284e0 ;
         geo:lng         14.522948e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Rakovnik" .
 
 <ex:station_33>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         46.087079e0 ;
         geo:lng         14.475439e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Cesta Ljubljanske brigade 33" .
 
 <ex:station_46>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.059433e0 ;
         geo:lng         14.52051e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Šmartinska cesta 28" .
 
 <ex:station_18>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.044629e0 ;
         geo:lng         14.486699e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Tržaška cesta 37" .
 
 <ex:station_59>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.063797e0 ;
         geo:lng         14.506854e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Bežigrad 11" .
 
 <ex:station_40>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         46.039641e0 ;
         geo:lng         14.472664e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Tržaška 123" .
 
 <ex:station_12>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.06361e0 ;
         geo:lng         14.51315e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Železna cesta 18" .
 
 <ex:station_53>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.053241e0 ;
         geo:lng         14.486206e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Cesta na Rožnik 1" .
 
 <ex:station_25>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         46.055801e0 ;
         geo:lng         14.534156e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Zaloška cesta 54" .
 
 <ex:station_6>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         46.045748e0 ;
         geo:lng         14.506196e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Grudnovo nabrežje 3" .
 
 <ex:station_38>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.02749e0 ;
         geo:lng         14.49958e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "P+R BARJE" .
 
 <ex:station_60>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.073264e0 ;
         geo:lng         14.485942e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Celovška 163" .
 
 <ex:station_32>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  8 ;
         geo:lat         46.033408e0 ;
         geo:lng         14.482468e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Koprska ulica 98" .
 
 <ex:station_45>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         46.062475e0 ;
         geo:lng         14.524321e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Savska cesta 1" .
 
 <ex:station_17>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         46.053144e0 ;
         geo:lng         14.513479e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Ilirska ulica 1" .
 
 <ex:station_58>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         46.074315e0 ;
         geo:lng         14.475483e0 ;
-        wdp:P131        <city:ljubljana> ;
+        wdp:P131        city:ljubljana ;
         wdp:P669        "Vodnikova cesta 187" .

@@ -14,2000 +14,2000 @@
         ex:bike_stands  20 ;
         geo:lat         43.557243695153005e0 ;
         geo:lng         1.465370657992508e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RANGUEIL / CL ROCHE" .
 
 <ex:station_210>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.586074956653995e0 ;
         geo:lng         1.483021040946601e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE 42 CHE DE LA TERRASSE" .
 
 <ex:station_181>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.610549420565e0 ;
         geo:lng         1.4795004816774e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "27 Avenue Louis PLANA" .
 
 <ex:station_160>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.573924940202886e0 ;
         geo:lng         1.451999386383253e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "21 AV DES ECOLES JULES JULIEN" .
 
 <ex:station_94>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.613829128033615e0 ;
         geo:lng         1.451479779266325e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "73 BD PIERRE SEMARD" .
 
 <ex:station_139>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.5955673906372e0 ;
         geo:lng         1.418420510391943e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "39 BIS AV DE LOMBEZ" .
 
 <ex:station_73>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         43.59628476386365e0 ;
         geo:lng         1.432075106068745e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "40 ALL CHARLES DE FITTE" .
 
 <ex:station_118>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.58817925392077e0 ;
         geo:lng         1.450764528471522e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "2 PLACE DU BUSCA" .
 
 <ex:station_52>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         43.60864745421513e0 ;
         geo:lng         1.434650096062823e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "41 BD ARMAND DUPORTAL" .
 
 <ex:station_281>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.57886e0 ;
         geo:lng         1.44649e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE ST ROCH FACE RUE ELVIRE 31000 TOULOUSE" .
 
 <ex:station_31>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.60749002329994e0 ;
         geo:lng         1.43922052825561e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "7 RUE DES SALENQUES" .
 
 <ex:station_260>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.64495e0 ;
         geo:lng         1.43379e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "Avenue duclos angle Avenue de Fronton" .
 
 <ex:station_10>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  44 ;
         geo:lat         43.6003776908545e0 ;
         geo:lng         1.44544233356215e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "15 PL ETIENNE ESQUIROL" .
 
 <ex:station_239>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.577166917623245e0 ;
         geo:lng         1.469393836823441e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE AU 127 AVENUE DE LESPINET" .
 
 <ex:station_218>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.627603587351345e0 ;
         geo:lng         1.461907953641387e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "24 BIS CHE AMOUROUX" .
 
 <ex:station_7>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.605852162177925e0 ;
         geo:lng         1.446593812218414e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "6 RUE DU REMPART VILLENEUVE" .
 
 <ex:station_189>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.581352282638655e0 ;
         geo:lng         1.425325828280708e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "44 AVENUE DE MURET" .
 
 <ex:station_168>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.626509813353074e0 ;
         geo:lng         1.458930207887618e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE CREMON" .
 
 <ex:station_147>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.61990748467363e0 ;
         geo:lng         1.428966282419491e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "96 RUE DE CHAUSSAS" .
 
 <ex:station_81>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  33 ;
         geo:lat         43.59989498759688e0 ;
         geo:lng         1.429556601823956e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "ALL CHARLES DE FITTE" .
 
 <ex:station_126>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.61689063107848e0 ;
         geo:lng         1.454339701099757e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "18 RUE BONNEFOY" .
 
 <ex:station_60>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         43.61263652233987e0 ;
         geo:lng         1.448541598385468e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "32 PL ROQUELAINE" .
 
 <ex:station_105>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.59764204883991e0 ;
         geo:lng         1.428862699237109e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "12  AV  ETIENNE  BILLIERES" .
 
 <ex:station_39>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.60583232118379e0 ;
         geo:lng         1.452939708828422e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "9 PL DE DAMLOUP" .
 
 <ex:station_268>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.60868e0 ;
         geo:lng         1.3972e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "avenue des Arènes Romaines, avant place du docteur Baylac 31000 TOULOUSE" .
 
 <ex:station_18>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.60629718770727e0 ;
         geo:lng         1.448244408330328e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "4 BD DE STRASBOURG" .
 
 <ex:station_247>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.63677495879212e0 ;
         geo:lng         1.439230135508607e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "ROUTE DE LAUNAGUET ANGLE CHEMIN AUDIBERT" .
 
 <ex:station_226>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.60419040838992e0 ;
         geo:lng         1.407211289929025e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "292 RUE DES FONTAINES" .
 
 <ex:station_205>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.58588613821349e0 ;
         geo:lng         1.47508540800772e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "58 AV DES COTTAGES" .
 
 <ex:station_197>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.60038605818475e0 ;
         geo:lng         1.464093716152017e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "6 AV LOUIS BLERIOT" .
 
 <ex:station_176>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.606790468455905e0 ;
         geo:lng         1.458008846441328e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 RUE DU GENERAL COMPANS" .
 
 <ex:station_155>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.58386908499996e0 ;
         geo:lng         1.443635078857447e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "34 BD DES RECOLLETS" .
 
 <ex:station_134>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.61894094381528e0 ;
         geo:lng         1.456658754907086e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "8 ALLEE DE L EGLISE BONNEFOY" .
 
 <ex:station_113>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.592355124495455e0 ;
         geo:lng         1.449215732146181e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE 58 RUE DUMERIL" .
 
 <ex:station_68>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         43.59265e0 ;
         geo:lng         1.44455e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 BIS ALLEE JULES GUESDE" .
 
 <ex:station_47>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  30 ;
         geo:lat         43.59546175758775e0 ;
         geo:lng         1.445531445171338e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "12 RUE DU LANGUEDOC" .
 
 <ex:station_276>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.58132e0 ;
         geo:lng         1.37975e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "chemin du Marin angle chemin du Reboul" .
 
 <ex:station_26>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.59804753924319e0 ;
         geo:lng         1.443005133993703e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "9 RUE HENRY DE GORSSE" .
 
 <ex:station_255>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         43.57705e0 ;
         geo:lng         1.44009e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "2 RUE DES MOUETTES ANGLE ALLEES SELLIER 31000 TOULOUSE" .
 
 <ex:station_234>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.628236592839514e0 ;
         geo:lng         1.451330504561275e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE LOIN 100M AVT RAYNAL" .
 
 <ex:station_213>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.60075517705335e0 ;
         geo:lng         1.467514131065815e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "129 AV DE CASTRES" .
 
 <ex:station_2>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         43.60485265221502e0 ;
         geo:lng         1.445285876671779e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "21 RUE LAFAYETTE" .
 
 <ex:station_184>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.62727712277727e0 ;
         geo:lng         1.469362217455508e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "70 CHEMIN MICHOUN" .
 
 <ex:station_163>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.581459211587536e0 ;
         geo:lng         1.462194464667426e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "115 AV ALBERT BEDOUCE" .
 
 <ex:station_142>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.58807e0 ;
         geo:lng         1.42438e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "BD DEODAT DE SEVERAC" .
 
 <ex:station_97>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         43.61243588156053e0 ;
         geo:lng         1.451476646620887e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE RAYMOND IV" .
 
 <ex:station_76>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.59849490883457e0 ;
         geo:lng         1.435181557097925e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "34 RUE DE LA REPUBLIQUE" .
 
 <ex:station_121>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.6123275226288e0 ;
         geo:lng         1.43834034521228e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "33 AV HONORE SERRES" .
 
 <ex:station_55>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.608951960496405e0 ;
         geo:lng         1.441003598726198e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "2 RUE GATIEN ARNOULT" .
 
 <ex:station_100>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.59697406705044e0 ;
         geo:lng         1.455674042776099e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "16 ALL PAUL SABATIER" .
 
 <ex:station_284>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.626276e0 ;
         geo:lng         1.477704e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "chemin du Verdon, 50m avant route d'Agde 31500 Toulouse" .
 
 <ex:station_34>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.609650036285025e0 ;
         geo:lng         1.446076879873296e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "2 PETITE RUE SAINT LAZARE" .
 
 <ex:station_263>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.58444e0 ;
         geo:lng         1.39867e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "87 AVENUE JEAN BAYLET ANGLE CHEMIN CEPIERES" .
 
 <ex:station_13>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.60621318190248e0 ;
         geo:lng         1.441331077590377e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 RUE DE L ESQUILE" .
 
 <ex:station_242>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         43.633866178151905e0 ;
         geo:lng         1.437493796200118e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE RAIMBAUD ANGLE RUE COLETTE" .
 
 <ex:station_221>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.57641895477528e0 ;
         geo:lng         1.406488768851485e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE 85 RUE VAUQUELIN" .
 
 <ex:station_200>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.57906922965151e0 ;
         geo:lng         1.483669775054849e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE 345 AV JEAN RIEUX" .
 
 <ex:station_192>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.587659413053814e0 ;
         geo:lng         1.409162125552512e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "355 route de saint-Simon" .
 
 <ex:station_171>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.640897350426606e0 ;
         geo:lng         1.466308391813157e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "191 RTE D'ALBI" .
 
 <ex:station_150>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.62593095954932e0 ;
         geo:lng         1.439870900566373e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "78 BD PIERRE ET MARIE CURIE" .
 
 <ex:station_84>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         43.60524239596951e0 ;
         geo:lng         1.432687682718845e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "19T ALL DE BRIENNE" .
 
 <ex:station_129>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         43.58588e0 ;
         geo:lng         1.4278e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "2 BD DEODAT DE SEVERAC" .
 
 <ex:station_63>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.607433487401345e0 ;
         geo:lng         1.454189017923435e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "54 RUE DES SEPT TROUBADOURS" .
 
 <ex:station_108>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.612283701347906e0 ;
         geo:lng         1.428790629053277e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "2 BD SEBASTOPOL" .
 
 <ex:station_42>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.601588174955744e0 ;
         geo:lng         1.456048100267833e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "3 BD PR LEOPOLD ESCANDE" .
 
 <ex:station_271>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.61948e0 ;
         geo:lng         1.39711e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "151 AVENUE DE CASSELARDIT SORTIE VILLE 31000 TOULOUSE" .
 
 <ex:station_21>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.60411143798555e0 ;
         geo:lng         1.450245130369442e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "63 BD LAZARE CARNOT" .
 
 <ex:station_250>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.593097534292575e0 ;
         geo:lng         1.414428635946386e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE DU 11 NOVEMBRE" .
 
 <ex:station_229>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.571433064051334e0 ;
         geo:lng         1.46278065695466e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "129 AV DE RANGUEIL" .
 
 <ex:station_208>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.59122002356995e0 ;
         geo:lng         1.480087483756261e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "ALL DE LIMAYRAC" .
 
 <ex:station_179>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.61680265241856e0 ;
         geo:lng         1.473505161008297e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "5 CH CASSAING" .
 
 <ex:station_158>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.580795461338795e0 ;
         geo:lng         1.449135738584587e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "57 AV DE L URSS" .
 
 <ex:station_92>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.61325027179293e0 ;
         geo:lng         1.441220679302088e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "31 RUE DES CHALETS" .
 
 <ex:station_137>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.60094924792523e0 ;
         geo:lng         1.420275802412521e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "47 BD JEAN BRUNHES" .
 
 <ex:station_71>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.59318934283672e0 ;
         geo:lng         1.434894328349442e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "3 RUE LAGANNE" .
 
 <ex:station_116>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.588359791103294e0 ;
         geo:lng         1.446483165667178e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "50 GRANDE RUE ST MICHEL" .
 
 <ex:station_50>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  23 ;
         geo:lat         43.594569737633854e0 ;
         geo:lng         1.440920059367141e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 AV MAURICE HAURIOU" .
 
 <ex:station_279>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.61354e0 ;
         geo:lng         1.40142e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "229 AVENUE DE CASSELARDIT CROISEMENT ESPAGNO / CASSELARDIT 31000 TOULOUSE" .
 
 <ex:station_29>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.605071904633625e0 ;
         geo:lng         1.437032051956223e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "31 RUE VALADE" .
 
 <ex:station_258>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.62957e0 ;
         geo:lng         1.47643e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "Boulevard Atlanta / Cambard" .
 
 <ex:station_237>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.56361464501064e0 ;
         geo:lng         1.479772209704475e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "AVENUE EDOUARD BELIN FACE CNRS" .
 
 <ex:station_216>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.622829380921075e0 ;
         geo:lng         1.474057401308612e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "3 RUE JEAN HOUDON" .
 
 <ex:station_5>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.61184e0 ;
         geo:lng         1.45752e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "5 RUE LEDUC" .
 
 <ex:station_187>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.584523123495174e0 ;
         geo:lng         1.415543960373121e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "187 RUE HENRI DESBALS" .
 
 <ex:station_166>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.574366149048714e0 ;
         geo:lng         1.462031097914686e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "23 RUE GUYOU" .
 
 <ex:station_145>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.61395913175851e0 ;
         geo:lng         1.424941224096277e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "29 RUE ROLAND GARROS" .
 
 <ex:station_79>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.60112880561738e0 ;
         geo:lng         1.434138106708093e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 PL LANGE" .
 
 <ex:station_124>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.61814891164924e0 ;
         geo:lng         1.436875386155235e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "27 AV DES MINIMES" .
 
 <ex:station_103>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.590605082277605e0 ;
         geo:lng         1.445174430937582e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "139 GRANDE RUE ST MICHEL" .
 
 <ex:station_58>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.6106186453129e0 ;
         geo:lng         1.443637125697445e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "4 RUE DE LA CONCORDE" .
 
 <ex:station_287>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  30 ;
         geo:lat         43.62067e0 ;
         geo:lng         1.41521e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "114 rue des Troènes 31200 TOULOUSE" .
 
 <ex:station_37>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.593506929037055e0 ;
         geo:lng         1.429880706043356e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "53 RUE STE LUCIE" .
 
 <ex:station_266>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.57375e0 ;
         geo:lng         1.41398e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "38 RUE DE LA TOURAINE ANGLE RUE D AUVERGNE 31000 TOULOUSE" .
 
 <ex:station_16>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         43.60793763027584e0 ;
         geo:lng         1.446610770547085e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "32 BD DE STRASBOURG" .
 
 <ex:station_245>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.59990824072129e0 ;
         geo:lng         1.41518438915584e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "103 BIS AVENUE DE GRANDE BRETAGNE ANGLE RUE BADIOU" .
 
 <ex:station_224>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.566595761363736e0 ;
         geo:lng         1.474881961695726e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "AVENUE EDOUARD BELIN FACE CHÂTEAU DU CREPS" .
 
 <ex:station_203>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.5834192540153e0 ;
         geo:lng         1.470077844843929e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "2 AV ANTOINE DE ST EXUPERY" .
 
 <ex:station_195>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.59723540303583e0 ;
         geo:lng         1.45907112459247e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE 15 RUE PIERRE LAROUSSE" .
 
 <ex:station_174>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.63692179179762e0 ;
         geo:lng         1.452693250180783e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "41 AV MAURICE BOURGES MAUNOURY" .
 
 <ex:station_153>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.628469420497346e0 ;
         geo:lng         1.447936286895422e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "12 AV BOURGES MAUNOURY" .
 
 <ex:station_132>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.62293779541603e0 ;
         geo:lng         1.434473692188769e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "101 AVENUES DES MINIMES" .
 
 <ex:station_87>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.609500004240715e0 ;
         geo:lng         1.432335729928681e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "47 BD LASCROSSES" .
 
 <ex:station_66>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  23 ;
         geo:lat         43.596478222107635e0 ;
         geo:lng         1.451093339873272e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "HUIT MAI 1945" .
 
 <ex:station_111>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  27 ;
         geo:lat         43.615259799224134e0 ;
         geo:lng         1.442921175845342e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "38B BD DES MINIMES" .
 
 <ex:station_45>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.596327873693475e0 ;
         geo:lng         1.447014394243565e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "10 RUE THEODORE OZENNE" .
 
 <ex:station_1033>  a    sosa:FeatureOfInterest ;
         ex:bike_stands  10 ;
         geo:lat         44.869297e0 ;
         geo:lng         0.547885e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "16 RUE BROUARDEL TOULOUSE" .
 
 <ex:station_274>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.574e0 ;
         geo:lng         1.41954e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "296 route de Seysses" .
 
 <ex:station_24>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.600398667412286e0 ;
         geo:lng         1.450179100392055e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "14 PL SAINT ETIENNE" .
 
 <ex:station_253>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.6319121122554e0 ;
         geo:lng         1.43168347755474e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "AV DES Etats-Unis FACE AU 68 / 70" .
 
 <ex:station_232>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.569437251134566e0 ;
         geo:lng         1.456086445970436e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "64 RTE DE NARBONNE" .
 
 <ex:station_211>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.58350615923425e0 ;
         geo:lng         1.48781984362323e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "9 RUE LE DORMEUR" .
 
 <ex:station_182>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.60593083247726e0 ;
         geo:lng         1.481957162051808e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "AV JEAN CHAUBET" .
 
 <ex:station_161>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.57644751100008e0 ;
         geo:lng         1.454915112024358e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "35 AV DE RANGUEIL" .
 
 <ex:station_140>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  29 ;
         geo:lat         43.59175e0 ;
         geo:lng         1.41868e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "PLACE EMILE MALE" .
 
 <ex:station_95>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.602528105503815e0 ;
         geo:lng         1.425222752953333e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "4 AVENUE DU CHÂTEAU D'EAU" .
 
 <ex:station_74>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.596660562935625e0 ;
         geo:lng         1.436175197009508e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "37 RUE LAGANNE" .
 
 <ex:station_119>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         43.609967343094006e0 ;
         geo:lng         1.419524853208122e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "129 ALL DE BRIENNE" .
 
 <ex:station_53>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.60863633636605e0 ;
         geo:lng         1.437631489341106e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "PL SAINT JULIEN" .
 
 <ex:station_282>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.60614e0 ;
         geo:lng         1.41476e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "BD RICHARD WAGNER / ANGLE A.VIVALDI 31000 TOULOUSE" .
 
 <ex:station_32>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  12 ;
         geo:lat         43.60765033417208e0 ;
         geo:lng         1.441209573825458e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "8 RUE DES TROIS RENARDS" .
 
 <ex:station_261>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.64066e0 ;
         geo:lng         1.4401e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "Devant le N°6 rue Van Dyck avant angle rue Raphael - 31000 TOULOUSE" .
 
 <ex:station_11>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  23 ;
         geo:lat         43.60215e0 ;
         geo:lng         1.44026e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "2 PL DE LA DAURADE" .
 
 <ex:station_240>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.6172496485261e0 ;
         geo:lng         1.408124460028565e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE 103 BIS ROUTE DE BLAGNAC" .
 
 <ex:station_219>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.614589794633694e0 ;
         geo:lng         1.411359591750251e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "35 RUE PUCCINI" .
 
 <ex:station_8>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.60307769477977e0 ;
         geo:lng         1.448047137954633e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "19 RUE PAUL VIDAL" .
 
 <ex:station_190>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.57827536338912e0 ;
         geo:lng         1.423916022506519e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "39 RTE D'Espagne" .
 
 <ex:station_169>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.63124672931264e0 ;
         geo:lng         1.462248097516892e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "65 RTE D'ALBI" .
 
 <ex:station_148>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.61692696530316e0 ;
         geo:lng         1.444528167445985e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "5 AV DE COLLIGNON" .
 
 <ex:station_82>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         43.605562378447424e0 ;
         geo:lng         1.427969819484834e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 AV PAUL SEJOURNE" .
 
 <ex:station_127>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.589803552331645e0 ;
         geo:lng         1.455945448109943e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 RUE BEGUE" .
 
 <ex:station_61>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  40 ;
         geo:lat         43.61071810091073e0 ;
         geo:lng         1.452455826571967e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "8T BD DE BONREPOS" .
 
 <ex:station_106>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         43.60842211156853e0 ;
         geo:lng         1.42386687477895e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "99 ALL DE BRIENNE" .
 
 <ex:station_40>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         43.604660136134775e0 ;
         geo:lng         1.453588691746783e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "41 RUE DE LA COLOMBETTE" .
 
 <ex:station_269>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.58996e0 ;
         geo:lng         1.37764e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "Place Sauvegrain - angle avenue de Lardenne" .
 
 <ex:station_19>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         43.60557592007205e0 ;
         geo:lng         1.449072022617868e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "62 BD LAZARE CARNOT" .
 
 <ex:station_248>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.64108958806659e0 ;
         geo:lng         1.449039275575635e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE DES BOUQUETINS ANGLE RUE EDMOND ROSTAND" .
 
 <ex:station_227>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.56160969546884e0 ;
         geo:lng         1.462869145576551e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "118  RTE DE NARBONNE" .
 
 <ex:station_206>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.594341505924845e0 ;
         geo:lng         1.464668419108617e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "20 AV ARMAND LEYGUE" .
 
 <ex:station_198>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.59622771557735e0 ;
         geo:lng         1.473457600659471e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE 25 CHEMIN LAFILAIRE" .
 
 <ex:station_177>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.61743867816197e0 ;
         geo:lng         1.46539185105244e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "64 RUE BAILLAUD" .
 
 <ex:station_156>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.579737115748195e0 ;
         geo:lng         1.441783289134449e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "38 AV JEAN MOULIN FACE DEBOUCHE RUE DE CANNES" .
 
 <ex:station_90>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.61146971436288e0 ;
         geo:lng         1.437871385550754e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "3B BD LASCROSSES" .
 
 <ex:station_135>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.62295e0 ;
         geo:lng         1.45872e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "183 RUE DU FB  BONNEFOY" .
 
 <ex:station_69>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.59253e0 ;
         geo:lng         1.4429e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "11 ALL PAUL FEUGA" .
 
 <ex:station_114>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.59239101222708e0 ;
         geo:lng         1.458007861390548e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "8 BD MONPLAISIR" .
 
 <ex:station_48>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  32 ;
         geo:lat         43.59474911973265e0 ;
         geo:lng         1.444132711268797e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "18 PL DU SALIN" .
 
 <ex:station_277>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.58549e0 ;
         geo:lng         1.37708e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "10/12 rue zamenhof - 31000 TOuLOUSE" .
 
 <ex:station_27>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  23 ;
         geo:lat         43.59938372814817e0 ;
         geo:lng         1.440461106405702e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "QUAI DE TOUNIS" .
 
 <ex:station_256>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.59666e0 ;
         geo:lng         1.4842e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE 175 ROUTE DE CASTRES ANGLE RUE CARCASSONNE" .
 
 <ex:station_235>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.6333722270955e0 ;
         geo:lng         1.43538536091475e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE AU 8 RUE PAUL VERLAINE" .
 
 <ex:station_214>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.600795440313355e0 ;
         geo:lng         1.473660631896838e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "48 AV DE CASTRES" .
 
 <ex:station_3>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.60333593826575e0 ;
         geo:lng         1.445569311598848e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "62 RUE DE LA POMME" .
 
 <ex:station_185>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.62704846650827e0 ;
         geo:lng         1.465517338373819e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "30 RUE ROUBICHOU" .
 
 <ex:station_164>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.579725432743686e0 ;
         geo:lng         1.460094426022393e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "AV ALBERT BEDOUCE" .
 
 <ex:station_98>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.587677990128874e0 ;
         geo:lng         1.459836309553229e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "80 ALL DES DEMOISELLES" .
 
 <ex:station_143>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.5813322052426e0 ;
         geo:lng         1.413431676051568e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "145 RUE HENRI DESBALS" .
 
 <ex:station_122>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.613472358330974e0 ;
         geo:lng         1.430120187266013e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "57 BD DE L EMBOUCHURE" .
 
 <ex:station_77>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  13 ;
         geo:lat         43.597835830061406e0 ;
         geo:lng         1.431605284631358e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "2 PL INTERIEURE ST CYPRIEN" .
 
 <ex:station_56>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.609029818757634e0 ;
         geo:lng         1.442808436675486e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 RUE MERLY" .
 
 <ex:station_101>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.59426485044087e0 ;
         geo:lng         1.456321836591291e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "5 PORT SAINT SAUVEUR" .
 
 <ex:station_285>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.629004e0 ;
         geo:lng         1.482704e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "rue saint Jean (devant métro Gramont) 31130 Balma" .
 
 <ex:station_35>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.60964e0 ;
         geo:lng         1.4469e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 RUE RAYMOND IV" .
 
 <ex:station_264>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.56507e0 ;
         geo:lng         1.41028e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "Place des Glières" .
 
 <ex:station_14>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.60735205357881e0 ;
         geo:lng         1.444269620551324e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "26 RUE DE PERIGORD" .
 
 <ex:station_243>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.632641237523e0 ;
         geo:lng         1.43180804154469e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "96 av des Etats-Unis angle rue Jules Ferry" .
 
 <ex:station_222>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.5628140764194e0 ;
         geo:lng         1.47517386253435e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "AVENUE DU COLONEL ROCHE" .
 
 <ex:station_201>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.57965532664315e0 ;
         geo:lng         1.48049587613679e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "256 AV ANTOINE DE ST EXUPERY" .
 
 <ex:station_193>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.594849382545554e0 ;
         geo:lng         1.415377349047291e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "59 AV DE LOMBEZ" .
 
 <ex:station_172>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.642833569777416e0 ;
         geo:lng         1.461191671613412e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE HENRI EBELOT" .
 
 <ex:station_151>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         43.62459108857192e0 ;
         geo:lng         1.443059611732516e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "27 BD PIERRE ET MARIE CURIE" .
 
 <ex:station_130>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.59679331319425e0 ;
         geo:lng         1.424139385785053e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "66 TER AV ETIENNE BILLIERES" .
 
 <ex:station_85>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.606708008560005e0 ;
         geo:lng         1.430598716260075e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "2 BD DU MARECHAL LECLERC" .
 
 <ex:station_64>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         43.60617263070887e0 ;
         geo:lng         1.454987798766018e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "0030 RUE GABRIEL PERI" .
 
 <ex:station_109>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.615173611788045e0 ;
         geo:lng         1.434707777421923e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 BD DE LA MARQUETTE" .
 
 <ex:station_43>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.599990271041186e0 ;
         geo:lng         1.454093824286969e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "14 PL DOMINIQUE MARTIN DUPUY" .
 
 <ex:station_272>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.63539e0 ;
         geo:lng         1.47297e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "Boulevard Atlanta / après angle rue vasseur - 31000 TOULOUSE" .
 
 <ex:station_22>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.60221990815785e0 ;
         geo:lng         1.45195665819857e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "24 BD LAZARE CARNOT" .
 
 <ex:station_251>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.614208387732e0 ;
         geo:lng         1.4616307898919e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "26 AVENUE LEON BLUM ANGLE RUE LEON JOUHAUX" .
 
 <ex:station_230>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.567221153708445e0 ;
         geo:lng         1.467678323560475e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "141 AV DE RANGUEIL" .
 
 <ex:station_209>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.589466982143435e0 ;
         geo:lng         1.478914286004687e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "4 AV LUCIEN BAROUX" .
 
 <ex:station_180>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.6122515815792e0 ;
         geo:lng         1.47765639323401e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "3 Place SOUPETARD" .
 
 <ex:station_159>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.5785038852904e0 ;
         geo:lng         1.450284083376377e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "96 AV JULES JULIEN" .
 
 <ex:station_93>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.614465544425535e0 ;
         geo:lng         1.44361404386217e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "57 RUE DU PRINTEMPS" .
 
 <ex:station_138>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.598196214598815e0 ;
         geo:lng         1.41997369298729e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "3 BD JEAN BRUNHES" .
 
 <ex:station_72>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.59504949175626e0 ;
         geo:lng         1.432688307877285e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "23 ALL CHARLES DE FITTE" .
 
 <ex:station_117>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.596852956620715e0 ;
         geo:lng         1.425882273289917e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "39 AVENUE ETIENNE BILLIERES" .
 
 <ex:station_51>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.605035688745794e0 ;
         geo:lng         1.434843235786321e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 BD ARMAND DUPORTAL" .
 
 <ex:station_280>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.57383e0 ;
         geo:lng         1.44871e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE DE LA CHARBONNIERE ANGLE RUE DES PALMIERS 31000 TOULOUSE" .
 
 <ex:station_30>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.60629527233212e0 ;
         geo:lng         1.438224999266949e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "40 PL ANATOLE FRANCE" .
 
 <ex:station_259>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.64751e0 ;
         geo:lng         1.43298e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "Place Riche / Lalande - 31000 TOULOUSE" .
 
 <ex:station_238>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.579425835630786e0 ;
         geo:lng         1.473118127213999e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "AVENUE DES HERBETTES" .
 
 <ex:station_217>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.629671600633195e0 ;
         geo:lng         1.466442513411802e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "42 CHE AMOUROUX" .
 
 <ex:station_6>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.605203861405954e0 ;
         geo:lng         1.442101445768934e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "5 RUE DES LOIS" .
 
 <ex:station_188>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.584282965328995e0 ;
         geo:lng         1.427517107421507e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "121 AVENUE DE MURET" .
 
 <ex:station_167>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.62409340165932e0 ;
         geo:lng         1.454698517821249e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE LAPUJADE ANGLE RUE DES FLANDRES" .
 
 <ex:station_146>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.6154182104443e0 ;
         geo:lng         1.4284933309335e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "57 CHEMIN DU SANG DE SERP - 31200 TOULOUSE" .
 
 <ex:station_80>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  23 ;
         geo:lat         43.59970386767416e0 ;
         geo:lng         1.429275168509917e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "89B ALL CHARLES DE FITTE" .
 
 <ex:station_125>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.6269176821576e0 ;
         geo:lng         1.434225150757254e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "BARRIÈRE DE PARIS" .
 
 <ex:station_59>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.613590372531775e0 ;
         geo:lng         1.446485498451865e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "61 RUE DE LA CONCORDE" .
 
 <ex:station_104>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.58903e0 ;
         geo:lng         1.43104e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "219 AV DE MURET" .
 
 <ex:station_288>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  36 ;
         geo:lat         43.59995e0 ;
         geo:lng         1.44289e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "28 RUE DES MARCHANDS 31000 TOULOUSE" .
 
 <ex:station_38>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  32 ;
         geo:lat         43.60754756868432e0 ;
         geo:lng         1.451651418090918e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "56 ALL JEAN JAURES" .
 
 <ex:station_267>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         43.57452e0 ;
         geo:lng         1.48278e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE GONIN ANGLE GENIN 31000 TOULOUSE" .
 
 <ex:station_17>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  23 ;
         geo:lat         43.60610692889793e0 ;
         geo:lng         1.448061825303155e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "7 BD DE STRASBOURG" .
 
 <ex:station_246>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.60390532418828e0 ;
         geo:lng         1.420141760360439e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "29 BOULEVARD RICHARD WAGNER ANG BD JEAN BRUNHES" .
 
 <ex:station_225>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.56947707206279e0 ;
         geo:lng         1.473268554354084e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "AVENUE EDOUARD BELIN DEVANT ONERA" .
 
 <ex:station_204>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.58677914294868e0 ;
         geo:lng         1.463164045792265e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "PL ROGER ARNAUD" .
 
 <ex:station_196>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.6017932127447e0 ;
         geo:lng         1.458048662941769e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "6 RUE JEAN GOUJON" .
 
 <ex:station_175>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  30 ;
         geo:lat         43.6394555737186e0 ;
         geo:lng         1.45256734914219e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "Avenue Maurice BOURGES MAUNOURY" .
 
 <ex:station_154>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.58995890864312e0 ;
         geo:lng         1.4420311550308e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE DES GALLOIS" .
 
 <ex:station_133>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.620735968782895e0 ;
         geo:lng         1.435597311467436e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "71 AV DES MINIMES" .
 
 <ex:station_88>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.610250914040755e0 ;
         geo:lng         1.435070094381549e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "17T BD LASCROSSES" .
 
 <ex:station_67>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.59468e0 ;
         geo:lng         1.44938e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "35 ALL JULES GUESDE" .
 
 <ex:station_112>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.5852668401728e0 ;
         geo:lng         1.4529365149254e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "47 ALLEE BRANLY" .
 
 <ex:station_46>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.597401475499026e0 ;
         geo:lng         1.445315649331453e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 PL DES CARMES" .
 
 <ex:station_275>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.58171e0 ;
         geo:lng         1.38887e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "Place des Pradettes / rue Arthur Huc" .
 
 <ex:station_25>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.599435045967155e0 ;
         geo:lng         1.445580732388259e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 RUE DES TOURNEURS" .
 
 <ex:station_254>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.5837e0 ;
         geo:lng         1.40644e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE DU LOT - 100M AVANT LA RUE VESTREPAIN 31400 TOULOUSE" .
 
 <ex:station_233>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.56641276350635e0 ;
         geo:lng         1.458852500499583e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "105 RTE DE NARBONNE" .
 
 <ex:station_212>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.615227374108336e0 ;
         geo:lng         1.465376125032407e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE DE LA CHAUMIERE" .
 
 <ex:station_1>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.604134687021045e0 ;
         geo:lng         1.445420780739279e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "12 RUE DU POIDS DE L'HUILE" .
 
 <ex:station_183>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.5931301810241e0 ;
         geo:lng         1.42463077628583e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE DE CUGNAUX" .
 
 <ex:station_162>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.580276538637605e0 ;
         geo:lng         1.45491780578712e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "AV D' ITALIE" .
 
 <ex:station_96>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  25 ;
         geo:lat         43.60974282737991e0 ;
         geo:lng         1.455204795385279e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "50 RUE DU GENERAL COMPANS" .
 
 <ex:station_141>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.587583195522946e0 ;
         geo:lng         1.418128481713567e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "237 RUE HENRI DESBALS" .
 
 <ex:station_75>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         43.598542607102175e0 ;
         geo:lng         1.436590757220506e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "12 PL LAGANNE" .
 
 <ex:station_120>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.61035351524297e0 ;
         geo:lng         1.420545407442975e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "152 ALL DE BARCELONE" .
 
 <ex:station_54>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.60842033750804e0 ;
         geo:lng         1.439762556768512e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "10 RUE DE LA CHAINE" .
 
 <ex:station_33>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.608568713084686e0 ;
         geo:lng         1.443570238387108e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "11 RUE HENRI BERALDI" .
 
 <ex:station_262>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.64265e0 ;
         geo:lng         1.45632e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "Devant N°26 Chemin de Borderouge" .
 
 <ex:station_12>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  11 ;
         geo:lat         43.60459e0 ;
         geo:lng         1.44002e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "66 RUE PARGAMINIERES" .
 
 <ex:station_241>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.574576545136445e0 ;
         geo:lng         1.424432564672875e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "57 Route D'Espagne" .
 
 <ex:station_220>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.574612132702526e0 ;
         geo:lng         1.40230245215212e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "3 RUE DE L'UNIVERSITE" .
 
 <ex:station_9>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.5959827340129e0 ;
         geo:lng         1.41021417917972e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "rue ROQUEMAUREL ANGLE RUE ELLA MAILLART" .
 
 <ex:station_191>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.58998499389323e0 ;
         geo:lng         1.415183785619737e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "395 ROUTE DE SAINT SIMON" .
 
 <ex:station_170>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.635666512128225e0 ;
         geo:lng         1.464148138450798e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE 163 CHEMIN NICOLE" .
 
 <ex:station_149>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.615368584913504e0 ;
         geo:lng         1.448486709552681e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "CH DU RAISIN" .
 
 <ex:station_83>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.6055917312578e0 ;
         geo:lng         1.428253851896989e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "2 AV PAUL SEJOURNE" .
 
 <ex:station_128>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  23 ;
         geo:lat         43.58589564207925e0 ;
         geo:lng         1.447411881616044e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "18 B GRANDE RUE ST MICHEL" .
 
 <ex:station_62>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  24 ;
         geo:lat         43.609044644058145e0 ;
         geo:lng         1.45336004007864e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "71 ALL JEAN JAURES" .
 
 <ex:station_107>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  27 ;
         geo:lat         43.609753361824794e0 ;
         geo:lng         1.430389555237135e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 RUE DE SEBASTOPOL" .
 
 <ex:station_41>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         43.60265364232074e0 ;
         geo:lng         1.454436078796189e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 RUE CHARLES CAMICHEL" .
 
 <ex:station_270>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         43.62413e0 ;
         geo:lng         1.42778e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "Rue Jules Verne angle Boulevard Silvio Trentin - 31000 TOULOUSE" .
 
 <ex:station_20>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  27 ;
         geo:lat         43.604717604204446e0 ;
         geo:lng         1.449629619920856e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "69 BD LAZARE CARNOT" .
 
 <ex:station_249>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.63812899582609e0 ;
         geo:lng         1.46521198710394e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "147 RTE D'ALBI" .
 
 <ex:station_228>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.567716505871594e0 ;
         geo:lng         1.464456852027628e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE 35 CHEMIN DES MARAICHERS" .
 
 <ex:station_207>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.58300698375498e0 ;
         geo:lng         1.481508972569192e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE 25 RUE DE L AUDE" .
 
 <ex:station_199>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.591528310013615e0 ;
         geo:lng         1.470276283956405e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "4 BD DELTOUR" .
 
 <ex:station_178>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.619281402937425e0 ;
         geo:lng         1.468753766918999e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "AVENUE YVES BRUNAUD" .
 
 <ex:station_157>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.582831686768735e0 ;
         geo:lng         1.448634234326797e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "16 AV DE L'U.R.S.S" .
 
 <ex:station_91>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  21 ;
         geo:lat         43.611584087589904e0 ;
         geo:lng         1.439737579879722e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "48 BD D ARCOLE" .
 
 <ex:station_136>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.602050919601446e0 ;
         geo:lng         1.414531359571464e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE DES FONTAINES" .
 
 <ex:station_70>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.59253e0 ;
         geo:lng         1.43421e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "5 PLACE DU FER A CHEVAL" .
 
 <ex:station_115>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.590622011025665e0 ;
         geo:lng         1.453805825078145e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "8 ALL DES DEMOISELLES" .
 
 <ex:station_49>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         43.599589544431005e0 ;
         geo:lng         1.441434965295236e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "52 RUE DES COUTELIERS" .
 
 <ex:station_278>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.6142e0 ;
         geo:lng         1.39709e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "AVENUE DES ARENES ROMAINES / GUY ESPAGNO DANS ROND POINT 31000 TOULOUSE" .
 
 <ex:station_28>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.6034370674356e0 ;
         geo:lng         1.43608066156889e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "6 place saint pierre" .
 
 <ex:station_257>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         43.60086e0 ;
         geo:lng         1.48346e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "CHEMIN DU CHATEAU DE L'HERS ANGLE CHEMIN FONTANELLES 31000 TOULOUSE" .
 
 <ex:station_236>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.59729443895585e0 ;
         geo:lng         1.403872948950036e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "RUE DE L'ABBE JULES LEMIRE" .
 
 <ex:station_215>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.623814424096544e0 ;
         geo:lng         1.475849028782433e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "FACE 8 RUE DE GAILLAC" .
 
 <ex:station_4>  a       sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.60233609279122e0 ;
         geo:lng         1.442047437838665e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "15 RUE SAINTE URSULE" .
 
 <ex:station_186>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.5792182218804e0 ;
         geo:lng         1.41112908179427e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 IMPASSE BACHAGA BOUALAM" .
 
 <ex:station_165>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.57686792022356e0 ;
         geo:lng         1.460187742067113e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "33 AVENUE DES AVIONS" .
 
 <ex:station_99>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  16 ;
         geo:lat         43.60082502483391e0 ;
         geo:lng         1.450654849861206e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "7 RUE DU REMPART ST ETIENNE" .
 
 <ex:station_144>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.61606217398145e0 ;
         geo:lng         1.421715694303944e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "62 BD DE SUISSE" .
 
 <ex:station_78>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.59812186858788e0 ;
         geo:lng         1.431415230750123e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "14 PL INTERIEURE ST CYPRIEN" .
 
 <ex:station_123>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  23 ;
         geo:lat         43.61492465117555e0 ;
         geo:lng         1.43288072066524e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 RUE DE CHAUSSAS" .
 
 <ex:station_57>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  15 ;
         geo:lat         43.610488427425665e0 ;
         geo:lng         1.4431072280246e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "15 RUE MERLY" .
 
 <ex:station_102>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.593599912488976e0 ;
         geo:lng         1.453042492588597e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "18 ALLEE FREDERIC MISTRAL" .
 
 <ex:station_36>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.609623167283914e0 ;
         geo:lng         1.449367822982907e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "5 PL ROBERT SCHUMAN" .
 
 <ex:station_265>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.56793e0 ;
         geo:lng         1.41325e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "Face N°251 route de Seysses" .
 
 <ex:station_15>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.59642e0 ;
         geo:lng         1.4565e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "face au 20 port st sauveur" .
 
 <ex:station_244>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.635706776069696e0 ;
         geo:lng         1.443751822397876e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "93 RUE ERNEST RENAN ANGLE RUE VITRY" .
 
 <ex:station_223>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.565104300575406e0 ;
         geo:lng         1.478340741030179e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "AVENUE EDOUARD BELIN ANGLE AV ROCHE" .
 
 <ex:station_202>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  17 ;
         geo:lat         43.58166894906154e0 ;
         geo:lng         1.476002176599847e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "165 AV ANTOINE DE ST EXUPERY" .
 
 <ex:station_194>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.594206765269206e0 ;
         geo:lng         1.410651114174017e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "138 AV DE LOMBEZ" .
 
 <ex:station_173>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.6331828272491e0 ;
         geo:lng         1.450535969934731e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "25 AV MAURICE BOURGES MAUNOURY" .
 
 <ex:station_152>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.624183134252704e0 ;
         geo:lng         1.438302180907754e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "10 AV DES MAZADES" .
 
 <ex:station_86>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         43.60802027853654e0 ;
         geo:lng         1.428450231443648e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "23 RUE DU BEARNAIS" .
 
 <ex:station_131>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  19 ;
         geo:lat         43.61174111564092e0 ;
         geo:lng         1.414597471267562e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "15 RUE PAUL BERNIES" .
 
 <ex:station_110>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.61375517689823e0 ;
         geo:lng         1.438157046235524e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "16 RUE ALEXANDRE CABANEL" .
 
 <ex:station_65>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  27 ;
         geo:lat         43.597074846780274e0 ;
         geo:lng         1.452605307400692e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "2 ALL FORAIN FRANCOIS VERDIER" .
 
 <ex:station_44>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  22 ;
         geo:lat         43.59800264157314e0 ;
         geo:lng         1.45174992410964e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "1 ALL FORAIN FRANCOIS VERDIER" .
 
 <ex:station_273>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.5792e0 ;
         geo:lng         1.39262e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "ROND POINT DES IZARD ANGLEPASSERIEU ET ROUTE ST SIMON" .
 
 <ex:station_23>  a      sosa:FeatureOfInterest ;
         ex:bike_stands  26 ;
         geo:lat         43.60128593726337e0 ;
         geo:lng         1.452057713684133e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "6 BD LAZARE CARNOT" .
 
 <ex:station_252>  a     sosa:FeatureOfInterest ;
         ex:bike_stands  18 ;
         geo:lat         43.62687e0 ;
         geo:lng         1.44404e0 ;
-        wdp:P131        <city:toulouse> ;
+        wdp:P131        city:toulouse ;
         wdp:P669        "161/163 AV DE NEGRENEYS SUR ILOT CENTRAL" .
