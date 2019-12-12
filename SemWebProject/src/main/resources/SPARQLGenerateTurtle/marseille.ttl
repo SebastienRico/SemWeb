@@ -1,0 +1,830 @@
+
+@base          <http://example.org/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
+@prefix ex:    <http://example.org/> .
+@prefix city:  <http://fr.dbpedia.org/page/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ite:   <http://w3id.org/sparql-generate/iter/> .
+@prefix sosa:  <http://www.w3.org/ns/sosa/> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<ex:station_2323>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         43.30598895681527e0 ;
+        geo:lng         5.37224035119238e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "FORBIN PARIS - RUE DE FORBIN ANGLE BOULEVARD DE PARIS" .
+
+<ex:station_1130>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.30123319837804e0 ;
+        geo:lng         5.387773261785004e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "NATIONAL LONGCHAMP - 1 BD NATIONAL ANGLE LONGCHAMP" .
+
+<ex:station_2031>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.301965e0 ;
+        geo:lng         5.366478e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "32 Avenue Robert Schuman" .
+
+<ex:station_1297>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         43.293485736186526e0 ;
+        geo:lng         5.378423799723321e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "ST FERREOL DAVSO - RUE FRANCIS DAVSO ANGLE RUE SAINT FERREOL" .
+
+<ex:station_1002>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  32 ;
+        geo:lat         43.2961387765145e0 ;
+        geo:lng         5.3707713851323e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "HOTEL DE VILLE - Face au 42 QUAI DU PORT" .
+
+<ex:station_3228>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         43.313486e0 ;
+        geo:lng         5.367227e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "Boulevard Mirabeau angle Rue Jean Gaspard Vence" .
+
+<ex:station_4342>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.305993453766845e0 ;
+        geo:lng         5.393678259953781e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "FLAMMARION MONTRICHET - PLACE LE VERRIER ANGLE BD FLAMMARION ET  BD MONTRICHET" .
+
+<ex:station_6254>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.28892000857008e0 ;
+        geo:lng         5.383105742132375e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "ROME ITALIE BERLIOZ - FACE AU 10 RUE BERLIOZ" .
+
+<ex:station_6100>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  9 ;
+        geo:lat         43.289985879061746e0 ;
+        geo:lng         5.379124641857261e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PAUL PEYTRAL - 35 BOULEVARD PAUL PEYTRAL" .
+
+<ex:station_3322>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.3123370339008e0 ;
+        geo:lng         5.3687418043728e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "32 rue de Chanterac 13003 Marseille" .
+
+<ex:station_8053>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         43.27974214607358e0 ;
+        geo:lng         5.387431047255536e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PRADO PERIER - 127 AVENUE DU PRADO" .
+
+<ex:station_6113>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.2886166717576e0 ;
+        geo:lng         5.387779642713593e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "LODI VILLAGE - FACE AU 89 RUE DE LODI" .
+
+<ex:station_7146>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.29224532184672e0 ;
+        geo:lng         5.360224853219125e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "LIVON VIEUX PORT - 36 BOULEVARD CHARLES LIVON" .
+
+<ex:station_6154>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  8 ;
+        geo:lat         43.290329770206334e0 ;
+        geo:lng         5.375548341850035e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PIERRE PUGET BRETEUIL - COURS PIERRE PUGET ANGLE RUE BRETEUIL" .
+
+<ex:station_8066>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         43.260217853801166e0 ;
+        geo:lng         5.37544360265886e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "MENDES FRANCE HUVEAUNE - AVENUE PEIRRE MENDES FRANCE DEVANT L'ENTREE DU PARC BORELY" .
+
+<ex:station_7212>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.291634709693945e0 ;
+        geo:lng         5.371370384862697e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "SAINTE NOTRE DAME - 70 RUE SAINTE ANGLE RUE FORT NOTRE DAME" .
+
+<ex:station_1301>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         43.301510278747365e0 ;
+        geo:lng         5.379895702048497e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "SAINT CHARLES MARSEILLAISES - PLACE DES MARSEILLAISES ANGLE RUE PHILIPPE DE GIRARD" .
+
+<ex:station_8132>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.26469407213291e0 ;
+        geo:lng         5.373281108125947e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PROMENADE POMPIDOU AMIRAL MUSELIER - PROMENADE GEORGES POMPIDOU DEVANT LA PLACE AMIRAL MUSELIER" .
+
+<ex:station_8145>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.25505597847173e0 ;
+        geo:lng         5.376413023650641e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "ESCALE BORELY - ANGLE ESCALE BORELY ET AVENUE BONNEVEINE" .
+
+<ex:station_7153>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.28946760889984e0 ;
+        geo:lng         5.36370990786361e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "CORSE SAINT MAURICE - 28 AVENUE DE LA CORSE ANGLE RAMPE SAINT MAURICE" .
+
+<ex:station_8309>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         43.27654702249427e0 ;
+        geo:lng         5.388799649683594e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PRADO DUVEEN - 72 AVENUE DU PRADO" .
+
+<ex:station_2184>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  9 ;
+        geo:lat         43.30056201196652e0 ;
+        geo:lng         5.370488134608402e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "REPUBLIQUE CATHALA - RUE DE LA REPUBLIQUE ANGLE RUE JEAN MARC CATHALA" .
+
+<ex:station_2030>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  5 ;
+        geo:lat         43.30255028371949e0 ;
+        geo:lng         5.369497428189588e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "RPUBLIQUE DAMES - 68 BOULEVARD DES DAMES" .
+
+<ex:station_7138>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.28250633472905e0 ;
+        geo:lng         5.350628425025786e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "CORNICHE ENDOUME - 126 CORNICHE J.F. KENNEDY" .
+
+<ex:station_6020>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.29076433240633e0 ;
+        geo:lng         5.372259932395231e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PLACE CORDERIE - AU CENTRE DE LA PLACE CORDERIE" .
+
+<ex:station_7025>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.29198908246378e0 ;
+        geo:lng         5.357823161216201e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "LIVON PASTEUR - BOULEVARD CHARLES LIVON ANGLE ESPLANADE DU PHARO" .
+
+<ex:station_8265>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.269318556371154e0 ;
+        geo:lng         5.389387542314263e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "NEGRESKO PAULET - FACE AU 42 RUE NEGRESKO" .
+
+<ex:station_6187>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.28292930261343e0 ;
+        geo:lng         5.39109605124139e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "DELPUECH CORINTHE - 29 BOULEVARD DELPUECH" .
+
+<ex:station_2222>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.30143187524121e0 ;
+        geo:lng         5.392179383331833e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "151 LIBERATION - 151 BOULEVARD DE LA LIBERATION" .
+
+<ex:station_5220>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.29899195650368e0 ;
+        geo:lng         5.388799115293999e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "ROOSEVELT ORAN - 53 COURS FRANKLIN ROOSEVELT ANGLE RUE D'ORAN" .
+
+<ex:station_6253>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         43.290022e0 ;
+        geo:lng         5.381324e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "angle rue de rome rue sylvabelle" .
+
+<ex:station_3321>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.30958891338201e0 ;
+        geo:lng         5.39024943158741e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "BELLE DE MAI FRICHE - ANGLE RUE GUIBAL ET RUE JOBIN" .
+
+<ex:station_9085>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         43.2693522531282e0 ;
+        geo:lng         5.402740962235228e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "SCHLOESSING TEISSERE - ANGLE BOULEVARD SCHLOESSING ET RUE RAYMOND TEISSERE" .
+
+<ex:station_1275>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  7 ;
+        geo:lat         43.29562159175117e0 ;
+        geo:lng         5.382390401095631e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "JULIEN 3 MAGES - COURS JULIEN ANGLE RUE DES TROIS MAGES" .
+
+<ex:station_8093>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.249867874570256e0 ;
+        geo:lng         5.389411648303773e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "HAMBOURG RONT POINT GUERRE - BOULEVARD DE HAMBOURG ANGLE ROND POINT PIERRE GUERRE" .
+
+<ex:station_8065>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.267272515671856e0 ;
+        geo:lng         5.372088524255505e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PROMENADE POMPIDOU PALM BEACH - 6 PROMENADE GEORGES POMPIDOU" .
+
+<ex:station_2327>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.304190155898155e0 ;
+        geo:lng         5.367786407891749e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "REPUBLIQUE PLUMIER - RUE DE LA REPUBLIQUE ANGLE RUE PLUMIER" .
+
+<ex:station_8078>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.24789994774334e0 ;
+        geo:lng         5.374447484757423e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "VIEILLE CHAPELLE - 35 AVENUE DE LA POINTE ROUGE" .
+
+<ex:station_8131>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.26178202177259e0 ;
+        geo:lng         5.374505152575336e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PROMENADE POMPIDOU DAVID -  PROMENADE GEORGES POMPIDOU AU NIVEAU DU ROND POINT DE DAVID" .
+
+<ex:station_8257>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.27524269246836e0 ;
+        geo:lng         5.396409806138883e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "RABATAU TEISSEIRE - ANGLE BOULEVARD RABATAU ET FACE AU 68 RUE RAYMOND TEISSEIRE" .
+
+<ex:station_8310>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         43.281484e0 ;
+        geo:lng         5.391515e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "Avenue Jules Cantini croisement Rue Louis Rège sur parvis" .
+
+<ex:station_8144>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.25394372546869e0 ;
+        geo:lng         5.37599738915791e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "ESCALE BORELY POINTE ROUGE - ESCALE BORELY EN DIRECTION DE L'AVENUE POINTE ROUGE" .
+
+<ex:station_1213>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.291357465205536e0 ;
+        geo:lng         5.373546945382951e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "GRIGNAN MARCELLE PAUL - RUE GRIGNAN ANGLE RUE DE LA PAIX MARCELLE PAUL" .
+
+<ex:station_1006>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         43.29336790915692e0 ;
+        geo:lng         5.374638177288532e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "COURS JEAN BALLARD - 5 COURS JEAN BALLARD" .
+
+<ex:station_6217>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.2896832563691e0 ;
+        geo:lng         5.379650236474981e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "ROSTAND PREFECTURE - 6 RUE EDMOND ROSTAND ANGLE RUE SYLVABELLE" .
+
+<ex:station_6160>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         43.28683835122117e0 ;
+        geo:lng         5.379450180172236e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "153 PARADIS - 153 RUE PARADIS" .
+
+<ex:station_8308>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.274352269730755e0 ;
+        geo:lng         5.390405906592448e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PRADO LATIL - 247 AVENUE DU PRADO" .
+
+<ex:station_2221>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.30050650960441e0 ;
+        geo:lng         5.389298285180646e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "91 LIBERATION - 91 BOULEVARD DE LA LIBERATION" .
+
+<ex:station_3320>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.31181964585524e0 ;
+        geo:lng         5.387375678428276e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "BELLE DE MAI CADENAT - PLACE BERNARD CADENAT" .
+
+<ex:station_1346>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  8 ;
+        geo:lat         43.296824934966864e0 ;
+        geo:lng         5.373860886192452e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "REPUBLIQUE COUTELLERIE - RUE DE LA REPUBLIQUE ANGLE RUE DE LA COUTELLERIE" .
+
+<ex:station_2341>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.3047137105911e0 ;
+        geo:lng         5.36771555892562e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "JOLIETTE FORBIN - PLACE DE LA JOLIETTE ANGLE RUE DE FORBIN" .
+
+<ex:station_8149>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         43.25402727813068e0 ;
+        geo:lng         5.401873594694653e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "391 MICHELET - 391 BOULEVARD MICHELET" .
+
+<ex:station_8202>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         43.26869900851042e0 ;
+        geo:lng         5.385552216536626e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "397 PRADO - 397 AVENUE DU PRADO" .
+
+<ex:station_1287>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         43.29952097558015e0 ;
+        geo:lng         5.385047448641554e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "STALINGRAD REFORMES - SQUARE STALINGRAD" .
+
+<ex:station_9207>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.27252367086013e0 ;
+        geo:lng         5.399686062414487e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "TEISSEIRE ROUBAUD - ANGLE RUE RAYMOND TEISSEIRE ET RUE MAGUY ROUBAUD" .
+
+<ex:station_2200>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         43.2984594666424e0 ;
+        geo:lng         5.36291062831879e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "Bd du Littoral, 100 m avant le Mucem, devant l’entrée du parking Vieux Port Fort St Jean, direction vieux port" .
+
+<ex:station_5104>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.295363145406e0 ;
+        geo:lng         5.390871390171412e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "CHAVE EUGENE PIERRE - BOULEVARD CHAVE ANGLE BOULEVARD EUGENE PIERRE" .
+
+<ex:station_4238>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         43.302008143688155e0 ;
+        geo:lng         5.394684906357751e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "LIBERATION CHAPE ESPERANDIEU - BOULAVARD LIBERATION ANGLE RUE CHAPE" .
+
+<ex:station_7349>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         43.292601e0 ;
+        geo:lng         5.368569e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "28 Quai de Rive Neuve - angle rue Plan Fourmiguier" .
+
+<ex:station_5060>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         43.29570956843267e0 ;
+        geo:lng         5.399877070301781e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "SAKAKINI CHAVE - 236 BOULEVARD CHAVE EN DIRECTION DE SAKAKINI" .
+
+<ex:station_7151>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         43.290716834278136e0 ;
+        geo:lng         5.359258014511654e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PASTEUR - 25 AVENUE PASTEUR" .
+
+<ex:station_5280>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         43.29581102315005e0 ;
+        geo:lng         5.396312199117862e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "CHAVE CAMAS - BOULEVARD CHAVE ANGLE RUE DU CAMAS" .
+
+<ex:station_8307>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.2722414899425e0 ;
+        geo:lng         5.39166970262158e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "Parvis entrée parc Chanot" .
+
+<ex:station_7064>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         43.27370831724611e0 ;
+        geo:lng         5.362608275091751e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "CORNICHE LE PROPHETE - 327 CORNICHE J.F KENNEDY FACE A LA PLAGE DU PROPHETE EN DIRECTION DU VIEUX PORT" .
+
+<ex:station_7215>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         43.28923675488644e0 ;
+        geo:lng         5.366479730277853e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "ENDOUME CORDERIE - 41 RUE D'ENDOUME" .
+
+<ex:station_1345>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         43.30380276644441e0 ;
+        geo:lng         5.377690136115547e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "SAINT CHARLES LECLERC ZATTARA - AVENUE DU GENERAL LECLERC ANGLE RUE ANTOINE ZATTARA" .
+
+<ex:station_5024>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  7 ;
+        geo:lat         43.287814455889425e0 ;
+        geo:lng         5.391331392803749e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "BAILLE PAURIOL - 114 BOULEVARD BAILLE ANGLE RUE PAURIOL" .
+
+<ex:station_6208>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.28350144850817e0 ;
+        geo:lng         5.386461522334788e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "ROUET - 48 RUE DU ROUET" .
+
+<ex:station_1245>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.29902793826475e0 ;
+        geo:lng         5.381500046726694e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "GAMBETTA LAFAYETTE - 6 ALLEES LEON GAMBETTA" .
+
+<ex:station_8270>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.274742e0 ;
+        geo:lng         5.394318e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "43 boulevard Rabatau" .
+
+<ex:station_1299>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         43.30236655745069e0 ;
+        geo:lng         5.383955032544848e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "SAINT CHARLES VOLTAIRE LIBERTE - BOULEVARD VOLTAIRE ANGLE BOULEVARD DE LA LIBERTE" .
+
+<ex:station_5103>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.29748821146523e0 ;
+        geo:lng         5.397731278573822e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "RUE GEORGES - 28 RUE GEORGES" .
+
+<ex:station_4293>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         43.29626340517055e0 ;
+        geo:lng         5.406000803377506e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "BLANCARDE - GARE DE LA BLANCARDE" .
+
+<ex:station_2240>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  9 ;
+        geo:lat         43.301805741199246e0 ;
+        geo:lng         5.372302255725486e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "DAMES TERRAS - BOULEVARD DES DAMES ANGLE RUE DU TERRAS" .
+
+<ex:station_8255>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.26954179693142e0 ;
+        geo:lng         5.386273779435491e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PRADO PARADIS - 390 AVENUE DU PRADO" .
+
+<ex:station_4111>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.301185515493664e0 ;
+        geo:lng         5.398630311705657e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "FOCH FAYOLLE - ANGLE AVENUE MARECHAL FOCH ET RUE MARECHAL FAYOLLE" .
+
+<ex:station_9219>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.268405140653144e0 ;
+        geo:lng         5.400635371105712e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PUGETTE ANDRE - ANGLE AVENUE DU GENERAL ANDRE FACE AU 23 BOULEVARD DE LA PUGETTE" .
+
+<ex:station_6177>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         43.2865946021474e0 ;
+        geo:lng         5.38678589001619e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "BAILLE FRIEDLAND - BOULEVARD BAILLE ANGLE RUE DE FRIEDLAND" .
+
+<ex:station_6023>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.2860463621229e0 ;
+        geo:lng         5.3832855751021e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "CASTELLANE - ROND POINT CASTELLANE DEVANT LE CAFE DE PARIS" .
+
+<ex:station_2279>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         43.308731e0 ;
+        geo:lng         5.36651e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "SOUS A55 AU BOUT DES DOCKS FACE AU 22 QUAI DU LAZARET 13002" .
+
+<ex:station_2304>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.30179774806541e0 ;
+        geo:lng         5.369716218117023e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "REPUBLIQUE MOISSON - RUE DE LA REPUBLIQUE ANGLE RUE FRANCOIS MOISSON" .
+
+<ex:station_8290>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         43.243802055963265e0 ;
+        geo:lng         5.370540756635374e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "POINTE ROUGE MONTREDON - ANGLE AVENUE ODESSA ET AVENUE MONTREDON" .
+
+<ex:station_8262>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         43.263999455764186e0 ;
+        geo:lng         5.392402358314715e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "MAZARGUES BARRAL - ANGLE AVENUE DE MAZARGUES ET BOULEVARD BARRAL" .
+
+<ex:station_8068>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  9 ;
+        geo:lat         43.262455920908494e0 ;
+        geo:lng         5.375795816171145e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PRADO BORELY - 579 AVENUE DU PRADO" .
+
+<ex:station_2179>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.295414354264665e0 ;
+        geo:lng         5.36552550703358e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "QUAI DU PORT - 148 QUAI DU PORT" .
+
+<ex:station_6348>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         43.290978e0 ;
+        geo:lng         5.381342e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "3 Boulevard Louis Salvator angle rue d'Italie" .
+
+<ex:station_1344>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  7 ;
+        geo:lat         43.30353946127941e0 ;
+        geo:lng         5.386356771062651e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "FLAMMARION NATIONAL - BOULEVARD CAMILLE FLAMMARION ANGLE BOULEVARD NATIONAL" .
+
+<ex:station_1316>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.304244359587024e0 ;
+        geo:lng         5.378292250179226e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "SAINT CHARLES FACULTE - BOULEVARD GUSTAVE DESPLACES ANGLE AVENUE DU GENERAL LECLERC" .
+
+<ex:station_8134>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         43.27278734452526e0 ;
+        geo:lng         5.391048744484495e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "ROND POINT DU PRADO - 300 AVENUE DU PRADO" .
+
+<ex:station_8313>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.23984252335505e0 ;
+        geo:lng         5.366506599649465e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PARC PASTRE - ANGLE AVENUE DE MONTREDON ET AVENUE D'OUTRE MER" .
+
+<ex:station_7142>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.270172262619184e0 ;
+        geo:lng         5.365239906973955e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "CORNICHE RAPATRIES - CORNICHE J.F. KENNEDY FACE AU MEMORIAL DES RAPATRIES EN DIRECTION DU VIEUX PORT" .
+
+<ex:station_8147>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.26796549967643e0 ;
+        geo:lng         5.393967016838425e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "MICHELET HUVEAUNE - ANGLE BOULEVARD MICHELET ET RUE JACQUES PICON" .
+
+<ex:station_5284>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         43.28936342586655e0 ;
+        geo:lng         5.39631317835792e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "BAILLE HOPITAL CONCEPTION - BOULEVARD BAILLE FACE A L'ENTREE PRINCIPALE DE L'HOPITAL DE LA CONCEPTION" .
+
+<ex:station_1216>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.292666663006464e0 ;
+        geo:lng         5.375905974276691e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "SAINTE LULLI - 17 RUE SAINTE" .
+
+<ex:station_4057>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.298680879912176e0 ;
+        geo:lng         5.397216233775408e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PLACE SEBASTOPOL - 20 PLACE SEBASTOPOL" .
+
+<ex:station_2032>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         43.30331167287617e0 ;
+        geo:lng         5.366730359523051e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "DAMES SCHUMANN - 96 BOULEVARD DES DAMES" .
+
+<ex:station_6176>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         43.284775983612235e0 ;
+        geo:lng         5.385593763617925e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "CANTINI ROUET - FACE AU 27 AVENUE JULES CANTINI" .
+
+<ex:station_9259>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.24759828978683e0 ;
+        geo:lng         5.397126739923842e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "LANCIER MARTHELINE - ANGLE CHEMIN DU LANCIER ET AVENUE DE LA  MARTHELINE" .
+
+<ex:station_7027>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         43.2884327278463e0 ;
+        geo:lng         5.3586207351308e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "2 RUE CAPITAINE DESSEMOND" .
+
+<ex:station_1003>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.29312239728256e0 ;
+        geo:lng         5.371867606488009e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PLACE AUX HUILES - COURS ESTIENNE D'ORVES ANGLE RUE SAINT SAENS" .
+
+<ex:station_1210>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         43.2954212560858e0 ;
+        geo:lng         5.37516544677113e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "BEAUVAU CANEBIERE - RUE BEAUVAU" .
+
+<ex:station_9074>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         43.25850879475187e0 ;
+        geo:lng         5.398913930872658e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "MICHELET LUCE - ANGLE BOULEVARD MICHELET ET BOULEVARD LUCE" .
+
+<ex:station_1264>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.29789631329341e0 ;
+        geo:lng         5.381132215559973e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "CANEBIERE DUGOMMIER - LA CANEBIERE ANGLE BOULEVARD DUGOMMIER" .
+
+<ex:station_913>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         43.240392e0 ;
+        geo:lng         5.362533e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "36 Promenade du grand large 13008" .
+
+<ex:station_6114>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.292604598053984e0 ;
+        geo:lng         5.384138435260716e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "JULIEN BARTHELEMY - 9 RUE 3 FRERES BARTHELEMY" .
+
+<ex:station_8261>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.260699609117914e0 ;
+        geo:lng         5.393973899334583e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "318 MAZARGUES - FACE AU 318 AVENUE DE MAZARGUES" .
+
+<ex:station_9087>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         43.250903869637334e0 ;
+        geo:lng         5.403244616491982e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "MAZARGUES - ROND POINT DE MAZARGUES (OBELISQUE)" .
+
+<ex:station_7062>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.284213979400505e0 ;
+        geo:lng         5.349696475467313e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "88 CORNICHE KENNEDY - 88 CORNICHE J.F. KENNEDY" .
+
+<ex:station_8067>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.2668438148239e0 ;
+        geo:lng         5.38279581908046e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PRADO GABES - AVENUE DU PRADO ANGLE BD DE GABES" .
+
+<ex:station_1302>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  11 ;
+        geo:lat         43.29924603474944e0 ;
+        geo:lng         5.374740047327954e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "COLBERT SAINTE BARBE - RUE COLBERT ANGLE RUE SAINTE BARBE" .
+
+<ex:station_8246>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.275618147775035e0 ;
+        geo:lng         5.384455147739253e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "PARADIS LORD DUVEEN - 395 RUE PARADIS" .
+
+<ex:station_5107>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         43.28872669088929e0 ;
+        geo:lng         5.39403885378465e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "BAILLE CONCEPTION  - 145 BOULEVARD BAILLE" .
+
+<ex:station_1343>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.3046818705083e0 ;
+        geo:lng         5.3901483781149e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "FLAMMARION GROBET - BOULEVARD CAMILLE FLAMMARION ANGLE RUE LOUIS GROBET" .
+
+<ex:station_2272>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         43.3051302607768e0 ;
+        geo:lng         5.36697414687028e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "JOLIETTE DUNKERQUE - PLACE DE LA JOLIETTE ANGLE BOULEVARD DUNKERQUE" .
+
+<ex:station_1230>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         43.29908095432929e0 ;
+        geo:lng         5.38661231791721e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "ROOSEVELT REFORMES - 7 COURS FRANKLIN ROOSEVELT" .
+
+<ex:station_6206>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         43.284456097132846e0 ;
+        geo:lng         5.392112767343369e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "TOULON MENPENTI - ANGLE AVENUE DE TOULON ET RUE MENPENTI" .
+
+<ex:station_9260>  a    sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         43.25096285100345e0 ;
+        geo:lng         5.39517783172075e0 ;
+        wdp:P131        <city:marseille> ;
+        wdp:P669        "MAZARGUES ALMERAS - ANGLE AVENUE DE MAZARGUES ET IMPASSE ALMERAS" .

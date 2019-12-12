@@ -1,0 +1,1810 @@
+
+@base          <http://example.org/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
+@prefix ex:    <http://example.org/> .
+@prefix city:  <http://fr.dbpedia.org/page/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ite:   <http://w3id.org/sparql-generate/iter/> .
+@prefix sosa:  <http://www.w3.org/ns/sosa/> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<ex:station_231>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.401673546456635e0 ;
+        geo:lng         -5.942139041014662e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALCALDE LUIS URUÑUELA - Aprox. Paseo Miguel de Unamuno" .
+
+<ex:station_210>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.348061320332235e0 ;
+        geo:lng         -5.980058142587488e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PASEO DE EUROPA - Aprox. Ava de Francia" .
+
+<ex:station_181>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.41335157894307e0 ;
+        geo:lng         -5.982568189409848e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "RONDA URBANA NORTE - Aprox. C/ Doctor Fedriani" .
+
+<ex:station_160>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.387178e0 ;
+        geo:lng         -6.001376e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PASEO CRISTOBAL COLON - Aprox. Puente de Triana" .
+
+<ex:station_94>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         37.383369449862734e0 ;
+        geo:lng         -6.008294262440252e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA DEL ZURRAQUE - Aprox. C/ Doc. Jeronimo Pou" .
+
+<ex:station_139>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.375075258863696e0 ;
+        geo:lng         -5.975863125578401e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DIEGO MARTINEZ BARRIO - Aprox. Avda Gal Garcia de la Herranz" .
+
+<ex:station_73>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.38951386231434e0 ;
+        geo:lng         -5.984362789545622e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA SAN AGUSTIN - Aprox. C/ Concepción" .
+
+<ex:station_118>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.379791416292186e0 ;
+        geo:lng         -5.997107796424417e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA DE CUBA - Aprox. Puente de San Telmo" .
+
+<ex:station_52>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  37 ;
+        geo:lat         37.39422649248208e0 ;
+        geo:lng         -6.010309275759171e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DEL INCA GARCILASO - Aprox. C/ Jerónimo de Aguilar" .
+
+<ex:station_31>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         37.40054152885159e0 ;
+        geo:lng         -5.979781172277264e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE MIRAFLORES - Aprox. C/ Albaida" .
+
+<ex:station_260>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.377023215492e0 ;
+        geo:lng         -5.9470354861559e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "Aproximado Parque Amate" .
+
+<ex:station_10>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40938502560925e0 ;
+        geo:lng         -5.990766008714238e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE JOSE DIAZ - Aprox. Avda Concejal Alberto Jiménez-Becerril" .
+
+<ex:station_239>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.408691582745696e0 ;
+        geo:lng         -5.927718994548674e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE CIUDAD DE LIRIA - Aprox. Avda de Fernando" .
+
+<ex:station_218>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         37.38512441847878e0 ;
+        geo:lng         -6.003542147441712e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA DEL ALTOZANO - Aprox. C/ San Jorge" .
+
+<ex:station_7>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.4074694906696e0 ;
+        geo:lng         -6.007603350403363e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE AMÉRICO VESPUCIO - Aprox. Calle de Jacques Cousteau" .
+
+<ex:station_189>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37005341642907e0 ;
+        geo:lng         -5.959496083704879e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA HYTASA - Aprox. Nuestra Señora de los Dolores" .
+
+<ex:station_168>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         37.37505743166244e0 ;
+        geo:lng         -5.967492114476132e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA RAMÓN Y CAJAL - Aprox. Avda de la Ciudad Jardín" .
+
+<ex:station_147>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.40079553153059e0 ;
+        geo:lng         -5.975228156455095e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CARRETERA DE CARMONA - Aprox. C/ Maestro Solano" .
+
+<ex:station_81>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.387156202671285e0 ;
+        geo:lng         -5.971016767894659e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE LUIS MONTOTO - Aprox. C/ Benitos Mas y Prat" .
+
+<ex:station_126>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         37.358164858839395e0 ;
+        geo:lng         -5.986482708713183e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA REINA MERCEDES - Aprox. Facultad de Informática" .
+
+<ex:station_60>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         37.39395749631202e0 ;
+        geo:lng         -5.996899228542791e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA DE LA CONCORDIA - Aprox. C/ Teniente Borges" .
+
+<ex:station_105>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         37.358910362359936e0 ;
+        geo:lng         -5.980620151182153e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE FRANCISCO MURILLO - Aprox. C/ Manuel Siurot" .
+
+<ex:station_39>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.397840022304365e0 ;
+        geo:lng         -5.998504686877961e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA SAN ANTONIO DE PADUA - Aprox. C/ Marqués de la Mina" .
+
+<ex:station_18>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38207545943934e0 ;
+        geo:lng         -5.968121120738779e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA EDUARDO DATO - Aprox. C/ Marqués del Nervión" .
+
+<ex:station_247>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         37.37823143994186e0 ;
+        geo:lng         -5.979362157954825e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "Esquina con C/Enramadilla" .
+
+<ex:station_226>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.402862871745285e0 ;
+        geo:lng         -5.921753676327738e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DOCTOR EMILIO LEMOS - Aprox. C/ de Birmania" .
+
+<ex:station_205>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.39981714629299e0 ;
+        geo:lng         -5.961922341869038e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA KANSAS CITY - Aprox. Pza el Tato" .
+
+<ex:station_197>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.423438625065074e0 ;
+        geo:lng         -5.96640413851815e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE AGRICULTORES - Aprox. C/ estrella Betelgeuse" .
+
+<ex:station_176>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.3775594419921e0 ;
+        geo:lng         -5.966557112643772e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE LA CIUDAD JARDÍN - Aprox. C/ Profesor Braña" .
+
+<ex:station_155>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.392910501713985e0 ;
+        geo:lng         -5.970739136171973e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA KANSAS CITY - Aprox. Avda El Greco" .
+
+<ex:station_134>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         37.374770419100905e0 ;
+        geo:lng         -5.998536223231469e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE VIRGEN DE LUJÁN - Aprox. C/ Asunción" .
+
+<ex:station_89>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         37.38648146613877e0 ;
+        geo:lng         -5.997790227366178e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ADRIANO - Aprox. C/ Antonia Díaz" .
+
+<ex:station_113>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.380778439190046e0 ;
+        geo:lng         -6.009179264054355e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA SAN MARTÍN DE PORRES - Aprox. Avda Alvar Núñez" .
+
+<ex:station_68>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.39029248788509e0 ;
+        geo:lng         -5.979964167018684e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE JUAN ANTONIO CABESTANY - Aprox. Calle Júpiter" .
+
+<ex:station_47>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.39713251259333e0 ;
+        geo:lng         -5.987037195768433e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE HINIESTA - Aprox. Convento Santa Isabel" .
+
+<ex:station_26>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         37.40249453741322e0 ;
+        geo:lng         -5.977678166024575e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE MIRAFLORES - Aprox. C/ Manuel Ródenas" .
+
+<ex:station_255>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         37.385659308608595e0 ;
+        geo:lng         -5.913451790889467e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "Esquina rotanda Torreblanca" .
+
+<ex:station_234>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         37.3999401269442e0 ;
+        geo:lng         -5.925163964339344e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE MÉDICOS SIN FRONTERA - Aprox. Avda de las Ciencias" .
+
+<ex:station_213>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38714348690405e0 ;
+        geo:lng         -5.948410054553437e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE ANDALUCIA - Aprox. Cochera de TUSSAM" .
+
+<ex:station_2>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         37.381578045327934e0 ;
+        geo:lng         -5.96522396639778e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "GRAN PLAZA - Aprox. Calle Marquez de Pickman" .
+
+<ex:station_184>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.408524564095075e0 ;
+        geo:lng         -5.97049314429485e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALCALDE MANUEL DEL VALLE - Aprox. C/ San Juan de la Salle" .
+
+<ex:station_163>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         37.38995448989595e0 ;
+        geo:lng         -5.970802134688754e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE SINAÍ - Aprox. C/ Baltazar Gracián" .
+
+<ex:station_97>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.381535447210965e0 ;
+        geo:lng         -5.995552216661944e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PASEO DE CRISTÓBAL COLÓN - Aprox. Torre del Oro" .
+
+<ex:station_142>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         37.371651407131054e0 ;
+        geo:lng         -5.997212216783402e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE RAMON DE CARRANZA - Aprox. C/ Asunción" .
+
+<ex:station_76>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         37.3889394767379e0 ;
+        geo:lng         -5.99564622125814e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA NUEVA - Aprox. C/ Jaen" .
+
+<ex:station_121>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.377158434736266e0 ;
+        geo:lng         -5.981935166355452e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DOCTOR PEDRO DE CASTRO - Aprox. C/ Doc. Gabriel Sánchez" .
+
+<ex:station_55>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.393318498568895e0 ;
+        geo:lng         -5.983766182098622e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DE MARIA AUXILIADORA - Aprox. C/ Gonzalo de Bilbao" .
+
+<ex:station_34>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.40102752757453e0 ;
+        geo:lng         -5.988578203413862e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA PUMAREJO - Aprox. Calle San Luis" .
+
+<ex:station_13>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.40313353475898e0 ;
+        geo:lng         -5.991918216341031e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE FERIA - Aprox. C/ Resolana" .
+
+<ex:station_242>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38881830392981e0 ;
+        geo:lng         -5.995750976296489e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA NUEVA - Aprox. C/ Mendez Núñez" .
+
+<ex:station_221>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.40560856297865e0 ;
+        geo:lng         -5.930524002164018e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALCALDE LUIS URUÑUELA - Aprox. Hotel Sevilla Congresos" .
+
+<ex:station_200>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.41891360818369e0 ;
+        geo:lng         -5.963217124751443e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CAMINO DE LOS TOROS - Aprox. C/ Mediterráneo" .
+
+<ex:station_192>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         37.37833442855656e0 ;
+        geo:lng         -6.011556270990402e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE ALVAR NUÑEZ - Aprox. C/ Collante" .
+
+<ex:station_171>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         37.36614639337372e0 ;
+        geo:lng         -5.974870135199807e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ALFONSO LASO DE LA VEGA - Aprox. Parroco Antonio González" .
+
+<ex:station_150>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.39674851413617e0 ;
+        geo:lng         -5.978634166071806e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE SAN JUAN BOSCO - Aprox. C/ Arroyo" .
+
+<ex:station_84>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.387350475004816e0 ;
+        geo:lng         -5.983068176211725e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE JOSÉ MARÍA MORENO GALVÁN - Aprox. C/ Juan Antonio Cabestany" .
+
+<ex:station_129>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.374668417254036e0 ;
+        geo:lng         -6.002455236928109e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE VIRGEN DE LUJAN - Aprox. Virgen de la Victoria" .
+
+<ex:station_63>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.390456481894525e0 ;
+        geo:lng         -5.998103230753266e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE SAN PABLO - Aprox. C/ Bailén" .
+
+<ex:station_108>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.382852503457265e0 ;
+        geo:lng         -5.973249491935667e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA EDUARDO DATO - Aprox. Avda de San Francisco Javier" .
+
+<ex:station_42>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.3987059174522e0 ;
+        geo:lng         -5.989460016816095e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA CRONISTA - Aprox. C/ Divina Pastora" .
+
+<ex:station_21>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.405473547892335e0 ;
+        geo:lng         -5.981527181236149e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE MANUEL VILLALOBOS - Aprox. C/ Madre San Marcelo" .
+
+<ex:station_250>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.421879e0 ;
+        geo:lng         -5.985663e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DE SALVADOR ALLENDE - Aprox. C/ de Marruecos" .
+
+<ex:station_229>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.38735449491008e0 ;
+        geo:lng         -5.919918954593122e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA AERONAUTICA - Aprox. Avda del Deporte" .
+
+<ex:station_208>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.35065632807553e0 ;
+        geo:lng         -5.984190158922543e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AAVENIDA DE GRECIA - Aprox. Avda de Italia" .
+
+<ex:station_179>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.413163177395056e0 ;
+        geo:lng         -5.985131221637643e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "RONDA URBANA NORTE - Aprox. C/ de Rimas" .
+
+<ex:station_158>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.3688534016955e0 ;
+        geo:lng         -5.981618160442233e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA CARDENAL BUENO MONREAL - Aprox. C/ Bogota" .
+
+<ex:station_92>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.385838469752265e0 ;
+        geo:lng         -6.011220377621846e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "RONDA DE TRIANA - Aprox. C/ de Manuel Arellano" .
+
+<ex:station_137>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37375841984501e0 ;
+        geo:lng         -5.985517176959137e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE LA BORBOLLA - Aprox. C/ Porvenir" .
+
+<ex:station_71>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         37.39003048884624e0 ;
+        geo:lng         -5.974491147670695e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA KANSAS CITY - Aprox. Hotel Occidental" .
+
+<ex:station_116>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.36143037206055e0 ;
+        geo:lng         -5.981603156091943e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE MANUEL SIUROT - Aprox. Hospital Universitario Virgen del Rocio" .
+
+<ex:station_50>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         37.397554510745486e0 ;
+        geo:lng         -5.996695229895344e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DE HERNÁN CORTÉS - Aprox. C/ Eslava" .
+
+<ex:station_29>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.402463540044714e0 ;
+        geo:lng         -5.970145139589757e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CARRETERA DE CARMONA - Aprox. Avda de Llanes" .
+
+<ex:station_258>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         37.38369648551305e0 ;
+        geo:lng         -5.914819934855601e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "Esquina Calle Creus" .
+
+<ex:station_237>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.409334585727706e0 ;
+        geo:lng         -5.923254979770833e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CIUDAD DE CHIVA - Aprox. C/ Ildefonso Marañon" .
+
+<ex:station_216>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.39993753083735e0 ;
+        geo:lng         -5.95628508908707e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ANTIOQUIA - Aprox. Avda de Pedro Romero" .
+
+<ex:station_5>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         37.41104356266495e0 ;
+        geo:lng         -6.001959256107801e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CAMINO DE LOS DESCUBRIMIENTOS - Aprox. C/ Thomás Alba Edison" .
+
+<ex:station_187>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.39540051410288e0 ;
+        geo:lng         -5.964043114126317e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DOCTOR LAFFON - Aprox. C/ Efeso" .
+
+<ex:station_166>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  13 ;
+        geo:lat         37.38859048869724e0 ;
+        geo:lng         -5.959240093357595e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "RONDA DEL TAMARGUILLO - Aprox. Centro Comercial Los Arcos" .
+
+<ex:station_145>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.360233228861155e0 ;
+        geo:lng         -5.986318234050904e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA REINA MERCEDES - Aprox. C/ Profesor García González" .
+
+<ex:station_124>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.3777304387441e0 ;
+        geo:lng         -5.97724415022871e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ENRAMADILLA - Aprox. C/ Barrau" .
+
+<ex:station_79>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  10 ;
+        geo:lat         37.388326477494125e0 ;
+        geo:lng         -5.98690419023187e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA DE LAS MERCEDARIAS - Aprox. C/ Ibarra" .
+
+<ex:station_58>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         37.39436722277961e0 ;
+        geo:lng         -5.991544993040244e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE REGINA - Aprox. Pza de la Encarnación" .
+
+<ex:station_103>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.384432463478554e0 ;
+        geo:lng         -5.982738173371375e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA EDUARDO DATO - Aprox. C/ San Bernardo" .
+
+<ex:station_37>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.398785772824745e0 ;
+        geo:lng         -5.99318901314001e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "ALAMEDA DE HÉRCULES - Aprox. C/ Vulcano" .
+
+<ex:station_16>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40705079945115e0 ;
+        geo:lng         -5.982430505819379e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DE MANUEL VILLALOBOS - Aprox. C/ Sor Francisca Dorotea" .
+
+<ex:station_245>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.37539881124939e0 ;
+        geo:lng         -5.952549466245021e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "Aprox. Avda Los Gavilanes" .
+
+<ex:station_224>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.397013539467245e0 ;
+        geo:lng         -5.923756974136509e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE LAS CIENCIAS - Aprox. C/ de Ulises" .
+
+<ex:station_203>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.396093518802566e0 ;
+        geo:lng         -5.958764096016824e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE TESALÓNICA - Calle Mazzantini" .
+
+<ex:station_195>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.42171561628419e0 ;
+        geo:lng         -5.971648155914519e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE CORRAL DEL AGUA - Aprox. Camino de los toros" .
+
+<ex:station_174>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38061245637617e0 ;
+        geo:lng         -5.960574093426685e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "RONDA TAMARGUILLO - Aprox. Marqués de Pickman" .
+
+<ex:station_153>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  27 ;
+        geo:lat         37.36297137649665e0 ;
+        geo:lng         -5.986262173333679e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA REINA MERCEDES - Aprox. Escuela de arquitectura" .
+
+<ex:station_87>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         37.38896647697466e0 ;
+        geo:lng         -5.995294220038549e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA NUEVA - Aprox. C/ Tetuan" .
+
+<ex:station_132>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.36361937962884e0 ;
+        geo:lng         -5.984785168525709e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE PAEZ DE RIVERA - Aprox. Paseo de la Palmera" .
+
+<ex:station_111>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.3813174443225e0 ;
+        geo:lng         -6.001053235842167e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PZA FARMACÉUTICO MURILLO HERRERA - Aprox. C/ Pajes de Corro" .
+
+<ex:station_66>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.39362550048881e0 ;
+        geo:lng         -5.981869175620968e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ARROYO - Aprox. Avda. José Laguillo" .
+
+<ex:station_45>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.39992052707672e0 ;
+        geo:lng         -5.97781616502751e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CARRETERA DE CARMONA - Aprox. C/ de Francisco de Ariño" .
+
+<ex:station_24>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.404035541034794e0 ;
+        geo:lng         -5.984592191160378e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE LEÓN XIII - Aprox. C/ Fray Isidoro de Sevilla" .
+
+<ex:station_253>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         37.320417860390016e0 ;
+        geo:lng         -5.96902252657327e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "HOPITAL VALME.-Esquina Carretera Bellasvistas" .
+
+<ex:station_232>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.40393955876748e0 ;
+        geo:lng         -5.939739033438785e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALCALDE LUIS URUÑUELA - Aprox. Pza de la Acogida" .
+
+<ex:station_211>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.34620231070945e0 ;
+        geo:lng         -5.976200128537064e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE ALEMANIA - Aprox. Glorieta de Letonia" .
+
+<ex:station_182>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.41459658707776e0 ;
+        geo:lng         -5.973881159661203e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE VICTORIA KENT - Aprox. Avda Alcalde Manuel del Valle" .
+
+<ex:station_161>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40000053060032e0 ;
+        geo:lng         -5.969103134518509e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALCALDE MANUEL DEL VALLE - Aprox. C/ Baltasar de Alcázar" .
+
+<ex:station_95>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.41217356557977e0 ;
+        geo:lng         -6.006338272120392e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE AMÉRICO VESPUCIO - Aprox. C/ Juan Bautista Muñoz" .
+
+<ex:station_140>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         37.3723704173039e0 ;
+        geo:lng         -5.97736214754443e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "140 NUESTRA SEÑORA DE LAS MERCEDES" .
+
+<ex:station_74>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.38977148326459e0 ;
+        geo:lng         -5.986897191039803e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA PILATOS - Aprox. C/ San Esteban" .
+
+<ex:station_119>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37740443203299e0 ;
+        geo:lng         -5.991965201690994e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE CHILE - Aprox. Costurero de la Reina" .
+
+<ex:station_53>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         37.38934147689296e0 ;
+        geo:lng         -5.999605235382445e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE REYES CATÓLICOS - Aprox. C/ Gravina" .
+
+<ex:station_32>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.402019532357485e0 ;
+        geo:lng         -5.986323196073661e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE MUÑOZ LEÓN - Aprox. C/ Morera" .
+
+<ex:station_11>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.4071428838914e0 ;
+        geo:lng         -5.99259029973418e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "Avda Alberto Jiménez Becerril - Antes Calle Maimonides" .
+
+<ex:station_240>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.402579544488994e0 ;
+        geo:lng         -5.940435585086025e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALCALDE LUIS URUÑUELA - Aprox. Cueva de la Pileta" .
+
+<ex:station_219>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.3905365010144e0 ;
+        geo:lng         -5.959072093702479e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DE LA A.D.A. - Aprox. C/ de Tesalónica" .
+
+<ex:station_8>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.4009693828541e0 ;
+        geo:lng         -6.00938173537619e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE AMERICO VESPUCIO - Aprox. C/ Gregor Mendel" .
+
+<ex:station_190>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.36873540997663e0 ;
+        geo:lng         -5.957293074803896e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA HYTASA - Aprox. C/ Herramienta" .
+
+<ex:station_169>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37650143552164e0 ;
+        geo:lng         -5.972667133462907e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA RAMÓN Y CAJAL - Aprox. C/ Villegas Marmolejo" .
+
+<ex:station_148>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.39876767567268e0 ;
+        geo:lng         -5.973182395926595e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE THARSIS - Aprox. C/ Aorno" .
+
+<ex:station_82>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         37.387098477016366e0 ;
+        geo:lng         -5.974843147214583e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE LUIS MONTOTO - Aprox. C/ Maese Farfán" .
+
+<ex:station_127>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.37764043077863e0 ;
+        geo:lng         -5.997947222820481e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE VIRGEN DE LA VICTORIA - Aprox. C/ Asunción" .
+
+<ex:station_61>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.392813490850365e0 ;
+        geo:lng         -5.999344236464369e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA DEL MUSEO - Aprox. C/ Alfonso XII" .
+
+<ex:station_106>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.383797462883464e0 ;
+        geo:lng         -5.977454154468565e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA EDUARDO DATO - Aprox. C/ Oscar Carvallo" .
+
+<ex:station_40>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         37.35635082669173e0 ;
+        geo:lng         -5.986459877403918e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA REINA MERCEDES - Aprox. Glorieta Alcalde de Parias Merry" .
+
+<ex:station_19>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.403327536585486e0 ;
+        geo:lng         -5.989037206345736e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PARLAMENTO - Aprox. C/ Don Fadrique" .
+
+<ex:station_248>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.421903023693936e0 ;
+        geo:lng         -5.983004288085699e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "GLORIETA DE LOS FERROVIARIOS - Aprox. C/ Navarra" .
+
+<ex:station_227>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  12 ;
+        geo:lat         37.39075351415996e0 ;
+        geo:lng         -5.91963595581283e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALCALDE LUIS URUÑUELA - Aprox. C/ Carlinga" .
+
+<ex:station_206>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.402963548427635e0 ;
+        geo:lng         -5.958211097806437e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA KANSAS CITY - Aprox. C/ Macedonia" .
+
+<ex:station_198>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.42044661256891e0 ;
+        geo:lng         -5.967956142243533e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE MAR DE ALBORÁN - Aprox. C/ Camino de los Toros" .
+
+<ex:station_177>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         37.373068423133994e0 ;
+        geo:lng         -5.9690941189446e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALCALDE JUAN FERNÁNDEZ - Aprox. C/ Profesor Buenaventura Pinillos" .
+
+<ex:station_156>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.391453411096606e0 ;
+        geo:lng         -5.972761755091493e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA KANSAS CITY - Aprox. C/ Baltasar Gracián" .
+
+<ex:station_90>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.381198446608074e0 ;
+        geo:lng         -5.993528209364882e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ROMA - Aprox. C/ Palos de la Frontera" .
+
+<ex:station_135>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         37.37465142036539e0 ;
+        geo:lng         -5.993801206544696e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE VIRGEN DE LUJÁN - Aprox. Glorieta las Cigarreras" .
+
+<ex:station_114>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         37.356372352725714e0 ;
+        geo:lng         -5.979262144945245e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "GLORIETA PLUS ULTRA - Aprox. Estadio Manuel Ruiz de Lopera" .
+
+<ex:station_69>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.39201049535389e0 ;
+        geo:lng         -5.978293162147303e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE JOSE LAGUILLO - Aprox. Pablo Iglesias" .
+
+<ex:station_48>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.39715651121527e0 ;
+        geo:lng         -5.991066209916829e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE CHURRUCA - Aprox. C/ Gonzáles Cuadrado" .
+
+<ex:station_27>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         37.403877544974165e0 ;
+        geo:lng         -5.972090147223454e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE LLANES - Aprox C/ Escultor Francisco Buiza" .
+
+<ex:station_256>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  29 ;
+        geo:lat         37.386100496778624e0 ;
+        geo:lng         -5.910090919676698e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "Esquina Calle Pero Mingo" .
+
+<ex:station_235>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.411735810991e0 ;
+        geo:lng         -5.929859071297002e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CIUDAD DE CHIVA - Aprox. C/ ciudad de Alfajar" .
+
+<ex:station_214>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38714348690405e0 ;
+        geo:lng         -5.948410054553437e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE ANDALUCIA - Aprox. Entrada TUSSAM" .
+
+<ex:station_3>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         37.40564154237001e0 ;
+        geo:lng         -5.998488240831263e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PUERTA DE LA BARQUETA - Aprox. Puente de la Barqueta" .
+
+<ex:station_185>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40509431569403e0 ;
+        geo:lng         -5.968862135165761e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALCALDE MANUEL DEL VALLE - Aprox. C/ Alejandro Sawa" .
+
+<ex:station_164>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         37.387649350924015e0 ;
+        geo:lng         -5.965655252045698e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE LUIS MONTOTO - Aprox. C/ El Greco" .
+
+<ex:station_98>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         37.382043350305e0 ;
+        geo:lng         -5.993030169261488e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE ROMA - Puerta de Jerez" .
+
+<ex:station_143>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         37.37172440518047e0 ;
+        geo:lng         -6.00331223823691e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE RAMON DE CARRANZA - Aprox. C/ Virgen de la Oliva" .
+
+<ex:station_122>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37848444133301e0 ;
+        geo:lng         -5.978389154681133e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ENRAMADILLA - Aprox. C/ Balbino Marrón" .
+
+<ex:station_77>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.389629475123165e0 ;
+        geo:lng         -6.007581263540937e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA CHAPINA - Aprox. Hotel Abba Triana" .
+
+<ex:station_56>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.39308649644441e0 ;
+        geo:lng         -5.98703819345455e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA JERONIMO DE CORDOBA- Aprox. C/ Escuelas Pías" .
+
+<ex:station_101>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         37.38111568185353e0 ;
+        geo:lng         -5.986949751279455e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PRADO DE SAN SEBASTIAN - Estación de autobuses" .
+
+<ex:station_35>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.400682524351275e0 ;
+        geo:lng         -5.993630220939186e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "ALAMEDA DE HERCULES - Aprox. Calle Peris Mencheta" .
+
+<ex:station_14>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         37.4064737057759e0 ;
+        geo:lng         -5.989118739088445e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA SANCHEZ PIZJUAN - Facultad de Medicina" .
+
+<ex:station_243>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.380439481169994e0 ;
+        geo:lng         -5.953481197462845e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "GLORIETA DEL PRIMERO DE MAYO - Aprox. C/ Carlos Marx" .
+
+<ex:station_222>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         37.40508356497133e0 ;
+        geo:lng         -5.933616012901859e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALCALDE LUIS URUÑUELA - Aprox. Palacio de los Congresos" .
+
+<ex:station_201>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.41568359361039e0 ;
+        geo:lng         -5.967858139167567e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE PINO MONTANO - Aprox. C/ Estafeta" .
+
+<ex:station_193>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38111143948424e0 ;
+        geo:lng         -6.012005274166835e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE CORIA - Aprox. C/ Coruña" .
+
+<ex:station_172>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.367172398818624e0 ;
+        geo:lng         -5.971211122957581e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "RONDA TAMARGUILLO - Aprox. Alfonso Laso de la Vega" .
+
+<ex:station_151>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.394544466945845e0 ;
+        geo:lng         -5.979897194354694e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE URQUIZA - Aprox. C/ Venecia" .
+
+<ex:station_85>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38535146566221e0 ;
+        geo:lng         -5.986785188099708e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PASEO CATALINA RIBERA - Frente a la Diputación Provincial" .
+
+<ex:station_130>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37574541795484e0 ;
+        geo:lng         -6.005247727302032e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "GLORIETA REPUBLICA DOMINICANA - Aprox. C/ López de Gomara" .
+
+<ex:station_64>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.38985648205481e0 ;
+        geo:lng         -5.991125205922743e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE CUESTA DE ROSARIO - Pza de la Pescadería" .
+
+<ex:station_109>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.37988413609134e0 ;
+        geo:lng         -5.974382770011586e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA SAN FRANCISCO JAVIER - Aprox. C/ Camilo José Cela" .
+
+<ex:station_43>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.399156087435365e0 ;
+        geo:lng         -5.982736630025496e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "RONDA CAPUCHINOS - Aprox. C/ Maestro Quiroga" .
+
+<ex:station_22>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40512954896668e0 ;
+        geo:lng         -5.974831157557763e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE LLANES - Aprox. Avda de Miraflores" .
+
+<ex:station_251>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.384349424571234e0 ;
+        geo:lng         -5.965378365247481e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "Esquina con Alejandro Collantes" .
+
+<ex:station_230>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         37.403927559446025e0 ;
+        geo:lng         -5.928139993197263e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE LAS CIENCIAS - Aprox. Avda de la Republica China" .
+
+<ex:station_209>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.34531731164308e0 ;
+        geo:lng         -5.982656150368391e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALEMANIA - Aprox. Glorieta Chekia" .
+
+<ex:station_180>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40964956350476e0 ;
+        geo:lng         -5.98440119371439e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DOCTOR JAIME MARCOS - Aprox. Avda. Doc. Fedriani" .
+
+<ex:station_159>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.36804539727759e0 ;
+        geo:lng         -5.984854171329494e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA CARDENAL BUENO MONREAL - Aprox. Avda Manuel Siurot" .
+
+<ex:station_93>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.38312344793415e0 ;
+        geo:lng         -6.010876271362328e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "RONDA DE TRIANA - Aprox. C/ San Vicente de Paul" .
+
+<ex:station_138>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.374370424709774e0 ;
+        geo:lng         -5.978934154215835e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE RAMÓN CARANDE - Aprox. C/ San Salvador" .
+
+<ex:station_72>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.39071248853365e0 ;
+        geo:lng         -5.982768177096753e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE AMADOR DE LOS RIOS - Aprox. C/ Lope de Vega" .
+
+<ex:station_117>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         37.377806429728786e0 ;
+        geo:lng         -6.002613239293098e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVDA ESPERANZA DE TRIANA - Aprox. Avda Republica Argentina" .
+
+<ex:station_51>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.395519500564795e0 ;
+        geo:lng         -6.002321248467498e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA TORNEO - Aprox. C/ Luis Rey Romero" .
+
+<ex:station_30>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.382628460642394e0 ;
+        geo:lng         -5.970853130640082e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA EDUARDO DATO - Detrás Estadio Sánchez Pizjuan" .
+
+<ex:station_259>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         37.36731840562508e0 ;
+        geo:lng         -5.954117063090828e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "Esquina Calle Aguila Perdicera" .
+
+<ex:station_238>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.408132573830756e0 ;
+        geo:lng         -5.919993048486191e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CIUDAD DE CHIVA - Aprox. Pza del Árbol Rey" .
+
+<ex:station_217>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.393874505420214e0 ;
+        geo:lng         -5.962371106824864e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DE LA A.D.A. - Aprox. C/ Jerusalén" .
+
+<ex:station_6>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40661378981103e0 ;
+        geo:lng         -6.002977947581603e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CAMINO DE LOS DESCUBRIMIENTOS - Aprox. Calle Isaac Newton" .
+
+<ex:station_188>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37256042361221e0 ;
+        geo:lng         -5.963362098447178e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA HYTASA - Aprox. C/ Romeral" .
+
+<ex:station_167>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37334966832237e0 ;
+        geo:lng         -5.964933613203329e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "GLORIETA BIZCO AMATE - Aprox. Avda Ramón y Cajal" .
+
+<ex:station_146>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.360100626411395e0 ;
+        geo:lng         -5.986312974875395e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA REINA MERCEDES - Aprox. C/ Profesor García González" .
+
+<ex:station_80>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.3876274768589e0 ;
+        geo:lng         -5.98102716921146e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE LUIS MONTOTO - Aprox. C/ Alberto Duero" .
+
+<ex:station_125>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.377406438312754e0 ;
+        geo:lng         -5.974900141818838e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA SAN FRANCISCO JAVIER - Aprox. Avda De Ramón y Cajal" .
+
+<ex:station_59>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         37.37123840842449e0 ;
+        geo:lng         -5.989210188461531e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE LA PALMERA - Aprox. Avenida del Líbano" .
+
+<ex:station_104>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38413592692444e0 ;
+        geo:lng         -5.979676676296534e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA EDUARDO DATO - Aprox. C/ Fuenteovejuna" .
+
+<ex:station_38>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         37.3920814836453e0 ;
+        geo:lng         -6.011051277130786e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DE INCA GARCILASO - Aprox. C/ Juan Antonio de Vizarrón" .
+
+<ex:station_17>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40715155556869e0 ;
+        geo:lng         -5.978840172776446e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DE MADRESELVA - Aprox. Ronda de Pio XII" .
+
+<ex:station_246>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.376139062455664e0 ;
+        geo:lng         -5.955017317014327e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PUERTO DE LOS AZORES - Aprox. C/ Paulo Orosio" .
+
+<ex:station_225>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.397390540237105e0 ;
+        geo:lng         -5.918776956284244e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE FLOR DE RETAMA - Aprox. Centro Deportivo Entreflores" .
+
+<ex:station_204>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.39768969188425e0 ;
+        geo:lng         -5.96160136486722e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DOCTOR LAFFON - Aprox. C/ Tesalonica" .
+
+<ex:station_196>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.42470162875488e0 ;
+        geo:lng         -5.970101152202059e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ESTRELLA CANOPUS - Aprox. C/ estrella Betelgeuse" .
+
+<ex:station_175>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37775744487495e0 ;
+        geo:lng         -5.960870092813821e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "RONDA TAMARGUILLO - Plaza Ruperto Chapí" .
+
+<ex:station_154>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.394836510246314e0 ;
+        geo:lng         -5.96842612917054e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA KANSAS CITY - Aprox. C/ Naranjito de Triana" .
+
+<ex:station_88>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40934127713802e0 ;
+        geo:lng         -6.006338859390215e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE AMERICO VESPUCIO - Aprox. C/ Hermanos d'Eluyar" .
+
+<ex:station_133>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37403941410158e0 ;
+        geo:lng         -6.004198242683363e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA SANTA FE - Aprox. C/ Virgen de la Oliva" .
+
+<ex:station_112>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.380153438452595e0 ;
+        geo:lng         -6.004383246859136e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVDA ESPERANZA DE TRIANA - Aprox. Plaza Amadeo Janone" .
+
+<ex:station_67>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.404162533250535e0 ;
+        geo:lng         -6.00730227091074e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE LEONARDO DA VINCI - Aprox. C/ Albert Einstein" .
+
+<ex:station_46>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         37.397593515590735e0 ;
+        geo:lng         -5.983873184934495e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA DEL PELICANO - Aprox. C/ Enladrilladas" .
+
+<ex:station_25>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40313253870445e0 ;
+        geo:lng         -5.981109178424791e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE LA CRUZ ROJA - Aprox. C/ Albaida" .
+
+<ex:station_254>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         37.32942977136568e0 ;
+        geo:lng         -5.968971229675001e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "ALHAMBRA.- Esquina Carretera Bellasvistas" .
+
+<ex:station_233>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.404112556103925e0 ;
+        geo:lng         -5.937092024971125e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALCALDE LUIS URUÑUELA - Aprox. Estación de RENFE" .
+
+<ex:station_212>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.351582337691354e0 ;
+        geo:lng         -5.977784137525409e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA REINIDO UNIDO - Aprox. Avda de Italia" .
+
+<ex:station_1>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.4129235511391e0 ;
+        geo:lng         -5.98890593824315e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "GLORIETA OLIMPICA - Aprox. Concejal Alberto Jiménez-Becerril" .
+
+<ex:station_183>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.41101757377389e0 ;
+        geo:lng         -5.97121914827267e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "ALCALDE MANUEL DEL VALLE - Aprox. C/ Pino Montano" .
+
+<ex:station_96>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         37.3835407311529e0 ;
+        geo:lng         -5.999910722822249e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE BETIS - Aprox. C/ Juan de Lugo" .
+
+<ex:station_141>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37173344957564e0 ;
+        geo:lng         -5.981895354240737e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE FELIPE II - Aprox. C/ Ramón Carande" .
+
+<ex:station_75>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.387997377700096e0 ;
+        geo:lng         -5.993587446638155e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA SAN FRANCISCO - Aprox C/ Hernando Colón" .
+
+<ex:station_120>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.37896144135567e0 ;
+        geo:lng         -5.989966195594725e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "GLORIETA SAN DIEGO - Aprox. C/ Palos de la Frontera" .
+
+<ex:station_54>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.39523950356959e0 ;
+        geo:lng         -5.991050208758028e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA SAN JUAN DE LA PALMA - Aprox. iglesia" .
+
+<ex:station_33>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.401460531089214e0 ;
+        geo:lng         -5.983690186516563e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE LEÓN XIII - Aprox. C/ Antonio Pantión" .
+
+<ex:station_12>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         37.403869536605576e0 ;
+        geo:lng         -5.994904227249628e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA DUQUESA DE ALBA - Puente de la Barqueta" .
+
+<ex:station_241>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38881544328257e0 ;
+        geo:lng         -5.995863788052556e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA NUEVA - Aprox. C/ Mendez Núñez" .
+
+<ex:station_220>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         37.40518956185269e0 ;
+        geo:lng         -5.935780020616404e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA ALCALDE LUIS URUÑUELA - Aprox. Centro Comercial Zona Este" .
+
+<ex:station_9>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40332453110276e0 ;
+        geo:lng         -6.004020258912579e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CAMINO DE LOS DESCUBRIMIENTOS - Aprox. C/ Albert Einstein" .
+
+<ex:station_191>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37411641267212e0 ;
+        geo:lng         -6.008853259077473e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "GLORIETA CARLOS CANO - Aprox. C/ Blas Infante" .
+
+<ex:station_170>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         37.37896644673701e0 ;
+        geo:lng         -5.968923121755333e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA ANTONIO APARICIO HERRERO - Aprox. C/ San Juan de Dios" .
+
+<ex:station_149>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.397829929383e0 ;
+        geo:lng         -5.97567172039552e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ARROYO - Aprox. C/ Tena" .
+
+<ex:station_83>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.386955475268515e0 ;
+        geo:lng         -5.978051158384551e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA LA BUHAIRA - Aprox. Avda Luis Montoto" .
+
+<ex:station_128>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         37.37645342505249e0 ;
+        geo:lng         -6.000632231559362e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "Virgen de Loreto - Aprox. C/ Arcos" .
+
+<ex:station_62>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  39 ;
+        geo:lat         37.391061482462725e0 ;
+        geo:lng         -6.003150248813141e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA DE ARMAS - Avda Torneo (estación de autobuses)" .
+
+<ex:station_41>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.39958252091155e0 ;
+        geo:lng         -5.991029211181825e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA CALDERÓN DE LA BARCA - Aprox. C/ Amargura" .
+
+<ex:station_20>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.404869543652175e0 ;
+        geo:lng         -5.986537198461927e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE SAN JUAN DE RIBERA - Aprox. C/ Fray Isidoro de Sevilla" .
+
+<ex:station_249>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.42475843174024e0 ;
+        geo:lng         -5.984823673360926e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE NAVARRA - Aprox. C/ Cataluña" .
+
+<ex:station_228>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.394449523785354e0 ;
+        geo:lng         -5.921230963560515e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE LAS CIENCIAS - Aprox. C/ Flor de Salvia" .
+
+<ex:station_207>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.35501634616241e0 ;
+        geo:lng         -5.982370155065175e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE IFNI - Aprox. Avda de Holanda" .
+
+<ex:station_199>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.417855601747895e0 ;
+        geo:lng         -5.969296145455354e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "MAR DE ALBORÁN - Aprox. Corral de los Olmos" .
+
+<ex:station_178>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.373304076262805e0 ;
+        geo:lng         -5.97391890132113e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE JOSÉ SARAMAGO - Aprox. Avda del Alcalde Juan Fernández" .
+
+<ex:station_157>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.369799405424466e0 ;
+        geo:lng         -5.978194722821982e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA CARDENAL BUENO MONREAL - Aprox. Avda Ramón Carande" .
+
+<ex:station_91>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38690746421921e0 ;
+        geo:lng         -6.007674262301094e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE PROCURADOR - Clara de Jesús Monteto" .
+
+<ex:station_136>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37311941284756e0 ;
+        geo:lng         -5.997610219028108e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ASUNCIÓN - Aprox. C/ Virgen de la Antigua" .
+
+<ex:station_70>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         37.39115849280489e0 ;
+        geo:lng         -5.975971153511849e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "ESTACIÓN RENFE SANTA JUSTA" .
+
+<ex:station_115>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.377892428375446e0 ;
+        geo:lng         -6.007237255573729e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE LOPEZ DE GOMARA - En frente Instituto Adolfo Becker" .
+
+<ex:station_49>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.39686550900737e0 ;
+        geo:lng         -5.99392721978722e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "ALAMEDA DE HERCULES - Aprox. C/ Amor de Dios" .
+
+<ex:station_28>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         37.360261369216595e0 ;
+        geo:lng         -5.976659138066708e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE RAFAEL SALGADO - Aprox. C/ Castillo Alcala de Guadaira" .
+
+<ex:station_257>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38376948792722e0 ;
+        geo:lng         -5.908921914235877e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "Esquina corazon de MAria" .
+
+<ex:station_236>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.4102171143178e0 ;
+        geo:lng         -5.926422374057527e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CIUDAD DE CHIVA - Aprox. C/ ciudad de Liria" .
+
+<ex:station_215>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.38664148025849e0 ;
+        geo:lng         -5.953981074150936e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ZORZAL - Aprox. Avenida de Andalucia" .
+
+<ex:station_4>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         37.41011155757378e0 ;
+        geo:lng         -6.005722268777397e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE LEONARDO DA VINCI - Aprox C/ Thomas Alba Edison" .
+
+<ex:station_186>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40860456343952e0 ;
+        geo:lng         -5.973161153696026e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ORFEBRE DOMINGUEZ VÁZQUEZ - Aprox. C/ Pino Montano" .
+
+<ex:station_165>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38764548429808e0 ;
+        geo:lng         -5.96095309881845e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE ANDALUCIA - Aprox. Centro Comercial Los Arcos" .
+
+<ex:station_144>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.36912633937041e0 ;
+        geo:lng         -5.988080397280193e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA DE LA PALMERA - Aprox. Clinica de Fátima" .
+
+<ex:station_99>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         37.397394505010546e0 ;
+        geo:lng         -6.010641278744458e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE AMÉRICO VESPUCIO - Aprox. Gerencia de Urbanismo de Sevilla" .
+
+<ex:station_78>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38857113316299e0 ;
+        geo:lng         -6.010282378350756e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ALFARERIA - Aprox. Ronda de Triana" .
+
+<ex:station_123>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.41585058006381e0 ;
+        geo:lng         -6.005474271334001e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "ESTADIO OLIMPICO" .
+
+<ex:station_57>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.39231861674279e0 ;
+        geo:lng         -5.989705187094715e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PLAZA CRISTO DE BURGOS - Pza de San Pedro" .
+
+<ex:station_102>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.38273945636004e0 ;
+        geo:lng         -5.983720175839885e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE JUAN DE MATA CARRIAZO - Aprox. antigua estación San Bernardo" .
+
+<ex:station_36>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.40050052188098e0 ;
+        geo:lng         -5.998403237581298e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE SAN VICENTE - Aprox. C/ Guadalquivir" .
+
+<ex:station_15>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.40604157176221e0 ;
+        geo:lng         -5.985733700014785e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE DR MARAÑON - Aprox. C/ San Juan de Ribera" .
+
+<ex:station_244>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.3780400290467e0 ;
+        geo:lng         -5.95178368562984e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA LOS GAVILANES - Aprox. Avda Juan XXIII" .
+
+<ex:station_223>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.40073135956411e0 ;
+        geo:lng         -5.92632420198497e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE GEMA - Aprox. Avda de las Ciencias" .
+
+<ex:station_202>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.41146657719195e0 ;
+        geo:lng         -5.966763132907271e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "AVENIDA MUJER TRABAJADORA - Aprox. Avda Miraflores" .
+
+<ex:station_194>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.418732603824466e0 ;
+        geo:lng         -5.97319415962488e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE PARQUE DE DOÑANA - Aprox. Calle Corral de los Olmos" .
+
+<ex:station_173>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.370048411458974e0 ;
+        geo:lng         -5.968064113583803e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "RONDA TAMARGUILLO - Aprox. Avda de la Paz" .
+
+<ex:station_152>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.3957905118738e0 ;
+        geo:lng         -5.97437315057576e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE SAMANIEGO - Aprox. C/ Esperanza de la Trinidad" .
+
+<ex:station_131>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.364750385373725e0 ;
+        geo:lng         -5.981452157485012e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE TABLADILLA - Aprox. C/ Cardenal Ilundaín" .
+
+<ex:station_86>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         37.39707250530929e0 ;
+        geo:lng         -6.006304263337968e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CAMINO DE LOS DESCUBRIMIENTOS - Aprox. Pasarela de la Cartuja" .
+
+<ex:station_65>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         37.391299488908295e0 ;
+        geo:lng         -5.988140196280803e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "CALLE ALHÓNDIGA - Aprox. Card. Cervantes" .
+
+<ex:station_110>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         37.37972144428237e0 ;
+        geo:lng         -5.983801174387398e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "Ciudad de Ronda - Aprox. Avda Carlos V" .
+
+<ex:station_44>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.39833897229492e0 ;
+        geo:lng         -5.981640026763738e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "RONDA CAPUCHINOS - Aprox. C/ Corinto" .
+
+<ex:station_23>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         37.403337536978945e0 ;
+        geo:lng         -5.98787920228648e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "PARLAMENTO - Aprox. C/ San Juan de Ribera" .
+
+<ex:station_252>  a     sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         37.32458203503861e0 ;
+        geo:lng         -5.968972128124462e0 ;
+        wdp:P131        <city:seville> ;
+        wdp:P669        "GASPAR CALDERAS.- Esquina con Carretera Bellasvistas" .

@@ -1,0 +1,21 @@
+PREFIX ite: <http://w3id.org/sparql-generate/iter/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX wdp: <https://www.wikidata.org/wiki/Property:>
+PREFIX ex: <http://example.org/>
+PREFIX city: <http://fr.dbpedia.org/page/>
+
+GENERATE {
+  <ex:station_{?number}> a sosa:FeatureOfInterest;
+    rdfs:label ?name;
+    wdp:P131 <city:{?contract_name}>;
+    wdp:P669 ?address;
+    geo:lat "{?lat}"^^xsd:double;
+    geo:lng "{?lng}"^^xsd:double;
+    ex:bike_stands ?bike_stands.
+}
+  
+ITERATOR ite:JSONPath(<https://api.jcdecaux.com/vls/v1/stations?contract=Lyon&apiKey=b0d471d68f580414dc830cde44ce32d66def361e>,"$[*]", ".number", "$.contract_name", "$.address", "$.position.lat", "$.position.lng", "$.bike_stands") AS ?feature ?number ?contract_name ?address ?lat ?lng ?bike_stands)

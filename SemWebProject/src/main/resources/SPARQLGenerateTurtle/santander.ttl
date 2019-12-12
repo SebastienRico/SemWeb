@@ -1,0 +1,130 @@
+
+@base          <http://example.org/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix wdp:   <https://www.wikidata.org/wiki/Property:> .
+@prefix ex:    <http://example.org/> .
+@prefix city:  <http://fr.dbpedia.org/page/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ite:   <http://w3id.org/sparql-generate/iter/> .
+@prefix sosa:  <http://www.w3.org/ns/sosa/> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<ex:station_1>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         43.461719e0 ;
+        geo:lng         -3.8021e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Jardines de Pereda (Aprox. Correos y Castelar)" .
+
+<ex:station_6>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         43.4711061117108e0 ;
+        geo:lng         -3.80058645890079e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Facultad de las Ciencias (Aprox. Glorieta de los Delfines)" .
+
+<ex:station_12>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.4579662522228e0 ;
+        geo:lng         -3.82480124234961e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Calle Alta (Aprox. Mercado de México)" .
+
+<ex:station_17>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.4548260614091e0 ;
+        geo:lng         -3.86690066866145e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Rucandial" .
+
+<ex:station_4>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.4784718110308e0 ;
+        geo:lng         -3.78865314567001e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Cormoran (Aprox. C/ de Manuel García Lago)" .
+
+<ex:station_9>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.4691494140035e0 ;
+        geo:lng         -3.77327597557961e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Avenida de la Magdalena (Aprox. Avda de la Reina Victoria)" .
+
+<ex:station_10>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.4635521249485e0 ;
+        geo:lng         -3.78800547922826e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Plaza de San Martin (Aprox. Avda de la Reina Victoria y Castelar)" .
+
+<ex:station_15>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.465323e0 ;
+        geo:lng         -3.825767e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Cerca de borna 7" .
+
+<ex:station_2>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.4744126704703e0 ;
+        geo:lng         -3.78578134528458e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Plaza de las Brisas (Aprox. Jardines de Piquio)" .
+
+<ex:station_7>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         43.4701661089386e0 ;
+        geo:lng         -3.80649947753026e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Facultad de Derecho (Aprox. Facultad de Ciencias)" .
+
+<ex:station_13>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         43.4607255432349e0 ;
+        geo:lng         -3.81797824491875e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Calle de San Fernando (Aprox. Paseo del Alameda)" .
+
+<ex:station_5>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.4719661074837e0 ;
+        geo:lng         -3.79285449619735e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Glorieta de los Delfines (Aprox. Avda de los Castros)" .
+
+<ex:station_11>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         43.4621430815773e0 ;
+        geo:lng         -3.79724144946775e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Puerto Chico (Aprox.Paseo Pereda y San Martín)" .
+
+<ex:station_16>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.4528130549523e0 ;
+        geo:lng         -3.87139068298249e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Severo Ochoa" .
+
+<ex:station_3>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         43.47573226037e0 ;
+        geo:lng         -3.79806387098462e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Parque las Llamas (Aprox. Palacio de Deportes)" .
+
+<ex:station_8>  a       sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         43.4718048257527e0 ;
+        geo:lng         -3.78134613485541e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Plaza de Italia (Aprox. C/ de Joaquín Costa)" .
+
+<ex:station_14>  a      sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         43.4583838909468e0 ;
+        geo:lng         -3.8104683913313e0 ;
+        wdp:P131        <city:santander> ;
+        wdp:P669        "Atilano Rodriguez (aprox Paseo Pereda y San Fernando)" .
