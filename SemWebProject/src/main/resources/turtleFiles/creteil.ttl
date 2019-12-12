@@ -10,72 +10,82 @@
 @prefix sosa:  <http://www.w3.org/ns/sosa/> .
 @prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
 
-<ex:station_1>  a       sosa:FeatureOfInterest ;
+<ex:station_1_Creteil>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  26 ;
         geo:lat         48.7988350967829e0 ;
         geo:lng         2.45387633773323e0 ;
-        wdp:P131        city:creteil ;
+        wdp:P131        city:Creteil ;
         wdp:P669        "AVENUE DU MARECHAL DE LATTRE DE TASSIGNY" .
 
-<ex:station_6>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  24 ;
-        geo:lat         48.78350102672993e0 ;
-        geo:lng         2.454576358402657e0 ;
-        wdp:P131        city:creteil ;
-        wdp:P669        "AVENUE DE LA BRECHE" .
-
-<ex:station_4>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  40 ;
-        geo:lat         48.788110780811415e0 ;
-        geo:lng         2.446248652158302e0 ;
-        wdp:P131        city:creteil ;
-        wdp:P669        "Avenue du Général de Gaulle" .
-
-<ex:station_9>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  22 ;
-        geo:lat         48.76603756422197e0 ;
-        geo:lng         2.471314855226071e0 ;
-        wdp:P131        city:creteil ;
-        wdp:P669        "ALLEE FERNAND POUILLON" .
-
-<ex:station_10>  a      sosa:FeatureOfInterest ;
+<ex:station_10_Creteil>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         48.76895633113984e0 ;
         geo:lng         2.456664667660431e0 ;
-        wdp:P131        city:creteil ;
+        wdp:P131        city:Creteil ;
         wdp:P669        "RUE MAGELLAN" .
 
-<ex:station_2>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  22 ;
-        geo:lat         48.796173633089616e0 ;
-        geo:lng         2.46370624551545e0 ;
-        wdp:P131        city:creteil ;
-        wdp:P669        "AVENUE DE VERDUN" .
-
-<ex:station_7>  a       sosa:FeatureOfInterest ;
+<ex:station_7_Creteil>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         48.78021352952279e0 ;
         geo:lng         2.469692230994849e0 ;
-        wdp:P131        city:creteil ;
+        wdp:P131        city:Creteil ;
         wdp:P669        "Avenue du docteur Paul Casalis" .
 
-<ex:station_5>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         48.7868389124326e0 ;
-        geo:lng         2.46856657248876e0 ;
-        wdp:P131        city:creteil ;
-        wdp:P669        "144 RUE DU GENERAL LECLERC" .
-
-<ex:station_3>  a       sosa:FeatureOfInterest ;
-        ex:bike_stands  24 ;
-        geo:lat         48.7907886168279e0 ;
-        geo:lng         2.46489018474127e0 ;
-        wdp:P131        city:creteil ;
-        wdp:P669        "En face du 1 ter rue de joly" .
-
-<ex:station_8>  a       sosa:FeatureOfInterest ;
+<ex:station_8_Creteil>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  34 ;
         geo:lat         48.7773524472175e0 ;
         geo:lng         2.45537843175518e0 ;
-        wdp:P131        city:creteil ;
+        wdp:P131        city:Creteil ;
         wdp:P669        "Avenue de la France Libre" .
+
+<ex:station_5_Creteil>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         48.7868389124326e0 ;
+        geo:lng         2.46856657248876e0 ;
+        wdp:P131        city:Creteil ;
+        wdp:P669        "144 RUE DU GENERAL LECLERC" .
+
+<ex:station_9_Creteil>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         48.76603756422197e0 ;
+        geo:lng         2.471314855226071e0 ;
+        wdp:P131        city:Creteil ;
+        wdp:P669        "ALLEE FERNAND POUILLON" .
+
+<ex:station_2_Creteil>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         48.796173633089616e0 ;
+        geo:lng         2.46370624551545e0 ;
+        wdp:P131        city:Creteil ;
+        wdp:P669        "AVENUE DE VERDUN" .
+
+<ex:station_6_Creteil>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         48.78350102672993e0 ;
+        geo:lng         2.454576358402657e0 ;
+        wdp:P131        city:Creteil ;
+        wdp:P669        "AVENUE DE LA BRECHE" .
+
+<ex:station_3_Creteil>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         48.7907886168279e0 ;
+        geo:lng         2.46489018474127e0 ;
+        wdp:P131        city:Creteil ;
+        wdp:P669        "En face du 1 ter rue de joly" .
+
+<ex:station_4_Creteil>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  40 ;
+        geo:lat         48.788110780811415e0 ;
+        geo:lng         2.446248652158302e0 ;
+        wdp:P131        city:Creteil ;
+        wdp:P669        "Avenue du Général de Gaulle" .

@@ -1,21 +1,21 @@
-PREFIX ite: <http://w3id.org/sparql-generate/iter/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
-PREFIX sosa: <http://www.w3.org/ns/sosa/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-PREFIX wdp: <https://www.wikidata.org/wiki/Property:>
-PREFIX ex: <http://example.org/>
-PREFIX city: <http://fr.dbpedia.org/page/>
+	PREFIX ite: <http://w3id.org/sparql-generate/iter/>
+	PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+	PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+	PREFIX sosa: <http://www.w3.org/ns/sosa/>
+	PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+	PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+	PREFIX wdp: <https://www.wikidata.org/wiki/Property:>
+	PREFIX ex: <http://example.org/>
+	PREFIX city: <http://fr.dbpedia.org/page/>
 
-GENERATE {
-  <ex:station_{?number}> a sosa:FeatureOfInterest;
-    rdfs:label ?name;
-    wdp:P131 city:Saint-Etienne;
-    wdp:P669 ?name;
-    geo:lat "{?lat}"^^xsd:double;
-    geo:lng "{?lng}"^^xsd:double;
-    ex:bike_stands ?bike_stands.
-}
-  
-ITERATOR ite:JSONPath(<https://saint-etienne-gbfs.klervi.net/gbfs/en/station_information.json>,"$.data.stations.[*]", "$.station_id", "$.name", "$.address", "$.lat", "$.lon", "$.capacity") AS ?feature ?number ?name ?address ?lat ?lng ?bike_stands
+	GENERATE {
+	  <ex:station_{?number}_Saint-Etienne> a sosa:FeatureOfInterest;
+		rdfs:label ?name;
+		wdp:P131 city:Saint-Etienne;
+		wdp:P669 ?name;
+		geo:lat "{?lat}"^^xsd:double;
+		geo:lng "{?lng}"^^xsd:double;
+		ex:bike_stands ?bike_stands.
+	}
+	  
+	ITERATOR ite:JSONPath(<https://saint-etienne-gbfs.klervi.net/gbfs/en/station_information.json>,"$.data.stations.[*]", "$.station_id", "$.name", "$.address", "$.lat", "$.lon", "$.capacity") AS ?feature ?number ?name ?address ?lat ?lng ?bike_stands

@@ -17,12 +17,13 @@ and open the template in the editor.
         <div class="container">
             <div class="row">
                 <div th:each="city : ${cities}" class="card text-black" style="margin: 20px; width: 18rem">
-                    <a about="_:XX" typeOf="wd:Q515" th:href="@{'/stations/' + ${city}}">
+                    <a th:about="@{'_:' + ${city}}" typeOf="wd:Q515" th:href="@{'/stations/' + ${city}}">
                         <img src="/img/bikeStation.jpg" class=" bikeimg card-img" alt="...">
                         <div class="textcard card-img-overlay">
                             <h5 property="rdfs:label" class="cityname card-title">[[ ${city} ]]</h5>
                         </div>
                     </a>
+
                 </div>
 
             </div>

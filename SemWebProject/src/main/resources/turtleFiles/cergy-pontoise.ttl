@@ -10,303 +10,346 @@
 @prefix sosa:  <http://www.w3.org/ns/sosa/> .
 @prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
 
-<ex:station_50020>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         49.032107e0 ;
-        geo:lng         2.074345e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "AVENUE DU PARC ANGLE BOULEVARD DE L'HAUTIL - 95000 CERGY" .
-
-<ex:station_50005>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         49.049401e0 ;
-        geo:lng         2.017075e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "AVENUE DU HAZAY ANGLE RUE DE L'AISSELETTE - 95000 CERGY" .
-
-<ex:station_56101>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  24 ;
-        geo:lat         49.0242104711371e0 ;
-        geo:lng         2.10326750859631e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "BOULEVARD CHARLES DE GAULLE ANGLE BOULEVARD JACQUES DUCLOS 95600 - ERAGNY" .
-
-<ex:station_50018>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  27 ;
-        geo:lat         49.031214e0 ;
-        geo:lng         2.061506e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "BOULEVARD DU PORT ANGLE RUE JEAN BART - 95000 CERGY" .
-
-<ex:station_53003>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         49.0435829707344e0 ;
-        geo:lng         2.08480803731778e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "Avenue François Mitterand côté boulevard du Port - 95300 PONTOISE" .
-
-<ex:station_50012>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  21 ;
-        geo:lat         49.046588e0 ;
-        geo:lng         2.04512e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "PLACE DU HAUT DE GENCY ANGLE RUE DES VENDANGES PROCHAINES - 95000 CERGY" .
-
-<ex:station_50025>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         49.050988e0 ;
-        geo:lng         2.057324e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "ROUTE D14, DEVANT LE COMPLEXE SPORTIF ARENICE" .
-
-<ex:station_56106>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  24 ;
-        geo:lat         49.0112158195145e0 ;
-        geo:lng         2.09846304107412e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "Rue de l'Ambassadeur angle rue des Anglais - 95610 ERAGNY" .
-
-<ex:station_53102>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  19 ;
-        geo:lat         49.0462492033273e0 ;
-        geo:lng         2.1057103478728e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "Av du Général Leclerc / rue du 8 mai 1945 - 95310 SAINT OUEN L'AUMONE" .
-
-<ex:station_50004>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         49.052785e0 ;
-        geo:lng         2.017956e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "AVENUE DU BON TEMPS ANGLE AVENUE DU HAZAY - 95000 CERGY" .
-
-<ex:station_50017>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  14 ;
-        geo:lat         49.035511e0 ;
-        geo:lng         2.061921e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "RUE NATIONALE ANGLE RUE LEVÈQUE - 95000 CERGY" .
-
-<ex:station_53002>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         49.044395e0 ;
-        geo:lng         2.090632e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "Place de la Libération côté avenue de Verdun - 95300 PONTOISE" .
-
-<ex:station_54905>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  22 ;
-        geo:lat         49.0231625956251e0 ;
-        geo:lng         2.02948629121322e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "MAIL MENDES FRANCE ANGLE AVENUE DE LA REVOLUTION FRANCAISE - 95490 VAUREAL" .
-
-<ex:station_50011>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  22 ;
-        geo:lat         49.051599e0 ;
-        geo:lng         2.036105e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "RUE DES GÉMEAUX - 95000 CERGY" .
-
-<ex:station_50024>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         49.038058e0 ;
-        geo:lng         2.070534e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "Rue des petits prés  95000 CERGY" .
-
-<ex:station_50009>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  11 ;
-        geo:lat         49.027239e0 ;
-        geo:lng         2.077178e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "88, RUE DU BRÛLOIR ANGLE RUE DES TOULEUSES POURPRES - 95000 CERGY" .
-
-<ex:station_56105>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         49.03223e0 ;
-        geo:lng         2.101656e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "RUE DU BAS NOYER DEVANT CENTRE COMMERCIAL ART DE VIVRE - ERAGNY" .
-
-<ex:station_53101>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  19 ;
-        geo:lat         49.0477806094296e0 ;
-        geo:lng         2.10303772616957e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "Place Carnot côté quai de l'Ecluse ou halage - 95310 SAINT OUEN L'AUMONE" .
-
-<ex:station_50003>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  24 ;
-        geo:lat         49.042318e0 ;
-        geo:lng         2.01958e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "AVENUE DES ESSARTS ANGLE BOULEVARD DE L'OISE - 95000 CERGY" .
-
-<ex:station_50016>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  30 ;
-        geo:lat         49.038874e0 ;
-        geo:lng         2.076405e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "RUE DES CHÊNES D'OR ANGLE BOULEVARD DU PORT - 95000 CERGY" .
-
-<ex:station_53001>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         49.047619e0 ;
-        geo:lng         2.096823e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "Place du Général de Gaulle devant la Gare - 95300 PONTOISE" .
-
-<ex:station_54904>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         49.023836592832e0 ;
-        geo:lng         2.02259548583062e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "MAIL MENDES FRANCE ANGLE BOULEVARD DE L'OISE - 95490 VAUREAL" .
-
-<ex:station_50010>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  28 ;
-        geo:lat         49.0493e0 ;
-        geo:lng         2.035223e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "RUE DES PAS PERDUS - 95000 CERGY" .
-
-<ex:station_50023>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         49.030665e0 ;
-        geo:lng         2.083067e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "AVENUE DU SUD - 95000 CERGY" .
-
-<ex:station_50008>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  17 ;
-        geo:lat         49.044092e0 ;
-        geo:lng         2.036546e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "RUE DE L'ESPLANADE DE PARIS ANGLE BOULEVARD DE L'OISE - 95000 CERGY" .
-
-<ex:station_56104>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  23 ;
-        geo:lat         49.017696834806e0 ;
-        geo:lng         2.09941681180915e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "PLACE DE LA CHALLE ANGLE RUE DE LA CHALLE ORANGE 95600 - ERAGNY" .
-
-<ex:station_50002>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  24 ;
-        geo:lat         49.046868e0 ;
-        geo:lng         2.01362e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "Avenue du Hazay angle rue de la Destinée - 95000 CERGY" .
-
-<ex:station_50015>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  18 ;
-        geo:lat         49.043284e0 ;
-        geo:lng         2.068934e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "PLACE DES LINANDES - 95000 CERGY" .
-
-<ex:station_50022>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  27 ;
-        geo:lat         49.036036e0 ;
-        geo:lng         2.079612e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "BOULEVARD DE L'OISE / RUE DE LA GARE - 95000 CERGY" .
-
-<ex:station_50007>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  34 ;
-        geo:lat         49.042999e0 ;
-        geo:lng         2.029687e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "AVENUE DE L'ENTREPRISE ANGLE ROND POINT DU CÈDRE - 95000 CERGY" .
-
-<ex:station_56103>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         49.0180572637007e0 ;
-        geo:lng         2.09102625541638e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "RUE DES BELLES HÂTES ANGLE BOULEVARD DES AVIATEURS ALLIÉS 95600 - ERAGNY" .
-
-<ex:station_50101>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  25 ;
-        geo:lat         49.014534e0 ;
-        geo:lng         2.078945e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "CHEMIN DE CERGY DEVANT LA GARE - 95010 NEUVILLE" .
-
-<ex:station_50001>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  29 ;
-        geo:lat         49.048246e0 ;
-        geo:lng         2.011238e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "PLACE DES 3 GARES - 95000 CERGY" .
-
-<ex:station_50014>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         49.043224e0 ;
-        geo:lng         2.060405e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "AVENUE DU NORD ANGLE ALLÉE DES ACACIAS - 95000 CERGY" .
-
-<ex:station_54902>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  26 ;
-        geo:lat         49.0301062798099e0 ;
-        geo:lng         2.02157336740974e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "Rond Point de la Croix Lieu côté avenue Gandhi - 95490 VAUREAL" .
-
-<ex:station_50021>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         49.03632e0 ;
-        geo:lng         2.079568e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "BOULEVARD DE L'OISE / RUE DE LA GARE - 95000 CERGY" .
-
-<ex:station_50006>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  16 ;
-        geo:lat         49.048957e0 ;
-        geo:lng         2.026947e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "AVENUE DE LA BELLE HEAUMIÈRE ANGLE SQUARE DE L'ECHIQUIER - 95000 CERGY" .
-
-<ex:station_56102>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         49.0230651147826e0 ;
-        geo:lng         2.11045996684615e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "AVENUE FERNAND CHATELAIN ANGLE RUE DE PIERRELAYE 95600 - ERAGNY" .
-
-<ex:station_53004>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         49.032140952207e0 ;
-        geo:lng         2.08780221085683e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "BD DE L'OISE ANGLE RUE DE LA PALETTE" .
-
-<ex:station_50019>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  16 ;
-        geo:lat         49.034625e0 ;
-        geo:lng         2.067596e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "RUE DES LILAS ANGLE BOULEVARD DU PORT - 95000 CERGY" .
-
-<ex:station_56401>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  15 ;
-        geo:lat         49.0452230206183e0 ;
-        geo:lng         2.00250713459357e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "Boulevard des chasseurs angle boulevard Sainte Apolline - 95400 COURDIMANCHE" .
-
-<ex:station_50013>  a   sosa:FeatureOfInterest ;
-        ex:bike_stands  20 ;
-        geo:lat         49.044831e0 ;
-        geo:lng         2.053462e0 ;
-        wdp:P131        city:cergy-pontoise ;
-        wdp:P669        "ALLÉE DU BELVÉDÈRE ANGLE ROND POINT DES RAIES - 95000 CERGY" .
-
-<ex:station_54901>  a   sosa:FeatureOfInterest ;
+<ex:station_54901_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
         ex:bike_stands  20 ;
         geo:lat         49.0329335916808e0 ;
         geo:lng         2.02031242929915e0 ;
-        wdp:P131        city:cergy-pontoise ;
+        wdp:P131        city:Cergy-pontoise ;
         wdp:P669        "Place du Rendez-Vous côté avenue Louis Lecoin - 95490 VAUREAL" .
+
+<ex:station_54902_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  26 ;
+        geo:lat         49.0301062798099e0 ;
+        geo:lng         2.02157336740974e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "Rond Point de la Croix Lieu côté avenue Gandhi - 95490 VAUREAL" .
+
+<ex:station_54904_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         49.023836592832e0 ;
+        geo:lng         2.02259548583062e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "MAIL MENDES FRANCE ANGLE BOULEVARD DE L'OISE - 95490 VAUREAL" .
+
+<ex:station_54905_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         49.0231625956251e0 ;
+        geo:lng         2.02948629121322e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "MAIL MENDES FRANCE ANGLE AVENUE DE LA REVOLUTION FRANCAISE - 95490 VAUREAL" .
+
+<ex:station_50012_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  21 ;
+        geo:lat         49.046588e0 ;
+        geo:lng         2.04512e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "PLACE DU HAUT DE GENCY ANGLE RUE DES VENDANGES PROCHAINES - 95000 CERGY" .
+
+<ex:station_50101_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  25 ;
+        geo:lat         49.014534e0 ;
+        geo:lng         2.078945e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "CHEMIN DE CERGY DEVANT LA GARE - 95010 NEUVILLE" .
+
+<ex:station_50013_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.044831e0 ;
+        geo:lng         2.053462e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "ALLÉE DU BELVÉDÈRE ANGLE ROND POINT DES RAIES - 95000 CERGY" .
+
+<ex:station_50014_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.043224e0 ;
+        geo:lng         2.060405e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "AVENUE DU NORD ANGLE ALLÉE DES ACACIAS - 95000 CERGY" .
+
+<ex:station_50015_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         49.043284e0 ;
+        geo:lng         2.068934e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "PLACE DES LINANDES - 95000 CERGY" .
+
+<ex:station_50016_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  30 ;
+        geo:lat         49.038874e0 ;
+        geo:lng         2.076405e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "RUE DES CHÊNES D'OR ANGLE BOULEVARD DU PORT - 95000 CERGY" .
+
+<ex:station_50017_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  14 ;
+        geo:lat         49.035511e0 ;
+        geo:lng         2.061921e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "RUE NATIONALE ANGLE RUE LEVÈQUE - 95000 CERGY" .
+
+<ex:station_50018_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  27 ;
+        geo:lat         49.031214e0 ;
+        geo:lng         2.061506e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "BOULEVARD DU PORT ANGLE RUE JEAN BART - 95000 CERGY" .
+
+<ex:station_50019_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         49.034625e0 ;
+        geo:lng         2.067596e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "RUE DES LILAS ANGLE BOULEVARD DU PORT - 95000 CERGY" .
+
+<ex:station_50020_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         49.032107e0 ;
+        geo:lng         2.074345e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "AVENUE DU PARC ANGLE BOULEVARD DE L'HAUTIL - 95000 CERGY" .
+
+<ex:station_53101_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         49.0477806094296e0 ;
+        geo:lng         2.10303772616957e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "Place Carnot côté quai de l'Ecluse ou halage - 95310 SAINT OUEN L'AUMONE" .
+
+<ex:station_53102_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  19 ;
+        geo:lat         49.0462492033273e0 ;
+        geo:lng         2.1057103478728e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "Av du Général Leclerc / rue du 8 mai 1945 - 95310 SAINT OUEN L'AUMONE" .
+
+<ex:station_50021_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.03632e0 ;
+        geo:lng         2.079568e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "BOULEVARD DE L'OISE / RUE DE LA GARE - 95000 CERGY" .
+
+<ex:station_50022_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  27 ;
+        geo:lat         49.036036e0 ;
+        geo:lng         2.079612e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "BOULEVARD DE L'OISE / RUE DE LA GARE - 95000 CERGY" .
+
+<ex:station_50023_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.030665e0 ;
+        geo:lng         2.083067e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "AVENUE DU SUD - 95000 CERGY" .
+
+<ex:station_50024_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         49.038058e0 ;
+        geo:lng         2.070534e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "Rue des petits prés  95000 CERGY" .
+
+<ex:station_50025_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.050988e0 ;
+        geo:lng         2.057324e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "ROUTE D14, DEVANT LE COMPLEXE SPORTIF ARENICE" .
+
+<ex:station_50001_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  29 ;
+        geo:lat         49.048246e0 ;
+        geo:lng         2.011238e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "PLACE DES 3 GARES - 95000 CERGY" .
+
+<ex:station_50002_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         49.046868e0 ;
+        geo:lng         2.01362e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "Avenue du Hazay angle rue de la Destinée - 95000 CERGY" .
+
+<ex:station_56101_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         49.0242104711371e0 ;
+        geo:lng         2.10326750859631e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "BOULEVARD CHARLES DE GAULLE ANGLE BOULEVARD JACQUES DUCLOS 95600 - ERAGNY" .
+
+<ex:station_56102_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         49.0230651147826e0 ;
+        geo:lng         2.11045996684615e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "AVENUE FERNAND CHATELAIN ANGLE RUE DE PIERRELAYE 95600 - ERAGNY" .
+
+<ex:station_50003_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         49.042318e0 ;
+        geo:lng         2.01958e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "AVENUE DES ESSARTS ANGLE BOULEVARD DE L'OISE - 95000 CERGY" .
+
+<ex:station_50004_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         49.052785e0 ;
+        geo:lng         2.017956e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "AVENUE DU BON TEMPS ANGLE AVENUE DU HAZAY - 95000 CERGY" .
+
+<ex:station_50005_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.049401e0 ;
+        geo:lng         2.017075e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "AVENUE DU HAZAY ANGLE RUE DE L'AISSELETTE - 95000 CERGY" .
+
+<ex:station_50006_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  16 ;
+        geo:lat         49.048957e0 ;
+        geo:lng         2.026947e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "AVENUE DE LA BELLE HEAUMIÈRE ANGLE SQUARE DE L'ECHIQUIER - 95000 CERGY" .
+
+<ex:station_50007_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  34 ;
+        geo:lat         49.042999e0 ;
+        geo:lng         2.029687e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "AVENUE DE L'ENTREPRISE ANGLE ROND POINT DU CÈDRE - 95000 CERGY" .
+
+<ex:station_50008_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  17 ;
+        geo:lat         49.044092e0 ;
+        geo:lng         2.036546e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "RUE DE L'ESPLANADE DE PARIS ANGLE BOULEVARD DE L'OISE - 95000 CERGY" .
+
+<ex:station_50009_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  11 ;
+        geo:lat         49.027239e0 ;
+        geo:lng         2.077178e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "88, RUE DU BRÛLOIR ANGLE RUE DES TOULEUSES POURPRES - 95000 CERGY" .
+
+<ex:station_56103_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.0180572637007e0 ;
+        geo:lng         2.09102625541638e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "RUE DES BELLES HÂTES ANGLE BOULEVARD DES AVIATEURS ALLIÉS 95600 - ERAGNY" .
+
+<ex:station_56104_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  23 ;
+        geo:lat         49.017696834806e0 ;
+        geo:lng         2.09941681180915e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "PLACE DE LA CHALLE ANGLE RUE DE LA CHALLE ORANGE 95600 - ERAGNY" .
+
+<ex:station_56105_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  18 ;
+        geo:lat         49.03223e0 ;
+        geo:lng         2.101656e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "RUE DU BAS NOYER DEVANT CENTRE COMMERCIAL ART DE VIVRE - ERAGNY" .
+
+<ex:station_56106_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  24 ;
+        geo:lat         49.0112158195145e0 ;
+        geo:lng         2.09846304107412e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "Rue de l'Ambassadeur angle rue des Anglais - 95610 ERAGNY" .
+
+<ex:station_50010_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  28 ;
+        geo:lat         49.0493e0 ;
+        geo:lng         2.035223e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "RUE DES PAS PERDUS - 95000 CERGY" .
+
+<ex:station_50011_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  22 ;
+        geo:lat         49.051599e0 ;
+        geo:lng         2.036105e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "RUE DES GÉMEAUX - 95000 CERGY" .
+
+<ex:station_56401_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  15 ;
+        geo:lat         49.0452230206183e0 ;
+        geo:lng         2.00250713459357e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "Boulevard des chasseurs angle boulevard Sainte Apolline - 95400 COURDIMANCHE" .
+
+<ex:station_53001_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.047619e0 ;
+        geo:lng         2.096823e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "Place du Général de Gaulle devant la Gare - 95300 PONTOISE" .
+
+<ex:station_53002_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.044395e0 ;
+        geo:lng         2.090632e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "Place de la Libération côté avenue de Verdun - 95300 PONTOISE" .
+
+<ex:station_53003_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.0435829707344e0 ;
+        geo:lng         2.08480803731778e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "Avenue François Mitterand côté boulevard du Port - 95300 PONTOISE" .
+
+<ex:station_53004_Cergy-pontoise>
+        a               sosa:FeatureOfInterest ;
+        ex:bike_stands  20 ;
+        geo:lat         49.032140952207e0 ;
+        geo:lng         2.08780221085683e0 ;
+        wdp:P131        city:Cergy-pontoise ;
+        wdp:P669        "BD DE L'OISE ANGLE RUE DE LA PALETTE" .
