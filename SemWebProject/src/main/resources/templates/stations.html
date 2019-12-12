@@ -14,12 +14,17 @@
                 <div th:each="station : ${stations}" class="card text-black" style="margin: 20px; width: 18rem">
                     <a id="linkstationdetail" th:href="@{'/station/' + ${station.id}}">
                         <div th:about="@{'ex:' + ${station.id}}" typeof="sosa:FeatureOfInterest" class=" textcard card">
-                            <h5 property="rdfs:label" class="card-title">[[ ${station.name} ]]</h5>
-                            <h5 property="wdp:P131" class="card-title">[[ ${station.city} ]]</h5>
-                            <h5 property="wdp:P669" class="card-title" th:text="${station.address} == ${station.name} ? '' : ${station.address}"></h5>
+                            <img src="../img/bikeStation.jpg" class=" bikeimg card-img" alt="...">
+                            <div class="textcard card-img-overlay">
+                                <h5 property="rdfs:label" class="card-title">[[ ${station.name} ]]</h5>
+                                <h4 property="wdp:P131" class="card-title">[[ ${station.city} ]]</h4>
+                                <h4 property="wdp:P669" class="card-title" th:text="${station.address} == ${station.name} ? '' : ${station.address}"></h4>
+                            </div>
                         </div>
                     </a>
+
                 </div>
+
             </div>
         </div>
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

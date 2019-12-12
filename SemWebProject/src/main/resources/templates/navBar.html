@@ -10,7 +10,7 @@
         <div th:fragment="navbar">
             <nav class="navbar navbar-dark bg-secondary">
                 <a class="navbar-brand" href="http://localhost:8081/">
-                    <img src="../img/logoStandBikeMe2.png" width="100" height="100" class="d-inline-block align-top" alt="">
+                    <img th:src="@{../img/logoStandBikeMe2.png}" width="100" height="100" class="d-inline-block align-top" alt="">
                     <span class="namewebSite font-weight-bold">StandBikeMe</span>
                 </a>
                 <form method="POST" th:action="@{/searchStationNearMe}" class="form-inline">
