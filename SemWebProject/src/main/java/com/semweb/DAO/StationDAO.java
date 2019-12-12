@@ -75,14 +75,6 @@ public class StationDAO {
         return stations;
     }
 
-    public static Station getRealTimeStationById(String idStation) {
-        Station thestation = MainController.stations.stream()
-                .filter(station -> idStation.equals(station.getId()))
-                .findAny()
-                .orElse(null);
-        return thestation;
-    }
-
     public static Station getStationById(String idStation) {
         Station station = new Station();
         String stationId = idStation;
