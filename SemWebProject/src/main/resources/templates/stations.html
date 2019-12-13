@@ -14,7 +14,7 @@
                 <div th:each="station : ${stations}" class="card text-black" style="margin: 20px; width: 18rem">
                     <a id="linkstationdetail" th:href="@{'/station/' + ${station.id}}">
                         <div th:about="@{'ex:' + ${station.id}}" typeof="sosa:FeatureOfInterest" class=" textcard card">
-                            <img src="../img/bikeStation.jpg" class=" bikeimg card-img" alt="...">
+                            <img src="../img/bikestation.png" class=" bikeimg card-img" alt="...">
                             <div class="textcard card-img-overlay">
                                 <h5 property="rdfs:label" class="card-title">[[ ${station.name} ]]</h5>
                                 <h4 property="wdp:P131" class="card-title">[[ ${station.city} ]]</h4>
