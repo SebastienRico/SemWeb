@@ -12,6 +12,7 @@
 
 <ex:station_39_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00039-KRAIZGRENNCHEN" ;
         ex:bike_stands  20 ;
         geo:lat         49.613316e0 ;
         geo:lng         6.117582e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_48_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00048-BGL BNP PARIBAS" ;
         ex:bike_stands  20 ;
         geo:lat         49.632179e0 ;
         geo:lng         6.174446e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_97_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00097-HELFENT (PARKING)" ;
         ex:bike_stands  15 ;
         geo:lat         49.603644e0 ;
         geo:lng         6.077783e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_54_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00054-CLOCHE D' OR" ;
         ex:bike_stands  20 ;
         geo:lat         49.583377e0 ;
         geo:lng         6.115817e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_4_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00004-ROCADE" ;
         ex:bike_stands  20 ;
         geo:lat         49.602989e0 ;
         geo:lng         6.136083e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_63_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00063-LABOURS" ;
         ex:bike_stands  20 ;
         geo:lat         49.6301e0 ;
         geo:lng         6.16843e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_58_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00058-SCHLUECHTHAUS" ;
         ex:bike_stands  20 ;
         geo:lat         49.60136e0 ;
         geo:lng         6.11581e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_49_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00049-MARGUERITES" ;
         ex:bike_stands  20 ;
         geo:lat         49.623837e0 ;
         geo:lng         6.160642e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_8_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00008-METZER PLAZ" ;
         ex:bike_stands  20 ;
         geo:lat         49.607346e0 ;
         geo:lng         6.12762e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_11_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00011-WINSTON CHURCHILL" ;
         ex:bike_stands  15 ;
         geo:lat         49.611317e0 ;
         geo:lng         6.120003e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_64_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00064-GRENIER" ;
         ex:bike_stands  20 ;
         geo:lat         49.59383e0 ;
         geo:lng         6.14327e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_73_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00073-JEANNE D'ARC" ;
         ex:bike_stands  20 ;
         geo:lat         49.59691e0 ;
         geo:lng         6.147957e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_59_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00059-ST HUBERT" ;
         ex:bike_stands  20 ;
         geo:lat         49.60289e0 ;
         geo:lng         6.09322e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_68_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00068-UM SCHLASS" ;
         ex:bike_stands  20 ;
         geo:lat         49.57337e0 ;
         geo:lng         6.14397e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_21_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00021-JEAN MONNET" ;
         ex:bike_stands  20 ;
         geo:lat         49.625714e0 ;
         geo:lng         6.148347e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_16_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00016-AMELIE" ;
         ex:bike_stands  20 ;
         geo:lat         49.613339e0 ;
         geo:lng         6.125794e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_74_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00074-SAINTE CUNEGONDE" ;
         ex:bike_stands  15 ;
         geo:lat         49.6146e0 ;
         geo:lng         6.14283e0 ;
@@ -148,6 +165,7 @@
 
 <ex:station_83_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00083-PULVERMÜHL" ;
         ex:bike_stands  20 ;
         geo:lat         49.608758e0 ;
         geo:lng         6.149591e0 ;
@@ -156,6 +174,7 @@
 
 <ex:station_69_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00069-UM REIMERWEE" ;
         ex:bike_stands  20 ;
         geo:lat         49.61769e0 ;
         geo:lng         6.08276e0 ;
@@ -164,6 +183,7 @@
 
 <ex:station_78_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00078-ST MATHIEU" ;
         ex:bike_stands  18 ;
         geo:lat         49.619061e0 ;
         geo:lng         6.1323e0 ;
@@ -172,6 +192,7 @@
 
 <ex:station_31_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00031-PLACE DE FRANCE" ;
         ex:bike_stands  20 ;
         geo:lat         49.60625e0 ;
         geo:lng         6.105961e0 ;
@@ -180,6 +201,7 @@
 
 <ex:station_26_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00026-HOLLERECHER PLAZ" ;
         ex:bike_stands  25 ;
         geo:lat         49.598613e0 ;
         geo:lng         6.117957e0 ;
@@ -188,6 +210,7 @@
 
 <ex:station_35_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00035-GASTON DIDERICH" ;
         ex:bike_stands  15 ;
         geo:lat         49.609904e0 ;
         geo:lng         6.106099e0 ;
@@ -196,6 +219,7 @@
 
 <ex:station_84_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00084-BITBOURG" ;
         ex:bike_stands  20 ;
         geo:lat         49.61349e0 ;
         geo:lng         6.17066e0 ;
@@ -204,6 +228,7 @@
 
 <ex:station_93_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00093-GODCHAUX (BONNEVOIE)" ;
         ex:bike_stands  20 ;
         geo:lat         49.601652e0 ;
         geo:lng         6.145533e0 ;
@@ -212,6 +237,7 @@
 
 <ex:station_41_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00041-PLACE LAURENT" ;
         ex:bike_stands  20 ;
         geo:lat         49.620066e0 ;
         geo:lng         6.122905e0 ;
@@ -220,6 +246,7 @@
 
 <ex:station_50_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00050-EUROPAPARLAMENT" ;
         ex:bike_stands  20 ;
         geo:lat         49.620489e0 ;
         geo:lng         6.146808e0 ;
@@ -228,6 +255,7 @@
 
 <ex:station_36_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00036-J.B. GELLE" ;
         ex:bike_stands  15 ;
         geo:lat         49.596787e0 ;
         geo:lng         6.1400375e0 ;
@@ -236,6 +264,7 @@
 
 <ex:station_45_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00045-AUBEPINES" ;
         ex:bike_stands  20 ;
         geo:lat         49.61212e0 ;
         geo:lng         6.09749e0 ;
@@ -244,6 +273,7 @@
 
 <ex:station_51_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00051-SAUERWISS" ;
         ex:bike_stands  20 ;
         geo:lat         49.594088e0 ;
         geo:lng         6.125123e0 ;
@@ -252,6 +282,7 @@
 
 <ex:station_60_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00060-BOCH" ;
         ex:bike_stands  20 ;
         geo:lat         49.61925e0 ;
         geo:lng         6.10842e0 ;
@@ -260,6 +291,7 @@
 
 <ex:station_46_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00046-LONKECHER STROOSS" ;
         ex:bike_stands  15 ;
         geo:lat         49.60563e0 ;
         geo:lng         6.10003e0 ;
@@ -268,6 +300,7 @@
 
 <ex:station_55_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00055-SCHAARFEN ECK" ;
         ex:bike_stands  20 ;
         geo:lat         49.58043e0 ;
         geo:lng         6.11465e0 ;
@@ -276,6 +309,7 @@
 
 <ex:station_9_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00009-CONVICT" ;
         ex:bike_stands  20 ;
         geo:lat         49.6059e0 ;
         geo:lng         6.1199e0 ;
@@ -284,6 +318,7 @@
 
 <ex:station_61_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00061-FRIEDEN" ;
         ex:bike_stands  20 ;
         geo:lat         49.637327e0 ;
         geo:lng         6.164573e0 ;
@@ -292,6 +327,7 @@
 
 <ex:station_70_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00070-GEMENG STROOSSEN" ;
         ex:bike_stands  20 ;
         geo:lat         49.61909e0 ;
         geo:lng         6.07227e0 ;
@@ -300,6 +336,7 @@
 
 <ex:station_56_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00056-FISCHERHAFF" ;
         ex:bike_stands  25 ;
         geo:lat         49.5911e0 ;
         geo:lng         6.1057e0 ;
@@ -308,6 +345,7 @@
 
 <ex:station_65_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00065-BEI DER SCHOUL" ;
         ex:bike_stands  20 ;
         geo:lat         49.58421e0 ;
         geo:lng         6.14202e0 ;
@@ -316,6 +354,7 @@
 
 <ex:station_13_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00013-GELLE FRA" ;
         ex:bike_stands  25 ;
         geo:lat         49.60947e0 ;
         geo:lng         6.12963e0 ;
@@ -324,6 +363,7 @@
 
 <ex:station_22_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00022-CAMPUS KIRCHBIERG" ;
         ex:bike_stands  20 ;
         geo:lat         49.6264e0 ;
         geo:lng         6.1613e0 ;
@@ -332,6 +372,7 @@
 
 <ex:station_71_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00071-LES THERMES" ;
         ex:bike_stands  20 ;
         geo:lat         49.61489e0 ;
         geo:lng         6.07275e0 ;
@@ -340,6 +381,7 @@
 
 <ex:station_80_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00080-INS" ;
         ex:bike_stands  20 ;
         geo:lat         49.612542e0 ;
         geo:lng         6.147918e0 ;
@@ -348,6 +390,7 @@
 
 <ex:station_17_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00017-ROBERT SCHUMAN" ;
         ex:bike_stands  25 ;
         geo:lat         49.616669e0 ;
         geo:lng         6.126069e0 ;
@@ -356,6 +399,7 @@
 
 <ex:station_75_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00075-BEINCHEN" ;
         ex:bike_stands  15 ;
         geo:lat         49.61561e0 ;
         geo:lng         6.13097e0 ;
@@ -364,6 +408,7 @@
 
 <ex:station_23_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00023-REIMERWEE" ;
         ex:bike_stands  18 ;
         geo:lat         49.629448e0 ;
         geo:lng         6.157348e0 ;
@@ -372,6 +417,7 @@
 
 <ex:station_32_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00032-PISCINE OLYMPIQUE" ;
         ex:bike_stands  20 ;
         geo:lat         49.623901e0 ;
         geo:lng         6.150013e0 ;
@@ -380,6 +426,7 @@
 
 <ex:station_81_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00081-CARMEL" ;
         ex:bike_stands  20 ;
         geo:lat         49.62019e0 ;
         geo:lng         6.172682e0 ;
@@ -388,6 +435,7 @@
 
 <ex:station_90_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00090-HUBERTY (MÜHLENBACH)" ;
         ex:bike_stands  20 ;
         geo:lat         49.6294701613971e0 ;
         geo:lng         6.11780413988129e0 ;
@@ -396,6 +444,7 @@
 
 <ex:station_18_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00018-CAMPUS LAMPERTSBIERG" ;
         ex:bike_stands  19 ;
         geo:lat         49.6219e0 ;
         geo:lng         6.1118e0 ;
@@ -404,6 +453,7 @@
 
 <ex:station_27_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00027-MERCIER" ;
         ex:bike_stands  15 ;
         geo:lat         49.5986e0 ;
         geo:lng         6.132119e0 ;
@@ -412,6 +462,7 @@
 
 <ex:station_85_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00085-EINSTEIN" ;
         ex:bike_stands  19 ;
         geo:lat         49.5842e0 ;
         geo:lng         6.1249e0 ;
@@ -420,6 +471,7 @@
 
 <ex:station_94_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00094-HAMM-COLONIE" ;
         ex:bike_stands  20 ;
         geo:lat         49.606983e0 ;
         geo:lng         6.154863e0 ;
@@ -428,6 +480,7 @@
 
 <ex:station_89_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00089-PLACE THORN" ;
         ex:bike_stands  20 ;
         geo:lat         49.60361e0 ;
         geo:lng         6.10278e0 ;
@@ -436,6 +489,7 @@
 
 <ex:station_33_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00033-K. ADENAUER" ;
         ex:bike_stands  15 ;
         geo:lat         49.620586e0 ;
         geo:lng         6.138998e0 ;
@@ -444,6 +498,7 @@
 
 <ex:station_42_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00042-SQUARE ANDRE" ;
         ex:bike_stands  20 ;
         geo:lat         49.6238e0 ;
         geo:lng         6.1188e0 ;
@@ -452,6 +507,7 @@
 
 <ex:station_1_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00001-LEON XIII" ;
         ex:bike_stands  20 ;
         geo:lat         49.598211e0 ;
         geo:lng         6.137526e0 ;
@@ -460,6 +516,7 @@
 
 <ex:station_28_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00028-CHARLY'S GARE" ;
         ex:bike_stands  20 ;
         geo:lat         49.61258e0 ;
         geo:lng         6.12391e0 ;
@@ -468,6 +525,7 @@
 
 <ex:station_37_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00037-GAULOIS" ;
         ex:bike_stands  15 ;
         geo:lat         49.60164e0 ;
         geo:lng         6.13736e0 ;
@@ -476,6 +534,7 @@
 
 <ex:station_95_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00095-MAIRIE DE BERTRANGE" ;
         ex:bike_stands  15 ;
         geo:lat         49.61093e0 ;
         geo:lng         6.051527e0 ;
@@ -484,6 +543,7 @@
 
 <ex:station_43_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00043-LYCEE TECHNIQUE DE BONNEVOIE" ;
         ex:bike_stands  20 ;
         geo:lat         49.5911e0 ;
         geo:lng         6.1416e0 ;
@@ -492,6 +552,7 @@
 
 <ex:station_2_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00002-GARE CENTRALE 2" ;
         ex:bike_stands  21 ;
         geo:lat         49.601051e0 ;
         geo:lng         6.133744e0 ;
@@ -500,6 +561,7 @@
 
 <ex:station_52_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00052-BEI DER AUER" ;
         ex:bike_stands  20 ;
         geo:lat         49.591404e0 ;
         geo:lng         6.125333e0 ;
@@ -508,6 +570,7 @@
 
 <ex:station_47_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00047-LEOPOLD GOEBEL" ;
         ex:bike_stands  20 ;
         geo:lat         49.6122e0 ;
         geo:lng         6.1072e0 ;
@@ -516,6 +579,7 @@
 
 <ex:station_53_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00053-LUDWIG VAN BEETHOVEN" ;
         ex:bike_stands  20 ;
         geo:lat         49.59e0 ;
         geo:lng         6.1172e0 ;
@@ -524,6 +588,7 @@
 
 <ex:station_62_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00062-LEYDENBACH" ;
         ex:bike_stands  20 ;
         geo:lat         49.62915e0 ;
         geo:lng         6.173101e0 ;
@@ -532,6 +597,7 @@
 
 <ex:station_57_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00057-BOUILLON" ;
         ex:bike_stands  35 ;
         geo:lat         49.60001e0 ;
         geo:lng         6.10826e0 ;
@@ -540,6 +606,7 @@
 
 <ex:station_7_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00007-ROUSEGAERTCHEN" ;
         ex:bike_stands  15 ;
         geo:lat         49.605818e0 ;
         geo:lng         6.129062e0 ;
@@ -548,6 +615,7 @@
 
 <ex:station_66_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00066-BEIM TENNIS" ;
         ex:bike_stands  20 ;
         geo:lat         49.579231e0 ;
         geo:lng         6.134018e0 ;
@@ -556,6 +624,7 @@
 
 <ex:station_10_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00010-MÄRELER PARC" ;
         ex:bike_stands  15 ;
         geo:lat         49.608146e0 ;
         geo:lng         6.111627e0 ;
@@ -564,6 +633,7 @@
 
 <ex:station_14_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00014-KNUEDLER" ;
         ex:bike_stands  25 ;
         geo:lat         49.610687e0 ;
         geo:lng         6.131621e0 ;
@@ -572,6 +642,7 @@
 
 <ex:station_72_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00072-AN DER BOURMICHT" ;
         ex:bike_stands  20 ;
         geo:lat         49.61086e0 ;
         geo:lng         6.08097e0 ;
@@ -580,6 +651,7 @@
 
 <ex:station_67_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00067-MAIRIE DE HESPERANGE" ;
         ex:bike_stands  15 ;
         geo:lat         49.571924e0 ;
         geo:lng         6.15965e0 ;
@@ -588,6 +660,7 @@
 
 <ex:station_76_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00076-SAUVAGE" ;
         ex:bike_stands  15 ;
         geo:lat         49.62521e0 ;
         geo:lng         6.13938e0 ;
@@ -596,6 +669,7 @@
 
 <ex:station_20_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00020-COQUE" ;
         ex:bike_stands  20 ;
         geo:lat         49.62297e0 ;
         geo:lng         6.15497e0 ;
@@ -604,6 +678,7 @@
 
 <ex:station_15_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00015-THEATER PLAZ" ;
         ex:bike_stands  20 ;
         geo:lat         49.612782e0 ;
         geo:lng         6.131208e0 ;
@@ -612,6 +687,7 @@
 
 <ex:station_24_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00024-WEICKER" ;
         ex:bike_stands  20 ;
         geo:lat         49.631952e0 ;
         geo:lng         6.17048e0 ;
@@ -620,6 +696,7 @@
 
 <ex:station_82_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00082-GARE CENTS-HAMM" ;
         ex:bike_stands  20 ;
         geo:lat         49.614749e0 ;
         geo:lng         6.164772e0 ;
@@ -628,6 +705,7 @@
 
 <ex:station_91_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00091-MERSCH (MÜHLENBACH)" ;
         ex:bike_stands  20 ;
         geo:lat         49.627834e0 ;
         geo:lng         6.122333e0 ;
@@ -636,6 +714,7 @@
 
 <ex:station_19_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00019-PHILHARMONIE" ;
         ex:bike_stands  25 ;
         geo:lat         49.619345e0 ;
         geo:lng         6.143907e0 ;
@@ -644,6 +723,7 @@
 
 <ex:station_77_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00077-FUNICULAIRE" ;
         ex:bike_stands  20 ;
         geo:lat         49.618823e0 ;
         geo:lng         6.136324e0 ;
@@ -652,6 +732,7 @@
 
 <ex:station_86_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00086-PWC - BD KOCKELSCHEUER" ;
         ex:bike_stands  20 ;
         geo:lat         49.580242e0 ;
         geo:lng         6.120862e0 ;
@@ -660,6 +741,7 @@
 
 <ex:station_30_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00030-MERKELS PLAZ" ;
         ex:bike_stands  20 ;
         geo:lat         49.599846e0 ;
         geo:lng         6.122565e0 ;
@@ -668,6 +750,7 @@
 
 <ex:station_25_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00025-KIEM" ;
         ex:bike_stands  20 ;
         geo:lat         49.634283e0 ;
         geo:lng         6.166633e0 ;
@@ -676,6 +759,7 @@
 
 <ex:station_34_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00034-KOLLEISCH" ;
         ex:bike_stands  31 ;
         geo:lat         49.604577e0 ;
         geo:lng         6.111927e0 ;
@@ -684,6 +768,7 @@
 
 <ex:station_92_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00092-BRILL (CESSANGE)" ;
         ex:bike_stands  20 ;
         geo:lat         49.58914e0 ;
         geo:lng         6.099213e0 ;
@@ -692,6 +777,7 @@
 
 <ex:station_29_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00029-MONTEREY" ;
         ex:bike_stands  20 ;
         geo:lat         49.609583e0 ;
         geo:lng         6.119523e0 ;
@@ -700,6 +786,7 @@
 
 <ex:station_38_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00038-HELLEG GEESCHT" ;
         ex:bike_stands  20 ;
         geo:lat         49.60771e0 ;
         geo:lng         6.13456e0 ;
@@ -708,6 +795,7 @@
 
 <ex:station_87_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00087-NATIONALBIBLIOTHEIK" ;
         ex:bike_stands  20 ;
         geo:lat         49.629865e0 ;
         geo:lng         6.166252e0 ;
@@ -716,6 +804,7 @@
 
 <ex:station_96_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00096-BERTRANGE - GARE" ;
         ex:bike_stands  15 ;
         geo:lat         49.613161e0 ;
         geo:lng         6.060382e0 ;
@@ -724,6 +813,7 @@
 
 <ex:station_40_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00040-GLACIS KAPELL" ;
         ex:bike_stands  15 ;
         geo:lat         49.6147e0 ;
         geo:lng         6.1211e0 ;
@@ -732,6 +822,7 @@
 
 <ex:station_44_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00044-ARELER STROOSS" ;
         ex:bike_stands  20 ;
         geo:lat         49.6162e0 ;
         geo:lng         6.0984e0 ;
@@ -740,6 +831,7 @@
 
 <ex:station_3_Luxembourg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00003-STROOSSBUERGER PLAZ" ;
         ex:bike_stands  20 ;
         geo:lat         49.600541e0 ;
         geo:lng         6.128376e0 ;

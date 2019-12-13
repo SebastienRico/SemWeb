@@ -12,6 +12,7 @@
 
 <ex:station_140_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "140_AVENIDA_CAMPANAR" ;
         ex:bike_stands  20 ;
         geo:lat         39.48797215005971e0 ;
         geo:lng         -0.38969114895134e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_123_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "123_C_ALBOCACER" ;
         ex:bike_stands  20 ;
         geo:lat         39.487639156890914e0 ;
         geo:lng         -0.364932074551232e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_176_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "176_CAMINO_DE_MONCADA_52" ;
         ex:bike_stands  20 ;
         geo:lat         39.491985167042394e0 ;
         geo:lng         -0.378944118876901e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_171_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "171_CALLE GRAN CANARIA" ;
         ex:bike_stands  15 ;
         geo:lat         39.48302815289556e0 ;
         geo:lng         -0.329098964737767e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_239_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "239_LA_FLORISTA_TRANVIA_PALACIO_CONGRESOS" ;
         ex:bike_stands  20 ;
         geo:lat         39.496953177032466e0 ;
         geo:lng         -0.400055184833165e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_46_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "46_AVDA. INSTITUTO OBRERO DE VALENCIA" ;
         ex:bike_stands  20 ;
         geo:lat         39.45547705039899e0 ;
         geo:lng         -0.358878039093959e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_29_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "029_PLAZA AMERICA" ;
         ex:bike_stands  20 ;
         geo:lat         39.47008009754055e0 ;
         geo:lng         -0.36539006649012e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_99_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "099_AVDA. BLASCO IBAÑEZ 8" ;
         ex:bike_stands  21 ;
         geo:lat         39.471312109714646e0 ;
         geo:lng         -0.34057499279659e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_234_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "234_PLAZA MUSICO_ESPI_JOSE_ESTEVE" ;
         ex:bike_stands  15 ;
         geo:lat         39.49646718382403e0 ;
         geo:lng         -0.373735105660714e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_41_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "41_AVDA. GRAL. URRUTIA" ;
         ex:bike_stands  20 ;
         geo:lat         39.458880059935595e0 ;
         geo:lng         -0.364867058884755e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_105_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "105_AVDA. DE LOS NARANJOS" ;
         ex:bike_stands  30 ;
         geo:lat         39.477658129796865e0 ;
         geo:lng         -0.344611008304436e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_94_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "094_AVDA. BLASCO IBAÑEZ 5" ;
         ex:bike_stands  20 ;
         geo:lat         39.47534611972441e0 ;
         geo:lng         -0.351674028220146e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_77_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "77_C/ MOLINELL" ;
         ex:bike_stands  20 ;
         geo:lat         39.484941147529945e0 ;
         geo:lng         -0.365758075579642e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_100_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "100_AVDA. BLASCO IBAÑEZ 9" ;
         ex:bike_stands  20 ;
         geo:lat         39.471602111446835e0 ;
         geo:lng         -0.33824098596173e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_72_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "072_RAMIRO MAETZU" ;
         ex:bike_stands  15 ;
         geo:lat         39.467225e0 ;
         geo:lng         -0.346537e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_136_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "136_CALLE_ECONOMISTA_GAY" ;
         ex:bike_stands  20 ;
         geo:lat         39.4899091610835e0 ;
         geo:lng         -0.375701108044157e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_189_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "189_HOSPITAL_NUEVA_FE" ;
         ex:bike_stands  30 ;
         geo:lat         39.4446390082756e0 ;
         geo:lng         -0.37599308454911e0 ;
@@ -148,6 +165,7 @@
 
 <ex:station_131_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "131_CALLE SANTA AMALIA  2" ;
         ex:bike_stands  20 ;
         geo:lat         39.481385e0 ;
         geo:lng         -0.373003e0 ;
@@ -156,6 +174,7 @@
 
 <ex:station_184_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "184_CALLE_BOMBER_RAMON_DUART" ;
         ex:bike_stands  15 ;
         geo:lat         39.452750038999675e0 ;
         geo:lng         -0.365661057953976e0 ;
@@ -164,6 +183,7 @@
 
 <ex:station_59_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "059_AVDA. DE BALEARES I" ;
         ex:bike_stands  15 ;
         geo:lat         39.46305607733176e0 ;
         geo:lng         -0.354640030484729e0 ;
@@ -172,6 +192,7 @@
 
 <ex:station_247_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "247_AVDA_TRES_CRUCES_MUSICO_AYLLON" ;
         ex:bike_stands  15 ;
         geo:lat         39.46737807542721e0 ;
         geo:lng         -0.405664185821979e0 ;
@@ -180,6 +201,7 @@
 
 <ex:station_54_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "54_PASEO ALAMEDA" ;
         ex:bike_stands  20 ;
         geo:lat         39.45974606677287e0 ;
         geo:lng         -0.352781023126671e0 ;
@@ -188,6 +210,7 @@
 
 <ex:station_37_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "37_AVDA. PERIS Y VALERO" ;
         ex:bike_stands  20 ;
         geo:lat         39.46090558239442e0 ;
         geo:lng         -0.366531327258963e0 ;
@@ -196,6 +219,7 @@
 
 <ex:station_242_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "242_LA_SAFOR_AVDA_MAESTRO_RODRIGO" ;
         ex:bike_stands  15 ;
         geo:lat         39.48787514504915e0 ;
         geo:lng         -0.404288192680299e0 ;
@@ -204,6 +228,7 @@
 
 <ex:station_85_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "085_AVDA_BLASCO IBAÑEZ 1" ;
         ex:bike_stands  23 ;
         geo:lat         39.47943212926333e0 ;
         geo:lng         -0.364806069768998e0 ;
@@ -212,6 +237,7 @@
 
 <ex:station_149_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "149_AVDA. PERIS Y VALERO" ;
         ex:bike_stands  20 ;
         geo:lat         39.462902074466406e0 ;
         geo:lng         -0.361886052119026e0 ;
@@ -220,6 +246,7 @@
 
 <ex:station_80_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "080_AMADEO SAVOIA" ;
         ex:bike_stands  25 ;
         geo:lat         39.47371011075012e0 ;
         geo:lng         -0.362389059448826e0 ;
@@ -228,6 +255,7 @@
 
 <ex:station_144_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "144_CALLE_MARQUES_DE_SAN_JUAN" ;
         ex:bike_stands  15 ;
         geo:lat         39.478747117048464e0 ;
         geo:lng         -0.395571161644053e0 ;
@@ -236,6 +264,7 @@
 
 <ex:station_19_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "019_JUAN_LLORENS" ;
         ex:bike_stands  15 ;
         geo:lat         39.47433710342028e0 ;
         geo:lng         -0.391681147609965e0 ;
@@ -244,6 +273,7 @@
 
 <ex:station_197_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "197_CALLE_FONTANARS_DELS_AFORINS" ;
         ex:bike_stands  15 ;
         geo:lat         39.458152048558595e0 ;
         geo:lng         -0.392424141132886e0 ;
@@ -252,6 +282,7 @@
 
 <ex:station_207_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "207_CALLE_MILLARES_ESQ_CALLE_FEDERICO_GARCA_LORCA" ;
         ex:bike_stands  15 ;
         geo:lat         39.455361042514035e0 ;
         geo:lng         -0.381996108347568e0 ;
@@ -260,6 +291,7 @@
 
 <ex:station_14_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "014_BARÓN CARCER" ;
         ex:bike_stands  20 ;
         geo:lat         39.46893508902061e0 ;
         geo:lng         -0.379815109120643e0 ;
@@ -268,6 +300,7 @@
 
 <ex:station_192_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "192_CTRA_MALILLA" ;
         ex:bike_stands  20 ;
         geo:lat         39.45260503424732e0 ;
         geo:lng         -0.378805097289263e0 ;
@@ -276,6 +309,7 @@
 
 <ex:station_67_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "067_JUAN VERDEGUER" ;
         ex:bike_stands  14 ;
         geo:lat         39.45882806883267e0 ;
         geo:lng         -0.336888975014669e0 ;
@@ -284,6 +318,7 @@
 
 <ex:station_202_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "202_PASEO_PECHINA" ;
         ex:bike_stands  20 ;
         geo:lat         39.4761901091111e0 ;
         geo:lng         -0.393425153835504e0 ;
@@ -292,6 +327,7 @@
 
 <ex:station_255_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "255_SAN_VICENTE_MARTIR_TOMAS_DE_VILLAROYA" ;
         ex:bike_stands  18 ;
         geo:lat         39.44767101522146e0 ;
         geo:lng         -0.386120116565009e0 ;
@@ -300,6 +336,7 @@
 
 <ex:station_62_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "062_MENORCA" ;
         ex:bike_stands  20 ;
         geo:lat         39.45977907030124e0 ;
         geo:lng         -0.342242991568314e0 ;
@@ -308,6 +345,7 @@
 
 <ex:station_238_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "238_SAN_JOSE_ARTESANO_FRANCISCO_MOROTE_GREUS" ;
         ex:bike_stands  15 ;
         geo:lat         39.497417180383685e0 ;
         geo:lng         -0.394474168343446e0 ;
@@ -316,6 +354,7 @@
 
 <ex:station_45_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "45_AVDA. GRAL. URRUTIA" ;
         ex:bike_stands  15 ;
         geo:lat         39.45378704370325e0 ;
         geo:lng         -0.361946047377204e0 ;
@@ -324,6 +363,7 @@
 
 <ex:station_109_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "109_AVDA. NARANJOS" ;
         ex:bike_stands  20 ;
         geo:lat         39.47678713041781e0 ;
         geo:lng         -0.333600974859012e0 ;
@@ -332,6 +372,7 @@
 
 <ex:station_98_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "098_SANTOS JUSTO Y PASTOR" ;
         ex:bike_stands  15 ;
         geo:lat         39.46964810153237e0 ;
         geo:lng         -0.348533015740284e0 ;
@@ -340,6 +381,7 @@
 
 <ex:station_250_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "250_AVDA_TRES_CRUCES_PIO_XI" ;
         ex:bike_stands  15 ;
         geo:lat         39.45632e0 ;
         geo:lng         -0.4008977e0 ;
@@ -348,6 +390,7 @@
 
 <ex:station_104_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "104_ALBALAT DELS TARONGERS" ;
         ex:bike_stands  20 ;
         geo:lat         39.47835413125328e0 ;
         geo:lng         -0.34736601693197e0 ;
@@ -356,6 +399,7 @@
 
 <ex:station_93_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "93_AVADA_BLASCO_IBAÑEZ_DESP_C_POETA_DURAN_TORTAJAD" ;
         ex:bike_stands  38 ;
         geo:lat         39.47225011180076e0 ;
         geo:lng         -0.34390000326249e0 ;
@@ -364,6 +408,7 @@
 
 <ex:station_157_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "157_AVENIDA_PEREZ_GALDOS" ;
         ex:bike_stands  20 ;
         geo:lat         39.464020069969e0 ;
         geo:lng         -0.387457129393968e0 ;
@@ -372,6 +417,7 @@
 
 <ex:station_152_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "152_C/ LITERATO AZORÍN" ;
         ex:bike_stands  15 ;
         geo:lat         39.460893064158775e0 ;
         geo:lng         -0.372796083742631e0 ;
@@ -380,6 +426,7 @@
 
 <ex:station_27_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "027_CALLE_SAN_VICENTE_MARTIR_129" ;
         ex:bike_stands  20 ;
         geo:lat         39.46333006942278e0 ;
         geo:lng         -0.381942112481819e0 ;
@@ -388,6 +435,7 @@
 
 <ex:station_188_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "188_HOSPITAL_NUEVA_FE" ;
         ex:bike_stands  40 ;
         geo:lat         39.44446300836761e0 ;
         geo:lng         -0.373882078122754e0 ;
@@ -396,6 +444,7 @@
 
 <ex:station_215_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "215_CALLE_MUSICO_AYLLON_ESQ_CALLE_FRANCISCO_DOLZ" ;
         ex:bike_stands  15 ;
         geo:lat         39.46563907240366e0 ;
         geo:lng         -0.39683915840866e0 ;
@@ -404,6 +453,7 @@
 
 <ex:station_22_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "022_JUAN_LLORENS_57" ;
         ex:bike_stands  15 ;
         geo:lat         39.469755089002845e0 ;
         geo:lng         -0.388444135439494e0 ;
@@ -412,6 +462,7 @@
 
 <ex:station_268_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "268_PZA_LUIS_CANO_5" ;
         ex:bike_stands  10 ;
         geo:lat         39.50141318615774e0 ;
         geo:lng         -0.418584242795808e0 ;
@@ -420,6 +471,7 @@
 
 <ex:station_75_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "075_CAMPOAMOR I" ;
         ex:bike_stands  25 ;
         geo:lat         39.472081108680385e0 ;
         geo:lng         -0.351792026815861e0 ;
@@ -428,6 +480,7 @@
 
 <ex:station_58_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "058_PLAZA DE ESPAÑA" ;
         ex:bike_stands  20 ;
         geo:lat         39.46618607914484e0 ;
         geo:lng         -0.381677113224894e0 ;
@@ -436,6 +489,7 @@
 
 <ex:station_210_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "210_CALLE_CAMPOS_CRESPO_ESQ_CALLE_JUAN_DE_GARAY" ;
         ex:bike_stands  15 ;
         geo:lat         39.45552103825903e0 ;
         geo:lng         -0.396807152864784e0 ;
@@ -444,6 +498,7 @@
 
 <ex:station_263_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "263_PADRE ESTEBAN_PERNET_ANTES_CASA_MISERICORDIA" ;
         ex:bike_stands  18 ;
         geo:lat         39.46701107287583e0 ;
         geo:lng         -0.409735197841415e0 ;
@@ -452,6 +507,7 @@
 
 <ex:station_70_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "70_CALLE_COLON_ESQ_ALMIRANTE_ROGER_DE_LAURIA" ;
         ex:bike_stands  17 ;
         geo:lat         39.469181e0 ;
         geo:lng         -0.371737e0 ;
@@ -460,6 +516,7 @@
 
 <ex:station_246_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "246_AVDA_TRES_CRUCES_ENTRADA_HOSPITAL_GENERAL" ;
         ex:bike_stands  20 ;
         geo:lat         39.46905808079698e0 ;
         geo:lng         -0.406600189533111e0 ;
@@ -468,6 +525,7 @@
 
 <ex:station_53_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "53_C/ LUIS GARCIA BERLANGA" ;
         ex:bike_stands  25 ;
         geo:lat         39.456732058086e0 ;
         geo:lng         -0.348230007860048e0 ;
@@ -476,6 +534,7 @@
 
 <ex:station_117_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "117_PRIMADO REIG" ;
         ex:bike_stands  30 ;
         geo:lat         39.47921913101099e0 ;
         geo:lng         -0.357156046729095e0 ;
@@ -484,6 +543,7 @@
 
 <ex:station_112_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "112_AVDA. DE LOS NARANJOS" ;
         ex:bike_stands  40 ;
         geo:lat         39.47854813352072e0 ;
         geo:lng         -0.342366002058633e0 ;
@@ -492,6 +552,7 @@
 
 <ex:station_165_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "165_PAVIA 2" ;
         ex:bike_stands  20 ;
         geo:lat         39.47137711508329e0 ;
         geo:lng         -0.324660945171817e0 ;
@@ -500,6 +561,7 @@
 
 <ex:station_5_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "005_PINTOR_LOPEZ_PZA_POETA_LLORENTE" ;
         ex:bike_stands  15 ;
         geo:lat         39.4768631185303e0 ;
         geo:lng         -0.371231087646942e0 ;
@@ -508,6 +570,7 @@
 
 <ex:station_160_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "160_JOSE MARIA DE HARO" ;
         ex:bike_stands  20 ;
         geo:lat         39.46730409669327e0 ;
         geo:lng         -0.33907198613268e0 ;
@@ -516,6 +579,7 @@
 
 <ex:station_228_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "228_AVDA_NICASIO_BENLLOCH_ESQ_CALLE_L'HORTA_SUD" ;
         ex:bike_stands  15 ;
         geo:lat         39.49366016633798e0 ;
         geo:lng         -0.398762179196655e0 ;
@@ -524,6 +588,7 @@
 
 <ex:station_35_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "35_C/ DUQUE DE CALABRIA" ;
         ex:bike_stands  20 ;
         geo:lat         39.46371707553277e0 ;
         geo:lng         -0.367085068143159e0 ;
@@ -532,6 +597,7 @@
 
 <ex:station_18_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "018_COLON II" ;
         ex:bike_stands  24 ;
         geo:lat         39.46815908853249e0 ;
         geo:lng         -0.373220088928677e0 ;
@@ -540,6 +606,7 @@
 
 <ex:station_196_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "196_AVDA_GASPAR_AGUILAR" ;
         ex:bike_stands  15 ;
         geo:lat         39.4595430546337e0 ;
         geo:lng         -0.388157129082296e0 ;
@@ -548,6 +615,7 @@
 
 <ex:station_223_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "223_CALLE_VALLE_BALLESTERA_ESQ_PLAZA_POLICIA_LOCAL" ;
         ex:bike_stands  20 ;
         geo:lat         39.47852611446744e0 ;
         geo:lng         -0.40127817864509e0 ;
@@ -556,6 +624,7 @@
 
 <ex:station_30_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "030_CIRILO AMOROS" ;
         ex:bike_stands  20 ;
         geo:lat         39.468569091411034e0 ;
         geo:lng         -0.368590075268948e0 ;
@@ -564,6 +633,7 @@
 
 <ex:station_276_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "276_EDIFICIO_VELES_E_VENTS" ;
         ex:bike_stands  20 ;
         geo:lat         39.4619430835605e0 ;
         geo:lng         -0.323855937664754e0 ;
@@ -572,6 +642,7 @@
 
 <ex:station_13_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "013_PZA. ALFONSO MAGNANIMO_CON_CALLE_LA_NAVE" ;
         ex:bike_stands  24 ;
         geo:lat         39.472030102316914e0 ;
         geo:lng         -0.370965084251257e0 ;
@@ -580,6 +651,7 @@
 
 <ex:station_83_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "83_PZA. DE LA LEGIÓN ESPAÑOLA" ;
         ex:bike_stands  25 ;
         geo:lat         39.47755312220108e0 ;
         geo:lng         -0.367061075518166e0 ;
@@ -588,6 +660,7 @@
 
 <ex:station_259_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "259_CALLE_PIO_IX_POLIDEPORTIVO_RAMBLETA" ;
         ex:bike_stands  20 ;
         geo:lat         39.44542800538199e0 ;
         geo:lng         -0.393106136312086e0 ;
@@ -596,6 +669,7 @@
 
 <ex:station_66_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "066_GUILLEN DE ANGLESOLA" ;
         ex:bike_stands  25 ;
         geo:lat         39.46423908400446e0 ;
         geo:lng         -0.346352006288128e0 ;
@@ -604,6 +678,7 @@
 
 <ex:station_271_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "271_CALLE_SALVADOR_CERVERÓ_CALLE_CARLOS_CORTINA" ;
         ex:bike_stands  15 ;
         geo:lat         39.499247187993085e0 ;
         geo:lng         -0.389982155850781e0 ;
@@ -612,6 +687,7 @@
 
 <ex:station_254_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "254_AVDA_DR_TOMAS_SALA_CARTEROS" ;
         ex:bike_stands  19 ;
         geo:lat         39.44768201399717e0 ;
         geo:lng         -0.39000812823506e0 ;
@@ -620,6 +696,7 @@
 
 <ex:station_61_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "061_VICENTE VIDAL" ;
         ex:bike_stands  20 ;
         geo:lat         39.46126107345635e0 ;
         geo:lng         -0.347921009381426e0 ;
@@ -628,6 +705,7 @@
 
 <ex:station_125_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "125_C/ MASQUEFA" ;
         ex:bike_stands  15 ;
         geo:lat         39.489661165707126e0 ;
         geo:lng         -0.358709056987903e0 ;
@@ -636,6 +714,7 @@
 
 <ex:station_178_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "178_CALLE_REIG_GENOVES" ;
         ex:bike_stands  20 ;
         geo:lat         39.492184170392264e0 ;
         geo:lng         -0.37059709396399e0 ;
@@ -644,6 +723,7 @@
 
 <ex:station_120_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "120_C_DR VICENTE ZARAGOZA" ;
         ex:bike_stands  18 ;
         geo:lat         39.484848148381595e0 ;
         geo:lng         -0.362137064678155e0 ;
@@ -652,6 +732,7 @@
 
 <ex:station_173_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "173_AVENIDA_PIO_XII_34" ;
         ex:bike_stands  20 ;
         geo:lat         39.48450913674717e0 ;
         geo:lng         -0.394769162326153e0 ;
@@ -660,6 +741,7 @@
 
 <ex:station_48_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "48_AVDA. ANTONIO FERRANDIS" ;
         ex:bike_stands  20 ;
         geo:lat         39.450775142005085e0 ;
         geo:lng         -0.358643429344464e0 ;
@@ -668,6 +750,7 @@
 
 <ex:station_236_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "236_RIO_SEGRE_RAFAEL_COMPANY" ;
         ex:bike_stands  15 ;
         geo:lat         39.495034176224834e0 ;
         geo:lng         -0.382369130775341e0 ;
@@ -676,6 +759,7 @@
 
 <ex:station_43_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "43_C/ DE ORIENTE" ;
         ex:bike_stands  20 ;
         geo:lat         39.45944506301512e0 ;
         geo:lng         -0.361244048329219e0 ;
@@ -684,6 +768,7 @@
 
 <ex:station_219_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "219_CALLE_CASTAN_TOBEÑAS_ESQ_CALLE_VELAZQUEZ" ;
         ex:bike_stands  18 ;
         geo:lat         39.472789e0 ;
         geo:lng         -0.401684e0 ;
@@ -692,6 +777,7 @@
 
 <ex:station_26_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "026_CALLE_SAN_JOSE_DE_CALASANZ" ;
         ex:bike_stands  15 ;
         geo:lat         39.46616307762487e0 ;
         geo:lng         -0.386143126606345e0 ;
@@ -700,6 +786,7 @@
 
 <ex:station_79_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "079_AVDA. ARAGON II" ;
         ex:bike_stands  20 ;
         geo:lat         39.47274710913562e0 ;
         geo:lng         -0.357333043778256e0 ;
@@ -708,6 +795,7 @@
 
 <ex:station_231_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "231_CALLE_DE_ALCAÑIZ_ESQ_CALLE_CAMBRILS" ;
         ex:bike_stands  15 ;
         geo:lat         39.495040177417366e0 ;
         geo:lng         -0.378712119815713e0 ;
@@ -716,6 +804,7 @@
 
 <ex:station_21_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "021_JUAN_LLORENS_29" ;
         ex:bike_stands  16 ;
         geo:lat         39.4723390971218e0 ;
         geo:lng         -0.390305142409828e0 ;
@@ -724,6 +813,7 @@
 
 <ex:station_91_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "091_CALLE_GRABADOR_JORDAN_46_PLAZA_ESCULTOR_PASTOR" ;
         ex:bike_stands  15 ;
         geo:lat         39.444093009140374e0 ;
         geo:lng         -0.367664059275921e0 ;
@@ -732,6 +822,7 @@
 
 <ex:station_267_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "267_C_BENIFERRI_VICENTE_TOMAS_MARTI" ;
         ex:bike_stands  16 ;
         geo:lat         39.4941361656198e0 ;
         geo:lng         -0.406020201221407e0 ;
@@ -740,6 +831,7 @@
 
 <ex:station_74_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "074_PLAZA SAN FELIPE NERI" ;
         ex:bike_stands  20 ;
         geo:lat         39.469917100728054e0 ;
         geo:lng         -0.353825031741888e0 ;
@@ -748,6 +840,7 @@
 
 <ex:station_138_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "138_SAN_PANCRACIO" ;
         ex:bike_stands  20 ;
         geo:lat         39.48815815241352e0 ;
         geo:lng         -0.384313132924836e0 ;
@@ -756,6 +849,7 @@
 
 <ex:station_262_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "262_AVDA_TRES_FORQUES_COLONIA_ESPANOLA_DE_MEXICO" ;
         ex:bike_stands  20 ;
         geo:lat         39.46344006095387e0 ;
         geo:lng         -0.409316194664879e0 ;
@@ -764,6 +858,7 @@
 
 <ex:station_133_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "133_C/ ALFAMBRA" ;
         ex:bike_stands  15 ;
         geo:lat         39.48272413676827e0 ;
         geo:lng         -0.375973105008805e0 ;
@@ -772,6 +867,7 @@
 
 <ex:station_186_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "186_CALLE_INGENIERO_JOAQUIN_BENLLOCH" ;
         ex:bike_stands  14 ;
         geo:lat         39.450359028192096e0 ;
         geo:lng         -0.374106081983545e0 ;
@@ -780,6 +876,7 @@
 
 <ex:station_169_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "169_PAVIA 4" ;
         ex:bike_stands  20 ;
         geo:lat         39.478753139905066e0 ;
         geo:lng         -0.324735949373236e0 ;
@@ -788,6 +885,7 @@
 
 <ex:station_249_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "249_AVDA_TRES_CRUCES_SEGUNDA_REPUBLICA_ESPAÑOLA" ;
         ex:bike_stands  15 ;
         geo:lat         39.459474049657025e0 ;
         geo:lng         -0.402831173069948e0 ;
@@ -796,6 +894,7 @@
 
 <ex:station_181_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "181_CALLE_DEL_SALINAR" ;
         ex:bike_stands  15 ;
         geo:lat         39.45796705574948e0 ;
         geo:lng         -0.368282068629998e0 ;
@@ -804,6 +903,7 @@
 
 <ex:station_9_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "009_PLAZA_TETUAN_4" ;
         ex:bike_stands  25 ;
         geo:lat         39.474323110354575e0 ;
         geo:lng         -0.370021082654504e0 ;
@@ -812,6 +912,7 @@
 
 <ex:station_56_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "56_AVDA. DE FRANCIA" ;
         ex:bike_stands  15 ;
         geo:lat         39.45838906488428e0 ;
         geo:lng         -0.344495997567289e0 ;
@@ -820,6 +921,7 @@
 
 <ex:station_39_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "39_AVDA. PERIS Y VALERO" ;
         ex:bike_stands  19 ;
         geo:lat         39.457822053401024e0 ;
         geo:lng         -0.374022085762198e0 ;
@@ -828,6 +930,7 @@
 
 <ex:station_244_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "244_AVDA_PIO_BAROJA_VALLE_DE_LA_BALLESTERA" ;
         ex:bike_stands  20 ;
         geo:lat         39.47847411270088e0 ;
         geo:lng         -0.406227193465013e0 ;
@@ -836,6 +939,7 @@
 
 <ex:station_4_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "004_PLAZA_DE_LA_VIRGEN_CALLE_BAILIA" ;
         ex:bike_stands  25 ;
         geo:lat         39.476715116676885e0 ;
         geo:lng         -0.375433100164395e0 ;
@@ -844,6 +948,7 @@
 
 <ex:station_51_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "51_PSO. DE LAS MORERAS" ;
         ex:bike_stands  20 ;
         geo:lat         39.45215104293519e0 ;
         geo:lng         -0.347318002649104e0 ;
@@ -852,6 +957,7 @@
 
 <ex:station_227_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "227_CALLE_SAN_CLEMENTE_ENTRA_HOSPITAL_ARNAU_VILANO" ;
         ex:bike_stands  20 ;
         geo:lat         39.490216153353934e0 ;
         geo:lng         -0.403022190134151e0 ;
@@ -860,6 +966,7 @@
 
 <ex:station_34_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "34_AVDA. ANTIGUO REINO DE VALENCIA" ;
         ex:bike_stands  17 ;
         geo:lat         39.46409007583113e0 ;
         geo:lng         -0.370052077239064e0 ;
@@ -868,6 +975,7 @@
 
 <ex:station_87_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "87_AVDA BLASCO IBAÑEZ 2" ;
         ex:bike_stands  33 ;
         geo:lat         39.47848612698768e0 ;
         geo:lng         -0.361971060764256e0 ;
@@ -876,6 +984,7 @@
 
 <ex:station_222_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "222_AVDA_MAESTRO_RODRIGO_ESQ_AVDA_MANUEL_DE_FALLA" ;
         ex:bike_stands  20 ;
         geo:lat         39.47686111010473e0 ;
         geo:lng         -0.397373166037864e0 ;
@@ -884,6 +993,7 @@
 
 <ex:station_275_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "275_CAMINO_DE_LAS_MORERAS_ESQ_RONDA_DE_NAZARET" ;
         ex:bike_stands  20 ;
         geo:lat         39.452273047299634e0 ;
         geo:lng         -0.33515596627555e0 ;
@@ -892,6 +1002,7 @@
 
 <ex:station_82_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "082_GUILLEN_DE_CASTRO_TORRES_DE_QUART" ;
         ex:bike_stands  15 ;
         geo:lat         39.47602411158443e0 ;
         geo:lng         -0.384005125495213e0 ;
@@ -900,6 +1011,7 @@
 
 <ex:station_146_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "146_AVDA. CAMPANAR" ;
         ex:bike_stands  26 ;
         geo:lat         39.48507813986351e0 ;
         geo:lng         -0.391043151456223e0 ;
@@ -908,6 +1020,7 @@
 
 <ex:station_129_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "129_C_ALMAZORA" ;
         ex:bike_stands  20 ;
         geo:lat         39.485943149532034e0 ;
         geo:lng         -0.37003608893869e0 ;
@@ -916,6 +1029,7 @@
 
 <ex:station_199_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "199_CALLE_BEATO_NICOLAS_FACTOR" ;
         ex:bike_stands  15 ;
         geo:lat         39.461556060298705e0 ;
         geo:lng         -0.391649140641673e0 ;
@@ -924,6 +1038,7 @@
 
 <ex:station_270_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "270_CALLE_NINOT_ESQ_PZA_REGINO_MAS" ;
         ex:bike_stands  16 ;
         geo:lat         39.50004318971825e0 ;
         geo:lng         -0.392980165265021e0 ;
@@ -932,6 +1047,7 @@
 
 <ex:station_141_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "141_C/ GREGORIO GEA (PEATONAL)" ;
         ex:bike_stands  20 ;
         geo:lat         39.48323613551247e0 ;
         geo:lng         -0.385247133088568e0 ;
@@ -940,6 +1056,7 @@
 
 <ex:station_209_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "209_AVDA_GASPAR_AGUILAR_ESQ_CALLE_MUSICO_PENELLA" ;
         ex:bike_stands  18 ;
         geo:lat         39.45205002773928e0 ;
         geo:lng         -0.393106139888379e0 ;
@@ -948,6 +1065,7 @@
 
 <ex:station_16_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "016_COLON I" ;
         ex:bike_stands  20 ;
         geo:lat         39.47006009581504e0 ;
         geo:lng         -0.370524081869223e0 ;
@@ -956,6 +1074,7 @@
 
 <ex:station_194_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "194_ESTACION_AVE_JOAQUIN_SOROLLA" ;
         ex:bike_stands  40 ;
         geo:lat         39.46098606179716e0 ;
         geo:lng         -0.381065108588874e0 ;
@@ -964,6 +1083,7 @@
 
 <ex:station_177_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "177_CALLE_ALCUDIA" ;
         ex:bike_stands  15 ;
         geo:lat         39.493513173915595e0 ;
         geo:lng         -0.373579103612918e0 ;
@@ -972,6 +1092,7 @@
 
 <ex:station_204_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "204_AVDA_GENERAL_AVILES" ;
         ex:bike_stands  20 ;
         geo:lat         39.48581114052686e0 ;
         geo:lng         -0.396678168748875e0 ;
@@ -980,6 +1101,7 @@
 
 <ex:station_11_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "011_PZA_AYTO_CON_CALLE_COTANDA" ;
         ex:bike_stands  27 ;
         geo:lat         39.471154097455006e0 ;
         geo:lng         -0.376875101498657e0 ;
@@ -988,6 +1110,7 @@
 
 <ex:station_257_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "257_PLAZA_SALVADOR_SORIA_ESQ_PIO_X" ;
         ex:bike_stands  20 ;
         geo:lat         39.44521900594571e0 ;
         geo:lng         -0.389195124464717e0 ;
@@ -996,6 +1119,7 @@
 
 <ex:station_172_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "172_AVENIDA_PIO_XII" ;
         ex:bike_stands  20 ;
         geo:lat         39.481430126787565e0 ;
         geo:lng         -0.39343615667867e0 ;
@@ -1004,6 +1128,7 @@
 
 <ex:station_47_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "47_AVDA. AUTOPISTA DEL SALER" ;
         ex:bike_stands  20 ;
         geo:lat         39.45648005487459e0 ;
         geo:lng         -0.355509029538065e0 ;
@@ -1012,6 +1137,7 @@
 
 <ex:station_252_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "252_DE_LOS_GREMIOS_CAMPOS_CRESPO" ;
         ex:bike_stands  20 ;
         geo:lat         39.450256018261534e0 ;
         geo:lng         -0.4036651706049e0 ;
@@ -1020,6 +1146,7 @@
 
 <ex:station_235_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "235_CONDE_DE_TORREFIEL_CECILIO_PLA" ;
         ex:bike_stands  15 ;
         geo:lat         39.49801318789519e0 ;
         geo:lng         -0.377294117154526e0 ;
@@ -1028,6 +1155,7 @@
 
 <ex:station_42_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "42_AVDA. DE LA PLATA" ;
         ex:bike_stands  20 ;
         geo:lat         39.45874906147631e0 ;
         geo:lng         -0.358749040474832e0 ;
@@ -1036,6 +1164,7 @@
 
 <ex:station_106_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "106_AVDA. DE LOS NARANJOS" ;
         ex:bike_stands  25 ;
         geo:lat         39.47671212762051e0 ;
         geo:lng         -0.341477998410525e0 ;
@@ -1044,6 +1173,7 @@
 
 <ex:station_95_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "95_AVDA. DE LOS NARANJOS" ;
         ex:bike_stands  33 ;
         geo:lat         39.479803136509446e0 ;
         geo:lng         -0.34621001424835e0 ;
@@ -1052,6 +1182,7 @@
 
 <ex:station_159_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "159_FRANCISCO CUBELLS" ;
         ex:bike_stands  17 ;
         geo:lat         39.46341708497314e0 ;
         geo:lng         -0.334812971276553e0 ;
@@ -1060,6 +1191,7 @@
 
 <ex:station_230_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "230_CALLE_POETA_SERRANO_CLAVERO_EQ_GENERAL_LLORENS" ;
         ex:bike_stands  15 ;
         geo:lat         39.494718173715064e0 ;
         geo:lng         -0.386875144115863e0 ;
@@ -1068,6 +1200,7 @@
 
 <ex:station_101_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "101_AVDA. BLASCO IBAÑEZ 10" ;
         ex:bike_stands  30 ;
         geo:lat         39.470036107395714e0 ;
         geo:lng         -0.334451973768557e0 ;
@@ -1076,6 +1209,7 @@
 
 <ex:station_90_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "90_AVDA. BLASCO IBAÑEZ" ;
         ex:bike_stands  40 ;
         geo:lat         39.47670212191253e0 ;
         geo:lng         -0.35905805107551e0 ;
@@ -1084,6 +1218,7 @@
 
 <ex:station_154_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "154_PESCADORES" ;
         ex:bike_stands  15 ;
         geo:lat         39.46984410830488e0 ;
         geo:lng         -0.329644959268791e0 ;
@@ -1092,6 +1227,7 @@
 
 <ex:station_137_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "137_CALLE_ECONOMISTA_GAY" ;
         ex:bike_stands  20 ;
         geo:lat         39.489001156645486e0 ;
         geo:lng         -0.379987120406342e0 ;
@@ -1100,6 +1236,7 @@
 
 <ex:station_217_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "217_CALLE_9_DE_OCTUBRE_ESQ_CALLE_PINTOR_STOLZ" ;
         ex:bike_stands  25 ;
         geo:lat         39.47029608559258e0 ;
         geo:lng         -0.404687184457659e0 ;
@@ -1108,6 +1245,7 @@
 
 <ex:station_24_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "024_GRAN_VIA_RAMON_Y_CAJAL" ;
         ex:bike_stands  20 ;
         geo:lat         39.469045088002915e0 ;
         geo:lng         -0.384118122083548e0 ;
@@ -1116,6 +1254,7 @@
 
 <ex:station_185_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "185_AVDA_AUSIAS_MARCH" ;
         ex:bike_stands  15 ;
         geo:lat         39.45001202816097e0 ;
         geo:lng         -0.37059407126453e0 ;
@@ -1124,6 +1263,7 @@
 
 <ex:station_212_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "212_CALLE_FRAY_JUANÍPERO_SERRA_ESQ_CALLE_TORRENTE" ;
         ex:bike_stands  15 ;
         geo:lat         39.461452057092146e0 ;
         geo:lng         -0.40048716710112e0 ;
@@ -1132,6 +1272,7 @@
 
 <ex:station_265_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "265_C_ALCASSER_POETA_ALBERTO_LISTA" ;
         ex:bike_stands  15 ;
         geo:lat         39.470941086635776e0 ;
         geo:lng         -0.408208195369257e0 ;
@@ -1140,6 +1281,7 @@
 
 <ex:station_180_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "180_AVENIDA_DOCTOR_WAKSMAN" ;
         ex:bike_stands  20 ;
         geo:lat         39.45598904826899e0 ;
         geo:lng         -0.370774075033782e0 ;
@@ -1148,6 +1290,7 @@
 
 <ex:station_248_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "248_AVDA_TRES_CRUCES_JOSE_MARIA_MORTES_LERMA" ;
         ex:bike_stands  20 ;
         geo:lat         39.46280806019345e0 ;
         geo:lng         -0.40506018155276e0 ;
@@ -1156,6 +1299,7 @@
 
 <ex:station_55_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "55_AVDA. DE FRANCIA" ;
         ex:bike_stands  25 ;
         geo:lat         39.45931106660426e0 ;
         geo:lng         -0.348777010892994e0 ;
@@ -1164,6 +1308,7 @@
 
 <ex:station_119_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "119_C/ JAIME ROIG" ;
         ex:bike_stands  20 ;
         geo:lat         39.48248814004604e0 ;
         geo:lng         -0.363317066947724e0 ;
@@ -1172,6 +1317,7 @@
 
 <ex:station_260_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "260_DELS_FERRERS_ESQ_TRAGINERS" ;
         ex:bike_stands  20 ;
         geo:lat         39.45952404837945e0 ;
         geo:lng         -0.407308186532079e0 ;
@@ -1180,6 +1326,7 @@
 
 <ex:station_243_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "243_ALBACETE_ESQ_MALUQUER" ;
         ex:bike_stands  18 ;
         geo:lat         39.46278806672407e0 ;
         geo:lng         -0.384633120260506e0 ;
@@ -1188,6 +1335,7 @@
 
 <ex:station_50_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "50_AVDA. AUTOPISTA DEL SALER" ;
         ex:bike_stands  40 ;
         geo:lat         39.453286044933414e0 ;
         geo:lng         -0.352950020141597e0 ;
@@ -1196,6 +1344,7 @@
 
 <ex:station_114_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "114_ADOLFO SUAREZ" ;
         ex:bike_stands  30 ;
         geo:lat         39.481772142992675e0 ;
         geo:lng         -0.346682016720988e0 ;
@@ -1204,6 +1353,7 @@
 
 <ex:station_167_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "167_PAVIA 3" ;
         ex:bike_stands  20 ;
         geo:lat         39.4748761268572e0 ;
         geo:lng         -0.324700947178956e0 ;
@@ -1212,6 +1362,7 @@
 
 <ex:station_7_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "007_PZA_DEL_MERCADO_TAULA_DE_CANVIS" ;
         ex:bike_stands  20 ;
         geo:lat         39.474840109114226e0 ;
         geo:lng         -0.379276110679168e0 ;
@@ -1220,6 +1371,7 @@
 
 <ex:station_162_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "162_PZA. ARMADA ESPAÑOLA" ;
         ex:bike_stands  19 ;
         geo:lat         39.46357208709311e0 ;
         geo:lng         -0.32988595660341e0 ;
@@ -1228,6 +1380,7 @@
 
 <ex:station_145_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "145_PLAZA_BADAJOZ" ;
         ex:bike_stands  15 ;
         geo:lat         39.481515125451246e0 ;
         geo:lng         -0.398486171871458e0 ;
@@ -1236,6 +1389,7 @@
 
 <ex:station_198_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "198_CALLE_FONTANARS_DELS_AFORINS" ;
         ex:bike_stands  20 ;
         geo:lat         39.460848056694466e0 ;
         geo:lng         -0.3954071515343e0 ;
@@ -1244,6 +1398,7 @@
 
 <ex:station_2_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "002_CALLE_SALVADOR_GINER_CALLE_MUSEO" ;
         ex:bike_stands  15 ;
         geo:lat         39.4798571258551e0 ;
         geo:lng         -0.379839115061075e0 ;
@@ -1252,6 +1407,7 @@
 
 <ex:station_225_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "225_CALLE_PADRE_BARRANCO_DESPUES_CALLE_BENIFAIRO" ;
         ex:bike_stands  20 ;
         geo:lat         39.48807514670377e0 ;
         geo:lng         -0.401233183623003e0 ;
@@ -1260,6 +1416,7 @@
 
 <ex:station_32_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "032_C/ CONDE DE ALTEA" ;
         ex:bike_stands  20 ;
         geo:lat         39.4659740827401e0 ;
         geo:lng         -0.368338073115823e0 ;
@@ -1268,6 +1425,7 @@
 
 <ex:station_208_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "208_CALLE_CARTEROS_ESQ_CALLE_MOSSEN_FEBRER" ;
         ex:bike_stands  20 ;
         geo:lat         39.451660027860314e0 ;
         geo:lng         -0.38866912636635e0 ;
@@ -1276,6 +1434,7 @@
 
 <ex:station_15_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "015_RIBERA" ;
         ex:bike_stands  34 ;
         geo:lat         39.469056090688554e0 ;
         geo:lng         -0.375728096943875e0 ;
@@ -1284,6 +1443,7 @@
 
 <ex:station_193_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "193_CALLE_CARTEROS" ;
         ex:bike_stands  20 ;
         geo:lat         39.4551140401216e0 ;
         geo:lng         -0.38680912265075e0 ;
@@ -1292,6 +1452,7 @@
 
 <ex:station_68_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "068_AVDA. DEL PUERTO IV" ;
         ex:bike_stands  20 ;
         geo:lat         39.46277108052299e0 ;
         geo:lng         -0.341823991929563e0 ;
@@ -1300,6 +1461,7 @@
 
 <ex:station_220_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "220_CALLE_CASTAN_TOBEÑAS_ESQ_CALLE_DE_GOYA" ;
         ex:bike_stands  16 ;
         geo:lat         39.473823099518064e0 ;
         geo:lng         -0.398412167524643e0 ;
@@ -1308,6 +1470,7 @@
 
 <ex:station_10_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "010_CALLE_DEL_HOSPITAL_FRENTE_CALLE_HORNO_DEL_HOSP" ;
         ex:bike_stands  15 ;
         geo:lat         39.47078409432719e0 ;
         geo:lng         -0.382701118769287e0 ;
@@ -1316,6 +1479,7 @@
 
 <ex:station_203_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "203_CALLE_REINA_VIOLANTE" ;
         ex:bike_stands  15 ;
         geo:lat         39.48457713488814e0 ;
         geo:lng         -0.401273181871356e0 ;
@@ -1324,6 +1488,7 @@
 
 <ex:station_273_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "273_CALLE_MORAIRA_CALLE_DALT_DE_LA_MAR" ;
         ex:bike_stands  15 ;
         geo:lat         39.450273041140704e0 ;
         geo:lng         -0.33336295982062e0 ;
@@ -1332,6 +1497,7 @@
 
 <ex:station_256_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "256_AVDA_TRES_FORQUES_TURIS" ;
         ex:bike_stands  15 ;
         geo:lat         39.4639310680958e0 ;
         geo:lng         -0.392326143951058e0 ;
@@ -1340,6 +1506,7 @@
 
 <ex:station_63_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "063_AVDA. DEL PUERTO I" ;
         ex:bike_stands  20 ;
         geo:lat         39.467747091898616e0 ;
         geo:lng         -0.358505044597536e0 ;
@@ -1348,6 +1515,7 @@
 
 <ex:station_127_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "127_C/ DUQUE DE MANDAS" ;
         ex:bike_stands  20 ;
         geo:lat         39.49055916686075e0 ;
         geo:lng         -0.36453707493258e0 ;
@@ -1356,6 +1524,7 @@
 
 <ex:station_251_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "251_ARQUITECTO_SEGURA_LAGO_CAMINO_NUEVO_DE_PICAÑA" ;
         ex:bike_stands  15 ;
         geo:lat         39.45579803670432e0 ;
         geo:lng         -0.404504176110588e0 ;
@@ -1364,6 +1533,7 @@
 
 <ex:station_122_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "122_C_MÚSICO HIPÓLITO MARTÍNEZ" ;
         ex:bike_stands  15 ;
         geo:lat         39.48445314961921e0 ;
         geo:lng         -0.354157040555065e0 ;
@@ -1372,6 +1542,7 @@
 
 <ex:station_175_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "175_CALLE_JUAN_XXIII" ;
         ex:bike_stands  15 ;
         geo:lat         39.49255716773316e0 ;
         geo:lng         -0.382803130751858e0 ;
@@ -1380,6 +1551,7 @@
 
 <ex:station_158_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "158_DR.LLUNCH" ;
         ex:bike_stands  15 ;
         geo:lat         39.46666609819163e0 ;
         geo:lng         -0.327809952057852e0 ;
@@ -1388,6 +1560,7 @@
 
 <ex:station_170_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "170_PAVIA 5" ;
         ex:bike_stands  20 ;
         geo:lat         39.48294115378812e0 ;
         geo:lng         -0.325424953690914e0 ;
@@ -1396,6 +1569,7 @@
 
 <ex:station_153_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "153_C/ LLANO DE ZAIDA" ;
         ex:bike_stands  24 ;
         geo:lat         39.483026e0 ;
         geo:lng         -0.380682e0 ;
@@ -1404,6 +1578,7 @@
 
 <ex:station_28_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "028_NAVARRO REVERTE" ;
         ex:bike_stands  29 ;
         geo:lat         39.47155010170615e0 ;
         geo:lng         -0.367842074631205e0 ;
@@ -1412,6 +1587,7 @@
 
 <ex:station_233_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "233_SAN_JUAN_BOSCO_SANTIAGO_RUSIÑOL" ;
         ex:bike_stands  15 ;
         geo:lat         39.497128187401e0 ;
         geo:lng         -0.369528093405798e0 ;
@@ -1420,6 +1596,7 @@
 
 <ex:station_40_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "40_CALLE_BARCAS_FRENTE _TEATRO_PRINCIPAL" ;
         ex:bike_stands  26 ;
         geo:lat         39.470434095658966e0 ;
         geo:lng         -0.374915095234885e0 ;
@@ -1428,6 +1605,7 @@
 
 <ex:station_216_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "216_AVDA_DEL_CID_ESQ_CALLE_BURGOS" ;
         ex:bike_stands  17 ;
         geo:lat         39.46913e0 ;
         geo:lng         -0.399552e0 ;
@@ -1436,6 +1614,7 @@
 
 <ex:station_23_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "023_GRAN_VIA_FERNANDO_EL_CATOLICO" ;
         ex:bike_stands  19 ;
         geo:lat         39.47159609591605e0 ;
         geo:lng         -0.3862691299059e0 ;
@@ -1444,6 +1623,7 @@
 
 <ex:station_269_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "269_CAMPAMENTO_81" ;
         ex:bike_stands  15 ;
         geo:lat         39.499875178486775e0 ;
         geo:lng         -0.426354265293528e0 ;
@@ -1452,6 +1632,7 @@
 
 <ex:station_76_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "076_CAMPOAMOR II" ;
         ex:bike_stands  19 ;
         geo:lat         39.4700511045018e0 ;
         geo:lng         -0.343552001034738e0 ;
@@ -1460,6 +1641,7 @@
 
 <ex:station_211_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "211_CALLE_FRAY_JUNÍPERO_SERRA_ESQ_CALLE_VALL_D'UIX" ;
         ex:bike_stands  15 ;
         geo:lat         39.45869404863428e0 ;
         geo:lng         -0.397848157697943e0 ;
@@ -1468,6 +1650,7 @@
 
 <ex:station_264_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "264_AVDA_CID_ANTES_MARCONI" ;
         ex:bike_stands  20 ;
         geo:lat         39.46912807848099e0 ;
         geo:lng         -0.414523213347863e0 ;
@@ -1476,6 +1659,7 @@
 
 <ex:station_71_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "071_AVDA DEL PUERTO VI" ;
         ex:bike_stands  20 ;
         geo:lat         39.460348075016185e0 ;
         geo:lng         -0.333621966050435e0 ;
@@ -1484,6 +1668,7 @@
 
 <ex:station_135_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "135_AVDA. CONSTITUCIÓN" ;
         ex:bike_stands  20 ;
         geo:lat         39.48567014586083e0 ;
         geo:lng         -0.378592114439778e0 ;
@@ -1492,6 +1677,7 @@
 
 <ex:station_118_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "118_C/ DR. GOMEZ FERRER" ;
         ex:bike_stands  20 ;
         geo:lat         39.4804341340267e0 ;
         geo:lng         -0.360507057423573e0 ;
@@ -1500,6 +1686,7 @@
 
 <ex:station_130_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "130_C/ CONVENTO CARMELITAS" ;
         ex:bike_stands  15 ;
         geo:lat         39.48320614021858e0 ;
         geo:lng         -0.370301088264948e0 ;
@@ -1508,6 +1695,7 @@
 
 <ex:station_113_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "113_ETS CAMINOS" ;
         ex:bike_stands  38 ;
         geo:lat         39.48124414217441e0 ;
         geo:lng         -0.343702007510602e0 ;
@@ -1516,6 +1704,7 @@
 
 <ex:station_183_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "183_AVDA_AUSIAS_MARCH" ;
         ex:bike_stands  18 ;
         geo:lat         39.452588036275e0 ;
         geo:lng         -0.372375077997377e0 ;
@@ -1524,6 +1713,7 @@
 
 <ex:station_166_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "166_PROGRESO" ;
         ex:bike_stands  15 ;
         geo:lat         39.47331712024639e0 ;
         geo:lng         -0.328901958917283e0 ;
@@ -1532,6 +1722,7 @@
 
 <ex:station_6_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "006_GUILLEN_CASTRO_CON_CALLE_SAN_PEDRO_PASCUAL" ;
         ex:bike_stands  15 ;
         geo:lat         39.47276610053889e0 ;
         geo:lng         -0.384174124251856e0 ;
@@ -1540,6 +1731,7 @@
 
 <ex:station_161_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "161_MEDITERRANEO" ;
         ex:bike_stands  15 ;
         geo:lat         39.467937101175984e0 ;
         geo:lng         -0.331816964744236e0 ;
@@ -1548,6 +1740,7 @@
 
 <ex:station_229_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "229_CALLE_AITANA_ESQ_AVDA_BURJASSOT" ;
         ex:bike_stands  16 ;
         geo:lat         39.49307216559276e0 ;
         geo:lng         -0.394897167291038e0 ;
@@ -1556,6 +1749,7 @@
 
 <ex:station_36_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "036_PZA_LOS_FUEROS_CONDE_TRENOR" ;
         ex:bike_stands  25 ;
         geo:lat         39.47904012448793e0 ;
         geo:lng         -0.375527101694727e0 ;
@@ -1564,6 +1758,7 @@
 
 <ex:station_241_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "241_VALL_DE_ALBAIDA_PEATONAL" ;
         ex:bike_stands  15 ;
         geo:lat         39.49294616289816e0 ;
         geo:lng         -0.401981188470323e0 ;
@@ -1572,6 +1767,7 @@
 
 <ex:station_89_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "89_AVDA. BLASCO IBAÑEZ" ;
         ex:bike_stands  30 ;
         geo:lat         39.47777012539991e0 ;
         geo:lng         -0.359409052701581e0 ;
@@ -1580,6 +1776,7 @@
 
 <ex:station_1_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "001_GUILLEN_DE_CASTRO" ;
         ex:bike_stands  25 ;
         geo:lat         39.48001e0 ;
         geo:lng         -0.38302e0 ;
@@ -1588,6 +1785,7 @@
 
 <ex:station_224_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "224_PLAZA_JOSE_MONFORTE_TUDELA_ESQ_CALLE_HERNANDEZ" ;
         ex:bike_stands  20 ;
         geo:lat         39.480536120478945e0 ;
         geo:lng         -0.403679186925212e0 ;
@@ -1596,6 +1794,7 @@
 
 <ex:station_31_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "031_CALLE SALAMANCA" ;
         ex:bike_stands  20 ;
         geo:lat         39.46733308836422e0 ;
         geo:lng         -0.365119064198398e0 ;
@@ -1604,6 +1803,7 @@
 
 <ex:station_84_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "84_SERRERIA_ESQ_PINTOR FERRER CALATAYUD" ;
         ex:bike_stands  15 ;
         geo:lat         39.46726209778759e0 ;
         geo:lng         -0.335255974679776e0 ;
@@ -1612,6 +1812,7 @@
 
 <ex:station_148_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "148_XÀTIVA_PLAZA_DE_TOROS" ;
         ex:bike_stands  35 ;
         geo:lat         39.467113e0 ;
         geo:lng         -0.375469e0 ;
@@ -1620,6 +1821,7 @@
 
 <ex:station_272_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "272_VICENTE_LA_RODA_C_INGENIERO_FAUSTO_ELIO" ;
         ex:bike_stands  15 ;
         geo:lat         39.480591143659446e0 ;
         geo:lng         -0.332280972954351e0 ;
@@ -1628,6 +1830,7 @@
 
 <ex:station_143_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "143_AVDA. MENENDEZ PIDAL" ;
         ex:bike_stands  30 ;
         geo:lat         39.47950512106764e0 ;
         geo:lng         -0.391027148421504e0 ;
@@ -1636,6 +1839,7 @@
 
 <ex:station_126_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "126_C/ ALFAUIR" ;
         ex:bike_stands  20 ;
         geo:lat         39.493066176705305e0 ;
         geo:lng         -0.36019506326505e0 ;
@@ -1644,6 +1848,7 @@
 
 <ex:station_179_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "179_AVENIDA_DE_LA_PLATA_45" ;
         ex:bike_stands  23 ;
         geo:lat         39.455440047796785e0 ;
         geo:lng         -0.366517061973888e0 ;
@@ -1652,6 +1857,7 @@
 
 <ex:station_206_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "206_CALLE_PERIODISTA_GIL_SUMBIELA" ;
         ex:bike_stands  15 ;
         geo:lat         39.49268016612935e0 ;
         geo:lng         -0.389098149691761e0 ;
@@ -1660,6 +1866,7 @@
 
 <ex:station_121_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "121_C_MURTA" ;
         ex:bike_stands  15 ;
         geo:lat         39.48615015382428e0 ;
         geo:lng         -0.358862055563278e0 ;
@@ -1668,6 +1875,7 @@
 
 <ex:station_191_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "191_CTRA_MALILLA" ;
         ex:bike_stands  15 ;
         geo:lat         39.450297026408926e0 ;
         geo:lng         -0.378957096498364e0 ;
@@ -1676,6 +1884,7 @@
 
 <ex:station_174_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "174_CALLE_MONDUBER" ;
         ex:bike_stands  19 ;
         geo:lat         39.48940615584413e0 ;
         geo:lng         -0.386738140863954e0 ;
@@ -1684,6 +1893,7 @@
 
 <ex:station_49_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "49_C/ RICARDO MUÑOZ SUAY" ;
         ex:bike_stands  25 ;
         geo:lat         39.452954722176685e0 ;
         geo:lng         -0.35720111550767e0 ;
@@ -1692,6 +1902,7 @@
 
 <ex:station_201_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "201_AVDA_PEREZ_GALDOS" ;
         ex:bike_stands  20 ;
         geo:lat         39.471680093784954e0 ;
         geo:lng         -0.393759152416117e0 ;
@@ -1700,6 +1911,7 @@
 
 <ex:station_237_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "237_LEVANTE_UD_AVDA_ECUADOR" ;
         ex:bike_stands  15 ;
         geo:lat         39.4947261723789e0 ;
         geo:lng         -0.391129156875508e0 ;
@@ -1708,6 +1920,7 @@
 
 <ex:station_44_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "44_AVDA. GRAL. URRUTIA" ;
         ex:bike_stands  19 ;
         geo:lat         39.456397052131265e0 ;
         geo:lng         -0.363105052261891e0 ;
@@ -1716,6 +1929,7 @@
 
 <ex:station_108_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "108_ LUIS PEIXO" ;
         ex:bike_stands  15 ;
         geo:lat         39.47365411982902e0 ;
         geo:lng         -0.333702973476317e0 ;
@@ -1724,6 +1938,7 @@
 
 <ex:station_97_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "097_AVDA. BLASCO IBAÑEZ 7" ;
         ex:bike_stands  23 ;
         geo:lat         39.47303611466866e0 ;
         geo:lng         -0.343223001657882e0 ;
@@ -1732,6 +1947,7 @@
 
 <ex:station_232_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "232_SAN_VICENTE_DE_PAUL_SANTIAGO_RUSIÑOL" ;
         ex:bike_stands  15 ;
         geo:lat         39.49461218010229e0 ;
         geo:lng         -0.365844081019678e0 ;
@@ -1740,6 +1956,7 @@
 
 <ex:station_103_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "103_RUBEN DARIO" ;
         ex:bike_stands  15 ;
         geo:lat         39.47842112983494e0 ;
         geo:lng         -0.35246203223541e0 ;
@@ -1748,6 +1965,7 @@
 
 <ex:station_92_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "092_AVDA. DE ARAGON, 4 - ESQ AVDA BLASCO IBAÑEZ" ;
         ex:bike_stands  20 ;
         geo:lat         39.475828119933816e0 ;
         geo:lng         -0.356059041618514e0 ;
@@ -1756,6 +1974,7 @@
 
 <ex:station_156_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "156_C/ CUBA" ;
         ex:bike_stands  15 ;
         geo:lat         39.460932063112466e0 ;
         geo:lng         -0.376436094678165e0 ;
@@ -1764,6 +1983,7 @@
 
 <ex:station_139_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "139_C/ REUS" ;
         ex:bike_stands  15 ;
         geo:lat         39.48567414446925e0 ;
         geo:lng         -0.382964127549696e0 ;
@@ -1772,6 +1992,7 @@
 
 <ex:station_151_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "151_JERONIMO MONSORIU" ;
         ex:bike_stands  20 ;
         geo:lat         39.46463708827678e0 ;
         geo:lng         -0.337207979114133e0 ;
@@ -1780,6 +2001,7 @@
 
 <ex:station_134_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "134_C/ MAXIMILIANO THOUS" ;
         ex:bike_stands  20 ;
         geo:lat         39.48762415410862e0 ;
         geo:lng         -0.373430100012801e0 ;
@@ -1788,6 +2010,7 @@
 
 <ex:station_187_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "187_AVDA_AUSIAS_MARCH" ;
         ex:bike_stands  15 ;
         geo:lat         39.447928021676226e0 ;
         geo:lng         -0.368909065084874e0 ;
@@ -1796,6 +2019,7 @@
 
 <ex:station_214_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "214_CALLE_SANTA_CRUZ_DE_TENERIFE_ESQ_CALLE_LLOMBA" ;
         ex:bike_stands  15 ;
         geo:lat         39.46490006867376e0 ;
         geo:lng         -0.400667169496185e0 ;
@@ -1804,6 +2028,7 @@
 
 <ex:station_182_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "182_AVDA_AUSIAS_MARCH" ;
         ex:bike_stands  21 ;
         geo:lat         39.455400044894006e0 ;
         geo:lng         -0.375056087555512e0 ;
@@ -1812,6 +2037,7 @@
 
 <ex:station_57_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "057_CALLE PINTOR MONLEON" ;
         ex:bike_stands  20 ;
         geo:lat         39.46444408081199e0 ;
         geo:lng         -0.35834704234339e0 ;
@@ -1820,6 +2046,7 @@
 
 <ex:station_245_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "245_9_DE_OCTUBRE_CIEZA" ;
         ex:bike_stands  20 ;
         geo:lat         39.472098e0 ;
         geo:lng         -0.405361e0 ;
@@ -1828,6 +2055,7 @@
 
 <ex:station_52_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "52_C/ LUIS GARCIA BERLANGA" ;
         ex:bike_stands  25 ;
         geo:lat         39.45600205620843e0 ;
         geo:lng         -0.346431002074561e0 ;
@@ -1836,6 +2064,7 @@
 
 <ex:station_116_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "116_C/ DR. VICENTE ZARAGOZA" ;
         ex:bike_stands  15 ;
         geo:lat         39.483221144341215e0 ;
         geo:lng         -0.357652050365347e0 ;
@@ -1844,6 +2073,7 @@
 
 <ex:station_88_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "088_AVDA. BLASCO IBAÑEZ 3" ;
         ex:bike_stands  40 ;
         geo:lat         39.47748012383395e0 ;
         geo:lng         -0.361233058011854e0 ;
@@ -1852,6 +2082,7 @@
 
 <ex:station_240_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "240_CAMP_DEL_TURIA_AVDA_CORTES_VALENCIANAS" ;
         ex:bike_stands  20 ;
         geo:lat         39.494972169842995e0 ;
         geo:lng         -0.401638188523523e0 ;
@@ -1860,6 +2091,7 @@
 
 <ex:station_111_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "111_COLEGIO MAYOR" ;
         ex:bike_stands  30 ;
         geo:lat         39.480184139586505e0 ;
         geo:lng         -0.340651997804929e0 ;
@@ -1868,6 +2100,7 @@
 
 <ex:station_164_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "164_PAVIA 1" ;
         ex:bike_stands  17 ;
         geo:lat         39.468428105127856e0 ;
         geo:lng         -0.324724943771547e0 ;
@@ -1876,6 +2109,7 @@
 
 <ex:station_147_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "147_CALLE_PIE_DE_LA_CRUZ_CALLE_DE_LA_REJA" ;
         ex:bike_stands  15 ;
         geo:lat         39.473169103148095e0 ;
         geo:lng         -0.38029811284559e0 ;
@@ -1884,6 +2118,7 @@
 
 <ex:station_142_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "142_C/ GREGORIO GEA (PEATONAL)" ;
         ex:bike_stands  25 ;
         geo:lat         39.48188812951767e0 ;
         geo:lng         -0.389750145869399e0 ;
@@ -1892,6 +2127,7 @@
 
 <ex:station_17_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "017_ESTACION RENFE I" ;
         ex:bike_stands  40 ;
         geo:lat         39.467436084759534e0 ;
         geo:lng         -0.377350100922523e0 ;
@@ -1900,6 +2136,7 @@
 
 <ex:station_195_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "195_CALLE_GIORGETA" ;
         ex:bike_stands  16 ;
         geo:lat         39.45935205521343e0 ;
         geo:lng         -0.384372117626406e0 ;
@@ -1908,6 +2145,7 @@
 
 <ex:station_205_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "205_CALLE_NICASIO_BENLLOCH" ;
         ex:bike_stands  24 ;
         geo:lat         39.489255153267536e0 ;
         geo:lng         -0.393181160103781e0 ;
@@ -1916,6 +2154,7 @@
 
 <ex:station_12_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "012_CALLE_MINYANA" ;
         ex:bike_stands  20 ;
         geo:lat         39.471935e0 ;
         geo:lng         -0.374101e0 ;
@@ -1924,6 +2163,7 @@
 
 <ex:station_190_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "190_CTRA_MALILLA" ;
         ex:bike_stands  18 ;
         geo:lat         39.446050011610645e0 ;
         geo:lng         -0.380387098491455e0 ;
@@ -1932,6 +2172,7 @@
 
 <ex:station_258_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "258_PINTOR_RAFAEL_SOLVES_ESQ_JOSE_SOTO_MICO" ;
         ex:bike_stands  15 ;
         geo:lat         39.43979598762512e0 ;
         geo:lng         -0.38922812163005e0 ;
@@ -1940,6 +2181,7 @@
 
 <ex:station_65_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "065_AVDA. DEL PUERTO III" ;
         ex:bike_stands  19 ;
         geo:lat         39.46548408671991e0 ;
         geo:lng         -0.350928020671138e0 ;
@@ -1948,6 +2190,7 @@
 
 <ex:station_200_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "200_AVDA_DEL_CID" ;
         ex:bike_stands  15 ;
         geo:lat         39.4677050805168e0 ;
         geo:lng         -0.393305148918046e0 ;
@@ -1956,6 +2199,7 @@
 
 <ex:station_253_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "253_PLAZA_JOSE_MELIA_CASTELLO_CAMPOS_CRESPO" ;
         ex:bike_stands  15 ;
         geo:lat         39.452694027294896e0 ;
         geo:lng         -0.401192164498328e0 ;
@@ -1964,6 +2208,7 @@
 
 <ex:station_60_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "060_AVDA.BALEARES II" ;
         ex:bike_stands  19 ;
         geo:lat         39.462199075340266e0 ;
         geo:lng         -0.351867021712218e0 ;
@@ -1972,6 +2217,7 @@
 
 <ex:station_124_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "124_C/ AZAGADOR DE ALBORAYA" ;
         ex:bike_stands  25 ;
         geo:lat         39.48846916061659e0 ;
         geo:lng         -0.362046066347782e0 ;
@@ -1980,6 +2226,7 @@
 
 <ex:station_107_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "107_C/ CAMPILLO ALTO BUEY" ;
         ex:bike_stands  15 ;
         geo:lat         39.47521312423745e0 ;
         geo:lng         -0.336314982139155e0 ;
@@ -1988,6 +2235,7 @@
 
 <ex:station_96_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "096_AVDA. BLASCO IBAÑEZ 6" ;
         ex:bike_stands  21 ;
         geo:lat         39.47352211466433e0 ;
         geo:lng         -0.348305017144382e0 ;
@@ -1996,6 +2244,7 @@
 
 <ex:station_102_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "102_AVDA.RAMON LLUL" ;
         ex:bike_stands  20 ;
         geo:lat         39.47580112282824e0 ;
         geo:lng         -0.346811013895548e0 ;
@@ -2004,6 +2253,7 @@
 
 <ex:station_155_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "155_C/ SALAMANCA" ;
         ex:bike_stands  20 ;
         geo:lat         39.46492108086036e0 ;
         geo:lng         -0.363169057053421e0 ;
@@ -2012,6 +2262,7 @@
 
 <ex:station_150_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "150_DR. MANUEL CANDELA" ;
         ex:bike_stands  25 ;
         geo:lat         39.467689094227495e0 ;
         geo:lng         -0.350700021177111e0 ;
@@ -2020,6 +2271,7 @@
 
 <ex:station_218_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "218_CALLE_SALVADOR_FERRANDIS_LUNA_ESQ_CALLE_JUAN_B" ;
         ex:bike_stands  15 ;
         geo:lat         39.470708089307045e0 ;
         geo:lng         -0.397475163041212e0 ;
@@ -2028,6 +2280,7 @@
 
 <ex:station_25_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "025_CALLE_DEL_ALBERIC" ;
         ex:bike_stands  23 ;
         geo:lat         39.46769708197544e0 ;
         geo:lng         -0.388701135103807e0 ;
@@ -2036,6 +2289,7 @@
 
 <ex:station_78_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "078_AVDA. ARAGÓN I" ;
         ex:bike_stands  20 ;
         geo:lat         39.469913099113434e0 ;
         geo:lng         -0.358779046585651e0 ;
@@ -2044,6 +2298,7 @@
 
 <ex:station_213_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "213_CALLE_ARCHIDUQUE_CARLOS_ESQ_CALLE_JOSE_MA_MOR" ;
         ex:bike_stands  15 ;
         geo:lat         39.463133063872554e0 ;
         geo:lng         -0.397063157732616e0 ;
@@ -2052,6 +2307,7 @@
 
 <ex:station_20_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "020_FERNANDO_EL_CATOLICO_CALLE_QUART" ;
         ex:bike_stands  16 ;
         geo:lat         39.47500210686962e0 ;
         geo:lng         -0.387938136740957e0 ;
@@ -2060,6 +2316,7 @@
 
 <ex:station_266_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "266_PLANA_ALTA_ESQ_AVDA_MAESTRO_RODRIGO" ;
         ex:bike_stands  18 ;
         geo:lat         39.490257152389816e0 ;
         geo:lng         -0.406462200475517e0 ;
@@ -2068,6 +2325,7 @@
 
 <ex:station_73_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "073_JERONIMO MONSORIU" ;
         ex:bike_stands  20 ;
         geo:lat         39.46622709180114e0 ;
         geo:lng         -0.342969997228533e0 ;
@@ -2076,6 +2334,7 @@
 
 <ex:station_261_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "261_PZA_XUQUER_ESQ_VINALOPO" ;
         ex:bike_stands  19 ;
         geo:lat         39.47664412448885e0 ;
         geo:lng         -0.350468025305313e0 ;
@@ -2084,6 +2343,7 @@
 
 <ex:station_132_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "132_C/ RUAYA" ;
         ex:bike_stands  15 ;
         geo:lat         39.48525414608695e0 ;
         geo:lng         -0.373525099027208e0 ;
@@ -2092,6 +2352,7 @@
 
 <ex:station_115_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "115_C/ DR. VICENTE ZARAGOZA" ;
         ex:bike_stands  16 ;
         geo:lat         39.481530140385686e0 ;
         geo:lng         -0.352239033238509e0 ;
@@ -2100,6 +2361,7 @@
 
 <ex:station_168_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "168_AVDA. MALVARROSA" ;
         ex:bike_stands  15 ;
         geo:lat         39.47683913241012e0 ;
         geo:lng         -0.327977958049006e0 ;
@@ -2108,6 +2370,7 @@
 
 <ex:station_110_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "110_KISSHOMARU" ;
         ex:bike_stands  30 ;
         geo:lat         39.48070814260447e0 ;
         geo:lng         -0.336770986463246e0 ;
@@ -2116,6 +2379,7 @@
 
 <ex:station_8_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "008_PLAZA_DE_LA_REINA_ESQUINA_CALLE_DEL_MAR" ;
         ex:bike_stands  23 ;
         geo:lat         39.47428810857441e0 ;
         geo:lng         -0.375175098086736e0 ;
@@ -2124,6 +2388,7 @@
 
 <ex:station_163_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "163_PASEO NEPTUNO" ;
         ex:bike_stands  20 ;
         geo:lat         39.464405091973795e0 ;
         geo:lng         -0.323491937905993e0 ;
@@ -2132,6 +2397,7 @@
 
 <ex:station_38_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "38_AVDA. PERIS Y VALERO" ;
         ex:bike_stands  20 ;
         geo:lat         39.459369828677254e0 ;
         geo:lng         -0.370340076012569e0 ;
@@ -2140,6 +2406,7 @@
 
 <ex:station_3_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "003_PLAZA_MUSICO_LOPEZ_CHAVARRI" ;
         ex:bike_stands  20 ;
         geo:lat         39.47680311538018e0 ;
         geo:lng         -0.38037911504075e0 ;
@@ -2148,6 +2415,7 @@
 
 <ex:station_226_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "226_CALLE_SAFOR_ESQ_AVDA_DE_LAS_CORTES_VALENCIANAS" ;
         ex:bike_stands  30 ;
         geo:lat         39.490832156737454e0 ;
         geo:lng         -0.398950178249295e0 ;
@@ -2156,6 +2424,7 @@
 
 <ex:station_33_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "033_GRAN_VIA_GERMANIAS_ESQ_CALLE_RUZAFA" ;
         ex:bike_stands  20 ;
         geo:lat         39.464786076876194e0 ;
         geo:lng         -0.37408108969372e0 ;
@@ -2164,6 +2433,7 @@
 
 <ex:station_86_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "86_AVDA_GASPAR_AGUILAR_ESQ_VICENTE_PARRA" ;
         ex:bike_stands  20 ;
         geo:lat         39.45520803898995e0 ;
         geo:lng         -0.391284136125771e0 ;
@@ -2172,6 +2442,7 @@
 
 <ex:station_69_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "069_AVDA. DEL PUERTO" ;
         ex:bike_stands  25 ;
         geo:lat         39.46192007863096e0 ;
         geo:lng         -0.338811982446624e0 ;
@@ -2180,6 +2451,7 @@
 
 <ex:station_221_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "221_AVDA_MANUEL_DE_FALLA_ESQ_CALLE_HERNANDEZ_LAZAR" ;
         ex:bike_stands  20 ;
         geo:lat         39.47523810283483e0 ;
         geo:lng         -0.40294418188015e0 ;
@@ -2188,6 +2460,7 @@
 
 <ex:station_274_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "274_MANUEL_ANDRES_CASTELL_DE_POLOP" ;
         ex:bike_stands  15 ;
         geo:lat         39.448038033633594e0 ;
         geo:lng         -0.333278958357397e0 ;
@@ -2196,6 +2469,7 @@
 
 <ex:station_81_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "081_DOCTOR FORNOS" ;
         ex:bike_stands  20 ;
         geo:lat         39.47509611584928e0 ;
         geo:lng         -0.361069056238335e0 ;
@@ -2204,6 +2478,7 @@
 
 <ex:station_64_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "064_AVDA. DEL PUERTO II" ;
         ex:bike_stands  20 ;
         geo:lat         39.46648608901148e0 ;
         geo:lng         -0.354286031274125e0 ;
@@ -2212,6 +2487,7 @@
 
 <ex:station_128_Valence>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "128_C/ ALFAUIR" ;
         ex:bike_stands  25 ;
         geo:lat         39.488734159713275e0 ;
         geo:lng         -0.367635083238739e0 ;

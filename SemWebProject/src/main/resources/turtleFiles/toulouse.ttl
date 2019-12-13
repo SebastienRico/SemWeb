@@ -12,6 +12,7 @@
 
 <ex:station_18_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00018 - STRASBOURG JEAN JAURES" ;
         ex:bike_stands  25 ;
         geo:lat         43.60629718770727e0 ;
         geo:lng         1.448244408330328e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_154_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00154 - GALLOIS" ;
         ex:bike_stands  20 ;
         geo:lat         43.58995890864312e0 ;
         geo:lng         1.4420311550308e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_259_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00259 - PLACE RICHE" ;
         ex:bike_stands  20 ;
         geo:lat         43.64751e0 ;
         geo:lng         1.43298e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_117_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00117 - BILLIERES -POSTE" ;
         ex:bike_stands  20 ;
         geo:lat         43.596852956620715e0 ;
         geo:lng         1.425882273289917e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_260_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00260 - DUCLOS - FRONTON" ;
         ex:bike_stands  18 ;
         geo:lat         43.64495e0 ;
         geo:lng         1.43379e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_5_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00005 - LEDUC" ;
         ex:bike_stands  19 ;
         geo:lat         43.61184e0 ;
         geo:lng         1.45752e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_72_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00072 - FITTE CUGNAUX" ;
         ex:bike_stands  20 ;
         geo:lat         43.59504949175626e0 ;
         geo:lng         1.432688307877285e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_79_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00079 - PLACE LANGE" ;
         ex:bike_stands  20 ;
         geo:lat         43.60112880561738e0 ;
         geo:lng         1.434138106708093e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_178_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00178 - BRUNAUD / PLANA" ;
         ex:bike_stands  20 ;
         geo:lat         43.619281402937425e0 ;
         geo:lng         1.468753766918999e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_80_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00080 - FITTE VARSI" ;
         ex:bike_stands  23 ;
         geo:lat         43.59970386767416e0 ;
         geo:lng         1.429275168509917e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_231_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00231 - NARBONNE MARFAING" ;
         ex:bike_stands  20 ;
         geo:lat         43.557243695153005e0 ;
         geo:lng         1.465370657992508e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_1033_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "01033 - BORNE TEST BDX" ;
         ex:bike_stands  10 ;
         geo:lat         44.869297e0 ;
         geo:lng         0.547885e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_43_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00043 - DUPUY" ;
         ex:bike_stands  22 ;
         geo:lat         43.599990271041186e0 ;
         geo:lng         1.454093824286969e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_284_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00284 - METRO ARGOULETS-AGDE" ;
         ex:bike_stands  15 ;
         geo:lat         43.626276e0 ;
         geo:lng         1.477704e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_149_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00149 - RAISIN MINIMES" ;
         ex:bike_stands  22 ;
         geo:lat         43.615368584913504e0 ;
         geo:lng         1.448486709552681e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_202_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00202 - ST EX. - COURREGE" ;
         ex:bike_stands  17 ;
         geo:lat         43.58166894906154e0 ;
         geo:lng         1.476002176599847e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_14_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00014 - PERIGORD" ;
         ex:bike_stands  17 ;
         geo:lat         43.60735205357881e0 ;
         geo:lng         1.444269620551324e0 ;
@@ -148,6 +165,7 @@
 
 <ex:station_150_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00150 - CURIE CAMPISTRON" ;
         ex:bike_stands  18 ;
         geo:lat         43.62593095954932e0 ;
         geo:lng         1.439870900566373e0 ;
@@ -156,6 +174,7 @@
 
 <ex:station_255_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00255 - HENRI SELLIER" ;
         ex:bike_stands  16 ;
         geo:lat         43.57705e0 ;
         geo:lng         1.44009e0 ;
@@ -164,6 +183,7 @@
 
 <ex:station_113_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00113 - MUSEUM LAMARCK" ;
         ex:bike_stands  20 ;
         geo:lat         43.592355124495455e0 ;
         geo:lng         1.449215732146181e0 ;
@@ -172,6 +192,7 @@
 
 <ex:station_67_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00067 - MUSEUM" ;
         ex:bike_stands  22 ;
         geo:lat         43.59468e0 ;
         geo:lng         1.44938e0 ;
@@ -180,6 +201,7 @@
 
 <ex:station_1_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00001 - POIDS DE L'HUILE" ;
         ex:bike_stands  19 ;
         geo:lat         43.604134687021045e0 ;
         geo:lng         1.445420780739279e0 ;
@@ -188,6 +210,7 @@
 
 <ex:station_121_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00121 - SERRES - A. BERNARD" ;
         ex:bike_stands  17 ;
         geo:lat         43.6123275226288e0 ;
         geo:lng         1.43834034521228e0 ;
@@ -196,6 +219,7 @@
 
 <ex:station_75_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00075 - CHATEAU D EAU" ;
         ex:bike_stands  21 ;
         geo:lat         43.598542607102175e0 ;
         geo:lng         1.436590757220506e0 ;
@@ -204,6 +228,7 @@
 
 <ex:station_226_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00226 - FONTAINES /CASSELARDIT" ;
         ex:bike_stands  17 ;
         geo:lat         43.60419040838992e0 ;
         geo:lng         1.407211289929025e0 ;
@@ -212,6 +237,7 @@
 
 <ex:station_38_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00038 - JAURES BACHELIER" ;
         ex:bike_stands  32 ;
         geo:lat         43.60754756868432e0 ;
         geo:lng         1.451651418090918e0 ;
@@ -220,6 +246,7 @@
 
 <ex:station_174_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00174 - MAUNOURY / MELA" ;
         ex:bike_stands  19 ;
         geo:lat         43.63692179179762e0 ;
         geo:lng         1.452693250180783e0 ;
@@ -228,6 +255,7 @@
 
 <ex:station_279_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00279 - GUY ESPAGNO" ;
         ex:bike_stands  18 ;
         geo:lat         43.61354e0 ;
         geo:lng         1.40142e0 ;
@@ -236,6 +264,7 @@
 
 <ex:station_280_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "280 - CHARBONNIERE" ;
         ex:bike_stands  18 ;
         geo:lat         43.57383e0 ;
         geo:lng         1.44871e0 ;
@@ -244,6 +273,7 @@
 
 <ex:station_145_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00145 - GOUNOD - GARROS" ;
         ex:bike_stands  20 ;
         geo:lat         43.61395913175851e0 ;
         geo:lng         1.424941224096277e0 ;
@@ -252,6 +282,7 @@
 
 <ex:station_99_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00099 - REMPART ST ETIENNE" ;
         ex:bike_stands  16 ;
         geo:lat         43.60082502483391e0 ;
         geo:lng         1.450654849861206e0 ;
@@ -260,6 +291,7 @@
 
 <ex:station_198_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00198 - LAFILAIRE - DELTOUR" ;
         ex:bike_stands  20 ;
         geo:lat         43.59622771557735e0 ;
         geo:lng         1.473457600659471e0 ;
@@ -268,6 +300,7 @@
 
 <ex:station_108_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00108 - SEBASTOPOL - RITAY" ;
         ex:bike_stands  20 ;
         geo:lat         43.612283701347906e0 ;
         geo:lng         1.428790629053277e0 ;
@@ -276,6 +309,7 @@
 
 <ex:station_10_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00010 - PLACE ESQUIROL" ;
         ex:bike_stands  44 ;
         geo:lat         43.6003776908545e0 ;
         geo:lng         1.44544233356215e0 ;
@@ -284,6 +318,7 @@
 
 <ex:station_251_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00251 - BLUM / JOUHAUX" ;
         ex:bike_stands  20 ;
         geo:lat         43.614208387732e0 ;
         geo:lng         1.4616307898919e0 ;
@@ -292,6 +327,7 @@
 
 <ex:station_116_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00116 - ST MICHEL NOTRE DAME" ;
         ex:bike_stands  15 ;
         geo:lat         43.588359791103294e0 ;
         geo:lng         1.446483165667178e0 ;
@@ -300,6 +336,7 @@
 
 <ex:station_169_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00169 - ALBI  / JAFFARY" ;
         ex:bike_stands  17 ;
         geo:lat         43.63124672931264e0 ;
         geo:lng         1.462248097516892e0 ;
@@ -308,6 +345,7 @@
 
 <ex:station_71_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00071 - COURS DILLON" ;
         ex:bike_stands  22 ;
         geo:lat         43.59318934283672e0 ;
         geo:lng         1.434894328349442e0 ;
@@ -316,6 +354,7 @@
 
 <ex:station_222_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00222 - CAMBOU / ROCHE" ;
         ex:bike_stands  20 ;
         geo:lat         43.5628140764194e0 ;
         geo:lng         1.47517386253435e0 ;
@@ -324,6 +363,7 @@
 
 <ex:station_34_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00034 - SAINT LAZARE" ;
         ex:bike_stands  22 ;
         geo:lat         43.609650036285025e0 ;
         geo:lng         1.446076879873296e0 ;
@@ -332,6 +372,7 @@
 
 <ex:station_170_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00170 - ROUTE D ALBI   / CUVIER" ;
         ex:bike_stands  17 ;
         geo:lat         43.635666512128225e0 ;
         geo:lng         1.464148138450798e0 ;
@@ -340,6 +381,7 @@
 
 <ex:station_275_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00275 - PLACE DES PRADETTES" ;
         ex:bike_stands  17 ;
         geo:lat         43.58171e0 ;
         geo:lng         1.38887e0 ;
@@ -348,6 +390,7 @@
 
 <ex:station_42_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00042 - DAURIAC ESCANDE" ;
         ex:bike_stands  20 ;
         geo:lat         43.601588174955744e0 ;
         geo:lng         1.456048100267833e0 ;
@@ -356,6 +399,7 @@
 
 <ex:station_141_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00141 - FONTAINE LESTANG" ;
         ex:bike_stands  18 ;
         geo:lat         43.587583195522946e0 ;
         geo:lng         1.418128481713567e0 ;
@@ -364,6 +408,7 @@
 
 <ex:station_95_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00095 - THEATRE GARONNE" ;
         ex:bike_stands  22 ;
         geo:lat         43.602528105503815e0 ;
         geo:lng         1.425222752953333e0 ;
@@ -372,6 +417,7 @@
 
 <ex:station_246_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00246 - WAGNER / JEAN BRUNHES" ;
         ex:bike_stands  20 ;
         geo:lat         43.60390532418828e0 ;
         geo:lng         1.420141760360439e0 ;
@@ -380,6 +426,7 @@
 
 <ex:station_104_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00104 - MURET BARTHERE" ;
         ex:bike_stands  18 ;
         geo:lat         43.58903e0 ;
         geo:lng         1.43104e0 ;
@@ -388,6 +435,7 @@
 
 <ex:station_194_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00194 - LOMBEZ / HIPPODROME" ;
         ex:bike_stands  20 ;
         geo:lat         43.594206765269206e0 ;
         geo:lng         1.410651114174017e0 ;
@@ -396,6 +444,7 @@
 
 <ex:station_112_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00112 - PLACE RUSSELL - BRANLY" ;
         ex:bike_stands  20 ;
         geo:lat         43.5852668401728e0 ;
         geo:lng         1.4529365149254e0 ;
@@ -404,6 +453,7 @@
 
 <ex:station_66_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00066 - JARDIN ROYAL" ;
         ex:bike_stands  23 ;
         geo:lat         43.596478222107635e0 ;
         geo:lng         1.451093339873272e0 ;
@@ -412,6 +462,7 @@
 
 <ex:station_217_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00217 - AMOUROUX/ ST TROPEZ" ;
         ex:bike_stands  18 ;
         geo:lat         43.629671600633195e0 ;
         geo:lng         1.466442513411802e0 ;
@@ -420,6 +471,7 @@
 
 <ex:station_165_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00165 - PLACE DES AVIONS" ;
         ex:bike_stands  15 ;
         geo:lat         43.57686792022356e0 ;
         geo:lng         1.460187742067113e0 ;
@@ -428,6 +480,7 @@
 
 <ex:station_29_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00029 - VALADE" ;
         ex:bike_stands  19 ;
         geo:lat         43.605071904633625e0 ;
         geo:lng         1.437032051956223e0 ;
@@ -436,6 +489,7 @@
 
 <ex:station_30_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00030 - PLACE ANATOLE FRANCE" ;
         ex:bike_stands  25 ;
         geo:lat         43.60629527233212e0 ;
         geo:lng         1.438224999266949e0 ;
@@ -444,6 +498,7 @@
 
 <ex:station_37_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00037 - STE LUCIE" ;
         ex:bike_stands  18 ;
         geo:lat         43.593506929037055e0 ;
         geo:lng         1.429880706043356e0 ;
@@ -452,6 +507,7 @@
 
 <ex:station_271_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00271 - ANCELY" ;
         ex:bike_stands  20 ;
         geo:lat         43.61948e0 ;
         geo:lng         1.39711e0 ;
@@ -460,6 +516,7 @@
 
 <ex:station_136_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00136 - FONTAINES" ;
         ex:bike_stands  15 ;
         geo:lat         43.602050919601446e0 ;
         geo:lng         1.414531359571464e0 ;
@@ -468,6 +525,7 @@
 
 <ex:station_189_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00189 - MURET BOUTINON" ;
         ex:bike_stands  20 ;
         geo:lat         43.581352282638655e0 ;
         geo:lng         1.425325828280708e0 ;
@@ -476,6 +534,7 @@
 
 <ex:station_91_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00091 - ARCOLE BALANCE" ;
         ex:bike_stands  21 ;
         geo:lat         43.611584087589904e0 ;
         geo:lng         1.439737579879722e0 ;
@@ -484,6 +543,7 @@
 
 <ex:station_242_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00242 -  RAIMBAUD / COLETTE" ;
         ex:bike_stands  16 ;
         geo:lat         43.633866178151905e0 ;
         geo:lng         1.437493796200118e0 ;
@@ -492,6 +552,7 @@
 
 <ex:station_107_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00107 - SEBASTOPOL" ;
         ex:bike_stands  27 ;
         geo:lat         43.609753361824794e0 ;
         geo:lng         1.430389555237135e0 ;
@@ -500,6 +561,7 @@
 
 <ex:station_190_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00190 - ESPAGNE LES OUSTALOUS" ;
         ex:bike_stands  20 ;
         geo:lat         43.57827536338912e0 ;
         geo:lng         1.423916022506519e0 ;
@@ -508,6 +570,7 @@
 
 <ex:station_62_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00062 - JAURES STALINGRAD" ;
         ex:bike_stands  24 ;
         geo:lat         43.609044644058145e0 ;
         geo:lng         1.45336004007864e0 ;
@@ -516,6 +579,7 @@
 
 <ex:station_213_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00213 - PUJOL/ CHAUBET" ;
         ex:bike_stands  17 ;
         geo:lat         43.60075517705335e0 ;
         geo:lng         1.467514131065815e0 ;
@@ -524,6 +588,7 @@
 
 <ex:station_161_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00161 - RANGUEIL - BEDOUCE" ;
         ex:bike_stands  15 ;
         geo:lat         43.57644751100008e0 ;
         geo:lng         1.454915112024358e0 ;
@@ -532,6 +597,7 @@
 
 <ex:station_25_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00025 - PLACE ROUAIX" ;
         ex:bike_stands  18 ;
         geo:lat         43.599435045967155e0 ;
         geo:lng         1.445580732388259e0 ;
@@ -540,6 +606,7 @@
 
 <ex:station_266_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00266 - TOURAINE" ;
         ex:bike_stands  20 ;
         geo:lat         43.57375e0 ;
         geo:lng         1.41398e0 ;
@@ -548,6 +615,7 @@
 
 <ex:station_33_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00033 - BERALDI" ;
         ex:bike_stands  15 ;
         geo:lat         43.608568713084686e0 ;
         geo:lng         1.443570238387108e0 ;
@@ -556,6 +624,7 @@
 
 <ex:station_274_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00274 - GALLIENI" ;
         ex:bike_stands  18 ;
         geo:lat         43.574e0 ;
         geo:lng         1.41954e0 ;
@@ -564,6 +633,7 @@
 
 <ex:station_132_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00132 - MINIMES BILARD" ;
         ex:bike_stands  19 ;
         geo:lat         43.62293779541603e0 ;
         geo:lng         1.434473692188769e0 ;
@@ -572,6 +642,7 @@
 
 <ex:station_86_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00086 - HERACLES - BEARNAIS" ;
         ex:bike_stands  20 ;
         geo:lat         43.60802027853654e0 ;
         geo:lng         1.428450231443648e0 ;
@@ -580,6 +651,7 @@
 
 <ex:station_237_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00237 - CNRS" ;
         ex:bike_stands  20 ;
         geo:lat         43.56361464501064e0 ;
         geo:lng         1.479772209704475e0 ;
@@ -588,6 +660,7 @@
 
 <ex:station_185_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00185 - ROUBICHOU ARLES" ;
         ex:bike_stands  15 ;
         geo:lat         43.62704846650827e0 ;
         geo:lng         1.465517338373819e0 ;
@@ -596,6 +669,7 @@
 
 <ex:station_103_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00103 - ST MICHEL ST CATHERINE" ;
         ex:bike_stands  20 ;
         geo:lat         43.590605082277605e0 ;
         geo:lng         1.445174430937582e0 ;
@@ -604,6 +678,7 @@
 
 <ex:station_57_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00057 - MERLY ARCOLE" ;
         ex:bike_stands  15 ;
         geo:lat         43.610488427425665e0 ;
         geo:lng         1.4431072280246e0 ;
@@ -612,6 +687,7 @@
 
 <ex:station_208_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00208 - LIMAYRAC/ DARASSE" ;
         ex:bike_stands  18 ;
         geo:lat         43.59122002356995e0 ;
         geo:lng         1.480087483756261e0 ;
@@ -620,6 +696,7 @@
 
 <ex:station_156_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00156 - METRO EMPALOT" ;
         ex:bike_stands  18 ;
         geo:lat         43.579737115748195e0 ;
         geo:lng         1.441783289134449e0 ;
@@ -628,6 +705,7 @@
 
 <ex:station_28_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00028 - PLACE SAINT PIERRE" ;
         ex:bike_stands  22 ;
         geo:lat         43.6034370674356e0 ;
         geo:lng         1.43608066156889e0 ;
@@ -636,6 +714,7 @@
 
 <ex:station_262_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00262 - ROND POINT CHEMIN DE BORDEROUGE" ;
         ex:bike_stands  18 ;
         geo:lat         43.64265e0 ;
         geo:lng         1.45632e0 ;
@@ -644,6 +723,7 @@
 
 <ex:station_269_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00269 - PLACE SAUVEGRAIN" ;
         ex:bike_stands  18 ;
         geo:lat         43.58996e0 ;
         geo:lng         1.37764e0 ;
@@ -652,6 +732,7 @@
 
 <ex:station_7_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00007 - PLACE VICTOR HUGO" ;
         ex:bike_stands  25 ;
         geo:lat         43.605852162177925e0 ;
         geo:lng         1.446593812218414e0 ;
@@ -660,6 +741,7 @@
 
 <ex:station_127_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00127 - BEGUE - DEMOISELLES" ;
         ex:bike_stands  15 ;
         geo:lat         43.589803552331645e0 ;
         geo:lng         1.455945448109943e0 ;
@@ -668,6 +750,7 @@
 
 <ex:station_270_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00270 - SILVIO TRENTIN" ;
         ex:bike_stands  16 ;
         geo:lat         43.62413e0 ;
         geo:lng         1.42778e0 ;
@@ -676,6 +759,7 @@
 
 <ex:station_82_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00082 - SEJOURNE CATALANS" ;
         ex:bike_stands  21 ;
         geo:lat         43.605562378447424e0 ;
         geo:lng         1.427969819484834e0 ;
@@ -684,6 +768,7 @@
 
 <ex:station_233_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00233 - NARBONNE /SAHUQUE" ;
         ex:bike_stands  20 ;
         geo:lat         43.56641276350635e0 ;
         geo:lng         1.458852500499583e0 ;
@@ -692,6 +777,7 @@
 
 <ex:station_181_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00181 - PLANA GARNIER" ;
         ex:bike_stands  17 ;
         geo:lat         43.610549420565e0 ;
         geo:lng         1.4795004816774e0 ;
@@ -700,6 +786,7 @@
 
 <ex:station_53_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00053 - PLACE SAINT JULIEN" ;
         ex:bike_stands  25 ;
         geo:lat         43.60863633636605e0 ;
         geo:lng         1.437631489341106e0 ;
@@ -708,6 +795,7 @@
 
 <ex:station_204_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00204 - PL. ROGER ARNAUD" ;
         ex:bike_stands  18 ;
         geo:lat         43.58677914294868e0 ;
         geo:lng         1.463164045792265e0 ;
@@ -716,6 +804,7 @@
 
 <ex:station_152_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00152 - MAZADES" ;
         ex:bike_stands  20 ;
         geo:lat         43.624183134252704e0 ;
         geo:lng         1.438302180907754e0 ;
@@ -724,6 +813,7 @@
 
 <ex:station_257_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00257 - CHATEAU DE L'HERS" ;
         ex:bike_stands  16 ;
         geo:lat         43.60086e0 ;
         geo:lng         1.48346e0 ;
@@ -732,6 +822,7 @@
 
 <ex:station_24_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00024 - PLACE SAINT ETIENNE" ;
         ex:bike_stands  22 ;
         geo:lat         43.600398667412286e0 ;
         geo:lng         1.450179100392055e0 ;
@@ -740,6 +831,7 @@
 
 <ex:station_265_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00265 - PASSAGE BORDELONGUE" ;
         ex:bike_stands  18 ;
         geo:lat         43.56793e0 ;
         geo:lng         1.41325e0 ;
@@ -748,6 +840,7 @@
 
 <ex:station_3_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00003 - POMME" ;
         ex:bike_stands  18 ;
         geo:lat         43.60333593826575e0 ;
         geo:lng         1.445569311598848e0 ;
@@ -756,6 +849,7 @@
 
 <ex:station_123_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00123 - CHAUSSAS EMBOUCHURE" ;
         ex:bike_stands  23 ;
         geo:lat         43.61492465117555e0 ;
         geo:lng         1.43288072066524e0 ;
@@ -764,6 +858,7 @@
 
 <ex:station_77_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00077 - PLACE INT SAINT CYPRIEN" ;
         ex:bike_stands  13 ;
         geo:lat         43.597835830061406e0 ;
         geo:lng         1.431605284631358e0 ;
@@ -772,6 +867,7 @@
 
 <ex:station_228_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00228 - METRO PHARMACIE" ;
         ex:bike_stands  18 ;
         geo:lat         43.567716505871594e0 ;
         geo:lng         1.464456852027628e0 ;
@@ -780,6 +876,7 @@
 
 <ex:station_176_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00176 - GENERAL COMPANS" ;
         ex:bike_stands  18 ;
         geo:lat         43.606790468455905e0 ;
         geo:lng         1.458008846441328e0 ;
@@ -788,6 +885,7 @@
 
 <ex:station_184_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00184 - MICHOUN" ;
         ex:bike_stands  20 ;
         geo:lat         43.62727712277727e0 ;
         geo:lng         1.469362217455508e0 ;
@@ -796,6 +894,7 @@
 
 <ex:station_48_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00048 - PLACE DU SALIN" ;
         ex:bike_stands  32 ;
         geo:lat         43.59474911973265e0 ;
         geo:lng         1.444132711268797e0 ;
@@ -804,6 +903,7 @@
 
 <ex:station_147_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00147 - CHAUSSAS - DAUDET" ;
         ex:bike_stands  20 ;
         geo:lat         43.61990748467363e0 ;
         geo:lng         1.428966282419491e0 ;
@@ -812,6 +912,7 @@
 
 <ex:station_200_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00200 - PLACE DE L'ORMEAU" ;
         ex:bike_stands  17 ;
         geo:lat         43.57906922965151e0 ;
         geo:lng         1.483669775054849e0 ;
@@ -820,6 +921,7 @@
 
 <ex:station_19_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00019 - CARNOT PERI" ;
         ex:bike_stands  24 ;
         geo:lat         43.60557592007205e0 ;
         geo:lng         1.449072022617868e0 ;
@@ -828,6 +930,7 @@
 
 <ex:station_118_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00118 - PLACE DU BUSCA" ;
         ex:bike_stands  17 ;
         geo:lat         43.58817925392077e0 ;
         geo:lng         1.450764528471522e0 ;
@@ -836,6 +939,7 @@
 
 <ex:station_20_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00020 - CARNOT TROIS JOURNEES" ;
         ex:bike_stands  27 ;
         geo:lat         43.604717604204446e0 ;
         geo:lng         1.449629619920856e0 ;
@@ -844,6 +948,7 @@
 
 <ex:station_261_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00261 - VAN DYCK - LAUNAGUET" ;
         ex:bike_stands  18 ;
         geo:lat         43.64066e0 ;
         geo:lng         1.4401e0 ;
@@ -852,6 +957,7 @@
 
 <ex:station_6_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00006 - LOIS" ;
         ex:bike_stands  18 ;
         geo:lat         43.605203861405954e0 ;
         geo:lng         1.442101445768934e0 ;
@@ -860,6 +966,7 @@
 
 <ex:station_73_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00073 - FITTE TEINTURIERS" ;
         ex:bike_stands  16 ;
         geo:lat         43.59628476386365e0 ;
         geo:lng         1.432075106068745e0 ;
@@ -868,6 +975,7 @@
 
 <ex:station_224_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00224 - CAMPUS SUPAERO" ;
         ex:bike_stands  20 ;
         geo:lat         43.566595761363736e0 ;
         geo:lng         1.474881961695726e0 ;
@@ -876,6 +984,7 @@
 
 <ex:station_172_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00172 - NETWILLER / LAFORGUE" ;
         ex:bike_stands  20 ;
         geo:lat         43.642833569777416e0 ;
         geo:lng         1.461191671613412e0 ;
@@ -884,6 +993,7 @@
 
 <ex:station_179_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00179 - CASSAING PLANA" ;
         ex:bike_stands  17 ;
         geo:lat         43.61680265241856e0 ;
         geo:lng         1.473505161008297e0 ;
@@ -892,6 +1002,7 @@
 
 <ex:station_232_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00232 - NARBONNE/ MIROUSE" ;
         ex:bike_stands  15 ;
         geo:lat         43.569437251134566e0 ;
         geo:lng         1.456086445970436e0 ;
@@ -900,6 +1011,7 @@
 
 <ex:station_44_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00044 - PALAIS NIEL" ;
         ex:bike_stands  22 ;
         geo:lat         43.59800264157314e0 ;
         geo:lng         1.45174992410964e0 ;
@@ -908,6 +1020,7 @@
 
 <ex:station_180_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00180 - PLACE SOUPETARD" ;
         ex:bike_stands  18 ;
         geo:lat         43.6122515815792e0 ;
         geo:lng         1.47765639323401e0 ;
@@ -916,6 +1029,7 @@
 
 <ex:station_285_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00285 - METRO BALMA-GRAMONT" ;
         ex:bike_stands  18 ;
         geo:lat         43.629004e0 ;
         geo:lng         1.482704e0 ;
@@ -924,6 +1038,7 @@
 
 <ex:station_143_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00143 - DESBALS SAINTONGE" ;
         ex:bike_stands  20 ;
         geo:lat         43.5813322052426e0 ;
         geo:lng         1.413431676051568e0 ;
@@ -932,6 +1047,7 @@
 
 <ex:station_97_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00097 - RAYMOND IV" ;
         ex:bike_stands  21 ;
         geo:lat         43.61243588156053e0 ;
         geo:lng         1.451476646620887e0 ;
@@ -940,6 +1056,7 @@
 
 <ex:station_15_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00015 - PONT MONTAUDRAN" ;
         ex:bike_stands  20 ;
         geo:lat         43.59642e0 ;
         geo:lng         1.4565e0 ;
@@ -948,6 +1065,7 @@
 
 <ex:station_256_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00256 - PLACE DE LA RONTONDE" ;
         ex:bike_stands  18 ;
         geo:lat         43.59666e0 ;
         geo:lng         1.4842e0 ;
@@ -956,6 +1074,7 @@
 
 <ex:station_114_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00114 - BD MONTPLAISIR - CANAL" ;
         ex:bike_stands  20 ;
         geo:lat         43.59239101222708e0 ;
         geo:lng         1.458007861390548e0 ;
@@ -964,6 +1083,7 @@
 
 <ex:station_68_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00068 - METRO - PALAIS DE JUSTICE" ;
         ex:bike_stands  16 ;
         geo:lat         43.59265e0 ;
         geo:lng         1.44455e0 ;
@@ -972,6 +1092,7 @@
 
 <ex:station_219_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00219 - PUCCINI/ BLAGNAC" ;
         ex:bike_stands  18 ;
         geo:lat         43.614589794633694e0 ;
         geo:lng         1.411359591750251e0 ;
@@ -980,6 +1101,7 @@
 
 <ex:station_167_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00167 - LAPUJADE-FLANDRES" ;
         ex:bike_stands  18 ;
         geo:lat         43.62409340165932e0 ;
         geo:lng         1.454698517821249e0 ;
@@ -988,6 +1110,7 @@
 
 <ex:station_2_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00002 - LAFAYETTE" ;
         ex:bike_stands  24 ;
         geo:lat         43.60485265221502e0 ;
         geo:lng         1.445285876671779e0 ;
@@ -996,6 +1119,7 @@
 
 <ex:station_220_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00220 - TABAR /UNIVERSITE" ;
         ex:bike_stands  19 ;
         geo:lat         43.574612132702526e0 ;
         geo:lng         1.40230245215212e0 ;
@@ -1004,6 +1128,7 @@
 
 <ex:station_227_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00227 - METRO UPS" ;
         ex:bike_stands  20 ;
         geo:lat         43.56160969546884e0 ;
         geo:lng         1.462869145576551e0 ;
@@ -1012,6 +1137,7 @@
 
 <ex:station_39_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00039 - PLACE DAMLOUP" ;
         ex:bike_stands  19 ;
         geo:lat         43.60583232118379e0 ;
         geo:lng         1.452939708828422e0 ;
@@ -1020,6 +1146,7 @@
 
 <ex:station_175_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00175 - METRO MAUNOURY" ;
         ex:bike_stands  30 ;
         geo:lat         43.6394555737186e0 ;
         geo:lng         1.45256734914219e0 ;
@@ -1028,6 +1155,7 @@
 
 <ex:station_138_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00138 - BARRIERE DE BAYONNE" ;
         ex:bike_stands  20 ;
         geo:lat         43.598196214598815e0 ;
         geo:lng         1.41997369298729e0 ;
@@ -1036,6 +1164,7 @@
 
 <ex:station_40_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00040 - COLOMBETTE" ;
         ex:bike_stands  16 ;
         geo:lat         43.604660136134775e0 ;
         geo:lng         1.453588691746783e0 ;
@@ -1044,6 +1173,7 @@
 
 <ex:station_281_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "281 - NIEL" ;
         ex:bike_stands  18 ;
         geo:lat         43.57886e0 ;
         geo:lng         1.44649e0 ;
@@ -1052,6 +1182,7 @@
 
 <ex:station_93_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00093 - PRINTEMPS" ;
         ex:bike_stands  17 ;
         geo:lat         43.614465544425535e0 ;
         geo:lng         1.44361404386217e0 ;
@@ -1060,6 +1191,7 @@
 
 <ex:station_199_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00199 - DELTOUR - RIEUX" ;
         ex:bike_stands  22 ;
         geo:lat         43.591528310013615e0 ;
         geo:lng         1.470276283956405e0 ;
@@ -1068,6 +1200,7 @@
 
 <ex:station_109_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00109 - METRO CANAL DU MIDI" ;
         ex:bike_stands  25 ;
         geo:lat         43.615173611788045e0 ;
         geo:lng         1.434707777421923e0 ;
@@ -1076,6 +1209,7 @@
 
 <ex:station_11_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00011 - PLACE DE LA DAURADE" ;
         ex:bike_stands  23 ;
         geo:lat         43.60215e0 ;
         geo:lng         1.44026e0 ;
@@ -1084,6 +1218,7 @@
 
 <ex:station_252_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00252 - NEGRENEYS /CASENEUVE" ;
         ex:bike_stands  18 ;
         geo:lat         43.62687e0 ;
         geo:lng         1.44404e0 ;
@@ -1092,6 +1227,7 @@
 
 <ex:station_110_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00110 - CABANEL - SERRES" ;
         ex:bike_stands  18 ;
         geo:lat         43.61375517689823e0 ;
         geo:lng         1.438157046235524e0 ;
@@ -1100,6 +1236,7 @@
 
 <ex:station_64_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00064 - PERI MERCADIER" ;
         ex:bike_stands  24 ;
         geo:lat         43.60617263070887e0 ;
         geo:lng         1.454987798766018e0 ;
@@ -1108,6 +1245,7 @@
 
 <ex:station_215_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00215 - METRO ARGOULETS" ;
         ex:bike_stands  20 ;
         geo:lat         43.623814424096544e0 ;
         geo:lng         1.475849028782433e0 ;
@@ -1116,6 +1254,7 @@
 
 <ex:station_223_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00223 - ENAC" ;
         ex:bike_stands  22 ;
         geo:lat         43.565104300575406e0 ;
         geo:lng         1.478340741030179e0 ;
@@ -1124,6 +1263,7 @@
 
 <ex:station_171_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00171 - ROUTE D ALBI / CACTUS" ;
         ex:bike_stands  18 ;
         geo:lat         43.640897350426606e0 ;
         geo:lng         1.466308391813157e0 ;
@@ -1132,6 +1272,7 @@
 
 <ex:station_35_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00035 - PLACE JEANNE D'ARC" ;
         ex:bike_stands  25 ;
         geo:lat         43.60964e0 ;
         geo:lng         1.4469e0 ;
@@ -1140,6 +1281,7 @@
 
 <ex:station_276_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00276 - MARIN REBOUL" ;
         ex:bike_stands  18 ;
         geo:lat         43.58132e0 ;
         geo:lng         1.37975e0 ;
@@ -1148,6 +1290,7 @@
 
 <ex:station_134_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00134 - EGLISE BONNEFOY" ;
         ex:bike_stands  19 ;
         geo:lat         43.61894094381528e0 ;
         geo:lng         1.456658754907086e0 ;
@@ -1156,6 +1299,7 @@
 
 <ex:station_88_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00088 - DUPORTAL LASCROSSES" ;
         ex:bike_stands  25 ;
         geo:lat         43.610250914040755e0 ;
         geo:lng         1.435070094381549e0 ;
@@ -1164,6 +1308,7 @@
 
 <ex:station_142_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00142 - SEVERAC" ;
         ex:bike_stands  20 ;
         geo:lat         43.58807e0 ;
         geo:lng         1.42438e0 ;
@@ -1172,6 +1317,7 @@
 
 <ex:station_96_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00096 - MEDIATHEQUE" ;
         ex:bike_stands  25 ;
         geo:lat         43.60974282737991e0 ;
         geo:lng         1.455204795385279e0 ;
@@ -1180,6 +1326,7 @@
 
 <ex:station_247_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00247 - LAUNAGUET / AUDIBERT" ;
         ex:bike_stands  18 ;
         geo:lat         43.63677495879212e0 ;
         geo:lng         1.439230135508607e0 ;
@@ -1188,6 +1335,7 @@
 
 <ex:station_59_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00059 - CONCORDE" ;
         ex:bike_stands  19 ;
         geo:lat         43.613590372531775e0 ;
         geo:lng         1.446485498451865e0 ;
@@ -1196,6 +1344,7 @@
 
 <ex:station_105_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00105 - BILLIERE -CHAMPETRE" ;
         ex:bike_stands  19 ;
         geo:lat         43.59764204883991e0 ;
         geo:lng         1.428862699237109e0 ;
@@ -1204,6 +1353,7 @@
 
 <ex:station_195_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00195 - LARROUSSE -RIEUX" ;
         ex:bike_stands  18 ;
         geo:lat         43.59723540303583e0 ;
         geo:lng         1.45907112459247e0 ;
@@ -1212,6 +1362,7 @@
 
 <ex:station_60_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00060 - ROQUELAINE" ;
         ex:bike_stands  24 ;
         geo:lat         43.61263652233987e0 ;
         geo:lng         1.448541598385468e0 ;
@@ -1220,6 +1371,7 @@
 
 <ex:station_218_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00218 - AMOUROUX /STE AUGUSTINE" ;
         ex:bike_stands  18 ;
         geo:lat         43.627603587351345e0 ;
         geo:lng         1.461907953641387e0 ;
@@ -1228,6 +1380,7 @@
 
 <ex:station_166_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00166 - RANGUEIL GUYOU" ;
         ex:bike_stands  20 ;
         geo:lat         43.574366149048714e0 ;
         geo:lng         1.462031097914686e0 ;
@@ -1236,6 +1389,7 @@
 
 <ex:station_129_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00129 - CROIX DE PIERRE" ;
         ex:bike_stands  16 ;
         geo:lat         43.58588e0 ;
         geo:lng         1.4278e0 ;
@@ -1244,6 +1398,7 @@
 
 <ex:station_31_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00031 - SALENQUES" ;
         ex:bike_stands  20 ;
         geo:lat         43.60749002329994e0 ;
         geo:lng         1.43922052825561e0 ;
@@ -1252,6 +1407,7 @@
 
 <ex:station_272_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00272 - ANDRE VASSEUR" ;
         ex:bike_stands  17 ;
         geo:lat         43.63539e0 ;
         geo:lng         1.47297e0 ;
@@ -1260,6 +1416,7 @@
 
 <ex:station_130_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00130 - BILLIERES - PATTE D OIE" ;
         ex:bike_stands  15 ;
         geo:lat         43.59679331319425e0 ;
         geo:lng         1.424139385785053e0 ;
@@ -1268,6 +1425,7 @@
 
 <ex:station_137_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00137 - BRUNHES-FONTAINES" ;
         ex:bike_stands  15 ;
         geo:lat         43.60094924792523e0 ;
         geo:lng         1.420275802412521e0 ;
@@ -1276,6 +1434,7 @@
 
 <ex:station_92_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00092 - CHALETS" ;
         ex:bike_stands  15 ;
         geo:lat         43.61325027179293e0 ;
         geo:lng         1.441220679302088e0 ;
@@ -1284,6 +1443,7 @@
 
 <ex:station_243_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00243 - ETATS-UNIS / FERRY" ;
         ex:bike_stands  17 ;
         geo:lat         43.632641237523e0 ;
         geo:lng         1.43180804154469e0 ;
@@ -1292,6 +1452,7 @@
 
 <ex:station_101_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00101 - CAPT PORT ST SAUVEUR" ;
         ex:bike_stands  20 ;
         geo:lat         43.59426485044087e0 ;
         geo:lng         1.456321836591291e0 ;
@@ -1300,6 +1461,7 @@
 
 <ex:station_191_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00191 - RUE DU 14 JUILLET" ;
         ex:bike_stands  18 ;
         geo:lat         43.58998499389323e0 ;
         geo:lng         1.415183785619737e0 ;
@@ -1308,6 +1470,7 @@
 
 <ex:station_55_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00055 - ST SERNIN G. ARNOULT" ;
         ex:bike_stands  15 ;
         geo:lat         43.608951960496405e0 ;
         geo:lng         1.441003598726198e0 ;
@@ -1316,6 +1479,7 @@
 
 <ex:station_63_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00063 - PISCINE LEO LAGRANGE" ;
         ex:bike_stands  22 ;
         geo:lat         43.607433487401345e0 ;
         geo:lng         1.454189017923435e0 ;
@@ -1324,6 +1488,7 @@
 
 <ex:station_214_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00214 - CASTRES/ ACHIARY" ;
         ex:bike_stands  17 ;
         geo:lat         43.600795440313355e0 ;
         geo:lng         1.473660631896838e0 ;
@@ -1332,6 +1497,7 @@
 
 <ex:station_26_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00026 - DALBADE - DE GORSSE" ;
         ex:bike_stands  22 ;
         geo:lat         43.59804753924319e0 ;
         geo:lng         1.443005133993703e0 ;
@@ -1340,6 +1506,7 @@
 
 <ex:station_162_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00162 - PLACE D'ITALIE" ;
         ex:bike_stands  17 ;
         geo:lat         43.580276538637605e0 ;
         geo:lng         1.45491780578712e0 ;
@@ -1348,6 +1515,7 @@
 
 <ex:station_267_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00267 - GONIN" ;
         ex:bike_stands  16 ;
         geo:lat         43.57452e0 ;
         geo:lng         1.48278e0 ;
@@ -1356,6 +1524,7 @@
 
 <ex:station_125_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00125 - BARRIÈRE DE PARIS" ;
         ex:bike_stands  25 ;
         geo:lat         43.6269176821576e0 ;
         geo:lng         1.434225150757254e0 ;
@@ -1364,6 +1533,7 @@
 
 <ex:station_133_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00133 - MARCHE AUX COCHONS" ;
         ex:bike_stands  22 ;
         geo:lat         43.620735968782895e0 ;
         geo:lng         1.435597311467436e0 ;
@@ -1372,6 +1542,7 @@
 
 <ex:station_87_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00087 - LASCROSSES LECLERC" ;
         ex:bike_stands  25 ;
         geo:lat         43.609500004240715e0 ;
         geo:lng         1.432335729928681e0 ;
@@ -1380,6 +1551,7 @@
 
 <ex:station_238_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00238 - HERBETTES / BUTTE" ;
         ex:bike_stands  17 ;
         geo:lat         43.579425835630786e0 ;
         geo:lng         1.473118127213999e0 ;
@@ -1388,6 +1560,7 @@
 
 <ex:station_186_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00186 - DESBALS BOUALAM" ;
         ex:bike_stands  18 ;
         geo:lat         43.5792182218804e0 ;
         geo:lng         1.41112908179427e0 ;
@@ -1396,6 +1569,7 @@
 
 <ex:station_51_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00051 - DUPORTAL BRIENNE" ;
         ex:bike_stands  18 ;
         geo:lat         43.605035688745794e0 ;
         geo:lng         1.434843235786321e0 ;
@@ -1404,6 +1578,7 @@
 
 <ex:station_58_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00058 - CONCORDE ARCOLE" ;
         ex:bike_stands  25 ;
         geo:lat         43.6106186453129e0 ;
         geo:lng         1.443637125697445e0 ;
@@ -1412,6 +1587,7 @@
 
 <ex:station_209_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00209 - BAROUX/ DARASSE" ;
         ex:bike_stands  18 ;
         geo:lat         43.589466982143435e0 ;
         geo:lng         1.478914286004687e0 ;
@@ -1420,6 +1596,7 @@
 
 <ex:station_157_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00157 - U.R.S.S  PEYROUSET" ;
         ex:bike_stands  19 ;
         geo:lat         43.582831686768735e0 ;
         geo:lng         1.448634234326797e0 ;
@@ -1428,6 +1605,7 @@
 
 <ex:station_210_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00210 - TERRASSE/ CENTRE CO." ;
         ex:bike_stands  18 ;
         geo:lat         43.586074956653995e0 ;
         geo:lng         1.483021040946601e0 ;
@@ -1436,6 +1614,7 @@
 
 <ex:station_22_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00022 - CARNOT ROLAND" ;
         ex:bike_stands  20 ;
         geo:lat         43.60221990815785e0 ;
         geo:lng         1.45195665819857e0 ;
@@ -1444,6 +1623,7 @@
 
 <ex:station_263_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00263 - LYCEE POLYVALENT" ;
         ex:bike_stands  18 ;
         geo:lat         43.58444e0 ;
         geo:lng         1.39867e0 ;
@@ -1452,6 +1632,7 @@
 
 <ex:station_8_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00008 - ESPACE SAINT GEORGES" ;
         ex:bike_stands  25 ;
         geo:lat         43.60307769477977e0 ;
         geo:lng         1.448047137954633e0 ;
@@ -1460,6 +1641,7 @@
 
 <ex:station_128_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00128 - PRISON ST MICHEL" ;
         ex:bike_stands  23 ;
         geo:lat         43.58589564207925e0 ;
         geo:lng         1.447411881616044e0 ;
@@ -1468,6 +1650,7 @@
 
 <ex:station_83_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00083 - SEJOURNE AMIDONNIERS" ;
         ex:bike_stands  17 ;
         geo:lat         43.6055917312578e0 ;
         geo:lng         1.428253851896989e0 ;
@@ -1476,6 +1659,7 @@
 
 <ex:station_234_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00234 - LOIN / RAYNAL" ;
         ex:bike_stands  15 ;
         geo:lat         43.628236592839514e0 ;
         geo:lng         1.451330504561275e0 ;
@@ -1484,6 +1668,7 @@
 
 <ex:station_46_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00046 - PLACE DES CARMES" ;
         ex:bike_stands  20 ;
         geo:lat         43.597401475499026e0 ;
         geo:lng         1.445315649331453e0 ;
@@ -1492,6 +1677,7 @@
 
 <ex:station_182_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00182 - CHAUBET" ;
         ex:bike_stands  20 ;
         geo:lat         43.60593083247726e0 ;
         geo:lng         1.481957162051808e0 ;
@@ -1500,6 +1686,7 @@
 
 <ex:station_287_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00287 - STADE ERNEST-WALLON STADE TOULOUSAIN" ;
         ex:bike_stands  30 ;
         geo:lat         43.62067e0 ;
         geo:lng         1.41521e0 ;
@@ -1508,6 +1695,7 @@
 
 <ex:station_100_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00100 - PORT ST SAUVEUR" ;
         ex:bike_stands  20 ;
         geo:lat         43.59697406705044e0 ;
         geo:lng         1.455674042776099e0 ;
@@ -1516,6 +1704,7 @@
 
 <ex:station_54_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00054 - CHAINE" ;
         ex:bike_stands  17 ;
         geo:lat         43.60842033750804e0 ;
         geo:lng         1.439762556768512e0 ;
@@ -1524,6 +1713,7 @@
 
 <ex:station_205_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00205 - COTTAGE/ RIEUX" ;
         ex:bike_stands  18 ;
         geo:lat         43.58588613821349e0 ;
         geo:lng         1.47508540800772e0 ;
@@ -1532,6 +1722,7 @@
 
 <ex:station_17_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00017 - STRASBOURG SARDANE" ;
         ex:bike_stands  23 ;
         geo:lat         43.60610692889793e0 ;
         geo:lng         1.448061825303155e0 ;
@@ -1540,6 +1731,7 @@
 
 <ex:station_153_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00153 - BOURGES MAUNOURY" ;
         ex:bike_stands  18 ;
         geo:lat         43.628469420497346e0 ;
         geo:lng         1.447936286895422e0 ;
@@ -1548,6 +1740,7 @@
 
 <ex:station_258_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00258 - CAMBARD" ;
         ex:bike_stands  18 ;
         geo:lat         43.62957e0 ;
         geo:lng         1.47643e0 ;
@@ -1556,6 +1749,7 @@
 
 <ex:station_4_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00004 - STE URSULE" ;
         ex:bike_stands  20 ;
         geo:lat         43.60233609279122e0 ;
         geo:lng         1.442047437838665e0 ;
@@ -1564,6 +1758,7 @@
 
 <ex:station_124_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00124 - EGLISE DES MINIMES" ;
         ex:bike_stands  18 ;
         geo:lat         43.61814891164924e0 ;
         geo:lng         1.436875386155235e0 ;
@@ -1572,6 +1767,7 @@
 
 <ex:station_78_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00078 - PLACE INT ST CYP. DARRE" ;
         ex:bike_stands  17 ;
         geo:lat         43.59812186858788e0 ;
         geo:lng         1.431415230750123e0 ;
@@ -1580,6 +1776,7 @@
 
 <ex:station_229_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00229 - IUT RANGUEIL" ;
         ex:bike_stands  18 ;
         geo:lat         43.571433064051334e0 ;
         geo:lng         1.46278065695466e0 ;
@@ -1588,6 +1785,7 @@
 
 <ex:station_177_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00177 - BAILLAUD BRUNAUD" ;
         ex:bike_stands  20 ;
         geo:lat         43.61743867816197e0 ;
         geo:lng         1.46539185105244e0 ;
@@ -1596,6 +1794,7 @@
 
 <ex:station_230_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00230 - RANGUEIL TRIPODE B" ;
         ex:bike_stands  20 ;
         geo:lat         43.567221153708445e0 ;
         geo:lng         1.467678323560475e0 ;
@@ -1604,6 +1803,7 @@
 
 <ex:station_49_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00049 - COUTELIER - METZ" ;
         ex:bike_stands  16 ;
         geo:lat         43.599589544431005e0 ;
         geo:lng         1.441434965295236e0 ;
@@ -1612,6 +1812,7 @@
 
 <ex:station_148_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00148 - COLLIGNON" ;
         ex:bike_stands  19 ;
         geo:lat         43.61692696530316e0 ;
         geo:lng         1.444528167445985e0 ;
@@ -1620,6 +1821,7 @@
 
 <ex:station_50_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00050 - GARONNETTE" ;
         ex:bike_stands  23 ;
         geo:lat         43.594569737633854e0 ;
         geo:lng         1.440920059367141e0 ;
@@ -1628,6 +1830,7 @@
 
 <ex:station_201_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00201 - POTEZ -ST EXUPERY" ;
         ex:bike_stands  18 ;
         geo:lat         43.57965532664315e0 ;
         geo:lng         1.48049587613679e0 ;
@@ -1636,6 +1839,7 @@
 
 <ex:station_13_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00013 - LOIS ESQUILE" ;
         ex:bike_stands  15 ;
         geo:lat         43.60621318190248e0 ;
         geo:lng         1.441331077590377e0 ;
@@ -1644,6 +1848,7 @@
 
 <ex:station_254_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00254 - LOT - VESTREPAIN" ;
         ex:bike_stands  18 ;
         geo:lat         43.5837e0 ;
         geo:lng         1.40644e0 ;
@@ -1652,6 +1857,7 @@
 
 <ex:station_119_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00119 - CHAPOU" ;
         ex:bike_stands  24 ;
         geo:lat         43.609967343094006e0 ;
         geo:lng         1.419524853208122e0 ;
@@ -1660,6 +1866,7 @@
 
 <ex:station_21_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00021 - CARNOT LABEDA" ;
         ex:bike_stands  25 ;
         geo:lat         43.60411143798555e0 ;
         geo:lng         1.450245130369442e0 ;
@@ -1668,6 +1875,7 @@
 
 <ex:station_120_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00120 - PONTS JUMEAUX" ;
         ex:bike_stands  18 ;
         geo:lat         43.61035351524297e0 ;
         geo:lng         1.420545407442975e0 ;
@@ -1676,6 +1884,7 @@
 
 <ex:station_74_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00074 - LAGANNE TEINTURIERS" ;
         ex:bike_stands  18 ;
         geo:lat         43.596660562935625e0 ;
         geo:lng         1.436175197009508e0 ;
@@ -1684,6 +1893,7 @@
 
 <ex:station_225_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00225 - BELIN ONERA" ;
         ex:bike_stands  20 ;
         geo:lat         43.56947707206279e0 ;
         geo:lng         1.473268554354084e0 ;
@@ -1692,6 +1902,7 @@
 
 <ex:station_173_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00173 - MAUNOURY / SEGELA" ;
         ex:bike_stands  19 ;
         geo:lat         43.6331828272491e0 ;
         geo:lng         1.450535969934731e0 ;
@@ -1700,6 +1911,7 @@
 
 <ex:station_278_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00278 - ARENES ROMAINE" ;
         ex:bike_stands  18 ;
         geo:lat         43.6142e0 ;
         geo:lng         1.39709e0 ;
@@ -1708,6 +1920,7 @@
 
 <ex:station_45_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00045 - OZENNE" ;
         ex:bike_stands  19 ;
         geo:lat         43.596327873693475e0 ;
         geo:lng         1.447014394243565e0 ;
@@ -1716,6 +1929,7 @@
 
 <ex:station_144_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00144 - SUISSE - LAUSANE" ;
         ex:bike_stands  22 ;
         geo:lat         43.61606217398145e0 ;
         geo:lng         1.421715694303944e0 ;
@@ -1724,6 +1938,7 @@
 
 <ex:station_98_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00098 - PONT DES DEMOISELLES" ;
         ex:bike_stands  22 ;
         geo:lat         43.587677990128874e0 ;
         geo:lng         1.459836309553229e0 ;
@@ -1732,6 +1947,7 @@
 
 <ex:station_249_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00249 - CROIX DAURADE" ;
         ex:bike_stands  19 ;
         geo:lat         43.63812899582609e0 ;
         geo:lng         1.46521198710394e0 ;
@@ -1740,6 +1956,7 @@
 
 <ex:station_197_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00197 - CASERNE PERIGNON" ;
         ex:bike_stands  20 ;
         geo:lat         43.60038605818475e0 ;
         geo:lng         1.464093716152017e0 ;
@@ -1748,6 +1965,7 @@
 
 <ex:station_16_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00016 - STRASBOURG BAYARD" ;
         ex:bike_stands  21 ;
         geo:lat         43.60793763027584e0 ;
         geo:lng         1.446610770547085e0 ;
@@ -1756,6 +1974,7 @@
 
 <ex:station_250_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00250 - 11 NOVEMBRE" ;
         ex:bike_stands  18 ;
         geo:lat         43.593097534292575e0 ;
         geo:lng         1.414428635946386e0 ;
@@ -1764,6 +1983,7 @@
 
 <ex:station_115_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00115 - DEMOISELLES MISTRAL" ;
         ex:bike_stands  18 ;
         geo:lat         43.590622011025665e0 ;
         geo:lng         1.453805825078145e0 ;
@@ -1772,6 +1992,7 @@
 
 <ex:station_69_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00069 - FEUGA" ;
         ex:bike_stands  18 ;
         geo:lat         43.59253e0 ;
         geo:lng         1.4429e0 ;
@@ -1780,6 +2001,7 @@
 
 <ex:station_168_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00168 - BILA   /  ROUTE D ALBI" ;
         ex:bike_stands  20 ;
         geo:lat         43.626509813353074e0 ;
         geo:lng         1.458930207887618e0 ;
@@ -1788,6 +2010,7 @@
 
 <ex:station_70_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00070 - FER A CHEVAL" ;
         ex:bike_stands  18 ;
         geo:lat         43.59253e0 ;
         geo:lng         1.43421e0 ;
@@ -1796,6 +2019,7 @@
 
 <ex:station_221_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00221 - VAUQUELIN" ;
         ex:bike_stands  20 ;
         geo:lat         43.57641895477528e0 ;
         geo:lng         1.406488768851485e0 ;
@@ -1804,6 +2028,7 @@
 
 <ex:station_139_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00139 - BARRIERE DE LOMBEZ" ;
         ex:bike_stands  25 ;
         geo:lat         43.5955673906372e0 ;
         geo:lng         1.418420510391943e0 ;
@@ -1812,6 +2037,7 @@
 
 <ex:station_41_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00041 - ST AUBIN CAMICHEL" ;
         ex:bike_stands  21 ;
         geo:lat         43.60265364232074e0 ;
         geo:lng         1.454436078796189e0 ;
@@ -1820,6 +2046,7 @@
 
 <ex:station_282_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "282 - RICHARD WAGNER" ;
         ex:bike_stands  18 ;
         geo:lat         43.60614e0 ;
         geo:lng         1.41476e0 ;
@@ -1828,6 +2055,7 @@
 
 <ex:station_140_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00140 - EMILE MALE" ;
         ex:bike_stands  29 ;
         geo:lat         43.59175e0 ;
         geo:lng         1.41868e0 ;
@@ -1836,6 +2064,7 @@
 
 <ex:station_94_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00094 - SEMARD GARE ROUTIERE" ;
         ex:bike_stands  25 ;
         geo:lat         43.613829128033615e0 ;
         geo:lng         1.451479779266325e0 ;
@@ -1844,6 +2073,7 @@
 
 <ex:station_245_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00245 - GRANDE BRETAGNE / BADIOU" ;
         ex:bike_stands  20 ;
         geo:lat         43.59990824072129e0 ;
         geo:lng         1.41518438915584e0 ;
@@ -1852,6 +2082,7 @@
 
 <ex:station_193_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00193 - LOMBEZ / PETITE VITESSE" ;
         ex:bike_stands  20 ;
         geo:lat         43.594849382545554e0 ;
         geo:lng         1.415377349047291e0 ;
@@ -1860,6 +2091,7 @@
 
 <ex:station_12_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00012 - PARGAMINIERES" ;
         ex:bike_stands  11 ;
         geo:lat         43.60459e0 ;
         geo:lng         1.44002e0 ;
@@ -1868,6 +2100,7 @@
 
 <ex:station_253_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00253 - ETATS-UNIS / ROBERT" ;
         ex:bike_stands  20 ;
         geo:lat         43.6319121122554e0 ;
         geo:lng         1.43168347755474e0 ;
@@ -1876,6 +2109,7 @@
 
 <ex:station_111_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00111 - MINIMES PASSERELLE" ;
         ex:bike_stands  27 ;
         geo:lat         43.615259799224134e0 ;
         geo:lng         1.442921175845342e0 ;
@@ -1884,6 +2118,7 @@
 
 <ex:station_65_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00065 - VERDIER - GRAND ROND" ;
         ex:bike_stands  27 ;
         geo:lat         43.597074846780274e0 ;
         geo:lng         1.452605307400692e0 ;
@@ -1892,6 +2127,7 @@
 
 <ex:station_216_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00216 - ARGOULETS HOUDON" ;
         ex:bike_stands  17 ;
         geo:lat         43.622829380921075e0 ;
         geo:lng         1.474057401308612e0 ;
@@ -1900,6 +2136,7 @@
 
 <ex:station_164_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00164 - BEDOUCE SAOUZELONG" ;
         ex:bike_stands  20 ;
         geo:lat         43.579725432743686e0 ;
         geo:lng         1.460094426022393e0 ;
@@ -1908,6 +2145,7 @@
 
 <ex:station_36_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00036 - PLACE SCHUMAN" ;
         ex:bike_stands  19 ;
         geo:lat         43.609623167283914e0 ;
         geo:lng         1.449367822982907e0 ;
@@ -1916,6 +2154,7 @@
 
 <ex:station_277_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00277 - ZAMENHOF" ;
         ex:bike_stands  18 ;
         geo:lat         43.58549e0 ;
         geo:lng         1.37708e0 ;
@@ -1924,6 +2163,7 @@
 
 <ex:station_135_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00135 - BONNEFOY   LEMAITRE" ;
         ex:bike_stands  18 ;
         geo:lat         43.62295e0 ;
         geo:lng         1.45872e0 ;
@@ -1932,6 +2172,7 @@
 
 <ex:station_188_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00188 - MURET/LAFAGE" ;
         ex:bike_stands  20 ;
         geo:lat         43.584282965328995e0 ;
         geo:lng         1.427517107421507e0 ;
@@ -1940,6 +2181,7 @@
 
 <ex:station_90_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00090 - LASCROSSES- A. BERNARD" ;
         ex:bike_stands  25 ;
         geo:lat         43.61146971436288e0 ;
         geo:lng         1.437871385550754e0 ;
@@ -1948,6 +2190,7 @@
 
 <ex:station_241_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00241 - ESPAGNE CHARPENTIER" ;
         ex:bike_stands  20 ;
         geo:lat         43.574576545136445e0 ;
         geo:lng         1.424432564672875e0 ;
@@ -1956,6 +2199,7 @@
 
 <ex:station_248_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00248 - BOUQUETINS/E. ROSTAND" ;
         ex:bike_stands  20 ;
         geo:lat         43.64108958806659e0 ;
         geo:lng         1.449039275575635e0 ;
@@ -1964,6 +2208,7 @@
 
 <ex:station_106_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00106 - BRIENNE PASSERELLE" ;
         ex:bike_stands  21 ;
         geo:lat         43.60842211156853e0 ;
         geo:lng         1.42386687477895e0 ;
@@ -1972,6 +2217,7 @@
 
 <ex:station_196_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00196 - GOUJON - GUILHEMERY" ;
         ex:bike_stands  20 ;
         geo:lat         43.6017932127447e0 ;
         geo:lng         1.458048662941769e0 ;
@@ -1980,6 +2226,7 @@
 
 <ex:station_159_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00159 - U.R.S.S DEVIC" ;
         ex:bike_stands  20 ;
         geo:lat         43.5785038852904e0 ;
         geo:lng         1.450284083376377e0 ;
@@ -1988,6 +2235,7 @@
 
 <ex:station_61_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00061 - BONREPOS" ;
         ex:bike_stands  40 ;
         geo:lat         43.61071810091073e0 ;
         geo:lng         1.452455826571967e0 ;
@@ -1996,6 +2244,7 @@
 
 <ex:station_212_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00212 - CHAUMIERE/ CRETES" ;
         ex:bike_stands  17 ;
         geo:lat         43.615227374108336e0 ;
         geo:lng         1.465376125032407e0 ;
@@ -2004,6 +2253,7 @@
 
 <ex:station_160_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00160 - THEATRE JULES JULIEN" ;
         ex:bike_stands  17 ;
         geo:lat         43.573924940202886e0 ;
         geo:lng         1.451999386383253e0 ;
@@ -2012,6 +2262,7 @@
 
 <ex:station_32_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00032 - MUSEE ST RAYMOND" ;
         ex:bike_stands  12 ;
         geo:lat         43.60765033417208e0 ;
         geo:lng         1.441209573825458e0 ;
@@ -2020,6 +2271,7 @@
 
 <ex:station_273_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00273 - PASSERIEU - ST SIMON" ;
         ex:bike_stands  18 ;
         geo:lat         43.5792e0 ;
         geo:lng         1.39262e0 ;
@@ -2028,6 +2280,7 @@
 
 <ex:station_131_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00131 - BERNIES" ;
         ex:bike_stands  19 ;
         geo:lat         43.61174111564092e0 ;
         geo:lng         1.414597471267562e0 ;
@@ -2036,6 +2289,7 @@
 
 <ex:station_85_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00085 - MARECHAL LECLERC" ;
         ex:bike_stands  22 ;
         geo:lat         43.606708008560005e0 ;
         geo:lng         1.430598716260075e0 ;
@@ -2044,6 +2298,7 @@
 
 <ex:station_236_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00236 - TOEC / LEMIRE" ;
         ex:bike_stands  20 ;
         geo:lat         43.59729443895585e0 ;
         geo:lng         1.403872948950036e0 ;
@@ -2052,6 +2307,7 @@
 
 <ex:station_244_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00244 - RENAN / VITRY" ;
         ex:bike_stands  18 ;
         geo:lat         43.635706776069696e0 ;
         geo:lng         1.443751822397876e0 ;
@@ -2060,6 +2316,7 @@
 
 <ex:station_56_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00056 - SAINT SERNIN  MERLY" ;
         ex:bike_stands  15 ;
         geo:lat         43.609029818757634e0 ;
         geo:lng         1.442808436675486e0 ;
@@ -2068,6 +2325,7 @@
 
 <ex:station_102_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00102 -  MISTRAL - FLEURANCE" ;
         ex:bike_stands  19 ;
         geo:lat         43.593599912488976e0 ;
         geo:lng         1.453042492588597e0 ;
@@ -2076,6 +2334,7 @@
 
 <ex:station_192_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00192 - RTE DE ST SIMON/PRADO" ;
         ex:bike_stands  20 ;
         geo:lat         43.587659413053814e0 ;
         geo:lng         1.409162125552512e0 ;
@@ -2084,6 +2343,7 @@
 
 <ex:station_207_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00207 - CHRIST ROI" ;
         ex:bike_stands  17 ;
         geo:lat         43.58300698375498e0 ;
         geo:lng         1.481508972569192e0 ;
@@ -2092,6 +2352,7 @@
 
 <ex:station_155_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00155 - RECOLLETS" ;
         ex:bike_stands  20 ;
         geo:lat         43.58386908499996e0 ;
         geo:lng         1.443635078857447e0 ;
@@ -2100,6 +2361,7 @@
 
 <ex:station_163_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00163 - BEDOUCE / MIDI" ;
         ex:bike_stands  20 ;
         geo:lat         43.581459211587536e0 ;
         geo:lng         1.462194464667426e0 ;
@@ -2108,6 +2370,7 @@
 
 <ex:station_27_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00027 - QUAI DE TOUNIS" ;
         ex:bike_stands  23 ;
         geo:lat         43.59938372814817e0 ;
         geo:lng         1.440461106405702e0 ;
@@ -2116,6 +2379,7 @@
 
 <ex:station_268_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00268 - PLACE BAYLAC" ;
         ex:bike_stands  22 ;
         geo:lat         43.60868e0 ;
         geo:lng         1.3972e0 ;
@@ -2124,6 +2388,7 @@
 
 <ex:station_126_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00126 - ECOLE BONNEFOY" ;
         ex:bike_stands  22 ;
         geo:lat         43.61689063107848e0 ;
         geo:lng         1.454339701099757e0 ;
@@ -2132,6 +2397,7 @@
 
 <ex:station_81_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00081 - JARDIN RAYMOND VI" ;
         ex:bike_stands  33 ;
         geo:lat         43.59989498759688e0 ;
         geo:lng         1.429556601823956e0 ;
@@ -2140,6 +2406,7 @@
 
 <ex:station_239_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00239 - LESPINET / HERBETTES" ;
         ex:bike_stands  20 ;
         geo:lat         43.577166917623245e0 ;
         geo:lng         1.469393836823441e0 ;
@@ -2148,6 +2415,7 @@
 
 <ex:station_187_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00187 - DESBALS MONTDORE" ;
         ex:bike_stands  17 ;
         geo:lat         43.584523123495174e0 ;
         geo:lng         1.415543960373121e0 ;
@@ -2156,6 +2424,7 @@
 
 <ex:station_240_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00240 - RTE DE BLAGNAC / JOB" ;
         ex:bike_stands  18 ;
         geo:lat         43.6172496485261e0 ;
         geo:lng         1.408124460028565e0 ;
@@ -2164,6 +2433,7 @@
 
 <ex:station_52_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00052 - DUPORTAL CITE ADMIN." ;
         ex:bike_stands  21 ;
         geo:lat         43.60864745421513e0 ;
         geo:lng         1.434650096062823e0 ;
@@ -2172,6 +2442,7 @@
 
 <ex:station_203_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00203 - ST EX. - PETIT PRINCE" ;
         ex:bike_stands  20 ;
         geo:lat         43.5834192540153e0 ;
         geo:lng         1.470077844843929e0 ;
@@ -2180,6 +2451,7 @@
 
 <ex:station_151_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00151 - CURIE - NEGRENEYS" ;
         ex:bike_stands  24 ;
         geo:lat         43.62459108857192e0 ;
         geo:lng         1.443059611732516e0 ;
@@ -2188,6 +2460,7 @@
 
 <ex:station_158_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00158 - URSS ST THOMAS D AQUIN" ;
         ex:bike_stands  20 ;
         geo:lat         43.580795461338795e0 ;
         geo:lng         1.449135738584587e0 ;
@@ -2196,6 +2469,7 @@
 
 <ex:station_211_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00211 - LE DORMEUR/ LA TERRASSE" ;
         ex:bike_stands  18 ;
         geo:lat         43.58350615923425e0 ;
         geo:lng         1.48781984362323e0 ;
@@ -2204,6 +2478,7 @@
 
 <ex:station_23_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00023 - COMBATTANTS" ;
         ex:bike_stands  26 ;
         geo:lat         43.60128593726337e0 ;
         geo:lng         1.452057713684133e0 ;
@@ -2212,6 +2487,7 @@
 
 <ex:station_264_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00264 - LAFOURGUETTE" ;
         ex:bike_stands  18 ;
         geo:lat         43.56507e0 ;
         geo:lng         1.41028e0 ;
@@ -2220,6 +2496,7 @@
 
 <ex:station_122_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00122 - PASSERELLE HAEDENS" ;
         ex:bike_stands  19 ;
         geo:lat         43.613472358330974e0 ;
         geo:lng         1.430120187266013e0 ;
@@ -2228,6 +2505,7 @@
 
 <ex:station_9_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00009 - MAILLART - ROQUEMAUREL" ;
         ex:bike_stands  18 ;
         geo:lat         43.5959827340129e0 ;
         geo:lng         1.41021417917972e0 ;
@@ -2236,6 +2514,7 @@
 
 <ex:station_76_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00076 - REPUBLIQUE PL. OLIVIER" ;
         ex:bike_stands  22 ;
         geo:lat         43.59849490883457e0 ;
         geo:lng         1.435181557097925e0 ;
@@ -2244,6 +2523,7 @@
 
 <ex:station_84_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00084 - BRIENNE MANUFACTURE" ;
         ex:bike_stands  24 ;
         geo:lat         43.60524239596951e0 ;
         geo:lng         1.432687682718845e0 ;
@@ -2252,6 +2532,7 @@
 
 <ex:station_235_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00235 - PAUL VERLAINE" ;
         ex:bike_stands  19 ;
         geo:lat         43.6333722270955e0 ;
         geo:lng         1.43538536091475e0 ;
@@ -2260,6 +2541,7 @@
 
 <ex:station_47_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00047 - NAZARETH LANGUEDOC" ;
         ex:bike_stands  30 ;
         geo:lat         43.59546175758775e0 ;
         geo:lng         1.445531445171338e0 ;
@@ -2268,6 +2550,7 @@
 
 <ex:station_183_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00183 - RUE DE CUGNAUX" ;
         ex:bike_stands  18 ;
         geo:lat         43.5931301810241e0 ;
         geo:lng         1.42463077628583e0 ;
@@ -2276,6 +2559,7 @@
 
 <ex:station_288_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "000288 - METZ - RUE DES MARCHANDS" ;
         ex:bike_stands  36 ;
         geo:lat         43.59995e0 ;
         geo:lng         1.44289e0 ;
@@ -2284,6 +2568,7 @@
 
 <ex:station_146_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00146 - SANG DE SERP - DAGNAUX" ;
         ex:bike_stands  20 ;
         geo:lat         43.6154182104443e0 ;
         geo:lng         1.4284933309335e0 ;
@@ -2292,6 +2577,7 @@
 
 <ex:station_206_Toulouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00206 - LEYGUE/ RIEUX" ;
         ex:bike_stands  18 ;
         geo:lat         43.594341505924845e0 ;
         geo:lng         1.464668419108617e0 ;

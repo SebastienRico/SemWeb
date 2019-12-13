@@ -12,6 +12,7 @@
 
 <ex:station_67_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00067-WALDECK ROUSSEAU" ;
         ex:bike_stands  22 ;
         geo:lat         47.2277747610651e0 ;
         geo:lng         -1.55214798607222e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_70_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00070-GARE DE NANTES SUD" ;
         ex:bike_stands  70 ;
         geo:lat         47.215505e0 ;
         geo:lng         -1.542844e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_44_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00044-PALAIS DE JUSTICE" ;
         ex:bike_stands  31 ;
         geo:lat         47.2083172884415e0 ;
         geo:lng         -1.5611730779894e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_78_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00078-DE GAULLE" ;
         ex:bike_stands  21 ;
         geo:lat         47.2084436771829e0 ;
         geo:lng         -1.54051448829019e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_10_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00010- PICASSO" ;
         ex:bike_stands  40 ;
         geo:lat         47.216207e0 ;
         geo:lng         -1.533796e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_18_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00018-VIARME" ;
         ex:bike_stands  14 ;
         geo:lat         47.2214293389855e0 ;
         geo:lng         -1.56330836686976e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_21_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00021-TALENSAC SUD" ;
         ex:bike_stands  16 ;
         geo:lat         47.2211433291291e0 ;
         geo:lng         -1.55647633932779e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_55_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00055-MAGELLAN" ;
         ex:bike_stands  15 ;
         geo:lat         47.2107814065594e0 ;
         geo:lng         -1.54429847094521e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_122_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00122 - MITRIE" ;
         ex:bike_stands  15 ;
         geo:lat         47.22865e0 ;
         geo:lng         -1.526193e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_107_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00107-MOUTONNERIE" ;
         ex:bike_stands  15 ;
         geo:lat         47.219901e0 ;
         geo:lng         -1.532947e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_110_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00110 - AUDITORIUM" ;
         ex:bike_stands  20 ;
         geo:lat         47.185402e0 ;
         geo:lng         -1.554025e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_6_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00006-PLACE DU CIRQUE" ;
         ex:bike_stands  21 ;
         geo:lat         47.217596682406e0 ;
         geo:lng         -1.55693764537887e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_98_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00098-HUIT MAI" ;
         ex:bike_stands  15 ;
         geo:lat         47.189212047513e0 ;
         geo:lng         -1.55082803645635e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_75_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00075-LAMORICIERE" ;
         ex:bike_stands  18 ;
         geo:lat         47.212308958847e0 ;
         geo:lng         -1.57136936022191e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_52_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00052-BACO" ;
         ex:bike_stands  15 ;
         geo:lat         47.2143275245891e0 ;
         geo:lng         -1.54875055574198e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_86_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00086-HAUTS PAVÉS" ;
         ex:bike_stands  16 ;
         geo:lat         47.2254706269804e0 ;
         geo:lng         -1.56750184250227e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_63_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00063-JARDIN DES PLANTES" ;
         ex:bike_stands  15 ;
         geo:lat         47.219834197319e0 ;
         geo:lng         -1.54471896453159e0 ;
@@ -148,6 +165,7 @@
 
 <ex:station_37_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00037-FELIX EBOUE" ;
         ex:bike_stands  27 ;
         geo:lat         47.211465063355e0 ;
         geo:lng         -1.5568245371939e0 ;
@@ -156,6 +174,7 @@
 
 <ex:station_40_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00040-MADELEINE" ;
         ex:bike_stands  21 ;
         geo:lat         47.2088046424378e0 ;
         geo:lng         -1.55041191411915e0 ;
@@ -164,6 +183,7 @@
 
 <ex:station_14_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00014-SAINT FÉLIX" ;
         ex:bike_stands  14 ;
         geo:lat         47.230334e0 ;
         geo:lng         -1.556133e0 ;
@@ -172,6 +192,7 @@
 
 <ex:station_115_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00115 - TRENTEMOULT" ;
         ex:bike_stands  26 ;
         geo:lat         47.19525e0 ;
         geo:lng         -1.580584e0 ;
@@ -180,6 +201,7 @@
 
 <ex:station_103_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00103-GRUE JAUNE" ;
         ex:bike_stands  21 ;
         geo:lat         47.204879e0 ;
         geo:lng         -1.569191e0 ;
@@ -188,6 +210,7 @@
 
 <ex:station_2_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00002-HÔTEL DE VILLE" ;
         ex:bike_stands  20 ;
         geo:lat         47.2185718130915e0 ;
         geo:lng         -1.55348429039295e0 ;
@@ -196,6 +219,7 @@
 
 <ex:station_83_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00083-MILLERAND" ;
         ex:bike_stands  14 ;
         geo:lat         47.2081996450388e0 ;
         geo:lng         -1.53018043595997e0 ;
@@ -204,6 +228,7 @@
 
 <ex:station_60_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00060-GARE DE NANTES NORD" ;
         ex:bike_stands  40 ;
         geo:lat         47.219009e0 ;
         geo:lng         -1.544071e0 ;
@@ -212,6 +237,7 @@
 
 <ex:station_94_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00094-PETIT PORT" ;
         ex:bike_stands  20 ;
         geo:lat         47.2432639149755e0 ;
         geo:lng         -1.55634461016798e0 ;
@@ -220,6 +246,7 @@
 
 <ex:station_68_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00068-LIVET" ;
         ex:bike_stands  15 ;
         geo:lat         47.2240678794875e0 ;
         geo:lng         -1.54521243421509e0 ;
@@ -228,6 +255,7 @@
 
 <ex:station_71_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00071-TALENSAC NORD" ;
         ex:bike_stands  14 ;
         geo:lat         47.2218536381884e0 ;
         geo:lng         -1.55894074669074e0 ;
@@ -236,6 +264,7 @@
 
 <ex:station_79_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00079-MALAKOFF" ;
         ex:bike_stands  15 ;
         geo:lat         47.213395e0 ;
         geo:lng         -1.536954e0 ;
@@ -244,6 +273,7 @@
 
 <ex:station_45_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00045-PRAIRIE AU DUC" ;
         ex:bike_stands  13 ;
         geo:lat         47.2047839355992e0 ;
         geo:lng         -1.55892310936669e0 ;
@@ -252,6 +282,7 @@
 
 <ex:station_19_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00019-SAINT SIMILIEN" ;
         ex:bike_stands  15 ;
         geo:lat         47.21985446733e0 ;
         geo:lng         -1.55892089047478e0 ;
@@ -260,6 +291,7 @@
 
 <ex:station_22_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00022-MOQUECHIEN" ;
         ex:bike_stands  20 ;
         geo:lat         47.220392126692e0 ;
         geo:lng         -1.55553104193626e0 ;
@@ -268,6 +300,7 @@
 
 <ex:station_56_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00056-VINCENT GACHE" ;
         ex:bike_stands  15 ;
         geo:lat         47.2067986185753e0 ;
         geo:lng         -1.54177773985064e0 ;
@@ -276,6 +309,7 @@
 
 <ex:station_33_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00033-RACINE" ;
         ex:bike_stands  15 ;
         geo:lat         47.2135226137199e0 ;
         geo:lng         -1.5631408744314e0 ;
@@ -284,6 +318,7 @@
 
 <ex:station_100_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00100 - GRENERAIE" ;
         ex:bike_stands  20 ;
         geo:lat         47.1999230929052e0 ;
         geo:lng         -1.53471754047048e0 ;
@@ -292,6 +327,7 @@
 
 <ex:station_108_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00108 - BONNE GARDE" ;
         ex:bike_stands  24 ;
         geo:lat         47.197217e0 ;
         geo:lng         -1.532105e0 ;
@@ -300,6 +336,7 @@
 
 <ex:station_119_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00119 - ZOLA" ;
         ex:bike_stands  25 ;
         geo:lat         47.213859e0 ;
         geo:lng         -1.586108e0 ;
@@ -308,6 +345,7 @@
 
 <ex:station_111_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00111-DIDEROT" ;
         ex:bike_stands  21 ;
         geo:lat         47.184491e0 ;
         geo:lng         -1.562532e0 ;
@@ -316,6 +354,7 @@
 
 <ex:station_7_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00007- BARILLERIE" ;
         ex:bike_stands  30 ;
         geo:lat         47.2153313580104e0 ;
         geo:lng         -1.55612612597517e0 ;
@@ -324,6 +363,7 @@
 
 <ex:station_99_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00099-ST JACQUES" ;
         ex:bike_stands  15 ;
         geo:lat         47.1958989090141e0 ;
         geo:lng         -1.5365406634647e0 ;
@@ -332,6 +372,7 @@
 
 <ex:station_76_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00076-RENÉ BOUHIER" ;
         ex:bike_stands  15 ;
         geo:lat         47.2094290925244e0 ;
         geo:lng         -1.57051533628071e0 ;
@@ -340,6 +381,7 @@
 
 <ex:station_53_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00053-OLIVETTES" ;
         ex:bike_stands  15 ;
         geo:lat         47.2117363932221e0 ;
         geo:lng         -1.54988602493776e0 ;
@@ -348,6 +390,7 @@
 
 <ex:station_87_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00087-ANATOLE FRANCE" ;
         ex:bike_stands  15 ;
         geo:lat         47.2236048153991e0 ;
         geo:lng         -1.57137357811241e0 ;
@@ -356,6 +399,7 @@
 
 <ex:station_64_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00064-SAINT CLEMENT" ;
         ex:bike_stands  15 ;
         geo:lat         47.2217851835226e0 ;
         geo:lng         -1.5470992337185e0 ;
@@ -364,6 +408,7 @@
 
 <ex:station_90_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00090-PROCE" ;
         ex:bike_stands  15 ;
         geo:lat         47.2241950617326e0 ;
         geo:lng         -1.57661284372726e0 ;
@@ -372,6 +417,7 @@
 
 <ex:station_30_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00030-COMMERCE" ;
         ex:bike_stands  45 ;
         geo:lat         47.2131205510312e0 ;
         geo:lng         -1.55739323562824e0 ;
@@ -380,6 +426,7 @@
 
 <ex:station_38_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00038-RICORDEAU" ;
         ex:bike_stands  40 ;
         geo:lat         47.2121084631418e0 ;
         geo:lng         -1.55304912932047e0 ;
@@ -388,6 +435,7 @@
 
 <ex:station_41_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00041-BRUNELIERE" ;
         ex:bike_stands  15 ;
         geo:lat         47.208905e0 ;
         geo:lng         -1.56823e0 ;
@@ -396,6 +444,7 @@
 
 <ex:station_49_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00049-DUCHESSE ANNE" ;
         ex:bike_stands  15 ;
         geo:lat         47.2167e0 ;
         geo:lng         -1.547253e0 ;
@@ -404,6 +453,7 @@
 
 <ex:station_15_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00015-ARISTIDE BRIAND" ;
         ex:bike_stands  17 ;
         geo:lat         47.2171848232902e0 ;
         geo:lng         -1.56298679328837e0 ;
@@ -412,6 +462,7 @@
 
 <ex:station_26_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00026-GUIST'HAU SUD" ;
         ex:bike_stands  15 ;
         geo:lat         47.2168279599745e0 ;
         geo:lng         -1.56700452626517e0 ;
@@ -420,6 +471,7 @@
 
 <ex:station_116_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00116 - LIBERTE" ;
         ex:bike_stands  20 ;
         geo:lat         47.198124e0 ;
         geo:lng         -1.588395e0 ;
@@ -428,6 +480,7 @@
 
 <ex:station_104_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00104 - ANTILLES" ;
         ex:bike_stands  24 ;
         geo:lat         47.202547e0 ;
         geo:lng         -1.572325e0 ;
@@ -436,6 +489,7 @@
 
 <ex:station_3_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00003-STRASBOURG" ;
         ex:bike_stands  15 ;
         geo:lat         47.2164797718207e0 ;
         geo:lng         -1.55154060534636e0 ;
@@ -444,6 +498,7 @@
 
 <ex:station_61_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00061-LIEU UNIQUE" ;
         ex:bike_stands  15 ;
         geo:lat         47.2155914639598e0 ;
         geo:lng         -1.54590593911211e0 ;
@@ -452,6 +507,7 @@
 
 <ex:station_95_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00095-MICHELET" ;
         ex:bike_stands  25 ;
         geo:lat         47.235158e0 ;
         geo:lng         -1.556322e0 ;
@@ -460,6 +516,7 @@
 
 <ex:station_69_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00069 - MANUFACTURE" ;
         ex:bike_stands  15 ;
         geo:lat         47.2192163807113e0 ;
         geo:lng         -1.53584744327638e0 ;
@@ -468,6 +525,7 @@
 
 <ex:station_72_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00072-BELLAMY-GUÉ MOREAU" ;
         ex:bike_stands  15 ;
         geo:lat         47.2286256905746e0 ;
         geo:lng         -1.56180639301113e0 ;
@@ -476,6 +534,7 @@
 
 <ex:station_46_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00046-REPUBLIQUE" ;
         ex:bike_stands  26 ;
         geo:lat         47.2053240902952e0 ;
         geo:lng         -1.55518310791618e0 ;
@@ -484,6 +543,7 @@
 
 <ex:station_23_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00023-BUAT" ;
         ex:bike_stands  11 ;
         geo:lat         47.2271454682246e0 ;
         geo:lng         -1.5424047412504e0 ;
@@ -492,6 +552,7 @@
 
 <ex:station_57_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00057-GAETAN RONDEAU" ;
         ex:bike_stands  20 ;
         geo:lat         47.2053961321791e0 ;
         geo:lng         -1.53758186300399e0 ;
@@ -500,6 +561,7 @@
 
 <ex:station_34_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00034-MEDIATHEQUE" ;
         ex:bike_stands  25 ;
         geo:lat         47.2108869258159e0 ;
         geo:lng         -1.56174490565258e0 ;
@@ -508,6 +570,7 @@
 
 <ex:station_11_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00011-CALVAIRE" ;
         ex:bike_stands  15 ;
         geo:lat         47.2155789424271e0 ;
         geo:lng         -1.56067528370012e0 ;
@@ -516,6 +579,7 @@
 
 <ex:station_109_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00109 - CLOS TOREAU" ;
         ex:bike_stands  21 ;
         geo:lat         47.19426e0 ;
         geo:lng         -1.529313e0 ;
@@ -524,6 +588,7 @@
 
 <ex:station_112_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00112 - POLE SOCIAL MARION CAHOUR" ;
         ex:bike_stands  15 ;
         geo:lat         47.188684e0 ;
         geo:lng         -1.567201e0 ;
@@ -532,6 +597,7 @@
 
 <ex:station_123_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00123 - TRARIEUX" ;
         ex:bike_stands  20 ;
         geo:lat         47.225957e0 ;
         geo:lng         -1.522334e0 ;
@@ -540,6 +606,7 @@
 
 <ex:station_54_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00054- CITE INTERNATIONALE DES CONGRES" ;
         ex:bike_stands  36 ;
         geo:lat         47.2131800855278e0 ;
         geo:lng         -1.54495254166858e0 ;
@@ -548,6 +615,7 @@
 
 <ex:station_80_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00080 - VICTOR HUGO" ;
         ex:bike_stands  15 ;
         geo:lat         47.2040032084911e0 ;
         geo:lng         -1.5515484848032e0 ;
@@ -556,6 +624,7 @@
 
 <ex:station_88_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00088-MELLINET" ;
         ex:bike_stands  15 ;
         geo:lat         47.2115010701178e0 ;
         geo:lng         -1.57717541432178e0 ;
@@ -564,6 +633,7 @@
 
 <ex:station_65_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00065-COURS SULLY" ;
         ex:bike_stands  15 ;
         geo:lat         47.2225873399067e0 ;
         geo:lng         -1.55166644254598e0 ;
@@ -572,6 +642,7 @@
 
 <ex:station_91_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00091-ROND POINT DE VANNES" ;
         ex:bike_stands  18 ;
         geo:lat         47.2295806053692e0 ;
         geo:lng         -1.57211457799373e0 ;
@@ -580,6 +651,7 @@
 
 <ex:station_31_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00031-BOURSE" ;
         ex:bike_stands  22 ;
         geo:lat         47.2120830307532e0 ;
         geo:lng         -1.55908655123987e0 ;
@@ -588,6 +660,7 @@
 
 <ex:station_39_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00039-QUAI MONCOUSU" ;
         ex:bike_stands  24 ;
         geo:lat         47.2094065738737e0 ;
         geo:lng         -1.55523314463147e0 ;
@@ -596,6 +669,7 @@
 
 <ex:station_42_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00042-GARE MARITIME" ;
         ex:bike_stands  28 ;
         geo:lat         47.2065977289879e0 ;
         geo:lng         -1.5726102869705e0 ;
@@ -604,6 +678,7 @@
 
 <ex:station_16_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00016-EDOUARD NORMAND" ;
         ex:bike_stands  15 ;
         geo:lat         47.2190275447384e0 ;
         geo:lng         -1.56341948405375e0 ;
@@ -612,6 +687,7 @@
 
 <ex:station_27_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00027-GUIST'HAU NORD" ;
         ex:bike_stands  15 ;
         geo:lat         47.2179298163251e0 ;
         geo:lng         -1.56917188330244e0 ;
@@ -620,6 +696,7 @@
 
 <ex:station_120_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00120-ROND-POINT DE PARIS" ;
         ex:bike_stands  30 ;
         geo:lat         47.234853e0 ;
         geo:lng         -1.534981e0 ;
@@ -628,6 +705,7 @@
 
 <ex:station_105_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00105 - HANGAR A BANANES" ;
         ex:bike_stands  15 ;
         geo:lat         47.199408e0 ;
         geo:lng         -1.573184e0 ;
@@ -636,6 +714,7 @@
 
 <ex:station_4_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00004-MOULIN" ;
         ex:bike_stands  13 ;
         geo:lat         47.2166675820152e0 ;
         geo:lng         -1.5543847138777e0 ;
@@ -644,6 +723,7 @@
 
 <ex:station_96_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00096-TORTIERE" ;
         ex:bike_stands  16 ;
         geo:lat         47.2353352222086e0 ;
         geo:lng         -1.54922176680989e0 ;
@@ -652,6 +732,7 @@
 
 <ex:station_73_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00073-SARRADIN" ;
         ex:bike_stands  13 ;
         geo:lat         47.2208824330189e0 ;
         geo:lng         -1.57043859807393e0 ;
@@ -660,6 +741,7 @@
 
 <ex:station_47_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00047- MARTYRS NANTAIS" ;
         ex:bike_stands  27 ;
         geo:lat         47.206933e0 ;
         geo:lng         -1.548169e0 ;
@@ -668,6 +750,7 @@
 
 <ex:station_24_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00024-VERSAILLES" ;
         ex:bike_stands  15 ;
         geo:lat         47.2245149071911e0 ;
         geo:lng         -1.55371196140233e0 ;
@@ -676,6 +759,7 @@
 
 <ex:station_50_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00050-CHATEAU" ;
         ex:bike_stands  16 ;
         geo:lat         47.2151496951626e0 ;
         geo:lng         -1.55022624256337e0 ;
@@ -684,6 +768,7 @@
 
 <ex:station_84_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00084-RÉGION" ;
         ex:bike_stands  22 ;
         geo:lat         47.2107421421814e0 ;
         geo:lng         -1.52593345192508e0 ;
@@ -692,6 +777,7 @@
 
 <ex:station_58_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00058-PALAIS DES SPORTS" ;
         ex:bike_stands  15 ;
         geo:lat         47.208465e0 ;
         geo:lng         -1.536657e0 ;
@@ -700,6 +786,7 @@
 
 <ex:station_35_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00035-JEAN V" ;
         ex:bike_stands  15 ;
         geo:lat         47.2121689744121e0 ;
         geo:lng         -1.5655439860751e0 ;
@@ -708,6 +795,7 @@
 
 <ex:station_12_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00012-DELORME" ;
         ex:bike_stands  20 ;
         geo:lat         47.2151581886857e0 ;
         geo:lng         -1.56390067346586e0 ;
@@ -716,6 +804,7 @@
 
 <ex:station_113_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00113 - MAIRIE DE REZE" ;
         ex:bike_stands  21 ;
         geo:lat         47.191117e0 ;
         geo:lng         -1.569362e0 ;
@@ -724,6 +813,7 @@
 
 <ex:station_101_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "101 - PIRMIL" ;
         ex:bike_stands  28 ;
         geo:lat         47.1965313642396e0 ;
         geo:lng         -1.54156809120326e0 ;
@@ -732,6 +822,7 @@
 
 <ex:station_8_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00008-BOUCHERIE" ;
         ex:bike_stands  24 ;
         geo:lat         47.2162008925882e0 ;
         geo:lng         -1.55711168019757e0 ;
@@ -740,6 +831,7 @@
 
 <ex:station_81_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00081 - MANGIN" ;
         ex:bike_stands  14 ;
         geo:lat         47.2009555172397e0 ;
         geo:lng         -1.54550725123162e0 ;
@@ -748,6 +840,7 @@
 
 <ex:station_89_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00089-SAINT-AIGNAN" ;
         ex:bike_stands  14 ;
         geo:lat         47.2074386375471e0 ;
         geo:lng         -1.57868926431099e0 ;
@@ -756,6 +849,7 @@
 
 <ex:station_92_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00092-ROND POINT DE RENNES" ;
         ex:bike_stands  20 ;
         geo:lat         47.2330281847759e0 ;
         geo:lng         -1.56605906933562e0 ;
@@ -764,6 +858,7 @@
 
 <ex:station_66_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00066-CHANZY" ;
         ex:bike_stands  15 ;
         geo:lat         47.2254298853335e0 ;
         geo:lng         -1.54799992590737e0 ;
@@ -772,6 +867,7 @@
 
 <ex:station_77_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00077-ECOLE D'ARCHITECTURE" ;
         ex:bike_stands  32 ;
         geo:lat         47.2076056402121e0 ;
         geo:lng         -1.55753246791432e0 ;
@@ -780,6 +876,7 @@
 
 <ex:station_43_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00043 - MACHINE DE L'ÎLE" ;
         ex:bike_stands  36 ;
         geo:lat         47.206918958696e0 ;
         geo:lng         -1.56480679078299e0 ;
@@ -788,6 +885,7 @@
 
 <ex:station_17_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00017-SAINTE ELISABETH" ;
         ex:bike_stands  14 ;
         geo:lat         47.2192139526135e0 ;
         geo:lng         -1.56157014764171e0 ;
@@ -796,6 +894,7 @@
 
 <ex:station_20_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00020-BOUFFAY" ;
         ex:bike_stands  15 ;
         geo:lat         47.214301e0 ;
         geo:lng         -1.552782e0 ;
@@ -804,6 +903,7 @@
 
 <ex:station_28_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00028- EDIT DE NANTES" ;
         ex:bike_stands  13 ;
         geo:lat         47.2144634273858e0 ;
         geo:lng         -1.56756801666384e0 ;
@@ -812,6 +912,7 @@
 
 <ex:station_121_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00121-VICTOR RICHARD" ;
         ex:bike_stands  15 ;
         geo:lat         47.228614e0 ;
         geo:lng         -1.533329e0 ;
@@ -820,6 +921,7 @@
 
 <ex:station_106_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00106-GARENNES" ;
         ex:bike_stands  15 ;
         geo:lat         47.202127e0 ;
         geo:lng         -1.5787e0 ;
@@ -828,6 +930,7 @@
 
 <ex:station_5_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00005-BROSSARD" ;
         ex:bike_stands  18 ;
         geo:lat         47.2188372304694e0 ;
         geo:lng         -1.55674926307655e0 ;
@@ -836,6 +939,7 @@
 
 <ex:station_117_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00117 - MAIRIE DE CHANTENAY" ;
         ex:bike_stands  15 ;
         geo:lat         47.20656e0 ;
         geo:lng         -1.58785e0 ;
@@ -844,6 +948,7 @@
 
 <ex:station_97_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00097-SAINT DONATIEN" ;
         ex:bike_stands  20 ;
         geo:lat         47.2290880870929e0 ;
         geo:lng         -1.54029259428922e0 ;
@@ -852,6 +957,7 @@
 
 <ex:station_74_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00074-CANCLAUX" ;
         ex:bike_stands  15 ;
         geo:lat         47.2143336608893e0 ;
         geo:lng         -1.57492461719297e0 ;
@@ -860,6 +966,7 @@
 
 <ex:station_48_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00048-VERDUN" ;
         ex:bike_stands  14 ;
         geo:lat         47.2175053746786e0 ;
         geo:lng         -1.55184978437031e0 ;
@@ -868,6 +975,7 @@
 
 <ex:station_25_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00025-DALBY" ;
         ex:bike_stands  15 ;
         geo:lat         47.223508869812e0 ;
         geo:lng         -1.52995959270347e0 ;
@@ -876,6 +984,7 @@
 
 <ex:station_85_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00085-BEL AIR" ;
         ex:bike_stands  14 ;
         geo:lat         47.2263944309861e0 ;
         geo:lng         -1.56002281967663e0 ;
@@ -884,6 +993,7 @@
 
 <ex:station_51_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00051-TABARLY" ;
         ex:bike_stands  20 ;
         geo:lat         47.2141946314965e0 ;
         geo:lng         -1.52973588598036e0 ;
@@ -892,6 +1002,7 @@
 
 <ex:station_59_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00059-STADE SAUPIN" ;
         ex:bike_stands  24 ;
         geo:lat         47.213682e0 ;
         geo:lng         -1.540181e0 ;
@@ -900,6 +1011,7 @@
 
 <ex:station_62_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00062-GARE DE NANTES NORD 2" ;
         ex:bike_stands  40 ;
         geo:lat         47.218103e0 ;
         geo:lng         -1.541751e0 ;
@@ -908,6 +1020,7 @@
 
 <ex:station_36_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00036-ALGER" ;
         ex:bike_stands  15 ;
         geo:lat         47.210549e0 ;
         geo:lng         -1.567368e0 ;
@@ -916,6 +1029,7 @@
 
 <ex:station_13_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00013-BRETAGNE SUD" ;
         ex:bike_stands  20 ;
         geo:lat         47.216787949913e0 ;
         geo:lng         -1.55916106661899e0 ;
@@ -924,6 +1038,7 @@
 
 <ex:station_114_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00114 - ATOUTSUD" ;
         ex:bike_stands  25 ;
         geo:lat         47.194493e0 ;
         geo:lng         -1.570365e0 ;
@@ -932,6 +1047,7 @@
 
 <ex:station_102_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00102-GARE PT ROUSSEAU" ;
         ex:bike_stands  20 ;
         geo:lat         47.19316e0 ;
         geo:lng         -1.549212e0 ;
@@ -940,6 +1056,7 @@
 
 <ex:station_1_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00001-PREFECTURE" ;
         ex:bike_stands  28 ;
         geo:lat         47.2202551837245e0 ;
         geo:lng         -1.55408380740881e0 ;
@@ -948,6 +1065,7 @@
 
 <ex:station_9_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00009-GUEPIN" ;
         ex:bike_stands  14 ;
         geo:lat         47.2158145871395e0 ;
         geo:lng         -1.55901748516744e0 ;
@@ -956,6 +1074,7 @@
 
 <ex:station_82_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00082-SEBILLEAU" ;
         ex:bike_stands  16 ;
         geo:lat         47.2067575123084e0 ;
         geo:lng         -1.53311824492362e0 ;
@@ -964,6 +1083,7 @@
 
 <ex:station_93_Nantes>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "#00093-FACULTES" ;
         ex:bike_stands  40 ;
         geo:lat         47.2462980684235e0 ;
         geo:lng         -1.5553090111073e0 ;

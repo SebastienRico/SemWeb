@@ -12,6 +12,7 @@
 
 <ex:station_1_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "001_JARDINES DE PEREDA" ;
         ex:bike_stands  40 ;
         geo:lat         43.461719e0 ;
         geo:lng         -3.8021e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_10_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "010_PLAZA DE SAN MARTIN" ;
         ex:bike_stands  15 ;
         geo:lat         43.4635521249485e0 ;
         geo:lng         -3.78800547922826e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_8_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "008_PLAZA DE ITALIA" ;
         ex:bike_stands  15 ;
         geo:lat         43.4718048257527e0 ;
         geo:lng         -3.78134613485541e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_9_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "009_AVENIDA DE LA MAGDALENA" ;
         ex:bike_stands  15 ;
         geo:lat         43.4691494140035e0 ;
         geo:lng         -3.77327597557961e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_6_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "006_FACULDAD DE CIENCIAS" ;
         ex:bike_stands  25 ;
         geo:lat         43.4711061117108e0 ;
         geo:lng         -3.80058645890079e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_14_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "014_ATILANO RODRIGUEZ" ;
         ex:bike_stands  30 ;
         geo:lat         43.4583838909468e0 ;
         geo:lng         -3.8104683913313e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_5_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "005_GLORIETA DE LOS DELFINES" ;
         ex:bike_stands  20 ;
         geo:lat         43.4719661074837e0 ;
         geo:lng         -3.79285449619735e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_11_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "011_PUERTO CHICO" ;
         ex:bike_stands  25 ;
         geo:lat         43.4621430815773e0 ;
         geo:lng         -3.79724144946775e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_2_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "002_PLAZA DE LAS BRISAS" ;
         ex:bike_stands  20 ;
         geo:lat         43.4744126704703e0 ;
         geo:lng         -3.78578134528458e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_3_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "003_PARQUE LAS LLAMAS" ;
         ex:bike_stands  20 ;
         geo:lat         43.47573226037e0 ;
         geo:lng         -3.79806387098462e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_16_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "016_SEVERO OCHOA" ;
         ex:bike_stands  20 ;
         geo:lat         43.4528130549523e0 ;
         geo:lng         -3.87139068298249e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_15_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "015_AV.DE LOS CASTROS 141" ;
         ex:bike_stands  15 ;
         geo:lat         43.465323e0 ;
         geo:lng         -3.825767e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_7_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "007_FACULTAD DE DERECHO" ;
         ex:bike_stands  30 ;
         geo:lat         43.4701661089386e0 ;
         geo:lng         -3.80649947753026e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_13_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "013_CALLE DE SAN FERNANDO" ;
         ex:bike_stands  25 ;
         geo:lat         43.4607255432349e0 ;
         geo:lng         -3.81797824491875e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_12_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "012_CALLE ALTA" ;
         ex:bike_stands  15 ;
         geo:lat         43.4579662522228e0 ;
         geo:lng         -3.82480124234961e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_4_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "004_CORMORÁN" ;
         ex:bike_stands  20 ;
         geo:lat         43.4784718110308e0 ;
         geo:lng         -3.78865314567001e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_17_Santander>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "017_RUCANDIAL" ;
         ex:bike_stands  20 ;
         geo:lat         43.4548260614091e0 ;
         geo:lng         -3.86690066866145e0 ;

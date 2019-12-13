@@ -12,6 +12,7 @@
 
 <ex:station_107_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "CHARLEVILLE ROAD" ;
         ex:bike_stands  40 ;
         geo:lat         53.359157e0 ;
         geo:lng         -6.281866e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_6_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "CHRISTCHURCH PLACE" ;
         ex:bike_stands  20 ;
         geo:lat         53.343368e0 ;
         geo:lng         -6.27012e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_87_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "COLLINS BARRACKS MUSEUM" ;
         ex:bike_stands  38 ;
         geo:lat         53.347477e0 ;
         geo:lng         -6.28525e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_64_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "SANDWITH STREET" ;
         ex:bike_stands  40 ;
         geo:lat         53.345203e0 ;
         geo:lng         -6.247163e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_90_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "BENSON STREET" ;
         ex:bike_stands  40 ;
         geo:lat         53.344153e0 ;
         geo:lng         -6.233451e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_98_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "FREDERICK STREET SOUTH" ;
         ex:bike_stands  40 ;
         geo:lat         53.341515e0 ;
         geo:lng         -6.256853e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_38_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "TALBOT STREET" ;
         ex:bike_stands  40 ;
         geo:lat         53.350974e0 ;
         geo:lng         -6.25294e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_41_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HARCOURT TERRACE" ;
         ex:bike_stands  20 ;
         geo:lat         53.332763e0 ;
         geo:lng         -6.257942e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_15_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HARDWICKE STREET" ;
         ex:bike_stands  16 ;
         geo:lat         53.355473e0 ;
         geo:lng         -6.264423e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_75_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "JAMES STREET" ;
         ex:bike_stands  40 ;
         geo:lat         53.343456e0 ;
         geo:lng         -6.287409e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_49_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GUILD STREET" ;
         ex:bike_stands  40 ;
         geo:lat         53.347932e0 ;
         geo:lng         -6.240928e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_52_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "YORK STREET EAST" ;
         ex:bike_stands  32 ;
         geo:lat         53.338755e0 ;
         geo:lng         -6.262003e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_26_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "MERRION SQUARE WEST" ;
         ex:bike_stands  20 ;
         geo:lat         53.339764e0 ;
         geo:lng         -6.251988e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_104_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GRANGEGORMAN LOWER (CENTRAL)" ;
         ex:bike_stands  40 ;
         geo:lat         53.355173e0 ;
         geo:lng         -6.278424e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_3_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "BOLTON STREET" ;
         ex:bike_stands  20 ;
         geo:lat         53.351182e0 ;
         geo:lng         -6.269859e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_115_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KILLARNEY STREET" ;
         ex:bike_stands  30 ;
         geo:lat         53.354845e0 ;
         geo:lng         -6.247579e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_95_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ROYAL HOSPITAL" ;
         ex:bike_stands  40 ;
         geo:lat         53.343897e0 ;
         geo:lng         -6.29706e0 ;
@@ -148,6 +165,7 @@
 
 <ex:station_72_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "JOHN STREET WEST" ;
         ex:bike_stands  31 ;
         geo:lat         53.343105e0 ;
         geo:lng         -6.277167e0 ;
@@ -156,6 +174,7 @@
 
 <ex:station_83_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "EMMET ROAD" ;
         ex:bike_stands  40 ;
         geo:lat         53.340714e0 ;
         geo:lng         -6.308191e0 ;
@@ -164,6 +183,7 @@
 
 <ex:station_57_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GRATTAN STREET" ;
         ex:bike_stands  23 ;
         geo:lat         53.339629e0 ;
         geo:lng         -6.243778e0 ;
@@ -172,6 +192,7 @@
 
 <ex:station_34_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "PORTOBELLO HARBOUR" ;
         ex:bike_stands  30 ;
         geo:lat         53.330362e0 ;
         geo:lng         -6.265163e0 ;
@@ -180,6 +201,7 @@
 
 <ex:station_68_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HANOVER QUAY" ;
         ex:bike_stands  40 ;
         geo:lat         53.344115e0 ;
         geo:lng         -6.237153e0 ;
@@ -188,6 +210,7 @@
 
 <ex:station_11_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "EARLSFORT TERRACE" ;
         ex:bike_stands  30 ;
         geo:lat         53.334019e0 ;
         geo:lng         -6.258371e0 ;
@@ -196,6 +219,7 @@
 
 <ex:station_19_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HERBERT PLACE" ;
         ex:bike_stands  30 ;
         geo:lat         53.334432e0 ;
         geo:lng         -6.245575e0 ;
@@ -204,6 +228,7 @@
 
 <ex:station_112_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "NORTH CIRCULAR ROAD (O'CONNELL'S)" ;
         ex:bike_stands  30 ;
         geo:lat         53.357841e0 ;
         geo:lng         -6.251557e0 ;
@@ -212,6 +237,7 @@
 
 <ex:station_100_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HEUSTON BRIDGE (SOUTH)" ;
         ex:bike_stands  25 ;
         geo:lat         53.347106e0 ;
         geo:lng         -6.292041e0 ;
@@ -220,6 +246,7 @@
 
 <ex:station_108_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "AVONDALE ROAD" ;
         ex:bike_stands  40 ;
         geo:lat         53.359405e0 ;
         geo:lng         -6.276142e0 ;
@@ -228,6 +255,7 @@
 
 <ex:station_7_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HIGH STREET" ;
         ex:bike_stands  29 ;
         geo:lat         53.343565e0 ;
         geo:lng         -6.275071e0 ;
@@ -236,6 +264,7 @@
 
 <ex:station_80_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ST JAMES HOSPITAL (LUAS)" ;
         ex:bike_stands  40 ;
         geo:lat         53.341359e0 ;
         geo:lng         -6.292951e0 ;
@@ -244,6 +273,7 @@
 
 <ex:station_88_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "BLACKHALL PLACE" ;
         ex:bike_stands  30 ;
         geo:lat         53.3488e0 ;
         geo:lng         -6.281637e0 ;
@@ -252,6 +282,7 @@
 
 <ex:station_65_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "CONVENTION CENTRE" ;
         ex:bike_stands  40 ;
         geo:lat         53.34744e0 ;
         geo:lng         -6.238523e0 ;
@@ -260,6 +291,7 @@
 
 <ex:station_91_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "SOUTH DOCK ROAD" ;
         ex:bike_stands  30 ;
         geo:lat         53.341833e0 ;
         geo:lng         -6.231291e0 ;
@@ -268,6 +300,7 @@
 
 <ex:station_99_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "CITY QUAY" ;
         ex:bike_stands  30 ;
         geo:lat         53.346637e0 ;
         geo:lng         -6.246154e0 ;
@@ -276,6 +309,7 @@
 
 <ex:station_76_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "MARKET STREET SOUTH" ;
         ex:bike_stands  38 ;
         geo:lat         53.342296e0 ;
         geo:lng         -6.287661e0 ;
@@ -284,6 +318,7 @@
 
 <ex:station_42_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "SMITHFIELD NORTH" ;
         ex:bike_stands  30 ;
         geo:lat         53.349562e0 ;
         geo:lng         -6.278198e0 ;
@@ -292,6 +327,7 @@
 
 <ex:station_16_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GEORGES QUAY" ;
         ex:bike_stands  20 ;
         geo:lat         53.347508e0 ;
         geo:lng         -6.252192e0 ;
@@ -300,6 +336,7 @@
 
 <ex:station_53_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "NEWMAN HOUSE" ;
         ex:bike_stands  40 ;
         geo:lat         53.337132e0 ;
         geo:lng         -6.26059e0 ;
@@ -308,6 +345,7 @@
 
 <ex:station_27_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "MOLESWORTH STREET" ;
         ex:bike_stands  20 ;
         geo:lat         53.341288e0 ;
         geo:lng         -6.258117e0 ;
@@ -316,6 +354,7 @@
 
 <ex:station_30_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "PARNELL SQUARE NORTH" ;
         ex:bike_stands  20 ;
         geo:lat         53.353462e0 ;
         geo:lng         -6.265305e0 ;
@@ -324,6 +363,7 @@
 
 <ex:station_105_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GRANGEGORMAN LOWER (NORTH)" ;
         ex:bike_stands  36 ;
         geo:lat         53.355954e0 ;
         geo:lng         -6.278378e0 ;
@@ -332,6 +372,7 @@
 
 <ex:station_4_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GREEK STREET" ;
         ex:bike_stands  20 ;
         geo:lat         53.346874e0 ;
         geo:lng         -6.272976e0 ;
@@ -340,6 +381,7 @@
 
 <ex:station_96_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KILMAINHAM LANE" ;
         ex:bike_stands  30 ;
         geo:lat         53.341805e0 ;
         geo:lng         -6.305085e0 ;
@@ -348,6 +390,7 @@
 
 <ex:station_73_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "FRANCIS STREET" ;
         ex:bike_stands  30 ;
         geo:lat         53.342081e0 ;
         geo:lng         -6.275233e0 ;
@@ -356,6 +399,7 @@
 
 <ex:station_50_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GEORGES LANE" ;
         ex:bike_stands  40 ;
         geo:lat         53.35023e0 ;
         geo:lng         -6.279696e0 ;
@@ -364,6 +408,7 @@
 
 <ex:station_84_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "BROOKFIELD ROAD" ;
         ex:bike_stands  30 ;
         geo:lat         53.339005e0 ;
         geo:lng         -6.300217e0 ;
@@ -372,6 +417,7 @@
 
 <ex:station_58_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "SIR PATRICK DUN'S" ;
         ex:bike_stands  40 ;
         geo:lat         53.339218e0 ;
         geo:lng         -6.240642e0 ;
@@ -380,6 +426,7 @@
 
 <ex:station_35_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "SMITHFIELD" ;
         ex:bike_stands  30 ;
         geo:lat         53.347692e0 ;
         geo:lng         -6.278214e0 ;
@@ -388,6 +435,7 @@
 
 <ex:station_61_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HARDWICKE PLACE" ;
         ex:bike_stands  25 ;
         geo:lat         53.357043e0 ;
         geo:lng         -6.263232e0 ;
@@ -396,6 +444,7 @@
 
 <ex:station_69_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GRAND CANAL DOCK" ;
         ex:bike_stands  40 ;
         geo:lat         53.342638e0 ;
         geo:lng         -6.238695e0 ;
@@ -404,6 +453,7 @@
 
 <ex:station_12_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ECCLES STREET" ;
         ex:bike_stands  20 ;
         geo:lat         53.359246e0 ;
         geo:lng         -6.269779e0 ;
@@ -412,6 +462,7 @@
 
 <ex:station_113_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "MERRION SQUARE SOUTH" ;
         ex:bike_stands  40 ;
         geo:lat         53.338614e0 ;
         geo:lng         -6.248606e0 ;
@@ -420,6 +471,7 @@
 
 <ex:station_23_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "CUSTOM HOUSE" ;
         ex:bike_stands  30 ;
         geo:lat         53.348279e0 ;
         geo:lng         -6.254662e0 ;
@@ -428,6 +480,7 @@
 
 <ex:station_101_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KING STREET NORTH" ;
         ex:bike_stands  30 ;
         geo:lat         53.350291e0 ;
         geo:lng         -6.273507e0 ;
@@ -436,6 +489,7 @@
 
 <ex:station_109_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "BUCKINGHAM STREET LOWER" ;
         ex:bike_stands  29 ;
         geo:lat         53.353331e0 ;
         geo:lng         -6.249319e0 ;
@@ -444,6 +498,7 @@
 
 <ex:station_8_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "CUSTOM HOUSE QUAY" ;
         ex:bike_stands  30 ;
         geo:lat         53.347884e0 ;
         geo:lng         -6.248048e0 ;
@@ -452,6 +507,7 @@
 
 <ex:station_89_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "FITZWILLIAM SQUARE EAST" ;
         ex:bike_stands  40 ;
         geo:lat         53.335211e0 ;
         geo:lng         -6.2509e0 ;
@@ -460,6 +516,7 @@
 
 <ex:station_92_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HEUSTON BRIDGE (NORTH)" ;
         ex:bike_stands  40 ;
         geo:lat         53.347802e0 ;
         geo:lng         -6.292432e0 ;
@@ -468,6 +525,7 @@
 
 <ex:station_66_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "NEW CENTRAL BANK" ;
         ex:bike_stands  40 ;
         geo:lat         53.347122e0 ;
         geo:lng         -6.234749e0 ;
@@ -476,6 +534,7 @@
 
 <ex:station_77_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "WOLFE TONE STREET" ;
         ex:bike_stands  29 ;
         geo:lat         53.348875e0 ;
         geo:lng         -6.267459e0 ;
@@ -484,6 +543,7 @@
 
 <ex:station_43_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "PORTOBELLO ROAD" ;
         ex:bike_stands  30 ;
         geo:lat         53.330091e0 ;
         geo:lng         -6.268044e0 ;
@@ -492,6 +552,7 @@
 
 <ex:station_54_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "CLONMEL STREET" ;
         ex:bike_stands  33 ;
         geo:lat         53.336021e0 ;
         geo:lng         -6.26298e0 ;
@@ -500,6 +561,7 @@
 
 <ex:station_28_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "MOUNTJOY SQUARE WEST" ;
         ex:bike_stands  30 ;
         geo:lat         53.356299e0 ;
         geo:lng         -6.258586e0 ;
@@ -508,6 +570,7 @@
 
 <ex:station_31_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "PARNELL STREET" ;
         ex:bike_stands  20 ;
         geo:lat         53.350929e0 ;
         geo:lng         -6.265125e0 ;
@@ -516,6 +579,7 @@
 
 <ex:station_39_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "WILTON TERRACE" ;
         ex:bike_stands  20 ;
         geo:lat         53.332383e0 ;
         geo:lng         -6.252717e0 ;
@@ -524,6 +588,7 @@
 
 <ex:station_106_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "RATHDOWN ROAD" ;
         ex:bike_stands  40 ;
         geo:lat         53.35893e0 ;
         geo:lng         -6.280337e0 ;
@@ -532,6 +597,7 @@
 
 <ex:station_85_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ROTHE ABBEY" ;
         ex:bike_stands  35 ;
         geo:lat         53.338776e0 ;
         geo:lng         -6.30395e0 ;
@@ -540,6 +606,7 @@
 
 <ex:station_51_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "YORK STREET WEST" ;
         ex:bike_stands  40 ;
         geo:lat         53.339334e0 ;
         geo:lng         -6.264699e0 ;
@@ -548,6 +615,7 @@
 
 <ex:station_59_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "DENMARK STREET GREAT" ;
         ex:bike_stands  20 ;
         geo:lat         53.35561e0 ;
         geo:lng         -6.261397e0 ;
@@ -556,6 +624,7 @@
 
 <ex:station_62_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "LIME STREET" ;
         ex:bike_stands  40 ;
         geo:lat         53.346026e0 ;
         geo:lng         -6.243576e0 ;
@@ -564,6 +633,7 @@
 
 <ex:station_36_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ST. STEPHEN'S GREEN EAST" ;
         ex:bike_stands  40 ;
         geo:lat         53.337824e0 ;
         geo:lng         -6.256035e0 ;
@@ -572,6 +642,7 @@
 
 <ex:station_47_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HERBERT STREET" ;
         ex:bike_stands  40 ;
         geo:lat         53.335742e0 ;
         geo:lng         -6.24551e0 ;
@@ -580,6 +651,7 @@
 
 <ex:station_13_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "FITZWILLIAM SQUARE WEST" ;
         ex:bike_stands  30 ;
         geo:lat         53.336074e0 ;
         geo:lng         -6.252825e0 ;
@@ -588,6 +660,7 @@
 
 <ex:station_24_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "CATHAL BRUGHA STREET" ;
         ex:bike_stands  20 ;
         geo:lat         53.352149e0 ;
         geo:lng         -6.260533e0 ;
@@ -596,6 +669,7 @@
 
 <ex:station_102_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "WESTERN WAY" ;
         ex:bike_stands  40 ;
         geo:lat         53.354929e0 ;
         geo:lng         -6.269425e0 ;
@@ -604,6 +678,7 @@
 
 <ex:station_9_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "EXCHEQUER STREET" ;
         ex:bike_stands  24 ;
         geo:lat         53.343034e0 ;
         geo:lng         -6.263578e0 ;
@@ -612,6 +687,7 @@
 
 <ex:station_93_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HEUSTON STATION (CENTRAL)" ;
         ex:bike_stands  40 ;
         geo:lat         53.346603e0 ;
         geo:lng         -6.296924e0 ;
@@ -620,6 +696,7 @@
 
 <ex:station_67_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "THE POINT" ;
         ex:bike_stands  40 ;
         geo:lat         53.346867e0 ;
         geo:lng         -6.230852e0 ;
@@ -628,6 +705,7 @@
 
 <ex:station_44_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "UPPER SHERRARD STREET" ;
         ex:bike_stands  30 ;
         geo:lat         53.358437e0 ;
         geo:lng         -6.260641e0 ;
@@ -636,6 +714,7 @@
 
 <ex:station_78_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "MATER HOSPITAL" ;
         ex:bike_stands  40 ;
         geo:lat         53.359967e0 ;
         geo:lng         -6.264828e0 ;
@@ -644,6 +723,7 @@
 
 <ex:station_21_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "LEINSTER STREET SOUTH" ;
         ex:bike_stands  30 ;
         geo:lat         53.34218e0 ;
         geo:lng         -6.254485e0 ;
@@ -652,6 +732,7 @@
 
 <ex:station_81_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ST. JAMES HOSPITAL (CENTRAL)" ;
         ex:bike_stands  40 ;
         geo:lat         53.339983e0 ;
         geo:lng         -6.295594e0 ;
@@ -660,6 +741,7 @@
 
 <ex:station_55_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HATCH STREET" ;
         ex:bike_stands  36 ;
         geo:lat         53.33403e0 ;
         geo:lng         -6.260714e0 ;
@@ -668,6 +750,7 @@
 
 <ex:station_29_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ORMOND QUAY UPPER" ;
         ex:bike_stands  29 ;
         geo:lat         53.346057e0 ;
         geo:lng         -6.268001e0 ;
@@ -676,6 +759,7 @@
 
 <ex:station_32_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "PEARSE STREET" ;
         ex:bike_stands  30 ;
         geo:lat         53.344304e0 ;
         geo:lng         -6.250427e0 ;
@@ -684,6 +768,7 @@
 
 <ex:station_17_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GOLDEN LANE" ;
         ex:bike_stands  20 ;
         geo:lat         53.340803e0 ;
         geo:lng         -6.267732e0 ;
@@ -692,6 +777,7 @@
 
 <ex:station_110_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "PHIBSBOROUGH ROAD" ;
         ex:bike_stands  40 ;
         geo:lat         53.356307e0 ;
         geo:lng         -6.273717e0 ;
@@ -700,6 +786,7 @@
 
 <ex:station_5_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "CHARLEMONT PLACE" ;
         ex:bike_stands  40 ;
         geo:lat         53.330662e0 ;
         geo:lng         -6.260177e0 ;
@@ -708,6 +795,7 @@
 
 <ex:station_86_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "PARKGATE STREET" ;
         ex:bike_stands  38 ;
         geo:lat         53.347972e0 ;
         geo:lng         -6.291804e0 ;
@@ -716,6 +804,7 @@
 
 <ex:station_97_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KILMAINHAM GAOL" ;
         ex:bike_stands  40 ;
         geo:lat         53.342113e0 ;
         geo:lng         -6.310015e0 ;
@@ -724,6 +813,7 @@
 
 <ex:station_63_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "FENIAN STREET" ;
         ex:bike_stands  35 ;
         geo:lat         53.341428e0 ;
         geo:lng         -6.24672e0 ;
@@ -732,6 +822,7 @@
 
 <ex:station_37_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ST. STEPHEN'S GREEN SOUTH" ;
         ex:bike_stands  30 ;
         geo:lat         53.337494e0 ;
         geo:lng         -6.26199e0 ;
@@ -740,6 +831,7 @@
 
 <ex:station_40_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "JERVIS STREET" ;
         ex:bike_stands  21 ;
         geo:lat         53.3483e0 ;
         geo:lng         -6.266651e0 ;
@@ -748,6 +840,7 @@
 
 <ex:station_74_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "OLIVER BOND STREET" ;
         ex:bike_stands  30 ;
         geo:lat         53.343893e0 ;
         geo:lng         -6.280531e0 ;
@@ -756,6 +849,7 @@
 
 <ex:station_48_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "EXCISE WALK" ;
         ex:bike_stands  40 ;
         geo:lat         53.347777e0 ;
         geo:lng         -6.244239e0 ;
@@ -764,6 +858,7 @@
 
 <ex:station_25_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "MERRION SQUARE EAST" ;
         ex:bike_stands  30 ;
         geo:lat         53.339434e0 ;
         geo:lng         -6.246548e0 ;
@@ -772,6 +867,7 @@
 
 <ex:station_103_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GRANGEGORMAN LOWER (SOUTH)" ;
         ex:bike_stands  40 ;
         geo:lat         53.354663e0 ;
         geo:lng         -6.278681e0 ;
@@ -780,6 +876,7 @@
 
 <ex:station_2_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "BLESSINGTON STREET" ;
         ex:bike_stands  20 ;
         geo:lat         53.356769e0 ;
         geo:lng         -6.26814e0 ;
@@ -788,6 +885,7 @@
 
 <ex:station_114_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "WILTON TERRACE (PARK)" ;
         ex:bike_stands  40 ;
         geo:lat         53.333653e0 ;
         geo:lng         -6.248345e0 ;
@@ -796,6 +894,7 @@
 
 <ex:station_94_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HEUSTON STATION (CAR PARK)" ;
         ex:bike_stands  40 ;
         geo:lat         53.346985e0 ;
         geo:lng         -6.297804e0 ;
@@ -804,6 +903,7 @@
 
 <ex:station_79_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ECCLES STREET EAST" ;
         ex:bike_stands  27 ;
         geo:lat         53.358115e0 ;
         geo:lng         -6.265601e0 ;
@@ -812,6 +912,7 @@
 
 <ex:station_71_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KEVIN STREET" ;
         ex:bike_stands  40 ;
         geo:lat         53.337757e0 ;
         geo:lng         -6.267699e0 ;
@@ -820,6 +921,7 @@
 
 <ex:station_45_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "DEVERELL PLACE" ;
         ex:bike_stands  30 ;
         geo:lat         53.351464e0 ;
         geo:lng         -6.255265e0 ;
@@ -828,6 +930,7 @@
 
 <ex:station_22_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "TOWNSEND STREET" ;
         ex:bike_stands  20 ;
         geo:lat         53.345922e0 ;
         geo:lng         -6.254614e0 ;
@@ -836,6 +939,7 @@
 
 <ex:station_82_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "MOUNT BROWN" ;
         ex:bike_stands  22 ;
         geo:lat         53.341645e0 ;
         geo:lng         -6.29719e0 ;
@@ -844,6 +948,7 @@
 
 <ex:station_56_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "MOUNT STREET LOWER" ;
         ex:bike_stands  40 ;
         geo:lat         53.33796e0 ;
         geo:lng         -6.24153e0 ;
@@ -852,6 +957,7 @@
 
 <ex:station_33_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "PRINCES STREET / O'CONNELL STREET" ;
         ex:bike_stands  23 ;
         geo:lat         53.349013e0 ;
         geo:lng         -6.260311e0 ;
@@ -860,6 +966,7 @@
 
 <ex:station_10_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "DAME STREET" ;
         ex:bike_stands  16 ;
         geo:lat         53.344007e0 ;
         geo:lng         -6.266802e0 ;
@@ -868,6 +975,7 @@
 
 <ex:station_18_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GRANTHAM STREET" ;
         ex:bike_stands  30 ;
         geo:lat         53.334123e0 ;
         geo:lng         -6.265436e0 ;
@@ -876,6 +984,7 @@
 
 <ex:station_111_Dublin>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "MOUNTJOY SQUARE EAST" ;
         ex:bike_stands  40 ;
         geo:lat         53.356717e0 ;
         geo:lng         -6.256359e0 ;

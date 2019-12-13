@@ -12,6 +12,7 @@
 
 <ex:station_47_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "BERZELIIGATAN" ;
         ex:bike_stands  20 ;
         geo:lat         57.69794e0 ;
         geo:lng         11.98096e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_19_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "OLOF PALMES PLATS" ;
         ex:bike_stands  31 ;
         geo:lat         57.700662e0 ;
         geo:lng         11.95364e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_71_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "OLSKROKSTORGET" ;
         ex:bike_stands  50 ;
         geo:lat         57.714739e0 ;
         geo:lng         11.99652e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_44_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ENGELBREKTSGATAN" ;
         ex:bike_stands  15 ;
         geo:lat         57.69841e0 ;
         geo:lng         11.97694e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_16_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "BOHUSGATAN" ;
         ex:bike_stands  40 ;
         geo:lat         57.70452e0 ;
         geo:lng         11.984298e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_13_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GUSTAF ADOLFS TORG" ;
         ex:bike_stands  40 ;
         geo:lat         57.707233e0 ;
         geo:lng         11.967502e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_10_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "VALAND" ;
         ex:bike_stands  20 ;
         geo:lat         57.700324e0 ;
         geo:lng         11.973429e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_8_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ESPERANTOPLATSEN" ;
         ex:bike_stands  27 ;
         geo:lat         57.702793e0 ;
         geo:lng         11.955461e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_1_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "LILLA BOMMEN" ;
         ex:bike_stands  20 ;
         geo:lat         57.711547e0 ;
         geo:lng         11.966574e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_67_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ÖSTRA HAMNGATAN" ;
         ex:bike_stands  27 ;
         geo:lat         57.704639e0 ;
         geo:lng         11.969008e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_36_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HAGAPARKEN" ;
         ex:bike_stands  25 ;
         geo:lat         57.697984e0 ;
         geo:lng         11.962405e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_33_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "FÖRENINGSGATAN" ;
         ex:bike_stands  15 ;
         geo:lat         57.694554e0 ;
         geo:lng         11.961987e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_61_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "MASTHUGGSTORGET" ;
         ex:bike_stands  40 ;
         geo:lat         57.699415e0 ;
         geo:lng         11.941861e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_30_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "BERGAKUNGEN" ;
         ex:bike_stands  20 ;
         geo:lat         57.702135e0 ;
         geo:lng         11.985035e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_53_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "LÄRAREGATAN/MOLINSGATAN" ;
         ex:bike_stands  40 ;
         geo:lat         57.69418e0 ;
         geo:lng         11.97451e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_26_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HEDEN SYD" ;
         ex:bike_stands  20 ;
         geo:lat         57.699941e0 ;
         geo:lng         11.979867e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_50_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KUNGSGATAN/TELEKASERN" ;
         ex:bike_stands  20 ;
         geo:lat         57.70337e0 ;
         geo:lng         11.96012e0 ;
@@ -148,6 +165,7 @@
 
 <ex:station_23_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ULLEVIGATAN" ;
         ex:bike_stands  36 ;
         geo:lat         57.707048e0 ;
         geo:lng         11.983638e0 ;
@@ -156,6 +174,7 @@
 
 <ex:station_49_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KAPONJÄRSGATAN" ;
         ex:bike_stands  25 ;
         geo:lat         57.698949e0 ;
         geo:lng         11.956468e0 ;
@@ -164,6 +183,7 @@
 
 <ex:station_46_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KAPELLPLATSEN" ;
         ex:bike_stands  28 ;
         geo:lat         57.69358e0 ;
         geo:lng         11.97199e0 ;
@@ -172,6 +192,7 @@
 
 <ex:station_15_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HEDEN/STENSTUREGATAN" ;
         ex:bike_stands  30 ;
         geo:lat         57.702955e0 ;
         geo:lng         11.98021e0 ;
@@ -180,6 +201,7 @@
 
 <ex:station_12_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GRÖNSAKSTORGET" ;
         ex:bike_stands  37 ;
         geo:lat         57.702459e0 ;
         geo:lng         11.965179e0 ;
@@ -188,6 +210,7 @@
 
 <ex:station_40_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "LINNÉPLATSEN" ;
         ex:bike_stands  20 ;
         geo:lat         57.690278e0 ;
         geo:lng         11.95165e0 ;
@@ -196,6 +219,7 @@
 
 <ex:station_7_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "POSTHUSET/ÅKAREPLATSEN" ;
         ex:bike_stands  31 ;
         geo:lat         57.708554e0 ;
         geo:lng         11.97559e0 ;
@@ -204,6 +228,7 @@
 
 <ex:station_69_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "STENPIREN" ;
         ex:bike_stands  40 ;
         geo:lat         57.705703e0 ;
         geo:lng         11.957183e0 ;
@@ -212,6 +237,7 @@
 
 <ex:station_66_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ÅVÄGEN NORRA" ;
         ex:bike_stands  31 ;
         geo:lat         57.704535e0 ;
         geo:lng         11.990748e0 ;
@@ -220,6 +246,7 @@
 
 <ex:station_39_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "FRIGÅNGSGATAN" ;
         ex:bike_stands  20 ;
         geo:lat         57.697821e0 ;
         geo:lng         11.952905e0 ;
@@ -228,6 +255,7 @@
 
 <ex:station_63_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "LÄPPSTIFTET" ;
         ex:bike_stands  29 ;
         geo:lat         57.713496e0 ;
         geo:lng         11.968013e0 ;
@@ -236,6 +264,7 @@
 
 <ex:station_91_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "LINDHOLMSALLÉN/REGNBÅGSGATAN" ;
         ex:bike_stands  20 ;
         geo:lat         57.710749e0 ;
         geo:lng         11.943626e0 ;
@@ -244,6 +273,7 @@
 
 <ex:station_60_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "TREDJELÅNG/VÄRMLANDSGATAN" ;
         ex:bike_stands  25 ;
         geo:lat         57.698261e0 ;
         geo:lng         11.946208e0 ;
@@ -252,6 +282,7 @@
 
 <ex:station_32_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "BRUNNSGATAN" ;
         ex:bike_stands  20 ;
         geo:lat         57.693517e0 ;
         geo:lng         11.958559e0 ;
@@ -260,6 +291,7 @@
 
 <ex:station_59_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "FÖRSTALÅNG/VÄRMLANDSGATAN" ;
         ex:bike_stands  25 ;
         geo:lat         57.699968e0 ;
         geo:lng         11.946097e0 ;
@@ -268,6 +300,7 @@
 
 <ex:station_28_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KORSVÄGEN /SÖDRA VÄGEN" ;
         ex:bike_stands  32 ;
         geo:lat         57.696916e0 ;
         geo:lng         11.985703e0 ;
@@ -276,6 +309,7 @@
 
 <ex:station_56_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "CHALMERSPLATSEN" ;
         ex:bike_stands  50 ;
         geo:lat         57.68979e0 ;
         geo:lng         11.97305e0 ;
@@ -284,6 +318,7 @@
 
 <ex:station_25_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "SCANDINAVIUM" ;
         ex:bike_stands  30 ;
         geo:lat         57.700094e0 ;
         geo:lng         11.987908e0 ;
@@ -292,6 +327,7 @@
 
 <ex:station_22_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "DÄMMEPLATSEN" ;
         ex:bike_stands  20 ;
         geo:lat         57.70701e0 ;
         geo:lng         11.99039e0 ;
@@ -300,6 +336,7 @@
 
 <ex:station_48_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "CARLANDERSPLATSEN" ;
         ex:bike_stands  20 ;
         geo:lat         57.69312e0 ;
         geo:lng         11.98661e0 ;
@@ -308,6 +345,7 @@
 
 <ex:station_45_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ALSTRÖMER/FRIGGAGATAN" ;
         ex:bike_stands  20 ;
         geo:lat         57.71119e0 ;
         geo:lng         11.98798e0 ;
@@ -316,6 +354,7 @@
 
 <ex:station_73_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ÖSTRA HAMNGATAN/KRONHUSGATAN" ;
         ex:bike_stands  26 ;
         geo:lat         57.70846e0 ;
         geo:lng         11.966942e0 ;
@@ -324,6 +363,7 @@
 
 <ex:station_18_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "FESKEKÖRKA" ;
         ex:bike_stands  21 ;
         geo:lat         57.700993e0 ;
         geo:lng         11.958626e0 ;
@@ -332,6 +372,7 @@
 
 <ex:station_42_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "DROTTNINGTORGET" ;
         ex:bike_stands  20 ;
         geo:lat         57.708074e0 ;
         geo:lng         11.972737e0 ;
@@ -340,6 +381,7 @@
 
 <ex:station_70_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GULLBERGSVASS/GASVERKET" ;
         ex:bike_stands  39 ;
         geo:lat         57.7192479e0 ;
         geo:lng         11.9838407e0 ;
@@ -348,6 +390,7 @@
 
 <ex:station_11_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "STORAN" ;
         ex:bike_stands  40 ;
         geo:lat         57.702482e0 ;
         geo:lng         11.971552e0 ;
@@ -356,6 +399,7 @@
 
 <ex:station_6_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "SLUSSPLATSEN" ;
         ex:bike_stands  20 ;
         geo:lat         57.707316e0 ;
         geo:lng         11.973448e0 ;
@@ -364,6 +408,7 @@
 
 <ex:station_3_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "POSTGATAN" ;
         ex:bike_stands  20 ;
         geo:lat         57.707476e0 ;
         geo:lng         11.963926e0 ;
@@ -372,6 +417,7 @@
 
 <ex:station_38_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "VASAGATAN/SCHILLERSKA" ;
         ex:bike_stands  25 ;
         geo:lat         57.698265e0 ;
         geo:lng         11.967115e0 ;
@@ -380,6 +426,7 @@
 
 <ex:station_62_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ROSENLUND/FÄRJELÄGET" ;
         ex:bike_stands  30 ;
         geo:lat         57.702301e0 ;
         geo:lng         11.952395e0 ;
@@ -388,6 +435,7 @@
 
 <ex:station_90_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "LINDHOLMSPLATSEN" ;
         ex:bike_stands  19 ;
         geo:lat         57.707608e0 ;
         geo:lng         11.938275e0 ;
@@ -396,6 +444,7 @@
 
 <ex:station_510_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "DOMKYRKAN" ;
         ex:bike_stands  18 ;
         geo:lat         57.70434e0 ;
         geo:lng         11.96388e0 ;
@@ -404,6 +453,7 @@
 
 <ex:station_35_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "SKANSTORGET" ;
         ex:bike_stands  30 ;
         geo:lat         57.695909e0 ;
         geo:lng         11.958548e0 ;
@@ -412,6 +462,7 @@
 
 <ex:station_58_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "FOLKUNGAGATAN" ;
         ex:bike_stands  20 ;
         geo:lat         57.70884e0 ;
         geo:lng         11.98472e0 ;
@@ -420,6 +471,7 @@
 
 <ex:station_27_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "LISEBERG STATION" ;
         ex:bike_stands  30 ;
         geo:lat         57.697923e0 ;
         geo:lng         11.995107e0 ;
@@ -428,6 +480,7 @@
 
 <ex:station_52_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GIBRALTARG/EKLANDAG" ;
         ex:bike_stands  40 ;
         geo:lat         57.68542e0 ;
         geo:lng         11.98322e0 ;
@@ -436,6 +489,7 @@
 
 <ex:station_24_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GÅRDATORGET" ;
         ex:bike_stands  20 ;
         geo:lat         57.704675e0 ;
         geo:lng         11.992441e0 ;
@@ -444,6 +498,7 @@
 
 <ex:station_21_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "BASTIONSPLATSEN" ;
         ex:bike_stands  20 ;
         geo:lat         57.704263e0 ;
         geo:lng         11.972077e0 ;
@@ -452,6 +507,7 @@
 
 <ex:station_72_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HEDEN BUSSTERMINAL" ;
         ex:bike_stands  60 ;
         geo:lat         57.702514e0 ;
         geo:lng         11.974299e0 ;
@@ -460,6 +516,7 @@
 
 <ex:station_17_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KUNGSTORGET" ;
         ex:bike_stands  20 ;
         geo:lat         57.702542e0 ;
         geo:lng         11.968875e0 ;
@@ -468,6 +525,7 @@
 
 <ex:station_41_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "SLOTTSKOGEN/PLIKTA" ;
         ex:bike_stands  25 ;
         geo:lat         57.689983e0 ;
         geo:lng         11.947047e0 ;
@@ -476,6 +534,7 @@
 
 <ex:station_14_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KRISTINELUNDSGATAN" ;
         ex:bike_stands  25 ;
         geo:lat         57.699939e0 ;
         geo:lng         11.976176e0 ;
@@ -484,6 +543,7 @@
 
 <ex:station_5_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "VASAGATAN/HEDEN" ;
         ex:bike_stands  25 ;
         geo:lat         57.701419e0 ;
         geo:lng         11.9766e0 ;
@@ -492,6 +552,7 @@
 
 <ex:station_68_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "SVINGELN" ;
         ex:bike_stands  40 ;
         geo:lat         57.712972e0 ;
         geo:lng         11.991428e0 ;
@@ -500,6 +561,7 @@
 
 <ex:station_92_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "VOLVO B-PORT LUNDBY" ;
         ex:bike_stands  16 ;
         geo:lat         57.716516e0 ;
         geo:lng         11.922146e0 ;
@@ -508,6 +570,7 @@
 
 <ex:station_37_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "MOLINSGATAN" ;
         ex:bike_stands  20 ;
         geo:lat         57.69691e0 ;
         geo:lng         11.97234e0 ;
@@ -516,6 +579,7 @@
 
 <ex:station_65_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "GULLBERGSVASS" ;
         ex:bike_stands  60 ;
         geo:lat         57.716378e0 ;
         geo:lng         11.97472e0 ;
@@ -524,6 +588,7 @@
 
 <ex:station_34_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KASTELLGATAN" ;
         ex:bike_stands  20 ;
         geo:lat         57.693029e0 ;
         geo:lng         11.955692e0 ;
@@ -532,6 +597,7 @@
 
 <ex:station_31_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "ÅVÄGEN" ;
         ex:bike_stands  20 ;
         geo:lat         57.701249e0 ;
         geo:lng         11.992191e0 ;
@@ -540,6 +606,7 @@
 
 <ex:station_57_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "KRUTHUSGATAN" ;
         ex:bike_stands  32 ;
         geo:lat         57.71185e0 ;
         geo:lng         11.9806e0 ;
@@ -548,6 +615,7 @@
 
 <ex:station_54_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "EKLANDA/UTLANDAGATAN" ;
         ex:bike_stands  20 ;
         geo:lat         57.69032e0 ;
         geo:lng         11.98854e0 ;
@@ -556,6 +624,7 @@
 
 <ex:station_51_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "HAGABION" ;
         ex:bike_stands  20 ;
         geo:lat         57.696837e0 ;
         geo:lng         11.951009e0 ;
@@ -564,6 +633,7 @@
 
 <ex:station_20_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "NILS-ERICSSON TERMINALEN" ;
         ex:bike_stands  27 ;
         geo:lat         57.709443e0 ;
         geo:lng         11.971845e0 ;
@@ -572,6 +642,7 @@
 
 <ex:station_74_Goteborg>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "CENTRALEN LÅNGTIDSPARKERING" ;
         ex:bike_stands  20 ;
         geo:lat         57.71233e0 ;
         geo:lng         11.976763e0 ;

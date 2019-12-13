@@ -12,6 +12,7 @@
 
 <ex:station_26_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "026 - ARSENAL" ;
         ex:bike_stands  15 ;
         geo:lat         50.464457e0 ;
         geo:lng         4.85644e0 ;
@@ -19,6 +20,7 @@
         wdp:P669        "026 - ARSENAL - BOULEVARD FRERE ORBAN" .
 
 <ex:station_3_Namur>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "003 - GARE DU NORD" ;
         ex:bike_stands  15 ;
         geo:lat         50.47001e0 ;
         geo:lng         4.86199e0 ;
@@ -27,6 +29,7 @@
 
 <ex:station_17_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "017 - GARE DE JAMBES" ;
         ex:bike_stands  15 ;
         geo:lat         50.455072e0 ;
         geo:lng         4.8755827e0 ;
@@ -35,6 +38,7 @@
 
 <ex:station_24_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "024 - SAINT-AUBAIN" ;
         ex:bike_stands  15 ;
         geo:lat         50.46387e0 ;
         geo:lng         4.861142e0 ;
@@ -43,6 +47,7 @@
 
 <ex:station_12_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "012 - PLACE SAINT-NICOLAS" ;
         ex:bike_stands  15 ;
         geo:lat         50.46687e0 ;
         geo:lng         4.88484e0 ;
@@ -51,6 +56,7 @@
 
 <ex:station_28_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "028 - EXPO" ;
         ex:bike_stands  15 ;
         geo:lat         50.46675e0 ;
         geo:lng         4.84834e0 ;
@@ -59,6 +65,7 @@
 
 <ex:station_21_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "021 - CASINO" ;
         ex:bike_stands  15 ;
         geo:lat         50.45617e0 ;
         geo:lng         4.86269e0 ;
@@ -67,6 +74,7 @@
 
 <ex:station_33_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "033 - BOSQUETS" ;
         ex:bike_stands  15 ;
         geo:lat         50.462741e0 ;
         geo:lng         4.837198e0 ;
@@ -75,6 +83,7 @@
 
 <ex:station_18_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "018 - CPAS" ;
         ex:bike_stands  10 ;
         geo:lat         50.451892e0 ;
         geo:lng         4.868837e0 ;
@@ -82,6 +91,7 @@
         wdp:P669        "018 - CPAS - RUE DE DAVE" .
 
 <ex:station_7_Namur>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "007 - ANGE" ;
         ex:bike_stands  15 ;
         geo:lat         50.46424e0 ;
         geo:lng         4.8652e0 ;
@@ -89,6 +99,7 @@
         wdp:P669        "007 - ANGE - PLACE DE L ANGE FACE 95" .
 
 <ex:station_2_Namur>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "002 - CROIX DE FEUX" ;
         ex:bike_stands  15 ;
         geo:lat         50.470692e0 ;
         geo:lng         4.852803e0 ;
@@ -97,6 +108,7 @@
 
 <ex:station_16_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "016 - PLACE DE WALLONIE" ;
         ex:bike_stands  15 ;
         geo:lat         50.45602e0 ;
         geo:lng         4.87266e0 ;
@@ -105,6 +117,7 @@
 
 <ex:station_23_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "023 - MAURICE SERVAIS" ;
         ex:bike_stands  10 ;
         geo:lat         50.46204e0 ;
         geo:lng         4.86499e0 ;
@@ -113,6 +126,7 @@
 
 <ex:station_11_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "011 - CITE ADMINISTRATIVE" ;
         ex:bike_stands  10 ;
         geo:lat         50.46786e0 ;
         geo:lng         4.87352e0 ;
@@ -121,6 +135,7 @@
 
 <ex:station_30_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "030 - PLACE LOUISE GODIN" ;
         ex:bike_stands  15 ;
         geo:lat         50.460596e0 ;
         geo:lng         4.842836e0 ;
@@ -129,6 +144,7 @@
 
 <ex:station_27_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "027 - OMALIUS" ;
         ex:bike_stands  15 ;
         geo:lat         50.4674e0 ;
         geo:lng         4.8581e0 ;
@@ -137,6 +153,7 @@
 
 <ex:station_34_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "034 - ROGIER" ;
         ex:bike_stands  16 ;
         geo:lat         50.46735e0 ;
         geo:lng         4.86872e0 ;
@@ -144,6 +161,7 @@
         wdp:P669        "034 - ROGIER - RUE ROGIER / RUE NAMECHE" .
 
 <ex:station_4_Namur>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "004 - GARE DE NAMUR" ;
         ex:bike_stands  26 ;
         geo:lat         50.4683e0 ;
         geo:lng         4.86266e0 ;
@@ -152,6 +170,7 @@
 
 <ex:station_25_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "025 - AUBERGE DE JEUNESSE" ;
         ex:bike_stands  15 ;
         geo:lat         50.448224e0 ;
         geo:lng         4.859506e0 ;
@@ -160,6 +179,7 @@
 
 <ex:station_13_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "013 - PONT DES ARDENNES" ;
         ex:bike_stands  15 ;
         geo:lat         50.46155e0 ;
         geo:lng         4.87609e0 ;
@@ -168,6 +188,7 @@
 
 <ex:station_32_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "032- ECOLE DES CADETS" ;
         ex:bike_stands  17 ;
         geo:lat         50.46603e0 ;
         geo:lng         4.87735e0 ;
@@ -176,6 +197,7 @@
 
 <ex:station_29_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "029 - WIERTZ" ;
         ex:bike_stands  15 ;
         geo:lat         50.464476e0 ;
         geo:lng         4.849289e0 ;
@@ -183,6 +205,7 @@
         wdp:P669        "029 - WIERTZ - PLACE WIERTZ FACE 8" .
 
 <ex:station_6_Namur>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "006 - HOTEL DE VILLE" ;
         ex:bike_stands  15 ;
         geo:lat         50.46697e0 ;
         geo:lng         4.86546e0 ;
@@ -190,6 +213,7 @@
         wdp:P669        "006 - HOTEL DE VILLE - RUE DE FER DVT 101" .
 
 <ex:station_1_Namur>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "001 - OCTAVE HENRY" ;
         ex:bike_stands  15 ;
         geo:lat         50.47536e0 ;
         geo:lng         4.84661e0 ;
@@ -198,6 +222,7 @@
 
 <ex:station_15_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "015 - PONT DE JAMBES" ;
         ex:bike_stands  15 ;
         geo:lat         50.457858e0 ;
         geo:lng         4.86697e0 ;
@@ -206,6 +231,7 @@
 
 <ex:station_10_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "010 - ARTHUR MASSON" ;
         ex:bike_stands  15 ;
         geo:lat         50.46364e0 ;
         geo:lng         4.87353e0 ;
@@ -214,6 +240,7 @@
 
 <ex:station_22_Namur>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "022 - GROGNON" ;
         ex:bike_stands  15 ;
         geo:lat         50.462537e0 ;
         geo:lng         4.869596e0 ;

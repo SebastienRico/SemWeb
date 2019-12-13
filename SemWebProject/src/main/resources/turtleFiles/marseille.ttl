@@ -12,6 +12,7 @@
 
 <ex:station_2031_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2031 - SCHUMANN LECA" ;
         ex:bike_stands  15 ;
         geo:lat         43.301965e0 ;
         geo:lng         5.366478e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_8257_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8257-RABATAU - TEISSEIRE" ;
         ex:bike_stands  15 ;
         geo:lat         43.27524269246836e0 ;
         geo:lng         5.396409806138883e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_4342_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4342 - FLAMMARION MONTRICHET" ;
         ex:bike_stands  10 ;
         geo:lat         43.305993453766845e0 ;
         geo:lng         5.393678259953781e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_6253_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "06253 - ROME SYLVABELLE" ;
         ex:bike_stands  12 ;
         geo:lat         43.290022e0 ;
         geo:lng         5.381324e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_1264_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1264 - CANEBIÈRE DUGOMMIER" ;
         ex:bike_stands  10 ;
         geo:lat         43.29789631329341e0 ;
         geo:lng         5.381132215559973e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_1216_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1216-SAINTE - LULLI" ;
         ex:bike_stands  15 ;
         geo:lat         43.292666663006464e0 ;
         geo:lng         5.375905974276691e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_8066_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8066-MENDES FRANCE HUVEAUNE" ;
         ex:bike_stands  18 ;
         geo:lat         43.260217853801166e0 ;
         geo:lng         5.37544360265886e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_6160_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6160-153 PARADIS" ;
         ex:bike_stands  14 ;
         geo:lat         43.28683835122117e0 ;
         geo:lng         5.379450180172236e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_7349_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7349 - LA CRIEE" ;
         ex:bike_stands  12 ;
         geo:lat         43.292601e0 ;
         geo:lng         5.368569e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_9085_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9085-SCHLOESING TEISSERE" ;
         ex:bike_stands  16 ;
         geo:lat         43.2693522531282e0 ;
         geo:lng         5.402740962235228e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_1213_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1213-GRIGNAN - MARCELLE PAUL" ;
         ex:bike_stands  10 ;
         geo:lat         43.291357465205536e0 ;
         geo:lng         5.373546945382951e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_1346_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1346- REPUBLIQUE COUTELLERIE" ;
         ex:bike_stands  8 ;
         geo:lat         43.296824934966864e0 ;
         geo:lng         5.373860886192452e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_7025_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7025-LIVON PASTEUR" ;
         ex:bike_stands  20 ;
         geo:lat         43.29198908246378e0 ;
         geo:lng         5.357823161216201e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_8309_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8309- PRADO DUVEEN" ;
         ex:bike_stands  19 ;
         geo:lat         43.27654702249427e0 ;
         geo:lng         5.388799649683594e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_8134_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8134-ROND POINT DU PRADO" ;
         ex:bike_stands  21 ;
         geo:lat         43.27278734452526e0 ;
         geo:lng         5.391048744484495e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_2272_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2272- JOLIETTE-DUNKERQUE" ;
         ex:bike_stands  14 ;
         geo:lat         43.3051302607768e0 ;
         geo:lng         5.36697414687028e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_8131_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8131-PROMENADE POMPIDOU DAVID" ;
         ex:bike_stands  15 ;
         geo:lat         43.26178202177259e0 ;
         geo:lng         5.374505152575336e0 ;
@@ -148,6 +165,7 @@
 
 <ex:station_6114_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6114-JULIEN BARTHELEMY" ;
         ex:bike_stands  10 ;
         geo:lat         43.292604598053984e0 ;
         geo:lng         5.384138435260716e0 ;
@@ -156,6 +174,7 @@
 
 <ex:station_8068_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8068-PRADO BORELY" ;
         ex:bike_stands  9 ;
         geo:lat         43.262455920908494e0 ;
         geo:lng         5.375795816171145e0 ;
@@ -164,6 +183,7 @@
 
 <ex:station_9219_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9219-PUGETTE - ANDRE" ;
         ex:bike_stands  15 ;
         geo:lat         43.268405140653144e0 ;
         geo:lng         5.400635371105712e0 ;
@@ -172,6 +192,7 @@
 
 <ex:station_1130_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1130- NATIONAL LONGCHAMP" ;
         ex:bike_stands  15 ;
         geo:lat         43.30123319837804e0 ;
         geo:lng         5.387773261785004e0 ;
@@ -180,6 +201,7 @@
 
 <ex:station_7215_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7215-ENDOUME - CORDERIE" ;
         ex:bike_stands  13 ;
         geo:lat         43.28923675488644e0 ;
         geo:lng         5.366479730277853e0 ;
@@ -188,6 +210,7 @@
 
 <ex:station_7027_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7027-PLACE DU 4 SEPTEMBRE" ;
         ex:bike_stands  14 ;
         geo:lat         43.2884327278463e0 ;
         geo:lng         5.3586207351308e0 ;
@@ -196,6 +219,7 @@
 
 <ex:station_6206_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6206-TOULON - MENPENTI" ;
         ex:bike_stands  16 ;
         geo:lat         43.284456097132846e0 ;
         geo:lng         5.392112767343369e0 ;
@@ -204,6 +228,7 @@
 
 <ex:station_1230_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1230-ROOSEVELT - REFORMES" ;
         ex:bike_stands  10 ;
         geo:lat         43.29908095432929e0 ;
         geo:lng         5.38661231791721e0 ;
@@ -212,6 +237,7 @@
 
 <ex:station_6254_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6254-ROME - BERLIOZ - ITALIE" ;
         ex:bike_stands  15 ;
         geo:lat         43.28892000857008e0 ;
         geo:lng         5.383105742132375e0 ;
@@ -220,6 +246,7 @@
 
 <ex:station_6023_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6023- CASTELLANE" ;
         ex:bike_stands  20 ;
         geo:lat         43.2860463621229e0 ;
         geo:lng         5.3832855751021e0 ;
@@ -228,6 +255,7 @@
 
 <ex:station_4293_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4293- BLANCARDE" ;
         ex:bike_stands  14 ;
         geo:lat         43.29626340517055e0 ;
         geo:lng         5.406000803377506e0 ;
@@ -236,6 +264,7 @@
 
 <ex:station_5107_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5107-BAILLE CONCEPTION" ;
         ex:bike_stands  13 ;
         geo:lat         43.28872669088929e0 ;
         geo:lng         5.39403885378465e0 ;
@@ -244,6 +273,7 @@
 
 <ex:station_6208_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6208-ROUET" ;
         ex:bike_stands  15 ;
         geo:lat         43.28350144850817e0 ;
         geo:lng         5.386461522334788e0 ;
@@ -252,6 +282,7 @@
 
 <ex:station_3228_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3228 -TOUR LA MARSEILLAISE" ;
         ex:bike_stands  19 ;
         geo:lat         43.313486e0 ;
         geo:lng         5.367227e0 ;
@@ -260,6 +291,7 @@
 
 <ex:station_2200_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2200-MUCEM" ;
         ex:bike_stands  26 ;
         geo:lat         43.2984594666424e0 ;
         geo:lng         5.36291062831879e0 ;
@@ -268,6 +300,7 @@
 
 <ex:station_4111_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4111-FOCH FAYOLLE" ;
         ex:bike_stands  20 ;
         geo:lat         43.301185515493664e0 ;
         geo:lng         5.398630311705657e0 ;
@@ -276,6 +309,7 @@
 
 <ex:station_5220_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5220-ROOSEVELT - ORAN" ;
         ex:bike_stands  10 ;
         geo:lat         43.29899195650368e0 ;
         geo:lng         5.388799115293999e0 ;
@@ -284,6 +318,7 @@
 
 <ex:station_2240_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2240-DAMES - TERRAS" ;
         ex:bike_stands  9 ;
         geo:lat         43.301805741199246e0 ;
         geo:lng         5.372302255725486e0 ;
@@ -292,6 +327,7 @@
 
 <ex:station_1299_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1299- ST CHARLES VOLTAIRE LIBERTÉ" ;
         ex:bike_stands  17 ;
         geo:lat         43.30236655745069e0 ;
         geo:lng         5.383955032544848e0 ;
@@ -300,6 +336,7 @@
 
 <ex:station_5024_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5024-BAILLE PAURIOL" ;
         ex:bike_stands  7 ;
         geo:lat         43.287814455889425e0 ;
         geo:lng         5.391331392803749e0 ;
@@ -308,6 +345,7 @@
 
 <ex:station_6348_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6348 - ROME- SALVATOR-ITALIE" ;
         ex:bike_stands  17 ;
         geo:lat         43.290978e0 ;
         geo:lng         5.381342e0 ;
@@ -316,6 +354,7 @@
 
 <ex:station_1316_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1316 -ST CHARLES FACULTÉ" ;
         ex:bike_stands  15 ;
         geo:lat         43.304244359587024e0 ;
         geo:lng         5.378292250179226e0 ;
@@ -324,6 +363,7 @@
 
 <ex:station_8202_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8202-397 PRADO" ;
         ex:bike_stands  13 ;
         geo:lat         43.26869900851042e0 ;
         geo:lng         5.385552216536626e0 ;
@@ -332,6 +372,7 @@
 
 <ex:station_2327_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2327- RÉPUBLIQUE PLUMIER" ;
         ex:bike_stands  10 ;
         geo:lat         43.304190155898155e0 ;
         geo:lng         5.367786407891749e0 ;
@@ -340,6 +381,7 @@
 
 <ex:station_9087_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9087-MAZARGUES" ;
         ex:bike_stands  21 ;
         geo:lat         43.250903869637334e0 ;
         geo:lng         5.403244616491982e0 ;
@@ -348,6 +390,7 @@
 
 <ex:station_4238_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4238-LIBERATION-CHAPE-ESPERANDIEU" ;
         ex:bike_stands  12 ;
         geo:lat         43.302008143688155e0 ;
         geo:lng         5.394684906357751e0 ;
@@ -356,6 +399,7 @@
 
 <ex:station_8290_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8290- POINTE ROUGE - MONTREDON" ;
         ex:bike_stands  17 ;
         geo:lat         43.243802055963265e0 ;
         geo:lng         5.370540756635374e0 ;
@@ -364,6 +408,7 @@
 
 <ex:station_8144_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8144-ESCALE BORELY POINTE ROUGE" ;
         ex:bike_stands  10 ;
         geo:lat         43.25394372546869e0 ;
         geo:lng         5.37599738915791e0 ;
@@ -372,6 +417,7 @@
 
 <ex:station_2179_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2179-QUAI DU PORT" ;
         ex:bike_stands  15 ;
         geo:lat         43.295414354264665e0 ;
         geo:lng         5.36552550703358e0 ;
@@ -380,6 +426,7 @@
 
 <ex:station_2184_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2184-REPUBLIQUE-CATHALA" ;
         ex:bike_stands  9 ;
         geo:lat         43.30056201196652e0 ;
         geo:lng         5.370488134608402e0 ;
@@ -388,6 +435,7 @@
 
 <ex:station_6217_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6217-ROSTAND - PREFECTURE" ;
         ex:bike_stands  15 ;
         geo:lat         43.2896832563691e0 ;
         geo:lng         5.379650236474981e0 ;
@@ -396,6 +444,7 @@
 
 <ex:station_8078_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8078-VIEILLE CHAPELLE" ;
         ex:bike_stands  20 ;
         geo:lat         43.24789994774334e0 ;
         geo:lng         5.374447484757423e0 ;
@@ -404,6 +453,7 @@
 
 <ex:station_1002_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1002-HOTEL DE VILLE" ;
         ex:bike_stands  32 ;
         geo:lat         43.2961387765145e0 ;
         geo:lng         5.3707713851323e0 ;
@@ -412,6 +462,7 @@
 
 <ex:station_4057_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "4057-PLACE SEBASTOPOL" ;
         ex:bike_stands  10 ;
         geo:lat         43.298680879912176e0 ;
         geo:lng         5.397216233775408e0 ;
@@ -420,6 +471,7 @@
 
 <ex:station_2279_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "02279 - DOCKS LES TERRASSES DU PORT" ;
         ex:bike_stands  22 ;
         geo:lat         43.308731e0 ;
         geo:lng         5.36651e0 ;
@@ -428,6 +480,7 @@
 
 <ex:station_8053_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8053-PRADO - PERIER" ;
         ex:bike_stands  13 ;
         geo:lat         43.27974214607358e0 ;
         geo:lng         5.387431047255536e0 ;
@@ -436,6 +489,7 @@
 
 <ex:station_9260_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9260- MAZARGUES - ALMERAS" ;
         ex:bike_stands  13 ;
         geo:lat         43.25096285100345e0 ;
         geo:lng         5.39517783172075e0 ;
@@ -444,6 +498,7 @@
 
 <ex:station_8093_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8093-HAMBOURG ROND POINT GUERRE" ;
         ex:bike_stands  15 ;
         geo:lat         43.249867874570256e0 ;
         geo:lng         5.389411648303773e0 ;
@@ -452,6 +507,7 @@
 
 <ex:station_913_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "913 - PLAGE DES DAMES" ;
         ex:bike_stands  21 ;
         geo:lat         43.240392e0 ;
         geo:lng         5.362533e0 ;
@@ -460,6 +516,7 @@
 
 <ex:station_1275_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1275- JULIEN - 3 MAGES" ;
         ex:bike_stands  7 ;
         geo:lat         43.29562159175117e0 ;
         geo:lng         5.382390401095631e0 ;
@@ -468,6 +525,7 @@
 
 <ex:station_7142_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7142-CORNICHE RAPATRIES" ;
         ex:bike_stands  15 ;
         geo:lat         43.270172262619184e0 ;
         geo:lng         5.365239906973955e0 ;
@@ -476,6 +534,7 @@
 
 <ex:station_2341_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2341- JOLIETTE FORBIN" ;
         ex:bike_stands  15 ;
         geo:lat         43.3047137105911e0 ;
         geo:lng         5.36771555892562e0 ;
@@ -484,6 +543,7 @@
 
 <ex:station_8145_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8145-ESCALE BORELY" ;
         ex:bike_stands  20 ;
         geo:lat         43.25505597847173e0 ;
         geo:lng         5.376413023650641e0 ;
@@ -492,6 +552,7 @@
 
 <ex:station_6176_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6176-CANTINI ROUET" ;
         ex:bike_stands  24 ;
         geo:lat         43.284775983612235e0 ;
         geo:lng         5.385593763617925e0 ;
@@ -500,6 +561,7 @@
 
 <ex:station_1003_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1003-PLACE AUX HUILES" ;
         ex:bike_stands  10 ;
         geo:lat         43.29312239728256e0 ;
         geo:lng         5.371867606488009e0 ;
@@ -508,6 +570,7 @@
 
 <ex:station_1302_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1302-COLBERT -SAINTE BARBE" ;
         ex:bike_stands  11 ;
         geo:lat         43.29924603474944e0 ;
         geo:lng         5.374740047327954e0 ;
@@ -516,6 +579,7 @@
 
 <ex:station_8147_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8147 - MICHELET HUVEAUNE" ;
         ex:bike_stands  15 ;
         geo:lat         43.26796549967643e0 ;
         geo:lng         5.393967016838425e0 ;
@@ -524,6 +588,7 @@
 
 <ex:station_6100_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6100-PAUL PEYTRAL" ;
         ex:bike_stands  9 ;
         geo:lat         43.289985879061746e0 ;
         geo:lng         5.379124641857261e0 ;
@@ -532,6 +597,7 @@
 
 <ex:station_8310_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8310- CANTINI REGE" ;
         ex:bike_stands  18 ;
         geo:lat         43.281484e0 ;
         geo:lng         5.391515e0 ;
@@ -540,6 +606,7 @@
 
 <ex:station_7146_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7146-LIVON VIEUX PORT" ;
         ex:bike_stands  15 ;
         geo:lat         43.29224532184672e0 ;
         geo:lng         5.360224853219125e0 ;
@@ -548,6 +615,7 @@
 
 <ex:station_7151_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7151-PASTEUR" ;
         ex:bike_stands  16 ;
         geo:lat         43.290716834278136e0 ;
         geo:lng         5.359258014511654e0 ;
@@ -556,6 +624,7 @@
 
 <ex:station_3321_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3321 - BELLE DE MAI FRICHE" ;
         ex:bike_stands  15 ;
         geo:lat         43.30958891338201e0 ;
         geo:lng         5.39024943158741e0 ;
@@ -564,6 +633,7 @@
 
 <ex:station_7138_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7138-CORNICHE  ENDOUME" ;
         ex:bike_stands  15 ;
         geo:lat         43.28250633472905e0 ;
         geo:lng         5.350628425025786e0 ;
@@ -572,6 +642,7 @@
 
 <ex:station_5280_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5280-CHAVE CAMAS" ;
         ex:bike_stands  13 ;
         geo:lat         43.29581102315005e0 ;
         geo:lng         5.396312199117862e0 ;
@@ -580,6 +651,7 @@
 
 <ex:station_8149_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8149-391 MICHELET" ;
         ex:bike_stands  19 ;
         geo:lat         43.25402727813068e0 ;
         geo:lng         5.401873594694653e0 ;
@@ -588,6 +660,7 @@
 
 <ex:station_1301_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1301- ST CHARLES MARSEILLAISES" ;
         ex:bike_stands  19 ;
         geo:lat         43.301510278747365e0 ;
         geo:lng         5.379895702048497e0 ;
@@ -596,6 +669,7 @@
 
 <ex:station_1344_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1344 - FLAMMARION NATIONAL" ;
         ex:bike_stands  7 ;
         geo:lat         43.30353946127941e0 ;
         geo:lng         5.386356771062651e0 ;
@@ -604,6 +678,7 @@
 
 <ex:station_9207_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9207- TEISSEIRE - ROUBAUD" ;
         ex:bike_stands  10 ;
         geo:lat         43.27252367086013e0 ;
         geo:lng         5.399686062414487e0 ;
@@ -612,6 +687,7 @@
 
 <ex:station_7153_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7153-CORSE ST MAURICE" ;
         ex:bike_stands  10 ;
         geo:lat         43.28946760889984e0 ;
         geo:lng         5.36370990786361e0 ;
@@ -620,6 +696,7 @@
 
 <ex:station_6177_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6177-BAILLE FRIEDLAND" ;
         ex:bike_stands  17 ;
         geo:lat         43.2865946021474e0 ;
         geo:lng         5.38678589001619e0 ;
@@ -628,6 +705,7 @@
 
 <ex:station_2304_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2304 - RÉPUBLIQUE MOISSON" ;
         ex:bike_stands  10 ;
         geo:lat         43.30179774806541e0 ;
         geo:lng         5.369716218117023e0 ;
@@ -636,6 +714,7 @@
 
 <ex:station_8262_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8262-MAZARGUES-BARRAL" ;
         ex:bike_stands  12 ;
         geo:lat         43.263999455764186e0 ;
         geo:lng         5.392402358314715e0 ;
@@ -644,6 +723,7 @@
 
 <ex:station_3320_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3320 - BELLE DE MAI CADENAT" ;
         ex:bike_stands  15 ;
         geo:lat         43.31181964585524e0 ;
         geo:lng         5.387375678428276e0 ;
@@ -652,6 +732,7 @@
 
 <ex:station_8246_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8246-PARADIS - LORD DUVEEN" ;
         ex:bike_stands  10 ;
         geo:lat         43.275618147775035e0 ;
         geo:lng         5.384455147739253e0 ;
@@ -660,6 +741,7 @@
 
 <ex:station_1210_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1210-BEAUVAU - CANEBIERE" ;
         ex:bike_stands  25 ;
         geo:lat         43.2954212560858e0 ;
         geo:lng         5.37516544677113e0 ;
@@ -668,6 +750,7 @@
 
 <ex:station_6187_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6187-DELPUECH CORINTHE" ;
         ex:bike_stands  15 ;
         geo:lat         43.28292930261343e0 ;
         geo:lng         5.39109605124139e0 ;
@@ -676,6 +759,7 @@
 
 <ex:station_1343_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1343 - FLAMMARION GROBET" ;
         ex:bike_stands  15 ;
         geo:lat         43.3046818705083e0 ;
         geo:lng         5.3901483781149e0 ;
@@ -684,6 +768,7 @@
 
 <ex:station_9074_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9074-MICHELET LUCE" ;
         ex:bike_stands  14 ;
         geo:lat         43.25850879475187e0 ;
         geo:lng         5.398913930872658e0 ;
@@ -692,6 +777,7 @@
 
 <ex:station_1245_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1245-GAMBETTA - LAFAYETTE" ;
         ex:bike_stands  15 ;
         geo:lat         43.29902793826475e0 ;
         geo:lng         5.381500046726694e0 ;
@@ -700,6 +786,7 @@
 
 <ex:station_2221_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2221-91 LIBÉRATION" ;
         ex:bike_stands  10 ;
         geo:lat         43.30050650960441e0 ;
         geo:lng         5.389298285180646e0 ;
@@ -708,6 +795,7 @@
 
 <ex:station_5103_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5103-RUE GEORGES" ;
         ex:bike_stands  15 ;
         geo:lat         43.29748821146523e0 ;
         geo:lng         5.397731278573822e0 ;
@@ -716,6 +804,7 @@
 
 <ex:station_1006_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1006-COURS JEAN BALLARD" ;
         ex:bike_stands  14 ;
         geo:lat         43.29336790915692e0 ;
         geo:lng         5.374638177288532e0 ;
@@ -724,6 +813,7 @@
 
 <ex:station_7062_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7062-88 CORNICHE - KENNEDY" ;
         ex:bike_stands  15 ;
         geo:lat         43.284213979400505e0 ;
         geo:lng         5.349696475467313e0 ;
@@ -732,6 +822,7 @@
 
 <ex:station_5284_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5284 - BAILLE-HOPITAL-CONCEPTION" ;
         ex:bike_stands  13 ;
         geo:lat         43.28936342586655e0 ;
         geo:lng         5.39631317835792e0 ;
@@ -740,6 +831,7 @@
 
 <ex:station_3322_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "3322 - ARENC CHANTERAC" ;
         ex:bike_stands  20 ;
         geo:lat         43.3123370339008e0 ;
         geo:lng         5.3687418043728e0 ;
@@ -748,6 +840,7 @@
 
 <ex:station_2030_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2030-REPUBLIQUE DAMES" ;
         ex:bike_stands  5 ;
         geo:lat         43.30255028371949e0 ;
         geo:lng         5.369497428189588e0 ;
@@ -756,6 +849,7 @@
 
 <ex:station_8261_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8261- 318 MAZARGUES" ;
         ex:bike_stands  15 ;
         geo:lat         43.260699609117914e0 ;
         geo:lng         5.393973899334583e0 ;
@@ -764,6 +858,7 @@
 
 <ex:station_6154_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6154-PIERRE PUGET BRETEUIL" ;
         ex:bike_stands  8 ;
         geo:lat         43.290329770206334e0 ;
         geo:lng         5.375548341850035e0 ;
@@ -772,6 +867,7 @@
 
 <ex:station_8065_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8065-PROMENADE POMPIDOU PALM BEACH" ;
         ex:bike_stands  15 ;
         geo:lat         43.267272515671856e0 ;
         geo:lng         5.372088524255505e0 ;
@@ -780,6 +876,7 @@
 
 <ex:station_9259_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "9259-LANCIER-MARTHELINE" ;
         ex:bike_stands  15 ;
         geo:lat         43.24759828978683e0 ;
         geo:lng         5.397126739923842e0 ;
@@ -788,6 +885,7 @@
 
 <ex:station_7212_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7212-SAINTE - NOTRE DAME" ;
         ex:bike_stands  10 ;
         geo:lat         43.291634709693945e0 ;
         geo:lng         5.371370384862697e0 ;
@@ -796,6 +894,7 @@
 
 <ex:station_1345_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1345 - SAINT CHARLES LECLERC ZATTARA" ;
         ex:bike_stands  12 ;
         geo:lat         43.30380276644441e0 ;
         geo:lng         5.377690136115547e0 ;
@@ -804,6 +903,7 @@
 
 <ex:station_8308_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8308-PRADO LATIL" ;
         ex:bike_stands  10 ;
         geo:lat         43.274352269730755e0 ;
         geo:lng         5.390405906592448e0 ;
@@ -812,6 +912,7 @@
 
 <ex:station_8313_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8313- PARC PASTRE" ;
         ex:bike_stands  10 ;
         geo:lat         43.23984252335505e0 ;
         geo:lng         5.366506599649465e0 ;
@@ -820,6 +921,7 @@
 
 <ex:station_7064_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "7064-CORNICHE  LE PROPHETE" ;
         ex:bike_stands  16 ;
         geo:lat         43.27370831724611e0 ;
         geo:lng         5.362608275091751e0 ;
@@ -828,6 +930,7 @@
 
 <ex:station_1287_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1287- STALINGRAD - RÉFORMÉS" ;
         ex:bike_stands  17 ;
         geo:lat         43.29952097558015e0 ;
         geo:lng         5.385047448641554e0 ;
@@ -836,6 +939,7 @@
 
 <ex:station_2032_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2032- DAMES  SCHUMANN" ;
         ex:bike_stands  13 ;
         geo:lat         43.30331167287617e0 ;
         geo:lng         5.366730359523051e0 ;
@@ -844,6 +948,7 @@
 
 <ex:station_5060_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5060-SAKAKINI CHAVE" ;
         ex:bike_stands  12 ;
         geo:lat         43.29570956843267e0 ;
         geo:lng         5.399877070301781e0 ;
@@ -852,6 +957,7 @@
 
 <ex:station_8255_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8255-PRADO - PARADIS" ;
         ex:bike_stands  10 ;
         geo:lat         43.26954179693142e0 ;
         geo:lng         5.386273779435491e0 ;
@@ -860,6 +966,7 @@
 
 <ex:station_6113_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6113-LODI VILLAGE" ;
         ex:bike_stands  15 ;
         geo:lat         43.2886166717576e0 ;
         geo:lng         5.387779642713593e0 ;
@@ -868,6 +975,7 @@
 
 <ex:station_8067_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8067-PRADO GABES" ;
         ex:bike_stands  15 ;
         geo:lat         43.2668438148239e0 ;
         geo:lng         5.38279581908046e0 ;
@@ -876,6 +984,7 @@
 
 <ex:station_6020_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "6020-PLACE DE LA CORDERIE" ;
         ex:bike_stands  15 ;
         geo:lat         43.29076433240633e0 ;
         geo:lng         5.372259932395231e0 ;
@@ -884,6 +993,7 @@
 
 <ex:station_2323_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2323 -FORBIN PARIS" ;
         ex:bike_stands  13 ;
         geo:lat         43.30598895681527e0 ;
         geo:lng         5.37224035119238e0 ;
@@ -892,6 +1002,7 @@
 
 <ex:station_1297_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "1297- ST FÉRRÉOL DAVSO" ;
         ex:bike_stands  16 ;
         geo:lat         43.293485736186526e0 ;
         geo:lng         5.378423799723321e0 ;
@@ -900,6 +1011,7 @@
 
 <ex:station_5104_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "5104-CHAVE EUGÈNE PIERRE" ;
         ex:bike_stands  10 ;
         geo:lat         43.295363145406e0 ;
         geo:lng         5.390871390171412e0 ;
@@ -908,6 +1020,7 @@
 
 <ex:station_2222_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "2222-151 LIBERATION" ;
         ex:bike_stands  10 ;
         geo:lat         43.30143187524121e0 ;
         geo:lng         5.392179383331833e0 ;
@@ -916,6 +1029,7 @@
 
 <ex:station_8132_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8132-PROMENADE POMPIDOU AMIRAL MUSELIER" ;
         ex:bike_stands  15 ;
         geo:lat         43.26469407213291e0 ;
         geo:lng         5.373281108125947e0 ;
@@ -924,6 +1038,7 @@
 
 <ex:station_8307_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8307-PRADO MICHELET" ;
         ex:bike_stands  20 ;
         geo:lat         43.2722414899425e0 ;
         geo:lng         5.39166970262158e0 ;
@@ -932,6 +1047,7 @@
 
 <ex:station_8265_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8265- NÉGRESKO - PAULET" ;
         ex:bike_stands  15 ;
         geo:lat         43.269318556371154e0 ;
         geo:lng         5.389387542314263e0 ;
@@ -940,6 +1056,7 @@
 
 <ex:station_8270_Marseille>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "8270 - RABATAU ST JOSEPH" ;
         ex:bike_stands  20 ;
         geo:lat         43.274742e0 ;
         geo:lng         5.394318e0 ;

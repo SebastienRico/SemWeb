@@ -12,6 +12,7 @@
 
 <ex:station_18_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "18 - CLEMENCEAU" ;
         ex:bike_stands  11 ;
         geo:lat         47.744426e0 ;
         geo:lng         7.340096e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_11_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "11 - PLACE DU PRINTEMPS" ;
         ex:bike_stands  13 ;
         geo:lat         47.750127e0 ;
         geo:lng         7.348552e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_9_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "09 - NESSEL" ;
         ex:bike_stands  15 ;
         geo:lat         47.745105e0 ;
         geo:lng         7.329143e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_6_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "06 - PORTE JEUNE" ;
         ex:bike_stands  18 ;
         geo:lat         47.7500690513047e0 ;
         geo:lng         7.33871413913301e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_3_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "03 - PLACE DE LA CONCORDE" ;
         ex:bike_stands  12 ;
         geo:lat         47.746818e0 ;
         geo:lng         7.335238e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_38_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "38 - WANNE" ;
         ex:bike_stands  10 ;
         geo:lat         47.743132e0 ;
         geo:lng         7.352147e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_35_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "35 - EUROPE" ;
         ex:bike_stands  14 ;
         geo:lat         47.75269193786139e0 ;
         geo:lng         7.346458858175643e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_27_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "27 - CITE ADMINISTRATIVE" ;
         ex:bike_stands  10 ;
         geo:lat         47.75645059182136e0 ;
         geo:lng         7.335962697690334e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_24_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "24 - TIVOLI" ;
         ex:bike_stands  13 ;
         geo:lat         47.74305508622176e0 ;
         geo:lng         7.347364171170129e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_21_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "21 - FONDERIE" ;
         ex:bike_stands  27 ;
         geo:lat         47.73966e0 ;
         geo:lng         7.332354e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_17_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "17 - PLACE DE LA REUNION" ;
         ex:bike_stands  28 ;
         geo:lat         47.747038e0 ;
         geo:lng         7.338923e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_14_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "14 - SCHUMANN" ;
         ex:bike_stands  18 ;
         geo:lat         47.75243e0 ;
         geo:lng         7.342944e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_5_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "05 - METZ" ;
         ex:bike_stands  15 ;
         geo:lat         47.749314e0 ;
         geo:lng         7.341124e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_2_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "02 - REPUBLIQUE" ;
         ex:bike_stands  14 ;
         geo:lat         47.7459607192146e0 ;
         geo:lng         7.34141256758124e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_37_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "37 - TUNNEL" ;
         ex:bike_stands  12 ;
         geo:lat         47.74329631548472e0 ;
         geo:lng         7.315494395852651e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_34_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "34 - PATINOIRE" ;
         ex:bike_stands  15 ;
         geo:lat         47.736212e0 ;
         geo:lng         7.31875e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_31_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "31 - KINEPOLIS" ;
         ex:bike_stands  15 ;
         geo:lat         47.76001e0 ;
         geo:lng         7.351265e0 ;
@@ -148,6 +165,7 @@
 
 <ex:station_20_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "20 - FILATURE" ;
         ex:bike_stands  12 ;
         geo:lat         47.753533915217425e0 ;
         geo:lng         7.348462912266421e0 ;
@@ -156,6 +174,7 @@
 
 <ex:station_19_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "19 - LES TROIS ROIS" ;
         ex:bike_stands  14 ;
         geo:lat         47.74409332327696e0 ;
         geo:lng         7.333486550613367e0 ;
@@ -164,6 +183,7 @@
 
 <ex:station_16_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "16 - PLACE FRANKLIN" ;
         ex:bike_stands  11 ;
         geo:lat         47.751456e0 ;
         geo:lng         7.33392e0 ;
@@ -172,6 +192,7 @@
 
 <ex:station_13_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "13 - MARCHE" ;
         ex:bike_stands  13 ;
         geo:lat         47.750923e0 ;
         geo:lng         7.329854e0 ;
@@ -180,6 +201,7 @@
 
 <ex:station_10_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "10 - PLACE DE LA PAIX" ;
         ex:bike_stands  13 ;
         geo:lat         47.7441863794142e0 ;
         geo:lng         7.33572665536391e0 ;
@@ -188,6 +210,7 @@
 
 <ex:station_8_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "08 - PORTE HAUTE" ;
         ex:bike_stands  15 ;
         geo:lat         47.7469931994958e0 ;
         geo:lng         7.33206326834505e0 ;
@@ -196,6 +219,7 @@
 
 <ex:station_1_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "01 - PARVIS DE LA GARE" ;
         ex:bike_stands  40 ;
         geo:lat         47.742424e0 ;
         geo:lng         7.342152e0 ;
@@ -204,6 +228,7 @@
 
 <ex:station_36_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "36 - MUSEE DE L'AUTO" ;
         ex:bike_stands  15 ;
         geo:lat         47.75986276611346e0 ;
         geo:lng         7.332262051959153e0 ;
@@ -212,6 +237,7 @@
 
 <ex:station_33_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "33 - AUBERGE" ;
         ex:bike_stands  12 ;
         geo:lat         47.738321115207405e0 ;
         geo:lng         7.317404625830476e0 ;
@@ -220,6 +246,7 @@
 
 <ex:station_30_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "30 -  HARDT" ;
         ex:bike_stands  11 ;
         geo:lat         47.7532e0 ;
         geo:lng         7.3554e0 ;
@@ -228,6 +255,7 @@
 
 <ex:station_29_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "29 - LAURENT" ;
         ex:bike_stands  11 ;
         geo:lat         47.752205822026475e0 ;
         geo:lng         7.352306114121824e0 ;
@@ -236,6 +264,7 @@
 
 <ex:station_26_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "26 - GOERICH" ;
         ex:bike_stands  13 ;
         geo:lat         47.7432593602607e0 ;
         geo:lng         7.32393495955664e0 ;
@@ -244,6 +273,7 @@
 
 <ex:station_23_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "23 - HASENRAIN" ;
         ex:bike_stands  15 ;
         geo:lat         47.736019e0 ;
         geo:lng         7.332088e0 ;
@@ -252,6 +282,7 @@
 
 <ex:station_15_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "15 - GRAND REX" ;
         ex:bike_stands  15 ;
         geo:lat         47.75243313452126e0 ;
         geo:lng         7.337387363569732e0 ;
@@ -260,6 +291,7 @@
 
 <ex:station_40_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "40 - GARE DE DORNACH" ;
         ex:bike_stands  15 ;
         geo:lat         47.746490991763224e0 ;
         geo:lng         7.308432590232066e0 ;
@@ -268,6 +300,7 @@
 
 <ex:station_12_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "12 - STALINGRAD" ;
         ex:bike_stands  15 ;
         geo:lat         47.74929728207385e0 ;
         geo:lng         7.346391524337651e0 ;
@@ -276,6 +309,7 @@
 
 <ex:station_7_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "07 - MAIRIE" ;
         ex:bike_stands  15 ;
         geo:lat         47.74941110084169e0 ;
         geo:lng         7.335779025655298e0 ;
@@ -284,6 +318,7 @@
 
 <ex:station_4_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "04 - PARC SALVATOR" ;
         ex:bike_stands  12 ;
         geo:lat         47.748312192104606e0 ;
         geo:lng         7.343104706876782e0 ;
@@ -292,6 +327,7 @@
 
 <ex:station_39_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "39 - PORTE DE RIEDISHEIM" ;
         ex:bike_stands  14 ;
         geo:lat         47.746152e0 ;
         geo:lng         7.357114e0 ;
@@ -300,6 +336,7 @@
 
 <ex:station_32_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "32- CAMPUS" ;
         ex:bike_stands  30 ;
         geo:lat         47.7329045e0 ;
         geo:lng         7.3155374e0 ;
@@ -308,6 +345,7 @@
 
 <ex:station_28_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "28 - SCHUMAN LEFEB" ;
         ex:bike_stands  15 ;
         geo:lat         47.756465e0 ;
         geo:lng         7.348388e0 ;
@@ -316,6 +354,7 @@
 
 <ex:station_25_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "25 - PALAIS DES SPORTS" ;
         ex:bike_stands  11 ;
         geo:lat         47.740487e0 ;
         geo:lng         7.320169e0 ;
@@ -324,6 +363,7 @@
 
 <ex:station_22_Mulhouse>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "22 - ST SAUVEUR" ;
         ex:bike_stands  11 ;
         geo:lat         47.742397e0 ;
         geo:lng         7.331582e0 ;

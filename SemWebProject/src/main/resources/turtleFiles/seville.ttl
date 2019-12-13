@@ -12,6 +12,7 @@
 
 <ex:station_165_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "165_AVENIDA DE ANDALUCIA" ;
         ex:bike_stands  20 ;
         geo:lat         37.38764548429808e0 ;
         geo:lng         -5.96095309881845e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_148_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "148_CALLE THARSIS" ;
         ex:bike_stands  20 ;
         geo:lat         37.39876767567268e0 ;
         geo:lng         -5.973182395926595e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_5_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "005_CAMINO DE LOS DESCUBRIMIENTOS" ;
         ex:bike_stands  40 ;
         geo:lat         37.41104356266495e0 ;
         geo:lng         -6.001959256107801e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_160_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "160_PASEO CRISTOBAL COLON" ;
         ex:bike_stands  20 ;
         geo:lat         37.387178e0 ;
         geo:lng         -6.001376e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_228_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "228_AVENIDA DE LAS CIENCIAS" ;
         ex:bike_stands  15 ;
         geo:lat         37.394449523785354e0 ;
         geo:lng         -5.921230963560515e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_35_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "035_ALAMEDA DE HERCULES" ;
         ex:bike_stands  20 ;
         geo:lat         37.400682524351275e0 ;
         geo:lng         -5.993630220939186e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_18_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "018_AVENIDA EDUARDO DATO" ;
         ex:bike_stands  20 ;
         geo:lat         37.38207545943934e0 ;
         geo:lng         -5.968121120738779e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_196_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "196_CALLE ESTRELLA CANOPUS" ;
         ex:bike_stands  20 ;
         geo:lat         37.42470162875488e0 ;
         geo:lng         -5.970101152202059e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_223_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "223_CALLE GEMA" ;
         ex:bike_stands  15 ;
         geo:lat         37.40073135956411e0 ;
         geo:lng         -5.92632420198497e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_30_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "030_AVENIDA EDUARDO DATO" ;
         ex:bike_stands  20 ;
         geo:lat         37.382628460642394e0 ;
         geo:lng         -5.970853130640082e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_206_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "206_AVENIDA KANSAS CITY" ;
         ex:bike_stands  15 ;
         geo:lat         37.402963548427635e0 ;
         geo:lng         -5.958211097806437e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_13_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "013_CALLE FERIA" ;
         ex:bike_stands  15 ;
         geo:lat         37.40313353475898e0 ;
         geo:lng         -5.991918216341031e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_191_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "191_GLORIETA CARLOS CANO" ;
         ex:bike_stands  20 ;
         geo:lat         37.37411641267212e0 ;
         geo:lng         -6.008853259077473e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_259_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "259_OCHO DE MARZO" ;
         ex:bike_stands  30 ;
         geo:lat         37.36731840562508e0 ;
         geo:lng         -5.954117063090828e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_66_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "066_CALLE ARROYO" ;
         ex:bike_stands  20 ;
         geo:lat         37.39362550048881e0 ;
         geo:lng         -5.981869175620968e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_254_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "254_ALHAMBRA" ;
         ex:bike_stands  30 ;
         geo:lat         37.32942977136568e0 ;
         geo:lng         -5.968971229675001e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_61_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "061_PLAZA DEL MUSEO" ;
         ex:bike_stands  20 ;
         geo:lat         37.392813490850365e0 ;
         geo:lng         -5.999344236464369e0 ;
@@ -148,6 +165,7 @@
 
 <ex:station_125_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "125_AVENIDA SAN FRANCISCO JAVIER" ;
         ex:bike_stands  15 ;
         geo:lat         37.377406438312754e0 ;
         geo:lng         -5.974900141818838e0 ;
@@ -156,6 +174,7 @@
 
 <ex:station_178_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "178_CALLE JOSÉ SARAMAGO" ;
         ex:bike_stands  20 ;
         geo:lat         37.373304076262805e0 ;
         geo:lng         -5.97391890132113e0 ;
@@ -164,6 +183,7 @@
 
 <ex:station_120_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "120_GLORIETA SAN DIEGO" ;
         ex:bike_stands  15 ;
         geo:lat         37.37896144135567e0 ;
         geo:lng         -5.989966195594725e0 ;
@@ -172,6 +192,7 @@
 
 <ex:station_173_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "173_RONDA TAMARGUILLO" ;
         ex:bike_stands  20 ;
         geo:lat         37.370048411458974e0 ;
         geo:lng         -5.968064113583803e0 ;
@@ -180,6 +201,7 @@
 
 <ex:station_156_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "156_AVENIDA KANSAS CITY" ;
         ex:bike_stands  20 ;
         geo:lat         37.391453411096606e0 ;
         geo:lng         -5.972761755091493e0 ;
@@ -188,6 +210,7 @@
 
 <ex:station_236_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "236_CIUDAD DE CHIVA" ;
         ex:bike_stands  15 ;
         geo:lat         37.4102171143178e0 ;
         geo:lng         -5.926422374057527e0 ;
@@ -196,6 +219,7 @@
 
 <ex:station_43_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "043_RONDA CAPUCHINOS" ;
         ex:bike_stands  15 ;
         geo:lat         37.399156087435365e0 ;
         geo:lng         -5.982736630025496e0 ;
@@ -204,6 +228,7 @@
 
 <ex:station_219_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "219_CALLE DE LA A.D.A." ;
         ex:bike_stands  15 ;
         geo:lat         37.3905365010144e0 ;
         geo:lng         -5.959072093702479e0 ;
@@ -212,6 +237,7 @@
 
 <ex:station_26_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "026_AVENIDA DE MIRAFLORES" ;
         ex:bike_stands  17 ;
         geo:lat         37.40249453741322e0 ;
         geo:lng         -5.977678166024575e0 ;
@@ -220,6 +246,7 @@
 
 <ex:station_79_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "079_PLAZA DE LAS MERCEDARIAS" ;
         ex:bike_stands  10 ;
         geo:lat         37.388326477494125e0 ;
         geo:lng         -5.98690419023187e0 ;
@@ -228,6 +255,7 @@
 
 <ex:station_231_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "231_AVENIDA ALCALDE LUIS URUÑUELA" ;
         ex:bike_stands  15 ;
         geo:lat         37.401673546456635e0 ;
         geo:lng         -5.942139041014662e0 ;
@@ -236,6 +264,7 @@
 
 <ex:station_214_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "214_AVENIDA DE ANDALUCIA" ;
         ex:bike_stands  20 ;
         geo:lat         37.38714348690405e0 ;
         geo:lng         -5.948410054553437e0 ;
@@ -244,6 +273,7 @@
 
 <ex:station_21_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "021_CALLE MANUEL VILLALOBOS" ;
         ex:bike_stands  20 ;
         geo:lat         37.405473547892335e0 ;
         geo:lng         -5.981527181236149e0 ;
@@ -252,6 +282,7 @@
 
 <ex:station_74_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "074_PLAZA PILATOS" ;
         ex:bike_stands  15 ;
         geo:lat         37.38977148326459e0 ;
         geo:lng         -5.986897191039803e0 ;
@@ -260,6 +291,7 @@
 
 <ex:station_138_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "138_CALLE RAMÓN CARANDE" ;
         ex:bike_stands  20 ;
         geo:lat         37.374370424709774e0 ;
         geo:lng         -5.978934154215835e0 ;
@@ -268,6 +300,7 @@
 
 <ex:station_133_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "133_AVENIDA SANTA FE" ;
         ex:bike_stands  20 ;
         geo:lat         37.37403941410158e0 ;
         geo:lng         -6.004198242683363e0 ;
@@ -276,6 +309,7 @@
 
 <ex:station_186_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "186_CALLE ORFEBRE DOMINGUEZ VÁZQUEZ" ;
         ex:bike_stands  20 ;
         geo:lat         37.40860456343952e0 ;
         geo:lng         -5.973161153696026e0 ;
@@ -284,6 +318,7 @@
 
 <ex:station_169_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "169_AVENIDA RAMÓN Y CAJAL" ;
         ex:bike_stands  20 ;
         geo:lat         37.37650143552164e0 ;
         geo:lng         -5.972667133462907e0 ;
@@ -292,6 +327,7 @@
 
 <ex:station_181_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "181_RONDA URBANA NORTE" ;
         ex:bike_stands  20 ;
         geo:lat         37.41335157894307e0 ;
         geo:lng         -5.982568189409848e0 ;
@@ -300,6 +336,7 @@
 
 <ex:station_9_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "009_CAMINO DE LOS DESCUBRIMIENTOS" ;
         ex:bike_stands  20 ;
         geo:lat         37.40332453110276e0 ;
         geo:lng         -6.004020258912579e0 ;
@@ -308,6 +345,7 @@
 
 <ex:station_164_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "164_CALLE LUIS MONTOTO" ;
         ex:bike_stands  19 ;
         geo:lat         37.387649350924015e0 ;
         geo:lng         -5.965655252045698e0 ;
@@ -316,6 +354,7 @@
 
 <ex:station_39_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "039_PLAZA SAN ANTONIO DE PADUA" ;
         ex:bike_stands  20 ;
         geo:lat         37.397840022304365e0 ;
         geo:lng         -5.998504686877961e0 ;
@@ -324,6 +363,7 @@
 
 <ex:station_244_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "244_AVENIDA LOS GAVILANES" ;
         ex:bike_stands  15 ;
         geo:lat         37.3780400290467e0 ;
         geo:lng         -5.95178368562984e0 ;
@@ -332,6 +372,7 @@
 
 <ex:station_4_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "004_CALLE LEONARDO DA VINCI" ;
         ex:bike_stands  40 ;
         geo:lat         37.41011155757378e0 ;
         geo:lng         -6.005722268777397e0 ;
@@ -340,6 +381,7 @@
 
 <ex:station_51_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "051_AVENIDA TORNEO" ;
         ex:bike_stands  20 ;
         geo:lat         37.395519500564795e0 ;
         geo:lng         -6.002321248467498e0 ;
@@ -348,6 +390,7 @@
 
 <ex:station_227_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "227_AVENIDA ALCALDE LUIS URUÑUELA" ;
         ex:bike_stands  12 ;
         geo:lat         37.39075351415996e0 ;
         geo:lng         -5.91963595581283e0 ;
@@ -356,6 +399,7 @@
 
 <ex:station_34_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "034_PLAZA PUMAREJO" ;
         ex:bike_stands  15 ;
         geo:lat         37.40102752757453e0 ;
         geo:lng         -5.988578203413862e0 ;
@@ -364,6 +408,7 @@
 
 <ex:station_87_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "087_PLAZA NUEVA" ;
         ex:bike_stands  40 ;
         geo:lat         37.38896647697466e0 ;
         geo:lng         -5.995294220038549e0 ;
@@ -372,6 +417,7 @@
 
 <ex:station_222_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "222_AVENIDA ALCALDE LUIS URUÑUELA" ;
         ex:bike_stands  16 ;
         geo:lat         37.40508356497133e0 ;
         geo:lng         -5.933616012901859e0 ;
@@ -380,6 +426,7 @@
 
 <ex:station_82_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "082_CALLE LUIS MONTOTO" ;
         ex:bike_stands  17 ;
         geo:lat         37.387098477016366e0 ;
         geo:lng         -5.974843147214583e0 ;
@@ -388,6 +435,7 @@
 
 <ex:station_146_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "146_AVENIDA REINA MERCEDES" ;
         ex:bike_stands  20 ;
         geo:lat         37.360100626411395e0 ;
         geo:lng         -5.986312974875395e0 ;
@@ -396,6 +444,7 @@
 
 <ex:station_129_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "129_CALLE VIRGEN DE LUJAN" ;
         ex:bike_stands  20 ;
         geo:lat         37.374668417254036e0 ;
         geo:lng         -6.002455236928109e0 ;
@@ -404,6 +453,7 @@
 
 <ex:station_141_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "141_CALLE FELIPE II" ;
         ex:bike_stands  20 ;
         geo:lat         37.37173344957564e0 ;
         geo:lng         -5.981895354240737e0 ;
@@ -412,6 +462,7 @@
 
 <ex:station_209_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "209_AVENIDA ALEMANIA" ;
         ex:bike_stands  15 ;
         geo:lat         37.34531731164308e0 ;
         geo:lng         -5.982656150368391e0 ;
@@ -420,6 +471,7 @@
 
 <ex:station_124_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "124_CALLE ENRAMADILLA" ;
         ex:bike_stands  20 ;
         geo:lat         37.3777304387441e0 ;
         geo:lng         -5.97724415022871e0 ;
@@ -428,6 +480,7 @@
 
 <ex:station_194_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "194_CALLE PARQUE DE DOÑANA" ;
         ex:bike_stands  20 ;
         geo:lat         37.418732603824466e0 ;
         geo:lng         -5.97319415962488e0 ;
@@ -436,6 +489,7 @@
 
 <ex:station_177_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "177_AVENIDA ALCALDE JUAN FERNÁNDEZ" ;
         ex:bike_stands  17 ;
         geo:lat         37.373068423133994e0 ;
         geo:lng         -5.9690941189446e0 ;
@@ -444,6 +498,7 @@
 
 <ex:station_204_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "204_CALLE DOCTOR LAFFON" ;
         ex:bike_stands  15 ;
         geo:lat         37.39768969188425e0 ;
         geo:lng         -5.96160136486722e0 ;
@@ -452,6 +507,7 @@
 
 <ex:station_11_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "011_ALBERTO JIMÉNEZ BECERRIL" ;
         ex:bike_stands  20 ;
         geo:lat         37.4071428838914e0 ;
         geo:lng         -5.99259029973418e0 ;
@@ -460,6 +516,7 @@
 
 <ex:station_172_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "172_RONDA TAMARGUILLO" ;
         ex:bike_stands  20 ;
         geo:lat         37.367172398818624e0 ;
         geo:lng         -5.971211122957581e0 ;
@@ -468,6 +525,7 @@
 
 <ex:station_47_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "047_CALLE HINIESTA" ;
         ex:bike_stands  15 ;
         geo:lat         37.39713251259333e0 ;
         geo:lng         -5.987037195768433e0 ;
@@ -476,6 +534,7 @@
 
 <ex:station_252_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "252_GASPAR CALDERAS" ;
         ex:bike_stands  25 ;
         geo:lat         37.32458203503861e0 ;
         geo:lng         -5.968972128124462e0 ;
@@ -484,6 +543,7 @@
 
 <ex:station_235_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "235_CIUDAD DE CHIVA" ;
         ex:bike_stands  15 ;
         geo:lat         37.411735810991e0 ;
         geo:lng         -5.929859071297002e0 ;
@@ -492,6 +552,7 @@
 
 <ex:station_42_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "042_PLAZA CRONISTA" ;
         ex:bike_stands  15 ;
         geo:lat         37.3987059174522e0 ;
         geo:lng         -5.989460016816095e0 ;
@@ -500,6 +561,7 @@
 
 <ex:station_106_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "106_AVENIDA EDUARDO DATO" ;
         ex:bike_stands  15 ;
         geo:lat         37.383797462883464e0 ;
         geo:lng         -5.977454154468565e0 ;
@@ -508,6 +570,7 @@
 
 <ex:station_95_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "095_CALLE AMÉRICO VESPUCIO" ;
         ex:bike_stands  20 ;
         geo:lat         37.41217356557977e0 ;
         geo:lng         -6.006338272120392e0 ;
@@ -516,6 +579,7 @@
 
 <ex:station_159_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "159_AVENIDA CARDENAL BUENO MONREAL" ;
         ex:bike_stands  20 ;
         geo:lat         37.36804539727759e0 ;
         geo:lng         -5.984854171329494e0 ;
@@ -524,6 +588,7 @@
 
 <ex:station_230_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "230_AVENIDA DE LAS CIENCIAS" ;
         ex:bike_stands  14 ;
         geo:lat         37.403927559446025e0 ;
         geo:lng         -5.928139993197263e0 ;
@@ -532,6 +597,7 @@
 
 <ex:station_101_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "101_PRADO DE SAN SEBASTIAN" ;
         ex:bike_stands  40 ;
         geo:lat         37.38111568185353e0 ;
         geo:lng         -5.986949751279455e0 ;
@@ -540,6 +606,7 @@
 
 <ex:station_90_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "090_CALLE ROMA" ;
         ex:bike_stands  20 ;
         geo:lat         37.381198446608074e0 ;
         geo:lng         -5.993528209364882e0 ;
@@ -548,6 +615,7 @@
 
 <ex:station_154_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "154_AVENIDA KANSAS CITY" ;
         ex:bike_stands  20 ;
         geo:lat         37.394836510246314e0 ;
         geo:lng         -5.96842612917054e0 ;
@@ -556,6 +624,7 @@
 
 <ex:station_137_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "137_AVENIDA DE LA BORBOLLA" ;
         ex:bike_stands  20 ;
         geo:lat         37.37375841984501e0 ;
         geo:lng         -5.985517176959137e0 ;
@@ -564,6 +633,7 @@
 
 <ex:station_217_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "217_CALLE DE LA A.D.A." ;
         ex:bike_stands  15 ;
         geo:lat         37.393874505420214e0 ;
         geo:lng         -5.962371106824864e0 ;
@@ -572,6 +642,7 @@
 
 <ex:station_132_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "132_CALLE PAEZ DE RIVERA" ;
         ex:bike_stands  20 ;
         geo:lat         37.36361937962884e0 ;
         geo:lng         -5.984785168525709e0 ;
@@ -580,6 +651,7 @@
 
 <ex:station_185_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "185_AVENIDA ALCALDE MANUEL DEL VALLE" ;
         ex:bike_stands  20 ;
         geo:lat         37.40509431569403e0 ;
         geo:lng         -5.968862135165761e0 ;
@@ -588,6 +660,7 @@
 
 <ex:station_212_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "212_AVENIDA REINIDO UNIDO" ;
         ex:bike_stands  15 ;
         geo:lat         37.351582337691354e0 ;
         geo:lng         -5.977784137525409e0 ;
@@ -596,6 +669,7 @@
 
 <ex:station_180_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "180_CALLE DOCTOR JAIME MARCOS" ;
         ex:bike_stands  20 ;
         geo:lat         37.40964956350476e0 ;
         geo:lng         -5.98440119371439e0 ;
@@ -604,6 +678,7 @@
 
 <ex:station_248_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "248_GLORIETA DE LOS FERROVIARIOS" ;
         ex:bike_stands  15 ;
         geo:lat         37.421903023693936e0 ;
         geo:lng         -5.983004288085699e0 ;
@@ -612,6 +687,7 @@
 
 <ex:station_55_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "055_CALLE DE MARIA AUXILIADORA" ;
         ex:bike_stands  15 ;
         geo:lat         37.393318498568895e0 ;
         geo:lng         -5.983766182098622e0 ;
@@ -620,6 +696,7 @@
 
 <ex:station_119_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "119_AVENIDA DE CHILE" ;
         ex:bike_stands  20 ;
         geo:lat         37.37740443203299e0 ;
         geo:lng         -5.991965201690994e0 ;
@@ -628,6 +705,7 @@
 
 <ex:station_260_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "260_REVOLTOSA" ;
         ex:bike_stands  20 ;
         geo:lat         37.377023215492e0 ;
         geo:lng         -5.9470354861559e0 ;
@@ -636,6 +714,7 @@
 
 <ex:station_243_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "243_GLORIETA DEL PRIMERO DE MAYO" ;
         ex:bike_stands  15 ;
         geo:lat         37.380439481169994e0 ;
         geo:lng         -5.953481197462845e0 ;
@@ -644,6 +723,7 @@
 
 <ex:station_50_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "050_CALLE DE HERNÁN CORTÉS" ;
         ex:bike_stands  17 ;
         geo:lat         37.397554510745486e0 ;
         geo:lng         -5.996695229895344e0 ;
@@ -652,6 +732,7 @@
 
 <ex:station_114_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "114_GLORIETA PLUS ULTRA" ;
         ex:bike_stands  30 ;
         geo:lat         37.356372352725714e0 ;
         geo:lng         -5.979262144945245e0 ;
@@ -660,6 +741,7 @@
 
 <ex:station_167_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "167_GLORIETA BIZCO AMATE" ;
         ex:bike_stands  20 ;
         geo:lat         37.37334966832237e0 ;
         geo:lng         -5.964933613203329e0 ;
@@ -668,6 +750,7 @@
 
 <ex:station_7_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "007_CALLE AMÉRICO VESPUCIO" ;
         ex:bike_stands  20 ;
         geo:lat         37.4074694906696e0 ;
         geo:lng         -6.007603350403363e0 ;
@@ -676,6 +759,7 @@
 
 <ex:station_145_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "145_AVENIDA REINA MERCEDES" ;
         ex:bike_stands  20 ;
         geo:lat         37.360233228861155e0 ;
         geo:lng         -5.986318234050904e0 ;
@@ -684,6 +768,7 @@
 
 <ex:station_198_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "198_CALLE MAR DE ALBORÁN" ;
         ex:bike_stands  20 ;
         geo:lat         37.42044661256891e0 ;
         geo:lng         -5.967956142243533e0 ;
@@ -692,6 +777,7 @@
 
 <ex:station_2_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "002_GRAN PLAZA" ;
         ex:bike_stands  18 ;
         geo:lat         37.381578045327934e0 ;
         geo:lng         -5.96522396639778e0 ;
@@ -700,6 +786,7 @@
 
 <ex:station_225_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "225_CALLE FLOR DE RETAMA" ;
         ex:bike_stands  15 ;
         geo:lat         37.397390540237105e0 ;
         geo:lng         -5.918776956284244e0 ;
@@ -708,6 +795,7 @@
 
 <ex:station_140_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "140 NUESTRA SEÑORA DE LAS MERCEDES" ;
         ex:bike_stands  16 ;
         geo:lat         37.3723704173039e0 ;
         geo:lng         -5.97736214754443e0 ;
@@ -716,6 +804,7 @@
 
 <ex:station_208_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "208_AVENIDA DE GRECIA" ;
         ex:bike_stands  15 ;
         geo:lat         37.35065632807553e0 ;
         geo:lng         -5.984190158922543e0 ;
@@ -724,6 +813,7 @@
 
 <ex:station_15_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "015_CALLE DR MARAÑON" ;
         ex:bike_stands  15 ;
         geo:lat         37.40604157176221e0 ;
         geo:lng         -5.985733700014785e0 ;
@@ -732,6 +822,7 @@
 
 <ex:station_193_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "193_AVENIDA DE CORIA" ;
         ex:bike_stands  20 ;
         geo:lat         37.38111143948424e0 ;
         geo:lng         -6.012005274166835e0 ;
@@ -740,6 +831,7 @@
 
 <ex:station_68_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "068_CALLE JUAN ANTONIO CABESTANY" ;
         ex:bike_stands  15 ;
         geo:lat         37.39029248788509e0 ;
         geo:lng         -5.979964167018684e0 ;
@@ -748,6 +840,7 @@
 
 <ex:station_220_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "220_AVENIDA ALCALDE LUIS URUÑUELA" ;
         ex:bike_stands  30 ;
         geo:lat         37.40518956185269e0 ;
         geo:lng         -5.935780020616404e0 ;
@@ -756,6 +849,7 @@
 
 <ex:station_203_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "203_CALLE TESALÓNICA" ;
         ex:bike_stands  20 ;
         geo:lat         37.396093518802566e0 ;
         geo:lng         -5.958764096016824e0 ;
@@ -764,6 +858,7 @@
 
 <ex:station_10_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "010_CALLE JOSE DIAZ" ;
         ex:bike_stands  20 ;
         geo:lat         37.40938502560925e0 ;
         geo:lng         -5.990766008714238e0 ;
@@ -772,6 +867,7 @@
 
 <ex:station_256_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "256_MIGUEL MONTORO" ;
         ex:bike_stands  29 ;
         geo:lat         37.386100496778624e0 ;
         geo:lng         -5.910090919676698e0 ;
@@ -780,6 +876,7 @@
 
 <ex:station_63_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "063_CALLE SAN PABLO" ;
         ex:bike_stands  20 ;
         geo:lat         37.390456481894525e0 ;
         geo:lng         -5.998103230753266e0 ;
@@ -788,6 +885,7 @@
 
 <ex:station_127_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "127_CALLE VIRGEN DE LA VICTORIA" ;
         ex:bike_stands  15 ;
         geo:lat         37.37764043077863e0 ;
         geo:lng         -5.997947222820481e0 ;
@@ -796,6 +894,7 @@
 
 <ex:station_99_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "099_CALLE AMÉRICO VESPUCIO" ;
         ex:bike_stands  40 ;
         geo:lat         37.397394505010546e0 ;
         geo:lng         -6.010641278744458e0 ;
@@ -804,6 +903,7 @@
 
 <ex:station_251_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "251_AVDA. CRUZ CAMPO" ;
         ex:bike_stands  15 ;
         geo:lat         37.384349424571234e0 ;
         geo:lng         -5.965378365247481e0 ;
@@ -812,6 +912,7 @@
 
 <ex:station_122_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "122_CALLE ENRAMADILLA" ;
         ex:bike_stands  20 ;
         geo:lat         37.37848444133301e0 ;
         geo:lng         -5.978389154681133e0 ;
@@ -820,6 +921,7 @@
 
 <ex:station_105_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "105_CALLE FRANCISCO MURILLO" ;
         ex:bike_stands  19 ;
         geo:lat         37.358910362359936e0 ;
         geo:lng         -5.980620151182153e0 ;
@@ -828,6 +930,7 @@
 
 <ex:station_175_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "175_RONDA TAMARGUILLO" ;
         ex:bike_stands  20 ;
         geo:lat         37.37775744487495e0 ;
         geo:lng         -5.960870092813821e0 ;
@@ -836,6 +939,7 @@
 
 <ex:station_158_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "158_AVENIDA CARDENAL BUENO MONREAL" ;
         ex:bike_stands  20 ;
         geo:lat         37.3688534016955e0 ;
         geo:lng         -5.981618160442233e0 ;
@@ -844,6 +948,7 @@
 
 <ex:station_170_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "170_PLAZA ANTONIO APARICIO HERRERO" ;
         ex:bike_stands  18 ;
         geo:lat         37.37896644673701e0 ;
         geo:lng         -5.968923121755333e0 ;
@@ -852,6 +957,7 @@
 
 <ex:station_153_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "153_AVENIDA REINA MERCEDES" ;
         ex:bike_stands  27 ;
         geo:lat         37.36297137649665e0 ;
         geo:lng         -5.986262173333679e0 ;
@@ -860,6 +966,7 @@
 
 <ex:station_28_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "028_CALLE RAFAEL SALGADO" ;
         ex:bike_stands  18 ;
         geo:lat         37.360261369216595e0 ;
         geo:lng         -5.976659138066708e0 ;
@@ -868,6 +975,7 @@
 
 <ex:station_216_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "216_CALLE ANTIOQUIA" ;
         ex:bike_stands  15 ;
         geo:lat         37.39993753083735e0 ;
         geo:lng         -5.95628508908707e0 ;
@@ -876,6 +984,7 @@
 
 <ex:station_23_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "023_PARLAMENTO" ;
         ex:bike_stands  15 ;
         geo:lat         37.403337536978945e0 ;
         geo:lng         -5.98787920228648e0 ;
@@ -884,6 +993,7 @@
 
 <ex:station_76_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "076_PLAZA NUEVA" ;
         ex:bike_stands  30 ;
         geo:lat         37.3889394767379e0 ;
         geo:lng         -5.99564622125814e0 ;
@@ -892,6 +1002,7 @@
 
 <ex:station_211_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "211_AVENIDA DE ALEMANIA" ;
         ex:bike_stands  15 ;
         geo:lat         37.34620231070945e0 ;
         geo:lng         -5.976200128537064e0 ;
@@ -900,6 +1011,7 @@
 
 <ex:station_71_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "071_AVENIDA KANSAS CITY" ;
         ex:bike_stands  18 ;
         geo:lat         37.39003048884624e0 ;
         geo:lng         -5.974491147670695e0 ;
@@ -908,6 +1020,7 @@
 
 <ex:station_135_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "135_CALLE VIRGEN DE LUJÁN" ;
         ex:bike_stands  17 ;
         geo:lat         37.37465142036539e0 ;
         geo:lng         -5.993801206544696e0 ;
@@ -916,6 +1029,7 @@
 
 <ex:station_118_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "118_PLAZA DE CUBA" ;
         ex:bike_stands  20 ;
         geo:lat         37.379791416292186e0 ;
         geo:lng         -5.997107796424417e0 ;
@@ -924,6 +1038,7 @@
 
 <ex:station_130_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "130_GLORIETA REPUBLICA DOMINICANA" ;
         ex:bike_stands  20 ;
         geo:lat         37.37574541795484e0 ;
         geo:lng         -6.005247727302032e0 ;
@@ -932,6 +1047,7 @@
 
 <ex:station_113_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "113_PLAZA SAN MARTÍN DE PORRES" ;
         ex:bike_stands  15 ;
         geo:lat         37.380778439190046e0 ;
         geo:lng         -6.009179264054355e0 ;
@@ -940,6 +1056,7 @@
 
 <ex:station_166_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "166_RONDA DEL TAMARGUILLO" ;
         ex:bike_stands  13 ;
         geo:lat         37.38859048869724e0 ;
         geo:lng         -5.959240093357595e0 ;
@@ -948,6 +1065,7 @@
 
 <ex:station_6_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "006_CAMINO DE LOS DESCUBRIMIENTOS" ;
         ex:bike_stands  20 ;
         geo:lat         37.40661378981103e0 ;
         geo:lng         -6.002977947581603e0 ;
@@ -956,6 +1074,7 @@
 
 <ex:station_161_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "161_AVENIDA ALCALDE MANUEL DEL VALLE" ;
         ex:bike_stands  20 ;
         geo:lat         37.40000053060032e0 ;
         geo:lng         -5.969103134518509e0 ;
@@ -964,6 +1083,7 @@
 
 <ex:station_229_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "229_AVENIDA AERONAUTICA" ;
         ex:bike_stands  15 ;
         geo:lat         37.38735449491008e0 ;
         geo:lng         -5.919918954593122e0 ;
@@ -972,6 +1092,7 @@
 
 <ex:station_36_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "036_CALLE SAN VICENTE" ;
         ex:bike_stands  20 ;
         geo:lat         37.40050052188098e0 ;
         geo:lng         -5.998403237581298e0 ;
@@ -980,6 +1101,7 @@
 
 <ex:station_89_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "089_CALLE ADRIANO" ;
         ex:bike_stands  18 ;
         geo:lat         37.38648146613877e0 ;
         geo:lng         -5.997790227366178e0 ;
@@ -988,6 +1110,7 @@
 
 <ex:station_1_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "001_GLORIETA OLIMPICA" ;
         ex:bike_stands  20 ;
         geo:lat         37.4129235511391e0 ;
         geo:lng         -5.98890593824315e0 ;
@@ -996,6 +1119,7 @@
 
 <ex:station_224_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "224_AVENIDA DE LAS CIENCIAS" ;
         ex:bike_stands  15 ;
         geo:lat         37.397013539467245e0 ;
         geo:lng         -5.923756974136509e0 ;
@@ -1004,6 +1128,7 @@
 
 <ex:station_31_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "031_AVENIDA DE MIRAFLORES" ;
         ex:bike_stands  13 ;
         geo:lat         37.40054152885159e0 ;
         geo:lng         -5.979781172277264e0 ;
@@ -1012,6 +1137,7 @@
 
 <ex:station_84_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "084_CALLE JOSÉ MARÍA MORENO GALVÁN" ;
         ex:bike_stands  20 ;
         geo:lat         37.387350475004816e0 ;
         geo:lng         -5.983068176211725e0 ;
@@ -1020,6 +1146,7 @@
 
 <ex:station_143_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "143_CALLE RAMON DE CARRANZA" ;
         ex:bike_stands  18 ;
         geo:lat         37.37172440518047e0 ;
         geo:lng         -6.00331223823691e0 ;
@@ -1028,6 +1155,7 @@
 
 <ex:station_126_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "126_AVENIDA REINA MERCEDES" ;
         ex:bike_stands  25 ;
         geo:lat         37.358164858839395e0 ;
         geo:lng         -5.986482708713183e0 ;
@@ -1036,6 +1164,7 @@
 
 <ex:station_179_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "179_RONDA URBANA NORTE" ;
         ex:bike_stands  20 ;
         geo:lat         37.413163177395056e0 ;
         geo:lng         -5.985131221637643e0 ;
@@ -1044,6 +1173,7 @@
 
 <ex:station_121_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "121_CALLE DOCTOR PEDRO DE CASTRO" ;
         ex:bike_stands  15 ;
         geo:lat         37.377158434736266e0 ;
         geo:lng         -5.981935166355452e0 ;
@@ -1052,6 +1182,7 @@
 
 <ex:station_174_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "174_RONDA TAMARGUILLO" ;
         ex:bike_stands  20 ;
         geo:lat         37.38061245637617e0 ;
         geo:lng         -5.960574093426685e0 ;
@@ -1060,6 +1191,7 @@
 
 <ex:station_49_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "049_ALAMEDA DE HERCULES" ;
         ex:bike_stands  20 ;
         geo:lat         37.39686550900737e0 ;
         geo:lng         -5.99392721978722e0 ;
@@ -1068,6 +1200,7 @@
 
 <ex:station_201_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "201_CALLE PINO MONTANO" ;
         ex:bike_stands  20 ;
         geo:lat         37.41568359361039e0 ;
         geo:lng         -5.967858139167567e0 ;
@@ -1076,6 +1209,7 @@
 
 <ex:station_237_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "237_CIUDAD DE CHIVA" ;
         ex:bike_stands  15 ;
         geo:lat         37.409334585727706e0 ;
         geo:lng         -5.923254979770833e0 ;
@@ -1084,6 +1218,7 @@
 
 <ex:station_44_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "044_RONDA CAPUCHINOS" ;
         ex:bike_stands  15 ;
         geo:lat         37.39833897229492e0 ;
         geo:lng         -5.981640026763738e0 ;
@@ -1092,6 +1227,7 @@
 
 <ex:station_108_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "108_AVENIDA EDUARDO DATO" ;
         ex:bike_stands  15 ;
         geo:lat         37.382852503457265e0 ;
         geo:lng         -5.973249491935667e0 ;
@@ -1100,6 +1236,7 @@
 
 <ex:station_97_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "097_PASEO DE CRISTÓBAL COLÓN" ;
         ex:bike_stands  20 ;
         geo:lat         37.381535447210965e0 ;
         geo:lng         -5.995552216661944e0 ;
@@ -1108,6 +1245,7 @@
 
 <ex:station_232_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "232_AVENIDA ALCALDE LUIS URUÑUELA" ;
         ex:bike_stands  15 ;
         geo:lat         37.40393955876748e0 ;
         geo:lng         -5.939739033438785e0 ;
@@ -1116,6 +1254,7 @@
 
 <ex:station_103_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "103_AVENIDA EDUARDO DATO" ;
         ex:bike_stands  20 ;
         geo:lat         37.384432463478554e0 ;
         geo:lng         -5.982738173371375e0 ;
@@ -1124,6 +1263,7 @@
 
 <ex:station_92_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "092_RONDA DE TRIANA" ;
         ex:bike_stands  20 ;
         geo:lat         37.385838469752265e0 ;
         geo:lng         -6.011220377621846e0 ;
@@ -1132,6 +1272,7 @@
 
 <ex:station_75_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "075_PLAZA SAN FRANCISCO" ;
         ex:bike_stands  20 ;
         geo:lat         37.387997377700096e0 ;
         geo:lng         -5.993587446638155e0 ;
@@ -1140,6 +1281,7 @@
 
 <ex:station_139_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "139_AVENIDA DIEGO MARTINEZ BARRIO" ;
         ex:bike_stands  15 ;
         geo:lat         37.375075258863696e0 ;
         geo:lng         -5.975863125578401e0 ;
@@ -1148,6 +1290,7 @@
 
 <ex:station_151_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "151_CALLE URQUIZA" ;
         ex:bike_stands  20 ;
         geo:lat         37.394544466945845e0 ;
         geo:lng         -5.979897194354694e0 ;
@@ -1156,6 +1299,7 @@
 
 <ex:station_134_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "134_CALLE VIRGEN DE LUJÁN" ;
         ex:bike_stands  24 ;
         geo:lat         37.374770419100905e0 ;
         geo:lng         -5.998536223231469e0 ;
@@ -1164,6 +1308,7 @@
 
 <ex:station_187_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "187_CALLE DOCTOR LAFFON" ;
         ex:bike_stands  20 ;
         geo:lat         37.39540051410288e0 ;
         geo:lng         -5.964043114126317e0 ;
@@ -1172,6 +1317,7 @@
 
 <ex:station_182_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "182_CALLE VICTORIA KENT" ;
         ex:bike_stands  15 ;
         geo:lat         37.41459658707776e0 ;
         geo:lng         -5.973881159661203e0 ;
@@ -1180,6 +1326,7 @@
 
 <ex:station_57_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "057_PLAZA CRISTO DE BURGOS" ;
         ex:bike_stands  15 ;
         geo:lat         37.39231861674279e0 ;
         geo:lng         -5.989705187094715e0 ;
@@ -1188,6 +1335,7 @@
 
 <ex:station_245_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "245_CALLE LAS LEANDRAS" ;
         ex:bike_stands  15 ;
         geo:lat         37.37539881124939e0 ;
         geo:lng         -5.952549466245021e0 ;
@@ -1196,6 +1344,7 @@
 
 <ex:station_52_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "052_CALLE DEL INCA GARCILASO" ;
         ex:bike_stands  37 ;
         geo:lat         37.39422649248208e0 ;
         geo:lng         -6.010309275759171e0 ;
@@ -1204,6 +1353,7 @@
 
 <ex:station_116_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "116_CALLE MANUEL SIUROT" ;
         ex:bike_stands  20 ;
         geo:lat         37.36143037206055e0 ;
         geo:lng         -5.981603156091943e0 ;
@@ -1212,6 +1362,7 @@
 
 <ex:station_88_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "088_CALLE AMERICO VESPUCIO" ;
         ex:bike_stands  20 ;
         geo:lat         37.40934127713802e0 ;
         geo:lng         -6.006338859390215e0 ;
@@ -1220,6 +1371,7 @@
 
 <ex:station_240_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "240_AVENIDA ALCALDE LUIS URUÑUELA" ;
         ex:bike_stands  15 ;
         geo:lat         37.402579544488994e0 ;
         geo:lng         -5.940435585086025e0 ;
@@ -1228,6 +1380,7 @@
 
 <ex:station_111_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "111_PZA FARMACÉUTICO MURILLO HERRERA" ;
         ex:bike_stands  20 ;
         geo:lat         37.3813174443225e0 ;
         geo:lng         -6.001053235842167e0 ;
@@ -1236,6 +1389,7 @@
 
 <ex:station_83_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "083_AVENIDA LA BUHAIRA" ;
         ex:bike_stands  20 ;
         geo:lat         37.386955475268515e0 ;
         geo:lng         -5.978051158384551e0 ;
@@ -1244,6 +1398,7 @@
 
 <ex:station_147_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "147_CARRETERA DE CARMONA" ;
         ex:bike_stands  15 ;
         geo:lat         37.40079553153059e0 ;
         geo:lng         -5.975228156455095e0 ;
@@ -1252,6 +1407,7 @@
 
 <ex:station_142_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "142_CALLE RAMON DE CARRANZA" ;
         ex:bike_stands  18 ;
         geo:lat         37.371651407131054e0 ;
         geo:lng         -5.997212216783402e0 ;
@@ -1260,6 +1416,7 @@
 
 <ex:station_17_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "017_CALLE DE MADRESELVA" ;
         ex:bike_stands  20 ;
         geo:lat         37.40715155556869e0 ;
         geo:lng         -5.978840172776446e0 ;
@@ -1268,6 +1425,7 @@
 
 <ex:station_195_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "195_CALLE CORRAL DEL AGUA" ;
         ex:bike_stands  20 ;
         geo:lat         37.42171561628419e0 ;
         geo:lng         -5.971648155914519e0 ;
@@ -1276,6 +1434,7 @@
 
 <ex:station_205_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "205_AVENIDA KANSAS CITY" ;
         ex:bike_stands  20 ;
         geo:lat         37.39981714629299e0 ;
         geo:lng         -5.961922341869038e0 ;
@@ -1284,6 +1443,7 @@
 
 <ex:station_12_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "012_PLAZA DUQUESA DE ALBA" ;
         ex:bike_stands  30 ;
         geo:lat         37.403869536605576e0 ;
         geo:lng         -5.994904227249628e0 ;
@@ -1292,6 +1452,7 @@
 
 <ex:station_190_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "190_AVENIDA HYTASA" ;
         ex:bike_stands  15 ;
         geo:lat         37.36873540997663e0 ;
         geo:lng         -5.957293074803896e0 ;
@@ -1300,6 +1461,7 @@
 
 <ex:station_258_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "258_ESTACA DE VARES" ;
         ex:bike_stands  17 ;
         geo:lat         37.38369648551305e0 ;
         geo:lng         -5.914819934855601e0 ;
@@ -1308,6 +1470,7 @@
 
 <ex:station_65_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "065_CALLE ALHÓNDIGA" ;
         ex:bike_stands  14 ;
         geo:lat         37.391299488908295e0 ;
         geo:lng         -5.988140196280803e0 ;
@@ -1316,6 +1479,7 @@
 
 <ex:station_48_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "048_CALLE CHURRUCA" ;
         ex:bike_stands  15 ;
         geo:lat         37.39715651121527e0 ;
         geo:lng         -5.991066209916829e0 ;
@@ -1324,6 +1488,7 @@
 
 <ex:station_200_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "200_CAMINO DE LOS TOROS" ;
         ex:bike_stands  20 ;
         geo:lat         37.41891360818369e0 ;
         geo:lng         -5.963217124751443e0 ;
@@ -1332,6 +1497,7 @@
 
 <ex:station_253_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "253_HOSPITAL VALME" ;
         ex:bike_stands  30 ;
         geo:lat         37.320417860390016e0 ;
         geo:lng         -5.96902252657327e0 ;
@@ -1340,6 +1506,7 @@
 
 <ex:station_60_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "060_PLAZA DE LA CONCORDIA" ;
         ex:bike_stands  19 ;
         geo:lat         37.39395749631202e0 ;
         geo:lng         -5.996899228542791e0 ;
@@ -1348,6 +1515,7 @@
 
 <ex:station_96_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "096_CALLE BETIS" ;
         ex:bike_stands  19 ;
         geo:lat         37.3835407311529e0 ;
         geo:lng         -5.999910722822249e0 ;
@@ -1356,6 +1524,7 @@
 
 <ex:station_102_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "102_CALLE JUAN DE MATA CARRIAZO" ;
         ex:bike_stands  20 ;
         geo:lat         37.38273945636004e0 ;
         geo:lng         -5.983720175839885e0 ;
@@ -1364,6 +1533,7 @@
 
 <ex:station_91_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "091_CALLE PROCURADOR" ;
         ex:bike_stands  20 ;
         geo:lat         37.38690746421921e0 ;
         geo:lng         -6.007674262301094e0 ;
@@ -1372,6 +1542,7 @@
 
 <ex:station_155_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "155_AVENIDA KANSAS CITY" ;
         ex:bike_stands  20 ;
         geo:lat         37.392910501713985e0 ;
         geo:lng         -5.970739136171973e0 ;
@@ -1380,6 +1551,7 @@
 
 <ex:station_150_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "150_CALLE SAN JUAN BOSCO" ;
         ex:bike_stands  20 ;
         geo:lat         37.39674851413617e0 ;
         geo:lng         -5.978634166071806e0 ;
@@ -1388,6 +1560,7 @@
 
 <ex:station_218_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "218_PLAZA DEL ALTOZANO" ;
         ex:bike_stands  14 ;
         geo:lat         37.38512441847878e0 ;
         geo:lng         -6.003542147441712e0 ;
@@ -1396,6 +1569,7 @@
 
 <ex:station_25_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "025_AVENIDA DE LA CRUZ ROJA" ;
         ex:bike_stands  20 ;
         geo:lat         37.40313253870445e0 ;
         geo:lng         -5.981109178424791e0 ;
@@ -1404,6 +1578,7 @@
 
 <ex:station_78_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "078_CALLE ALFARERIA" ;
         ex:bike_stands  20 ;
         geo:lat         37.38857113316299e0 ;
         geo:lng         -6.010282378350756e0 ;
@@ -1412,6 +1587,7 @@
 
 <ex:station_213_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "213_AVENIDA DE ANDALUCIA" ;
         ex:bike_stands  20 ;
         geo:lat         37.38714348690405e0 ;
         geo:lng         -5.948410054553437e0 ;
@@ -1420,6 +1596,7 @@
 
 <ex:station_20_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "020_CALLE SAN JUAN DE RIBERA" ;
         ex:bike_stands  15 ;
         geo:lat         37.404869543652175e0 ;
         geo:lng         -5.986537198461927e0 ;
@@ -1428,6 +1605,7 @@
 
 <ex:station_73_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "073_PLAZA SAN AGUSTIN" ;
         ex:bike_stands  15 ;
         geo:lat         37.38951386231434e0 ;
         geo:lng         -5.984362789545622e0 ;
@@ -1436,6 +1614,7 @@
 
 <ex:station_249_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "249_CALLE NAVARRA" ;
         ex:bike_stands  15 ;
         geo:lat         37.42475843174024e0 ;
         geo:lng         -5.984823673360926e0 ;
@@ -1444,6 +1623,7 @@
 
 <ex:station_56_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "056_PLAZA JERÓNIMO DE CORDOBA" ;
         ex:bike_stands  20 ;
         geo:lat         37.39308649644441e0 ;
         geo:lng         -5.98703819345455e0 ;
@@ -1452,6 +1632,7 @@
 
 <ex:station_115_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "115_CALLE LOPEZ DE GOMARA" ;
         ex:bike_stands  20 ;
         geo:lat         37.377892428375446e0 ;
         geo:lng         -6.007237255573729e0 ;
@@ -1460,6 +1641,7 @@
 
 <ex:station_168_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "168_AVENIDA RAMÓN Y CAJAL" ;
         ex:bike_stands  18 ;
         geo:lat         37.37505743166244e0 ;
         geo:lng         -5.967492114476132e0 ;
@@ -1468,6 +1650,7 @@
 
 <ex:station_110_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "110_CIUDAD DE RONDA" ;
         ex:bike_stands  20 ;
         geo:lat         37.37972144428237e0 ;
         geo:lng         -5.983801174387398e0 ;
@@ -1476,6 +1659,7 @@
 
 <ex:station_8_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "008_CALLE AMERICO VESPUCIO" ;
         ex:bike_stands  20 ;
         geo:lat         37.4009693828541e0 ;
         geo:lng         -6.00938173537619e0 ;
@@ -1484,6 +1668,7 @@
 
 <ex:station_163_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "163_CALLE SINAÍ" ;
         ex:bike_stands  14 ;
         geo:lat         37.38995448989595e0 ;
         geo:lng         -5.970802134688754e0 ;
@@ -1492,6 +1677,7 @@
 
 <ex:station_38_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "038_CALLE DE INCA GARCILASO" ;
         ex:bike_stands  40 ;
         geo:lat         37.3920814836453e0 ;
         geo:lng         -6.011051277130786e0 ;
@@ -1500,6 +1686,7 @@
 
 <ex:station_199_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "199_MAR DE ALBORÁN" ;
         ex:bike_stands  20 ;
         geo:lat         37.417855601747895e0 ;
         geo:lng         -5.969296145455354e0 ;
@@ -1508,6 +1695,7 @@
 
 <ex:station_3_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "003_PUERTA DE LA BARQUETA" ;
         ex:bike_stands  40 ;
         geo:lat         37.40564154237001e0 ;
         geo:lng         -5.998488240831263e0 ;
@@ -1516,6 +1704,7 @@
 
 <ex:station_226_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "226_AVENIDA DOCTOR EMILIO LEMOS" ;
         ex:bike_stands  15 ;
         geo:lat         37.402862871745285e0 ;
         geo:lng         -5.921753676327738e0 ;
@@ -1524,6 +1713,7 @@
 
 <ex:station_33_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "033_CALLE LEÓN XIII" ;
         ex:bike_stands  15 ;
         geo:lat         37.401460531089214e0 ;
         geo:lng         -5.983690186516563e0 ;
@@ -1532,6 +1722,7 @@
 
 <ex:station_16_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "016_CALLE DE MANUEL VILLALOBOS" ;
         ex:bike_stands  20 ;
         geo:lat         37.40705079945115e0 ;
         geo:lng         -5.982430505819379e0 ;
@@ -1540,6 +1731,7 @@
 
 <ex:station_86_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "086_CAMINO DE LOS DESCUBRIMIENTOS" ;
         ex:bike_stands  40 ;
         geo:lat         37.39707250530929e0 ;
         geo:lng         -6.006304263337968e0 ;
@@ -1548,6 +1740,7 @@
 
 <ex:station_69_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "069_CALLE JOSE LAGUILLO" ;
         ex:bike_stands  20 ;
         geo:lat         37.39201049535389e0 ;
         geo:lng         -5.978293162147303e0 ;
@@ -1556,6 +1749,7 @@
 
 <ex:station_221_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "221_AVENIDA ALCALDE LUIS URUÑUELA" ;
         ex:bike_stands  15 ;
         geo:lat         37.40560856297865e0 ;
         geo:lng         -5.930524002164018e0 ;
@@ -1564,6 +1758,7 @@
 
 <ex:station_81_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "081_CALLE LUIS MONTOTO" ;
         ex:bike_stands  15 ;
         geo:lat         37.387156202671285e0 ;
         geo:lng         -5.971016767894659e0 ;
@@ -1572,6 +1767,7 @@
 
 <ex:station_257_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "257_TORRES ALBARRACIN" ;
         ex:bike_stands  20 ;
         geo:lat         37.38376948792722e0 ;
         geo:lng         -5.908921914235877e0 ;
@@ -1580,6 +1776,7 @@
 
 <ex:station_64_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "064_CALLE CUESTA DE ROSARIO" ;
         ex:bike_stands  15 ;
         geo:lat         37.38985648205481e0 ;
         geo:lng         -5.991125205922743e0 ;
@@ -1588,6 +1785,7 @@
 
 <ex:station_128_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "128_VIRGEN DE LORETO" ;
         ex:bike_stands  18 ;
         geo:lat         37.37645342505249e0 ;
         geo:lng         -6.000632231559362e0 ;
@@ -1596,6 +1794,7 @@
 
 <ex:station_123_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "123_ESTADIO OLIMPICO" ;
         ex:bike_stands  20 ;
         geo:lat         37.41585058006381e0 ;
         geo:lng         -6.005474271334001e0 ;
@@ -1604,6 +1803,7 @@
 
 <ex:station_176_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "176_AVENIDA DE LA CIUDAD JARDÍN" ;
         ex:bike_stands  20 ;
         geo:lat         37.3775594419921e0 ;
         geo:lng         -5.966557112643772e0 ;
@@ -1612,6 +1812,7 @@
 
 <ex:station_171_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "171_CALLE ALFONSO LASO DE LA VEGA" ;
         ex:bike_stands  19 ;
         geo:lat         37.36614639337372e0 ;
         geo:lng         -5.974870135199807e0 ;
@@ -1620,6 +1821,7 @@
 
 <ex:station_239_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "239_CALLE CIUDAD DE LIRIA" ;
         ex:bike_stands  15 ;
         geo:lat         37.408691582745696e0 ;
         geo:lng         -5.927718994548674e0 ;
@@ -1628,6 +1830,7 @@
 
 <ex:station_46_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "046_PLAZA DEL PELICANO" ;
         ex:bike_stands  16 ;
         geo:lat         37.397593515590735e0 ;
         geo:lng         -5.983873184934495e0 ;
@@ -1636,6 +1839,7 @@
 
 <ex:station_29_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "029_CARRETERA DE CARMONA" ;
         ex:bike_stands  15 ;
         geo:lat         37.402463540044714e0 ;
         geo:lng         -5.970145139589757e0 ;
@@ -1644,6 +1848,7 @@
 
 <ex:station_234_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "234_CALLE MÉDICOS SIN FRONTERA" ;
         ex:bike_stands  14 ;
         geo:lat         37.3999401269442e0 ;
         geo:lng         -5.925163964339344e0 ;
@@ -1652,6 +1857,7 @@
 
 <ex:station_41_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "041_PLAZA CALDERÓN DE LA BARCA" ;
         ex:bike_stands  15 ;
         geo:lat         37.39958252091155e0 ;
         geo:lng         -5.991029211181825e0 ;
@@ -1660,6 +1866,7 @@
 
 <ex:station_24_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "024_CALLE LEÓN XIII" ;
         ex:bike_stands  15 ;
         geo:lat         37.404035541034794e0 ;
         geo:lng         -5.984592191160378e0 ;
@@ -1668,6 +1875,7 @@
 
 <ex:station_94_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "094_PLAZA DEL ZURRAQUE" ;
         ex:bike_stands  18 ;
         geo:lat         37.383369449862734e0 ;
         geo:lng         -6.008294262440252e0 ;
@@ -1676,6 +1884,7 @@
 
 <ex:station_77_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "077_PLAZA CHAPINA" ;
         ex:bike_stands  20 ;
         geo:lat         37.389629475123165e0 ;
         geo:lng         -6.007581263540937e0 ;
@@ -1684,6 +1893,7 @@
 
 <ex:station_72_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "072_CALLE AMADOR DE LOS RIOS" ;
         ex:bike_stands  20 ;
         geo:lat         37.39071248853365e0 ;
         geo:lng         -5.982768177096753e0 ;
@@ -1692,6 +1902,7 @@
 
 <ex:station_136_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "136_CALLE ASUNCIÓN" ;
         ex:bike_stands  20 ;
         geo:lat         37.37311941284756e0 ;
         geo:lng         -5.997610219028108e0 ;
@@ -1700,6 +1911,7 @@
 
 <ex:station_189_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "189_AVENIDA HYTASA" ;
         ex:bike_stands  20 ;
         geo:lat         37.37005341642907e0 ;
         geo:lng         -5.959496083704879e0 ;
@@ -1708,6 +1920,7 @@
 
 <ex:station_131_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "131_CALLE TABLADILLA" ;
         ex:bike_stands  20 ;
         geo:lat         37.364750385373725e0 ;
         geo:lng         -5.981452157485012e0 ;
@@ -1716,6 +1929,7 @@
 
 <ex:station_184_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "184_AVENIDA ALCALDE MANUEL DEL VALLE" ;
         ex:bike_stands  20 ;
         geo:lat         37.408524564095075e0 ;
         geo:lng         -5.97049314429485e0 ;
@@ -1724,6 +1938,7 @@
 
 <ex:station_59_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "059_AVENIDA DE LA PALMERA" ;
         ex:bike_stands  18 ;
         geo:lat         37.37123840842449e0 ;
         geo:lng         -5.989210188461531e0 ;
@@ -1732,6 +1947,7 @@
 
 <ex:station_247_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "247_AVDA. RAMON Y CAJAL" ;
         ex:bike_stands  30 ;
         geo:lat         37.37823143994186e0 ;
         geo:lng         -5.979362157954825e0 ;
@@ -1740,6 +1956,7 @@
 
 <ex:station_54_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "054_PLAZA SAN JUAN DE LA PALMA" ;
         ex:bike_stands  15 ;
         geo:lat         37.39523950356959e0 ;
         geo:lng         -5.991050208758028e0 ;
@@ -1748,6 +1965,7 @@
 
 <ex:station_37_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "037_ALAMEDA DE HÉRCULES" ;
         ex:bike_stands  20 ;
         geo:lat         37.398785772824745e0 ;
         geo:lng         -5.99318901314001e0 ;
@@ -1756,6 +1974,7 @@
 
 <ex:station_242_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "242_PLAZA NUEVA" ;
         ex:bike_stands  20 ;
         geo:lat         37.38881830392981e0 ;
         geo:lng         -5.995750976296489e0 ;
@@ -1764,6 +1983,7 @@
 
 <ex:station_32_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "032_CALLE MUÑOZ LEÓN" ;
         ex:bike_stands  15 ;
         geo:lat         37.402019532357485e0 ;
         geo:lng         -5.986323196073661e0 ;
@@ -1772,6 +1992,7 @@
 
 <ex:station_85_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "085_PASEO CATALINA RIBERA" ;
         ex:bike_stands  20 ;
         geo:lat         37.38535146566221e0 ;
         geo:lng         -5.986785188099708e0 ;
@@ -1780,6 +2001,7 @@
 
 <ex:station_149_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "149_CALLE ARROYO" ;
         ex:bike_stands  20 ;
         geo:lat         37.397829929383e0 ;
         geo:lng         -5.97567172039552e0 ;
@@ -1788,6 +2010,7 @@
 
 <ex:station_80_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "080_CALLE LUIS MONTOTO" ;
         ex:bike_stands  20 ;
         geo:lat         37.3876274768589e0 ;
         geo:lng         -5.98102716921146e0 ;
@@ -1796,6 +2019,7 @@
 
 <ex:station_144_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "144_AVENIDA DE LA PALMERA" ;
         ex:bike_stands  20 ;
         geo:lat         37.36912633937041e0 ;
         geo:lng         -5.988080397280193e0 ;
@@ -1804,6 +2028,7 @@
 
 <ex:station_19_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "019_PARLAMENTO" ;
         ex:bike_stands  20 ;
         geo:lat         37.403327536585486e0 ;
         geo:lng         -5.989037206345736e0 ;
@@ -1812,6 +2037,7 @@
 
 <ex:station_197_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "197_CALLE AGRICULTORES" ;
         ex:bike_stands  20 ;
         geo:lat         37.423438625065074e0 ;
         geo:lng         -5.96640413851815e0 ;
@@ -1820,6 +2046,7 @@
 
 <ex:station_207_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "207_CALLE IFNI" ;
         ex:bike_stands  20 ;
         geo:lat         37.35501634616241e0 ;
         geo:lng         -5.982370155065175e0 ;
@@ -1828,6 +2055,7 @@
 
 <ex:station_14_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "014_AVENIDA SANCHEZ PIZJUAN" ;
         ex:bike_stands  40 ;
         geo:lat         37.4064737057759e0 ;
         geo:lng         -5.989118739088445e0 ;
@@ -1836,6 +2064,7 @@
 
 <ex:station_192_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "192_AVENIDA DE ALVAR NUÑEZ" ;
         ex:bike_stands  19 ;
         geo:lat         37.37833442855656e0 ;
         geo:lng         -6.011556270990402e0 ;
@@ -1844,6 +2073,7 @@
 
 <ex:station_67_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "067_CALLE LEONARDO DA VINCI" ;
         ex:bike_stands  20 ;
         geo:lat         37.404162533250535e0 ;
         geo:lng         -6.00730227091074e0 ;
@@ -1852,6 +2082,7 @@
 
 <ex:station_202_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "202_AVENIDA MUJER TRABAJADORA" ;
         ex:bike_stands  20 ;
         geo:lat         37.41146657719195e0 ;
         geo:lng         -5.966763132907271e0 ;
@@ -1860,6 +2091,7 @@
 
 <ex:station_255_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "255_PERO MINGO" ;
         ex:bike_stands  30 ;
         geo:lat         37.385659308608595e0 ;
         geo:lng         -5.913451790889467e0 ;
@@ -1868,6 +2100,7 @@
 
 <ex:station_62_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "062_PLAZA DE ARMAS" ;
         ex:bike_stands  39 ;
         geo:lat         37.391061482462725e0 ;
         geo:lng         -6.003150248813141e0 ;
@@ -1876,6 +2109,7 @@
 
 <ex:station_238_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "238_CIUDAD DE CHIVA" ;
         ex:bike_stands  15 ;
         geo:lat         37.408132573830756e0 ;
         geo:lng         -5.919993048486191e0 ;
@@ -1884,6 +2118,7 @@
 
 <ex:station_45_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "045_CARRETERA DE CARMONA" ;
         ex:bike_stands  15 ;
         geo:lat         37.39992052707672e0 ;
         geo:lng         -5.97781616502751e0 ;
@@ -1892,6 +2127,7 @@
 
 <ex:station_109_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "109_AVENIDA SAN FRANCISCO JAVIER" ;
         ex:bike_stands  15 ;
         geo:lat         37.37988413609134e0 ;
         geo:lng         -5.974382770011586e0 ;
@@ -1900,6 +2136,7 @@
 
 <ex:station_98_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "098_AVENIDA DE ROMA" ;
         ex:bike_stands  30 ;
         geo:lat         37.382043350305e0 ;
         geo:lng         -5.993030169261488e0 ;
@@ -1908,6 +2145,7 @@
 
 <ex:station_250_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "250_CALLE DE SALVADOR ALLENDE" ;
         ex:bike_stands  15 ;
         geo:lat         37.421879e0 ;
         geo:lng         -5.985663e0 ;
@@ -1916,6 +2154,7 @@
 
 <ex:station_233_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "233_AVENIDA ALCALDE LUIS URUÑUELA" ;
         ex:bike_stands  15 ;
         geo:lat         37.404112556103925e0 ;
         geo:lng         -5.937092024971125e0 ;
@@ -1924,6 +2163,7 @@
 
 <ex:station_40_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "040_AVENIDA REINA MERCEDES" ;
         ex:bike_stands  30 ;
         geo:lat         37.35635082669173e0 ;
         geo:lng         -5.986459877403918e0 ;
@@ -1932,6 +2172,7 @@
 
 <ex:station_104_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "104_AVENIDA EDUARDO DATO" ;
         ex:bike_stands  20 ;
         geo:lat         37.38413592692444e0 ;
         geo:lng         -5.979676676296534e0 ;
@@ -1940,6 +2181,7 @@
 
 <ex:station_93_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "093_RONDA DE TRIANA" ;
         ex:bike_stands  15 ;
         geo:lat         37.38312344793415e0 ;
         geo:lng         -6.010876271362328e0 ;
@@ -1948,6 +2190,7 @@
 
 <ex:station_157_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "157_AVENIDA CARDENAL BUENO MONREAL" ;
         ex:bike_stands  20 ;
         geo:lat         37.369799405424466e0 ;
         geo:lng         -5.978194722821982e0 ;
@@ -1956,6 +2199,7 @@
 
 <ex:station_152_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "152_CALLE SAMANIEGO" ;
         ex:bike_stands  20 ;
         geo:lat         37.3957905118738e0 ;
         geo:lng         -5.97437315057576e0 ;
@@ -1964,6 +2208,7 @@
 
 <ex:station_27_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "027_AVENIDA DE LLANES" ;
         ex:bike_stands  17 ;
         geo:lat         37.403877544974165e0 ;
         geo:lng         -5.972090147223454e0 ;
@@ -1972,6 +2217,7 @@
 
 <ex:station_188_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "188_AVENIDA HYTASA" ;
         ex:bike_stands  20 ;
         geo:lat         37.37256042361221e0 ;
         geo:lng         -5.963362098447178e0 ;
@@ -1980,6 +2226,7 @@
 
 <ex:station_215_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "215_CALLE ZORZAL" ;
         ex:bike_stands  15 ;
         geo:lat         37.38664148025849e0 ;
         geo:lng         -5.953981074150936e0 ;
@@ -1988,6 +2235,7 @@
 
 <ex:station_22_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "022_AVENIDA DE LLANES" ;
         ex:bike_stands  20 ;
         geo:lat         37.40512954896668e0 ;
         geo:lng         -5.974831157557763e0 ;
@@ -1996,6 +2244,7 @@
 
 <ex:station_183_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "183_ALCALDE MANUEL DEL VALLE" ;
         ex:bike_stands  15 ;
         geo:lat         37.41101757377389e0 ;
         geo:lng         -5.97121914827267e0 ;
@@ -2004,6 +2253,7 @@
 
 <ex:station_58_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "058_CALLE REGINA" ;
         ex:bike_stands  19 ;
         geo:lat         37.39436722277961e0 ;
         geo:lng         -5.991544993040244e0 ;
@@ -2012,6 +2262,7 @@
 
 <ex:station_210_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "210_PASEO DE EUROPA" ;
         ex:bike_stands  15 ;
         geo:lat         37.348061320332235e0 ;
         geo:lng         -5.980058142587488e0 ;
@@ -2020,6 +2271,7 @@
 
 <ex:station_70_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "070_ESTACIÓN RENFE SANTA JUSTA" ;
         ex:bike_stands  40 ;
         geo:lat         37.39115849280489e0 ;
         geo:lng         -5.975971153511849e0 ;
@@ -2028,6 +2280,7 @@
 
 <ex:station_246_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "246_PUERTO DE LOS AZORES" ;
         ex:bike_stands  15 ;
         geo:lat         37.376139062455664e0 ;
         geo:lng         -5.955017317014327e0 ;
@@ -2036,6 +2289,7 @@
 
 <ex:station_53_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "053_CALLE REYES CATÓLICOS" ;
         ex:bike_stands  17 ;
         geo:lat         37.38934147689296e0 ;
         geo:lng         -5.999605235382445e0 ;
@@ -2044,6 +2298,7 @@
 
 <ex:station_117_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "117_AVDA ESPERANZA DE TRIANA" ;
         ex:bike_stands  14 ;
         geo:lat         37.377806429728786e0 ;
         geo:lng         -6.002613239293098e0 ;
@@ -2052,6 +2307,7 @@
 
 <ex:station_241_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "241_PLAZA NUEVA" ;
         ex:bike_stands  20 ;
         geo:lat         37.38881544328257e0 ;
         geo:lng         -5.995863788052556e0 ;
@@ -2060,6 +2316,7 @@
 
 <ex:station_112_Seville>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "112_AVDA ESPERANZA DE TRIANA" ;
         ex:bike_stands  20 ;
         geo:lat         37.380153438452595e0 ;
         geo:lng         -6.004383246859136e0 ;

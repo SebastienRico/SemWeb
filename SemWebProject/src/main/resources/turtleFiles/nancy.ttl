@@ -11,6 +11,7 @@
 @prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
 
 <ex:station_2_Nancy>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "00002 - PLACE DE LA CARRIERE (CB)" ;
         ex:bike_stands  16 ;
         geo:lat         48.6945981637388e0 ;
         geo:lng         6.18229408637817e0 ;
@@ -19,6 +20,7 @@
 
 <ex:station_16_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00016 - PORTE DE LA CRAFFE (CB)" ;
         ex:bike_stands  20 ;
         geo:lat         48.6984724451821e0 ;
         geo:lng         6.17798553705909e0 ;
@@ -27,6 +29,7 @@
 
 <ex:station_23_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00023 - PROMENADE DES CANAUX" ;
         ex:bike_stands  16 ;
         geo:lat         48.6927939742599e0 ;
         geo:lng         6.19628435757015e0 ;
@@ -35,6 +38,7 @@
 
 <ex:station_11_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00011 - MAZAGRAN - FOCH (CB)" ;
         ex:bike_stands  28 ;
         geo:lat         48.6894760345252e0 ;
         geo:lng         6.17650546239553e0 ;
@@ -43,6 +47,7 @@
 
 <ex:station_27_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00027 - NANCY THERMAL (CB)" ;
         ex:bike_stands  18 ;
         geo:lat         48.67899967679407e0 ;
         geo:lng         6.167632567397485e0 ;
@@ -50,6 +55,7 @@
         wdp:P669        "Rue du Sergent Blandan" .
 
 <ex:station_4_Nancy>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "00004 - MARCHE CENTRAL (CB)" ;
         ex:bike_stands  18 ;
         geo:lat         48.6891733257851e0 ;
         geo:lng         6.18390463043762e0 ;
@@ -58,6 +64,7 @@
 
 <ex:station_25_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00025 - PLACE COMMANDERIE" ;
         ex:bike_stands  18 ;
         geo:lat         48.6859179816784e0 ;
         geo:lng         6.1674218161464e0 ;
@@ -66,6 +73,7 @@
 
 <ex:station_13_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00013 - SAINT NICOLAS - CHARLES III" ;
         ex:bike_stands  16 ;
         geo:lat         48.6878319691091e0 ;
         geo:lng         6.18780151507824e0 ;
@@ -73,6 +81,7 @@
         wdp:P669        "77 rue Saint-Nicolas" .
 
 <ex:station_8_Nancy>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "00008 - COURS LEOPOLD - SAINT MICHEL (CB)" ;
         ex:bike_stands  18 ;
         geo:lat         48.6956140662607e0 ;
         geo:lng         6.17676840786255e0 ;
@@ -81,6 +90,7 @@
 
 <ex:station_20_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00020 - PLACE DES VOSGES" ;
         ex:bike_stands  15 ;
         geo:lat         48.684781e0 ;
         geo:lng         6.187631e0 ;
@@ -89,6 +99,7 @@
 
 <ex:station_29_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00029 - VÉLODRÔME (CB)" ;
         ex:bike_stands  24 ;
         geo:lat         48.666721193896e0 ;
         geo:lng         6.16661978303466e0 ;
@@ -96,6 +107,7 @@
         wdp:P669        "Place du Vélodrôme" .
 
 <ex:station_6_Nancy>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "00006 - LES 2 RIVES (CB)" ;
         ex:bike_stands  16 ;
         geo:lat         48.695420147586e0 ;
         geo:lng         6.19522861327582e0 ;
@@ -103,6 +115,7 @@
         wdp:P669        "2 rue Emilie du Châtelet" .
 
 <ex:station_1_Nancy>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "00001 - DOMINICAINS - FOURRIER (CB)" ;
         ex:bike_stands  28 ;
         geo:lat         48.6924654452072e0 ;
         geo:lng         6.18340055389445e0 ;
@@ -111,6 +124,7 @@
 
 <ex:station_15_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00015 - PORT STE CATHERINE" ;
         ex:bike_stands  16 ;
         geo:lat         48.6954870039528e0 ;
         geo:lng         6.1906794896667e0 ;
@@ -119,6 +133,7 @@
 
 <ex:station_10_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00010 - GARE THIERS (CB)" ;
         ex:bike_stands  30 ;
         geo:lat         48.69037e0 ;
         geo:lng         6.175677e0 ;
@@ -127,6 +142,7 @@
 
 <ex:station_22_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00022 - HOPITAL ST JULIEN" ;
         ex:bike_stands  16 ;
         geo:lat         48.6858574026886e0 ;
         geo:lng         6.19290171469907e0 ;
@@ -135,6 +151,7 @@
 
 <ex:station_19_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00019 - COMMANDERIE - CHALNOT" ;
         ex:bike_stands  18 ;
         geo:lat         48.6869197241039e0 ;
         geo:lng         6.17234789239391e0 ;
@@ -143,6 +160,7 @@
 
 <ex:station_26_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00026 - BAUDRICOURT HAUSSONVILLE" ;
         ex:bike_stands  15 ;
         geo:lat         48.675248491826174e0 ;
         geo:lng         6.162844844269929e0 ;
@@ -150,6 +168,7 @@
         wdp:P669        "Rue des 3 Epis Baudricourt" .
 
 <ex:station_3_Nancy>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "00003 - PLACE DE DOMBASLE (CB)" ;
         ex:bike_stands  28 ;
         geo:lat         48.6919579483934e0 ;
         geo:lng         6.17851021950761e0 ;
@@ -158,6 +177,7 @@
 
 <ex:station_17_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00017 - CONSERVATOIRE - MANUFACTURE" ;
         ex:bike_stands  15 ;
         geo:lat         48.6957176856775e0 ;
         geo:lng         6.17133838702303e0 ;
@@ -166,6 +186,7 @@
 
 <ex:station_24_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00024 - 3 MAISONS - CHARLES V (CB)" ;
         ex:bike_stands  23 ;
         geo:lat         48.7008781485017e0 ;
         geo:lng         6.17706203367071e0 ;
@@ -174,6 +195,7 @@
 
 <ex:station_12_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00012 - ST SEBASTIEN - ST THIEBAUT (CB)" ;
         ex:bike_stands  22 ;
         geo:lat         48.6886141256403e0 ;
         geo:lng         6.17950010441818e0 ;
@@ -182,6 +204,7 @@
 
 <ex:station_28_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00028 - MARCHÉ D'HAUSSONVILLE" ;
         ex:bike_stands  15 ;
         geo:lat         48.67227619793021e0 ;
         geo:lng         6.165710709115886e0 ;
@@ -189,6 +212,7 @@
         wdp:P669        "Boulevard d'Haussonville" .
 
 <ex:station_5_Nancy>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "00005 - PLACE COLONEL DRIANT (CB)" ;
         ex:bike_stands  16 ;
         geo:lat         48.6921301e0 ;
         geo:lng         6.1872695e0 ;
@@ -197,6 +221,7 @@
 
 <ex:station_14_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00014 - FAC DE LETTRES (CB)" ;
         ex:bike_stands  19 ;
         geo:lat         48.6928180794454e0 ;
         geo:lng         6.16860978784457e0 ;
@@ -204,6 +229,7 @@
         wdp:P669        "Place Godefroy de Bouillon" .
 
 <ex:station_9_Nancy>  a  sosa:FeatureOfInterest ;
+        rdfs:label      "00009 - PLACE BARROIS (CB)" ;
         ex:bike_stands  17 ;
         geo:lat         48.69950232851108e0 ;
         geo:lng         6.204735639873545e0 ;
@@ -212,6 +238,7 @@
 
 <ex:station_21_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00021 - HOPITAL CENTRAL (CB)" ;
         ex:bike_stands  20 ;
         geo:lat         48.6833502130976e0 ;
         geo:lng         6.19029660801914e0 ;
@@ -220,6 +247,7 @@
 
 <ex:station_18_Nancy>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "00018 - GARE SAINT LEON (CB)" ;
         ex:bike_stands  20 ;
         geo:lat         48.689560111075e0 ;
         geo:lng         6.17251545229862e0 ;

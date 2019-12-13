@@ -12,6 +12,7 @@
 
 <ex:station_353_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "353 - BEAULIEU" ;
         ex:bike_stands  20 ;
         geo:lat         50.815681e0 ;
         geo:lng         4.40812e0 ;
@@ -20,6 +21,7 @@
 
 <ex:station_332_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "332 - VERGOTE" ;
         ex:bike_stands  24 ;
         geo:lat         50.845229e0 ;
         geo:lng         4.404311e0 ;
@@ -28,6 +30,7 @@
 
 <ex:station_311_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "311 - DELTA" ;
         ex:bike_stands  22 ;
         geo:lat         50.818322e0 ;
         geo:lng         4.404122e0 ;
@@ -36,6 +39,7 @@
 
 <ex:station_242_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "242 - MAISON COMMUNALE D'UCCLE/UKKEL GEMEENTEHUIS" ;
         ex:bike_stands  25 ;
         geo:lat         50.803791e0 ;
         geo:lng         4.333321e0 ;
@@ -44,6 +48,7 @@
 
 <ex:station_221_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "221 - CURIE" ;
         ex:bike_stands  25 ;
         geo:lat         50.821846e0 ;
         geo:lng         4.284394e0 ;
@@ -52,6 +57,7 @@
 
 <ex:station_200_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "200 - VETERANS COLONIAUX / KOLONIALE VETERANEN" ;
         ex:bike_stands  25 ;
         geo:lat         50.843967e0 ;
         geo:lng         4.313537e0 ;
@@ -60,6 +66,7 @@
 
 <ex:station_5_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "005 - BOURSE / BEURS" ;
         ex:bike_stands  44 ;
         geo:lat         50.848893e0 ;
         geo:lng         4.349396e0 ;
@@ -68,6 +75,7 @@
 
 <ex:station_79_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "079 - LOI / WET" ;
         ex:bike_stands  22 ;
         geo:lat         50.84413e0 ;
         geo:lng         4.374871e0 ;
@@ -76,6 +84,7 @@
 
 <ex:station_58_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "058 - GARE DU NORD / NOORDSTATION" ;
         ex:bike_stands  43 ;
         geo:lat         50.859181e0 ;
         geo:lng         4.35942e0 ;
@@ -84,6 +93,7 @@
 
 <ex:station_37_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "037 - POELAERT / POELAERT" ;
         ex:bike_stands  25 ;
         geo:lat         50.83795e0 ;
         geo:lng         4.353019e0 ;
@@ -92,6 +102,7 @@
 
 <ex:station_16_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "016 - LOUISE / LOUIZA" ;
         ex:bike_stands  40 ;
         geo:lat         50.835968e0 ;
         geo:lng         4.355508e0 ;
@@ -100,6 +111,7 @@
 
 <ex:station_291_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "291 - DECROLY" ;
         ex:bike_stands  19 ;
         geo:lat         50.804661e0 ;
         geo:lng         4.327886e0 ;
@@ -108,6 +120,7 @@
 
 <ex:station_270_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "270 - DE PADUWA" ;
         ex:bike_stands  25 ;
         geo:lat         50.859127e0 ;
         geo:lng         4.414406e0 ;
@@ -116,6 +129,7 @@
 
 <ex:station_169_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "169 - GEORGES EEKHOUD" ;
         ex:bike_stands  25 ;
         geo:lat         50.877125e0 ;
         geo:lng         4.387515e0 ;
@@ -124,6 +138,7 @@
 
 <ex:station_148_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "148 - GARE MEISER/MEISER STATION" ;
         ex:bike_stands  22 ;
         geo:lat         50.855629e0 ;
         geo:lng         4.394807e0 ;
@@ -132,6 +147,7 @@
 
 <ex:station_127_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "127 - GRAY/GRAY" ;
         ex:bike_stands  19 ;
         geo:lat         50.832194e0 ;
         geo:lng         4.377694e0 ;
@@ -140,6 +156,7 @@
 
 <ex:station_106_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "106 - GERMOIR/MOUTERIJ" ;
         ex:bike_stands  25 ;
         geo:lat         50.830012e0 ;
         geo:lng         4.378625e0 ;
@@ -148,6 +165,7 @@
 
 <ex:station_180_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "180 - JOURDAN" ;
         ex:bike_stands  25 ;
         geo:lat         50.837726e0 ;
         geo:lng         4.381565e0 ;
@@ -156,6 +174,7 @@
 
 <ex:station_319_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "319 - ANCIENNE BARRIERE/OUDE AFSPANNING" ;
         ex:bike_stands  20 ;
         geo:lat         50.885197e0 ;
         geo:lng         4.317648e0 ;
@@ -164,6 +183,7 @@
 
 <ex:station_351_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "351 - ULB" ;
         ex:bike_stands  25 ;
         geo:lat         50.813724e0 ;
         geo:lng         4.384205e0 ;
@@ -172,6 +192,7 @@
 
 <ex:station_330_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "330 - VANDERVELDE" ;
         ex:bike_stands  25 ;
         geo:lat         50.847546e0 ;
         geo:lng         4.450015e0 ;
@@ -180,6 +201,7 @@
 
 <ex:station_229_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "229 - ZAMAN FOREST NATIONAL/ZAMAN VORST NATIONAAL" ;
         ex:bike_stands  18 ;
         geo:lat         50.813587e0 ;
         geo:lng         4.324681e0 ;
@@ -188,6 +210,7 @@
 
 <ex:station_208_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "208 - MELBA" ;
         ex:bike_stands  25 ;
         geo:lat         50.832565e0 ;
         geo:lng         4.294311e0 ;
@@ -196,6 +219,7 @@
 
 <ex:station_86_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "086 - MAISON COMMUNALE DE JETTE GEMEENTEHUIS" ;
         ex:bike_stands  25 ;
         geo:lat         50.876195e0 ;
         geo:lng         4.324477e0 ;
@@ -204,6 +228,7 @@
 
 <ex:station_65_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "065 - PARVIS DE ST GILLES" ;
         ex:bike_stands  25 ;
         geo:lat         50.829985e0 ;
         geo:lng         4.344557e0 ;
@@ -212,6 +237,7 @@
 
 <ex:station_44_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "044 - CHARLEMAGNE / KAREL DE GROTE" ;
         ex:bike_stands  25 ;
         geo:lat         50.841707e0 ;
         geo:lng         4.370986e0 ;
@@ -220,6 +246,7 @@
 
 <ex:station_3_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "003 - PORTE DE FLANDRE / VLAAMSEPOORT" ;
         ex:bike_stands  21 ;
         geo:lat         50.853203e0 ;
         geo:lng         4.341823e0 ;
@@ -228,6 +255,7 @@
 
 <ex:station_299_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "299 - SAINT-ADRIEN" ;
         ex:bike_stands  20 ;
         geo:lat         50.809355e0 ;
         geo:lng         4.386606e0 ;
@@ -236,6 +264,7 @@
 
 <ex:station_278_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "278 - STADE / STADIUM" ;
         ex:bike_stands  25 ;
         geo:lat         50.894005e0 ;
         geo:lng         4.331902e0 ;
@@ -244,6 +273,7 @@
 
 <ex:station_257_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "257 - PL MARGHERITE D'AUTRICHE / MARGARETHA VAN OO" ;
         ex:bike_stands  25 ;
         geo:lat         50.872169e0 ;
         geo:lng         4.298216e0 ;
@@ -252,6 +282,7 @@
 
 <ex:station_236_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "236-MAISON COMMUNALE DE FOREST/VORST GEMEENTEHUIS" ;
         ex:bike_stands  25 ;
         geo:lat         50.812328e0 ;
         geo:lng         4.318885e0 ;
@@ -260,6 +291,7 @@
 
 <ex:station_14_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "014 - PORTE DE NAMUR / NAAMSEPOORT" ;
         ex:bike_stands  42 ;
         geo:lat         50.838816e0 ;
         geo:lng         4.361557e0 ;
@@ -268,6 +300,7 @@
 
 <ex:station_188_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "188 - OSSEGHEM" ;
         ex:bike_stands  24 ;
         geo:lat         50.857235e0 ;
         geo:lng         4.324354e0 ;
@@ -276,6 +309,7 @@
 
 <ex:station_167_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "167 - CHARLES V/KAREL V" ;
         ex:bike_stands  22 ;
         geo:lat         50.869032e0 ;
         geo:lng         4.309731e0 ;
@@ -284,6 +318,7 @@
 
 <ex:station_146_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "146 - LEOPOLD III/LEOPOLD III" ;
         ex:bike_stands  25 ;
         geo:lat         50.859243e0 ;
         geo:lng         4.401022e0 ;
@@ -292,6 +327,7 @@
 
 <ex:station_125_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "125 - GEORGES BRUGMANN" ;
         ex:bike_stands  25 ;
         geo:lat         50.817392e0 ;
         geo:lng         4.354105e0 ;
@@ -300,6 +336,7 @@
 
 <ex:station_359_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "359 - JCDECAUX" ;
         ex:bike_stands  20 ;
         geo:lat         50.867708e0 ;
         geo:lng         4.357532e0 ;
@@ -308,6 +345,7 @@
 
 <ex:station_338_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "338 - UCL" ;
         ex:bike_stands  26 ;
         geo:lat         50.851073e0 ;
         geo:lng         4.452706e0 ;
@@ -316,6 +354,7 @@
 
 <ex:station_317_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "317 - GEYSKENS" ;
         ex:bike_stands  20 ;
         geo:lat         50.82015e0 ;
         geo:lng         4.4222e0 ;
@@ -324,6 +363,7 @@
 
 <ex:station_84_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "084 - STE ANNE/SINT-ANNA" ;
         ex:bike_stands  20 ;
         geo:lat         50.85896e0 ;
         geo:lng         4.330107e0 ;
@@ -332,6 +372,7 @@
 
 <ex:station_63_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "063 - JULES CESAR" ;
         ex:bike_stands  20 ;
         geo:lat         50.834705e0 ;
         geo:lng         4.421643e0 ;
@@ -340,6 +381,7 @@
 
 <ex:station_42_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "042 - PORTE DE NINOVE /NINOOFSEPOORT" ;
         ex:bike_stands  25 ;
         geo:lat         50.84917e0 ;
         geo:lng         4.338383e0 ;
@@ -348,6 +390,7 @@
 
 <ex:station_21_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "021 - DE BROUCKERE" ;
         ex:bike_stands  43 ;
         geo:lat         50.85223e0 ;
         geo:lng         4.35316e0 ;
@@ -356,6 +399,7 @@
 
 <ex:station_1_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "001 - LEOPOLD II" ;
         ex:bike_stands  20 ;
         geo:lat         50.836304e0 ;
         geo:lng         4.41505e0 ;
@@ -364,6 +408,7 @@
 
 <ex:station_297_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "297 - TEN REUKEN" ;
         ex:bike_stands  25 ;
         geo:lat         50.804775e0 ;
         geo:lng         4.426387e0 ;
@@ -372,6 +417,7 @@
 
 <ex:station_276_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "276 - CROIX DE GUERRES / OORLOGSKRUISEN" ;
         ex:bike_stands  25 ;
         geo:lat         50.889748e0 ;
         geo:lng         4.380755e0 ;
@@ -380,6 +426,7 @@
 
 <ex:station_255_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "255 - SACRE-COEUR DE GANSHOREN" ;
         ex:bike_stands  25 ;
         geo:lat         50.868011e0 ;
         geo:lng         4.313968e0 ;
@@ -388,6 +435,7 @@
 
 <ex:station_234_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "234 - ST DENIS / ST DENIJS" ;
         ex:bike_stands  25 ;
         geo:lat         50.809799e0 ;
         geo:lng         4.317546e0 ;
@@ -396,6 +444,7 @@
 
 <ex:station_213_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "213 - LA ROUE / HET RAD" ;
         ex:bike_stands  15 ;
         geo:lat         50.821018e0 ;
         geo:lng         4.293865e0 ;
@@ -404,6 +453,7 @@
 
 <ex:station_186_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "186 - GENOT" ;
         ex:bike_stands  20 ;
         geo:lat         50.861783e0 ;
         geo:lng         4.302607e0 ;
@@ -412,6 +462,7 @@
 
 <ex:station_165_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "165 - CIMETIERE DE JETTE / KERKHOF JETTE" ;
         ex:bike_stands  20 ;
         geo:lat         50.879668e0 ;
         geo:lng         4.33425e0 ;
@@ -420,6 +471,7 @@
 
 <ex:station_144_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "144 - SAINTE-MARIE/SINTE-MARIA" ;
         ex:bike_stands  25 ;
         geo:lat         50.85778e0 ;
         geo:lng         4.368144e0 ;
@@ -428,6 +480,7 @@
 
 <ex:station_123_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "123 - BASCULE" ;
         ex:bike_stands  25 ;
         geo:lat         50.817507e0 ;
         geo:lng         4.366498e0 ;
@@ -436,6 +489,7 @@
 
 <ex:station_102_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "102 - MUSEUM/MUSEUM" ;
         ex:bike_stands  25 ;
         geo:lat         50.83579e0 ;
         geo:lng         4.375782e0 ;
@@ -444,6 +498,7 @@
 
 <ex:station_336_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "336 - KRAAINEM" ;
         ex:bike_stands  17 ;
         geo:lat         50.848578e0 ;
         geo:lng         4.459038e0 ;
@@ -452,6 +507,7 @@
 
 <ex:station_315_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "315 - SACRE COEUR AUDERGHEM/HEILIGE HART OUDERGHEM" ;
         ex:bike_stands  20 ;
         geo:lat         50.810322e0 ;
         geo:lng         4.435789e0 ;
@@ -460,6 +516,7 @@
 
 <ex:station_29_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "029 - BAUDOUIN / BOUDEWIJN" ;
         ex:bike_stands  25 ;
         geo:lat         50.856584e0 ;
         geo:lng         4.352877e0 ;
@@ -468,6 +525,7 @@
 
 <ex:station_9_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "009 - ANNEESSENS" ;
         ex:bike_stands  35 ;
         geo:lat         50.844045e0 ;
         geo:lng         4.345048e0 ;
@@ -476,6 +534,7 @@
 
 <ex:station_82_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "082 - PANNENHUIS" ;
         ex:bike_stands  20 ;
         geo:lat         50.872811e0 ;
         geo:lng         4.341149e0 ;
@@ -484,6 +543,7 @@
 
 <ex:station_61_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "061 - MAELBEEK / MAALBEEK" ;
         ex:bike_stands  35 ;
         geo:lat         50.843836e0 ;
         geo:lng         4.378002e0 ;
@@ -492,6 +552,7 @@
 
 <ex:station_40_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "040 - PORTE DE HAL / HALLEPOORT" ;
         ex:bike_stands  25 ;
         geo:lat         50.833931e0 ;
         geo:lng         4.343155e0 ;
@@ -500,6 +561,7 @@
 
 <ex:station_193_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "193 - GARE DE L'OUEST" ;
         ex:bike_stands  30 ;
         geo:lat         50.848866e0 ;
         geo:lng         4.320628e0 ;
@@ -508,6 +570,7 @@
 
 <ex:station_172_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "172 - AEROPOLIS" ;
         ex:bike_stands  25 ;
         geo:lat         50.869764e0 ;
         geo:lng         4.388191e0 ;
@@ -516,6 +579,7 @@
 
 <ex:station_151_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "151 - LOUVAIN 488-494/LEUVEN 488-494" ;
         ex:bike_stands  25 ;
         geo:lat         50.853518e0 ;
         geo:lng         4.392491e0 ;
@@ -524,6 +588,7 @@
 
 <ex:station_364_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "364 - DOCKS BRUXSEL" ;
         ex:bike_stands  20 ;
         geo:lat         50.879086e0 ;
         geo:lng         4.374729e0 ;
@@ -532,6 +597,7 @@
 
 <ex:station_343_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "343 - VANDENDRIESCH" ;
         ex:bike_stands  20 ;
         geo:lat         50.861788e0 ;
         geo:lng         4.292913e0 ;
@@ -540,6 +606,7 @@
 
 <ex:station_322_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "322 - PARC DU ROI BAUDOUIN / BOUDEWIJNPARK" ;
         ex:bike_stands  20 ;
         geo:lat         50.889523e0 ;
         geo:lng         4.315953e0 ;
@@ -548,6 +615,7 @@
 
 <ex:station_301_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "301 - MARIE-JOSE (FERMÉE - TRAVAUX)" ;
         ex:bike_stands  20 ;
         geo:lat         50.806271e0 ;
         geo:lng         4.387673e0 ;
@@ -556,6 +624,7 @@
 
 <ex:station_295_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "295 - COIN DU BALAI" ;
         ex:bike_stands  25 ;
         geo:lat         50.793682e0 ;
         geo:lng         4.418497e0 ;
@@ -564,6 +633,7 @@
 
 <ex:station_274_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "274 - CORHAY" ;
         ex:bike_stands  25 ;
         geo:lat         50.86002e0 ;
         geo:lng         4.307502e0 ;
@@ -572,6 +642,7 @@
 
 <ex:station_253_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "253 - REINE FABIOLA / KONINGIN FABIOLA" ;
         ex:bike_stands  25 ;
         geo:lat         50.872475e0 ;
         geo:lng         4.314266e0 ;
@@ -580,6 +651,7 @@
 
 <ex:station_232_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "232 - DOMAINE / DOMEIN" ;
         ex:bike_stands  25 ;
         geo:lat         50.810875e0 ;
         geo:lng         4.329158e0 ;
@@ -588,6 +660,7 @@
 
 <ex:station_211_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "211 - METRO CERIA" ;
         ex:bike_stands  22 ;
         geo:lat         50.816528e0 ;
         geo:lng         4.290832e0 ;
@@ -596,6 +669,7 @@
 
 <ex:station_121_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "121 - ETANGS / VIJVERS" ;
         ex:bike_stands  25 ;
         geo:lat         50.823986e0 ;
         geo:lng         4.37379e0 ;
@@ -604,6 +678,7 @@
 
 <ex:station_100_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "100 - GARE DE LUXEMBOURG/LUXEMBURGSTATION" ;
         ex:bike_stands  44 ;
         geo:lat         50.838411e0 ;
         geo:lng         4.37302e0 ;
@@ -612,6 +687,7 @@
 
 <ex:station_69_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "069 - LESBROUSSART" ;
         ex:bike_stands  29 ;
         geo:lat         50.827577e0 ;
         geo:lng         4.363797e0 ;
@@ -620,6 +696,7 @@
 
 <ex:station_48_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "048 - CONGRES" ;
         ex:bike_stands  23 ;
         geo:lat         50.849358e0 ;
         geo:lng         4.363589e0 ;
@@ -628,6 +705,7 @@
 
 <ex:station_27_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "027 - SQUARE ALBERT I / ALBERT I SQUARE" ;
         ex:bike_stands  25 ;
         geo:lat         50.838733e0 ;
         geo:lng         4.32176e0 ;
@@ -636,6 +714,7 @@
 
 <ex:station_80_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "080 - CERES" ;
         ex:bike_stands  20 ;
         geo:lat         50.814852e0 ;
         geo:lng         4.376794e0 ;
@@ -644,6 +723,7 @@
 
 <ex:station_191_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "191 - ARTAN" ;
         ex:bike_stands  24 ;
         geo:lat         50.853973e0 ;
         geo:lng         4.38374e0 ;
@@ -652,6 +732,7 @@
 
 <ex:station_170_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "170 - RIGA" ;
         ex:bike_stands  20 ;
         geo:lat         50.87453e0 ;
         geo:lng         4.385378e0 ;
@@ -660,6 +741,7 @@
 
 <ex:station_309_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "309 - SQUARE DU CENTENAIRE" ;
         ex:bike_stands  25 ;
         geo:lat         50.87521e0 ;
         geo:lng         4.317954e0 ;
@@ -668,6 +750,7 @@
 
 <ex:station_362_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "362 - GARE BERCHEM ST AGATHE/ST AGATA BERCHEM" ;
         ex:bike_stands  20 ;
         geo:lat         50.872501e0 ;
         geo:lng         4.290218e0 ;
@@ -676,6 +759,7 @@
 
 <ex:station_341_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "341 - VOOT" ;
         ex:bike_stands  23 ;
         geo:lat         50.840942e0 ;
         geo:lng         4.436529e0 ;
@@ -684,6 +768,7 @@
 
 <ex:station_320_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "320 - UZ BRUSSEL" ;
         ex:bike_stands  20 ;
         geo:lat         50.886451e0 ;
         geo:lng         4.310966e0 ;
@@ -692,6 +777,7 @@
 
 <ex:station_219_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "219 - VAN HELLEMONT" ;
         ex:bike_stands  23 ;
         geo:lat         50.829491e0 ;
         geo:lng         4.286006e0 ;
@@ -700,6 +786,7 @@
 
 <ex:station_251_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "251 - PAOLA" ;
         ex:bike_stands  20 ;
         geo:lat         50.800377e0 ;
         geo:lng         4.326985e0 ;
@@ -708,6 +795,7 @@
 
 <ex:station_230_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "230 - BERKENDAEL / BERKENDAAL" ;
         ex:bike_stands  24 ;
         geo:lat         50.818382e0 ;
         geo:lng         4.346061e0 ;
@@ -716,6 +804,7 @@
 
 <ex:station_108_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "108 - FLAGEY" ;
         ex:bike_stands  35 ;
         geo:lat         50.828012e0 ;
         geo:lng         4.371756e0 ;
@@ -724,6 +813,7 @@
 
 <ex:station_88_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "088 - WOESTE" ;
         ex:bike_stands  25 ;
         geo:lat         50.873354e0 ;
         geo:lng         4.334311e0 ;
@@ -732,6 +822,7 @@
 
 <ex:station_67_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "067 - PARC CINQUANTENAIRE / JUBELPARK" ;
         ex:bike_stands  35 ;
         geo:lat         50.83975e0 ;
         geo:lng         4.385426e0 ;
@@ -740,6 +831,7 @@
 
 <ex:station_46_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "046 - ALBERTINE / ALBERTINA" ;
         ex:bike_stands  24 ;
         geo:lat         50.843556e0 ;
         geo:lng         4.355006e0 ;
@@ -748,6 +840,7 @@
 
 <ex:station_25_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "025 - PORTE D'ANDERLECHT" ;
         ex:bike_stands  25 ;
         geo:lat         50.845769e0 ;
         geo:lng         4.338961e0 ;
@@ -756,6 +849,7 @@
 
 <ex:station_199_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "199 - HENRI REY" ;
         ex:bike_stands  15 ;
         geo:lat         50.843693e0 ;
         geo:lng         4.304986e0 ;
@@ -764,6 +858,7 @@
 
 <ex:station_178_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "178 - DIAMANT/DIAMANT" ;
         ex:bike_stands  22 ;
         geo:lat         50.85043e0 ;
         geo:lng         4.402169e0 ;
@@ -772,6 +867,7 @@
 
 <ex:station_157_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "157 - HELIOTROPES/HELIOTROPEN" ;
         ex:bike_stands  24 ;
         geo:lat         50.863388e0 ;
         geo:lng         4.386222e0 ;
@@ -780,6 +876,7 @@
 
 <ex:station_136_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "136 - PAVILLON/PAVILJOEN" ;
         ex:bike_stands  24 ;
         geo:lat         50.869809e0 ;
         geo:lng         4.371808e0 ;
@@ -788,6 +885,7 @@
 
 <ex:station_115_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "115 - PETITE SUISSE/KLEIN ZWITSERLAND" ;
         ex:bike_stands  24 ;
         geo:lat         50.817775e0 ;
         geo:lng         4.384971e0 ;
@@ -796,6 +894,7 @@
 
 <ex:station_349_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "349 - FONSNY" ;
         ex:bike_stands  20 ;
         geo:lat         50.833444e0 ;
         geo:lng         4.334857e0 ;
@@ -804,6 +903,7 @@
 
 <ex:station_328_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "328 - HEYDENBERG" ;
         ex:bike_stands  20 ;
         geo:lat         50.849988e0 ;
         geo:lng         4.417064e0 ;
@@ -812,6 +912,7 @@
 
 <ex:station_307_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "307 - KAREL BOGAERT" ;
         ex:bike_stands  20 ;
         geo:lat         50.881889e0 ;
         geo:lng         4.347448e0 ;
@@ -820,6 +921,7 @@
 
 <ex:station_360_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "360 - STOCKEL/STOKKEL" ;
         ex:bike_stands  25 ;
         geo:lat         50.84157e0 ;
         geo:lng         4.46577e0 ;
@@ -828,6 +930,7 @@
 
 <ex:station_259_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "259 - NOVILLE" ;
         ex:bike_stands  20 ;
         geo:lat         50.859608e0 ;
         geo:lng         4.33409e0 ;
@@ -836,6 +939,7 @@
 
 <ex:station_238_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "238 - UNION SAINT-GILLOISE / SINT-GILLIS UNIE" ;
         ex:bike_stands  20 ;
         geo:lat         50.820278e0 ;
         geo:lng         4.330802e0 ;
@@ -844,6 +948,7 @@
 
 <ex:station_217_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "217 - BIZET" ;
         ex:bike_stands  23 ;
         geo:lat         50.824913e0 ;
         geo:lng         4.297248e0 ;
@@ -852,6 +957,7 @@
 
 <ex:station_95_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "095 - PLACE BOCKSTAEL/BOCKSTAELPLAATS" ;
         ex:bike_stands  25 ;
         geo:lat         50.87808e0 ;
         geo:lng         4.34793e0 ;
@@ -860,6 +966,7 @@
 
 <ex:station_74_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "074 - PLACE LOIX/LOIXPLEIN" ;
         ex:bike_stands  24 ;
         geo:lat         50.831936e0 ;
         geo:lng         4.353037e0 ;
@@ -868,6 +975,7 @@
 
 <ex:station_53_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "053 - GARE DU MIDI / ZUIDSTATION" ;
         ex:bike_stands  40 ;
         geo:lat         50.837499e0 ;
         geo:lng         4.335947e0 ;
@@ -876,6 +984,7 @@
 
 <ex:station_287_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "287 - FLOREAL" ;
         ex:bike_stands  23 ;
         geo:lat         50.809334e0 ;
         geo:lng         4.345243e0 ;
@@ -884,6 +993,7 @@
 
 <ex:station_266_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "266 - GARE BORDET STATION" ;
         ex:bike_stands  21 ;
         geo:lat         50.877552e0 ;
         geo:lng         4.409136e0 ;
@@ -892,6 +1002,7 @@
 
 <ex:station_245_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "245 - HAMOIR" ;
         ex:bike_stands  25 ;
         geo:lat         50.798988e0 ;
         geo:lng         4.375581e0 ;
@@ -900,6 +1011,7 @@
 
 <ex:station_23_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "023 - AGORA / AGORA" ;
         ex:bike_stands  19 ;
         geo:lat         50.846331e0 ;
         geo:lng         4.355193e0 ;
@@ -908,6 +1020,7 @@
 
 <ex:station_197_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "197 - DE SMET" ;
         ex:bike_stands  25 ;
         geo:lat         50.848255e0 ;
         geo:lng         4.314854e0 ;
@@ -916,6 +1029,7 @@
 
 <ex:station_176_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "176 - COLONEL BOURG/KOLONEL BOURG" ;
         ex:bike_stands  25 ;
         geo:lat         50.852356e0 ;
         geo:lng         4.408635e0 ;
@@ -924,6 +1038,7 @@
 
 <ex:station_155_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "155 - LES MARRONNIERS" ;
         ex:bike_stands  25 ;
         geo:lat         50.824953e0 ;
         geo:lng         4.399088e0 ;
@@ -932,6 +1047,7 @@
 
 <ex:station_134_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "134 - BASTOGNE/BASTENAKEN" ;
         ex:bike_stands  25 ;
         geo:lat         50.862652e0 ;
         geo:lng         4.316644e0 ;
@@ -940,6 +1056,7 @@
 
 <ex:station_113_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "113 - ABBAYE DE LA CAMBRE / ABDIJ TER KAMEREN" ;
         ex:bike_stands  20 ;
         geo:lat         50.820042e0 ;
         geo:lng         4.374785e0 ;
@@ -948,6 +1065,7 @@
 
 <ex:station_347_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "347 - ERASME" ;
         ex:bike_stands  25 ;
         geo:lat         50.81482e0 ;
         geo:lng         4.26534e0 ;
@@ -956,6 +1074,7 @@
 
 <ex:station_326_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "326 - ADEPS" ;
         ex:bike_stands  22 ;
         geo:lat         50.809406e0 ;
         geo:lng         4.443777e0 ;
@@ -964,6 +1083,7 @@
 
 <ex:station_305_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "305 - PETER BENOIT" ;
         ex:bike_stands  25 ;
         geo:lat         50.895592e0 ;
         geo:lng         4.387965e0 ;
@@ -972,6 +1092,7 @@
 
 <ex:station_215_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "215 - CUREGHEM / KUREGEM" ;
         ex:bike_stands  25 ;
         geo:lat         50.836864e0 ;
         geo:lng         4.317321e0 ;
@@ -980,6 +1101,7 @@
 
 <ex:station_93_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "093 - CLOVIS" ;
         ex:bike_stands  19 ;
         geo:lat         50.85062e0 ;
         geo:lng         4.381152e0 ;
@@ -988,6 +1110,7 @@
 
 <ex:station_72_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "072 - ULB SOLBOSCH / VUB  SOLBOSCH" ;
         ex:bike_stands  24 ;
         geo:lat         50.812489e0 ;
         geo:lng         4.379203e0 ;
@@ -996,6 +1119,7 @@
 
 <ex:station_51_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "051 - MIDI FONSNY/ZUID FONSNY" ;
         ex:bike_stands  25 ;
         geo:lat         50.835699e0 ;
         geo:lng         4.338826e0 ;
@@ -1004,6 +1128,7 @@
 
 <ex:station_30_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "030 - LAEKEN / LAKEN" ;
         ex:bike_stands  25 ;
         geo:lat         50.853666e0 ;
         geo:lng         4.351771e0 ;
@@ -1012,6 +1137,7 @@
 
 <ex:station_285_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "285 - COGHEN" ;
         ex:bike_stands  25 ;
         geo:lat         50.813469e0 ;
         geo:lng         4.338951e0 ;
@@ -1020,6 +1146,7 @@
 
 <ex:station_264_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "264 - NOTRE DAME/ONZE LIEVE VROUW" ;
         ex:bike_stands  20 ;
         geo:lat         50.870983e0 ;
         geo:lng         4.397506e0 ;
@@ -1028,6 +1155,7 @@
 
 <ex:station_243_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "243 - RONDPOINT CHURCHILL/ROTONDE CHURCHILL" ;
         ex:bike_stands  25 ;
         geo:lat         50.811752e0 ;
         geo:lng         4.353424e0 ;
@@ -1036,6 +1164,7 @@
 
 <ex:station_222_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "222 - MERCKX" ;
         ex:bike_stands  25 ;
         geo:lat         50.817162e0 ;
         geo:lng         4.280012e0 ;
@@ -1044,6 +1173,7 @@
 
 <ex:station_201_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "201 - PETERBOS" ;
         ex:bike_stands  25 ;
         geo:lat         50.8414e0 ;
         geo:lng         4.296013e0 ;
@@ -1052,6 +1182,7 @@
 
 <ex:station_195_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "195 - WESTLAND SHOPPING" ;
         ex:bike_stands  25 ;
         geo:lat         50.8377e0 ;
         geo:lng         4.288726e0 ;
@@ -1060,6 +1191,7 @@
 
 <ex:station_174_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "174 - MENNEKENS/MENNEKENS" ;
         ex:bike_stands  22 ;
         geo:lat         50.853947e0 ;
         geo:lng         4.31635e0 ;
@@ -1068,6 +1200,7 @@
 
 <ex:station_153_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "153 - SQUARE ARMAND STEURS" ;
         ex:bike_stands  25 ;
         geo:lat         50.854128e0 ;
         geo:lng         4.378002e0 ;
@@ -1076,6 +1209,7 @@
 
 <ex:station_132_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "132 - DEUX CHAUSSEES" ;
         ex:bike_stands  19 ;
         geo:lat         50.816338e0 ;
         geo:lng         4.433895e0 ;
@@ -1084,6 +1218,7 @@
 
 <ex:station_111_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "111 - ETANGS MELLAERTS VIJVERS" ;
         ex:bike_stands  25 ;
         geo:lat         50.827831e0 ;
         geo:lng         4.431822e0 ;
@@ -1092,6 +1227,7 @@
 
 <ex:station_345_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "345 - 3 TILLEULS" ;
         ex:bike_stands  18 ;
         geo:lat         50.802675e0 ;
         geo:lng         4.412073e0 ;
@@ -1100,6 +1236,7 @@
 
 <ex:station_324_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "324 - THOMAS BALIS" ;
         ex:bike_stands  25 ;
         geo:lat         50.819641e0 ;
         geo:lng         4.412926e0 ;
@@ -1108,6 +1245,7 @@
 
 <ex:station_303_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "303 - VIEUX TILLEUL" ;
         ex:bike_stands  25 ;
         geo:lat         50.807903e0 ;
         geo:lng         4.392756e0 ;
@@ -1116,6 +1254,7 @@
 
 <ex:station_59_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "059 - PLACE ST-JOSSE/ST-JOOSTPLEIN" ;
         ex:bike_stands  24 ;
         geo:lat         50.849681e0 ;
         geo:lng         4.375312e0 ;
@@ -1124,6 +1263,7 @@
 
 <ex:station_38_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "038 - JEU DE BALLE / VOSSENPLEIN" ;
         ex:bike_stands  19 ;
         geo:lat         50.837912e0 ;
         geo:lng         4.347421e0 ;
@@ -1132,6 +1272,7 @@
 
 <ex:station_17_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "017 - COMTE DE FLANDRE/GRAAF VAN VLAANDEREN" ;
         ex:bike_stands  24 ;
         geo:lat         50.855358e0 ;
         geo:lng         4.339465e0 ;
@@ -1140,6 +1281,7 @@
 
 <ex:station_91_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "091 - BELGICA" ;
         ex:bike_stands  25 ;
         geo:lat         50.867773e0 ;
         geo:lng         4.335217e0 ;
@@ -1148,6 +1290,7 @@
 
 <ex:station_70_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "070 - AURORE/DAGERAAD" ;
         ex:bike_stands  25 ;
         geo:lat         50.818113e0 ;
         geo:lng         4.371446e0 ;
@@ -1156,6 +1299,7 @@
 
 <ex:station_181_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "181 - LOUIS TITZ" ;
         ex:bike_stands  25 ;
         geo:lat         50.835723e0 ;
         geo:lng         4.394395e0 ;
@@ -1164,6 +1308,7 @@
 
 <ex:station_160_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "160 - ELISA" ;
         ex:bike_stands  23 ;
         geo:lat         50.877501e0 ;
         geo:lng         4.380315e0 ;
@@ -1172,6 +1317,7 @@
 
 <ex:station_352_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "352 - ROUGE-CLOÎTRE / ROOD-KLOOSTER" ;
         ex:bike_stands  23 ;
         geo:lat         50.814264e0 ;
         geo:lng         4.443479e0 ;
@@ -1180,6 +1326,7 @@
 
 <ex:station_331_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "331 - GEORGES HENRI" ;
         ex:bike_stands  20 ;
         geo:lat         50.842319e0 ;
         geo:lng         4.406295e0 ;
@@ -1188,6 +1335,7 @@
 
 <ex:station_310_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "310 - SAINT-VINCENT / SINT-VINCENTIUS" ;
         ex:bike_stands  20 ;
         geo:lat         50.88058e0 ;
         geo:lng         4.401674e0 ;
@@ -1196,6 +1344,7 @@
 
 <ex:station_209_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "209 - VEEWEYDE / VEEWEIDE" ;
         ex:bike_stands  25 ;
         geo:lat         50.828602e0 ;
         geo:lng         4.299621e0 ;
@@ -1204,6 +1353,7 @@
 
 <ex:station_283_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "283 - PISCINE / ZWEMBAD" ;
         ex:bike_stands  14 ;
         geo:lat         50.893158e0 ;
         geo:lng         4.376931e0 ;
@@ -1212,6 +1362,7 @@
 
 <ex:station_262_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "262 - PLACE DE LA PAIX/VREDEPLAIN" ;
         ex:bike_stands  20 ;
         geo:lat         50.87693e0 ;
         geo:lng         4.400722e0 ;
@@ -1220,6 +1371,7 @@
 
 <ex:station_241_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "241 - STATUAIRES/BEELDHOUWWERK" ;
         ex:bike_stands  25 ;
         geo:lat         50.803917e0 ;
         geo:lng         4.349116e0 ;
@@ -1228,6 +1380,7 @@
 
 <ex:station_220_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "220 - LUTHER KING" ;
         ex:bike_stands  25 ;
         geo:lat         50.825706e0 ;
         geo:lng         4.288377e0 ;
@@ -1236,6 +1389,7 @@
 
 <ex:station_119_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "119 - PAQUOT/PACQUOT" ;
         ex:bike_stands  20 ;
         geo:lat         50.82559e0 ;
         geo:lng         4.379555e0 ;
@@ -1244,6 +1398,7 @@
 
 <ex:station_130_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "130 - ROND POINT DU SOUVERAIN" ;
         ex:bike_stands  23 ;
         geo:lat         50.819448e0 ;
         geo:lng         4.429082e0 ;
@@ -1252,6 +1407,7 @@
 
 <ex:station_99_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "099 - JUBILE" ;
         ex:bike_stands  25 ;
         geo:lat         50.864992e0 ;
         geo:lng         4.338431e0 ;
@@ -1260,6 +1416,7 @@
 
 <ex:station_78_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "078 - DUC PETIAUX" ;
         ex:bike_stands  25 ;
         geo:lat         50.823699e0 ;
         geo:lng         4.351623e0 ;
@@ -1268,6 +1425,7 @@
 
 <ex:station_57_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "057 - MADOU/MADOU" ;
         ex:bike_stands  24 ;
         geo:lat         50.848712e0 ;
         geo:lng         4.369509e0 ;
@@ -1276,6 +1434,7 @@
 
 <ex:station_36_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "036 - PLACE ST JEAN / SINT-JANSPLEIN" ;
         ex:bike_stands  35 ;
         geo:lat         50.845124e0 ;
         geo:lng         4.351486e0 ;
@@ -1284,6 +1443,7 @@
 
 <ex:station_15_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "015 - MONTGOMERY" ;
         ex:bike_stands  25 ;
         geo:lat         50.837036e0 ;
         geo:lng         4.406826e0 ;
@@ -1292,6 +1452,7 @@
 
 <ex:station_189_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "189 - PLACE VAN MEYEL/VAN MEYELPLEIN" ;
         ex:bike_stands  17 ;
         geo:lat         50.836924e0 ;
         geo:lng         4.389073e0 ;
@@ -1300,6 +1461,7 @@
 
 <ex:station_339_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "339 - MEUDON" ;
         ex:bike_stands  22 ;
         geo:lat         50.845365e0 ;
         geo:lng         4.41788e0 ;
@@ -1308,6 +1470,7 @@
 
 <ex:station_350_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "350 - VERHEYLEWEGHEN" ;
         ex:bike_stands  22 ;
         geo:lat         50.848184e0 ;
         geo:lng         4.425621e0 ;
@@ -1316,6 +1479,7 @@
 
 <ex:station_249_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "249 - SAINT-JOB/SINT-JOB" ;
         ex:bike_stands  25 ;
         geo:lat         50.794186e0 ;
         geo:lng         4.366336e0 ;
@@ -1324,6 +1488,7 @@
 
 <ex:station_228_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "228 - ALTITUDE CENT / HOOGTE HONDERD" ;
         ex:bike_stands  25 ;
         geo:lat         50.816525e0 ;
         geo:lng         4.336212e0 ;
@@ -1332,6 +1497,7 @@
 
 <ex:station_207_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "207 - BIESTEBROECK / BIESTEBROEK" ;
         ex:bike_stands  25 ;
         geo:lat         50.833424e0 ;
         geo:lng         4.313378e0 ;
@@ -1340,6 +1506,7 @@
 
 <ex:station_281_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "281 - ATOMIUM" ;
         ex:bike_stands  25 ;
         geo:lat         50.895485e0 ;
         geo:lng         4.341311e0 ;
@@ -1348,6 +1515,7 @@
 
 <ex:station_260_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "260 - TRITON" ;
         ex:bike_stands  25 ;
         geo:lat         50.86702e0 ;
         geo:lng         4.406995e0 ;
@@ -1356,6 +1524,7 @@
 
 <ex:station_159_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "159 - MASUI" ;
         ex:bike_stands  25 ;
         geo:lat         50.869297e0 ;
         geo:lng         4.36257e0 ;
@@ -1364,6 +1533,7 @@
 
 <ex:station_138_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "138 - HOUFFALIZE" ;
         ex:bike_stands  25 ;
         geo:lat         50.865218e0 ;
         geo:lng         4.377735e0 ;
@@ -1372,6 +1542,7 @@
 
 <ex:station_2_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "002 - ELOY/ELOY" ;
         ex:bike_stands  25 ;
         geo:lat         50.836151e0 ;
         geo:lng         4.326019e0 ;
@@ -1380,6 +1551,7 @@
 
 <ex:station_117_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "117 - CIMETIERE D'IXELLES/BEGRAAFPLAATS VAN ELSENE" ;
         ex:bike_stands  34 ;
         geo:lat         50.816029e0 ;
         geo:lng         4.391006e0 ;
@@ -1388,6 +1560,7 @@
 
 <ex:station_97_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "097 - KARREVELD" ;
         ex:bike_stands  25 ;
         geo:lat         50.858058e0 ;
         geo:lng         4.318689e0 ;
@@ -1396,6 +1569,7 @@
 
 <ex:station_76_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "076 - PLACE VAN MEENEN/VAN MEENENPLEIN" ;
         ex:bike_stands  25 ;
         geo:lat         50.825749e0 ;
         geo:lng         4.345165e0 ;
@@ -1404,6 +1578,7 @@
 
 <ex:station_55_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "055 - BOTANIQUE/KRUIDTUIN" ;
         ex:bike_stands  25 ;
         geo:lat         50.853248e0 ;
         geo:lng         4.366188e0 ;
@@ -1412,6 +1587,7 @@
 
 <ex:station_34_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "034 - FONTAINAS" ;
         ex:bike_stands  35 ;
         geo:lat         50.84563e0 ;
         geo:lng         4.346942e0 ;
@@ -1420,6 +1596,7 @@
 
 <ex:station_13_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "013 - LEMONNIER" ;
         ex:bike_stands  25 ;
         geo:lat         50.840184e0 ;
         geo:lng         4.341324e0 ;
@@ -1428,6 +1605,7 @@
 
 <ex:station_187_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "187 - ARSENAL/ARSENAAL" ;
         ex:bike_stands  25 ;
         geo:lat         50.826603e0 ;
         geo:lng         4.397117e0 ;
@@ -1436,6 +1614,7 @@
 
 <ex:station_166_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "166 - GC ESSEGEM" ;
         ex:bike_stands  25 ;
         geo:lat         50.876205e0 ;
         geo:lng         4.337137e0 ;
@@ -1444,6 +1623,7 @@
 
 <ex:station_145_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "145 - COTEAUX/WIJNHEUVELEN" ;
         ex:bike_stands  25 ;
         geo:lat         50.859096e0 ;
         geo:lng         4.379117e0 ;
@@ -1452,6 +1632,7 @@
 
 <ex:station_124_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "124 - CHARLES GRAUX" ;
         ex:bike_stands  25 ;
         geo:lat         50.818283e0 ;
         geo:lng         4.363568e0 ;
@@ -1460,6 +1641,7 @@
 
 <ex:station_358_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "358 - MADOUX" ;
         ex:bike_stands  25 ;
         geo:lat         50.82708e0 ;
         geo:lng         4.444795e0 ;
@@ -1468,6 +1650,7 @@
 
 <ex:station_337_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "337 - SHOPPING" ;
         ex:bike_stands  20 ;
         geo:lat         50.843779e0 ;
         geo:lng         4.437698e0 ;
@@ -1476,6 +1659,7 @@
 
 <ex:station_289_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "289 - SQUARE GEORGES MARLOWSQUARE" ;
         ex:bike_stands  25 ;
         geo:lat         50.801816e0 ;
         geo:lng         4.340738e0 ;
@@ -1484,6 +1668,7 @@
 
 <ex:station_268_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "268 - DUNANT" ;
         ex:bike_stands  20 ;
         geo:lat         50.862808e0 ;
         geo:lng         4.410791e0 ;
@@ -1492,6 +1677,7 @@
 
 <ex:station_247_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "247 - STALLE" ;
         ex:bike_stands  25 ;
         geo:lat         50.79586e0 ;
         geo:lng         4.32058e0 ;
@@ -1500,6 +1686,7 @@
 
 <ex:station_226_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "226 - UNION/UNIE" ;
         ex:bike_stands  25 ;
         geo:lat         50.819939e0 ;
         geo:lng         4.325277e0 ;
@@ -1508,6 +1695,7 @@
 
 <ex:station_205_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "205 - DE LINDE" ;
         ex:bike_stands  25 ;
         geo:lat         50.835503e0 ;
         geo:lng         4.299573e0 ;
@@ -1516,6 +1704,7 @@
 
 <ex:station_83_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "083 - SIMONIS" ;
         ex:bike_stands  32 ;
         geo:lat         50.86284e0 ;
         geo:lng         4.33126e0 ;
@@ -1524,6 +1713,7 @@
 
 <ex:station_62_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "062 - CORTENBERGH / KORTENBERG" ;
         ex:bike_stands  40 ;
         geo:lat         50.84177e0 ;
         geo:lng         4.38418e0 ;
@@ -1532,6 +1722,7 @@
 
 <ex:station_296_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "296 - GARE DE BOITSFORT" ;
         ex:bike_stands  25 ;
         geo:lat         50.79528e0 ;
         geo:lng         4.40832e0 ;
@@ -1540,6 +1731,7 @@
 
 <ex:station_275_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "275 - VERSAILLES" ;
         ex:bike_stands  20 ;
         geo:lat         50.896278e0 ;
         geo:lng         4.372427e0 ;
@@ -1548,6 +1740,7 @@
 
 <ex:station_254_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "254 - BASILIQUE / BASILIEK" ;
         ex:bike_stands  22 ;
         geo:lat         50.867393e0 ;
         geo:lng         4.320344e0 ;
@@ -1556,6 +1749,7 @@
 
 <ex:station_32_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "032 - DANSAERT" ;
         ex:bike_stands  35 ;
         geo:lat         50.850176e0 ;
         geo:lng         4.346384e0 ;
@@ -1564,6 +1758,7 @@
 
 <ex:station_11_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "011 - SABLON / ZAVEL" ;
         ex:bike_stands  17 ;
         geo:lat         50.8405e0 ;
         geo:lng         4.356878e0 ;
@@ -1572,6 +1767,7 @@
 
 <ex:station_185_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "185 - PERE DE DEKEN/PATER DE DEKEN" ;
         ex:bike_stands  25 ;
         geo:lat         50.835797e0 ;
         geo:lng         4.401599e0 ;
@@ -1580,6 +1776,7 @@
 
 <ex:station_164_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "164 - KENNIS" ;
         ex:bike_stands  25 ;
         geo:lat         50.867643e0 ;
         geo:lng         4.385817e0 ;
@@ -1588,6 +1785,7 @@
 
 <ex:station_143_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "143 - RTL" ;
         ex:bike_stands  25 ;
         geo:lat         50.857218e0 ;
         geo:lng         4.407879e0 ;
@@ -1596,6 +1794,7 @@
 
 <ex:station_122_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "122 - GARE D'ETTERBEEK" ;
         ex:bike_stands  30 ;
         geo:lat         50.822207e0 ;
         geo:lng         4.389325e0 ;
@@ -1604,6 +1803,7 @@
 
 <ex:station_356_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "356 - CENTRE SPORTIF" ;
         ex:bike_stands  16 ;
         geo:lat         50.829715e0 ;
         geo:lng         4.455151e0 ;
@@ -1612,6 +1812,7 @@
 
 <ex:station_101_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "101 - ZELLIK" ;
         ex:bike_stands  25 ;
         geo:lat         50.869204e0 ;
         geo:lng         4.291663e0 ;
@@ -1620,6 +1821,7 @@
 
 <ex:station_335_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "335 - THIRY" ;
         ex:bike_stands  20 ;
         geo:lat         50.854231e0 ;
         geo:lng         4.444034e0 ;
@@ -1628,6 +1830,7 @@
 
 <ex:station_314_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "314 - HERRMANN DEBROUX" ;
         ex:bike_stands  30 ;
         geo:lat         50.812325e0 ;
         geo:lng         4.427962e0 ;
@@ -1636,6 +1839,7 @@
 
 <ex:station_224_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "224 - ROCHEFORT" ;
         ex:bike_stands  25 ;
         geo:lat         50.824352e0 ;
         geo:lng         4.334465e0 ;
@@ -1644,6 +1848,7 @@
 
 <ex:station_203_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "203 - DEMOSTHENE" ;
         ex:bike_stands  15 ;
         geo:lat         50.84045e0 ;
         geo:lng         4.305055e0 ;
@@ -1652,6 +1857,7 @@
 
 <ex:station_8_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "008 - ARTS-LOI / KUNST-WET" ;
         ex:bike_stands  42 ;
         geo:lat         50.845683e0 ;
         geo:lng         4.368582e0 ;
@@ -1660,6 +1866,7 @@
 
 <ex:station_81_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "081 - PONT BOCKSTAEL/BRUG BOCKSTAEL" ;
         ex:bike_stands  25 ;
         geo:lat         50.870259e0 ;
         geo:lng         4.343195e0 ;
@@ -1668,6 +1875,7 @@
 
 <ex:station_60_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "060 - ST-LAZARE/ST LAZARUS (TRAVAUX)" ;
         ex:bike_stands  25 ;
         geo:lat         50.856714e0 ;
         geo:lng         4.362106e0 ;
@@ -1676,6 +1884,7 @@
 
 <ex:station_19_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "019 - PLACE MORICHAR/MORICHARPLEIN" ;
         ex:bike_stands  20 ;
         geo:lat         50.828046e0 ;
         geo:lng         4.347596e0 ;
@@ -1684,6 +1893,7 @@
 
 <ex:station_294_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "294 - WIENER" ;
         ex:bike_stands  25 ;
         geo:lat         50.798344e0 ;
         geo:lng         4.419014e0 ;
@@ -1692,6 +1902,7 @@
 
 <ex:station_273_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "273 - TAMARIS" ;
         ex:bike_stands  25 ;
         geo:lat         50.854824e0 ;
         geo:lng         4.306209e0 ;
@@ -1700,6 +1911,7 @@
 
 <ex:station_252_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "252 - BEMPT" ;
         ex:bike_stands  25 ;
         geo:lat         50.802563e0 ;
         geo:lng         4.315701e0 ;
@@ -1708,6 +1920,7 @@
 
 <ex:station_231_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "231 - KERSBEEK" ;
         ex:bike_stands  19 ;
         geo:lat         50.805801e0 ;
         geo:lng         4.3194e0 ;
@@ -1716,6 +1929,7 @@
 
 <ex:station_210_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "210 - MARIUS RENARD" ;
         ex:bike_stands  25 ;
         geo:lat         50.827873e0 ;
         geo:lng         4.288707e0 ;
@@ -1724,6 +1938,7 @@
 
 <ex:station_109_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "109 - CHATELAIN/KASTELEIN" ;
         ex:bike_stands  25 ;
         geo:lat         50.824048e0 ;
         geo:lng         4.359896e0 ;
@@ -1732,6 +1947,7 @@
 
 <ex:station_183_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "183 - LA CHASSE/JACHT" ;
         ex:bike_stands  25 ;
         geo:lat         50.829928e0 ;
         geo:lng         4.390357e0 ;
@@ -1740,6 +1956,7 @@
 
 <ex:station_141_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "141 - GARE DU NORD/NOORDSTATION" ;
         ex:bike_stands  42 ;
         geo:lat         50.860652e0 ;
         geo:lng         4.358116e0 ;
@@ -1748,6 +1965,7 @@
 
 <ex:station_120_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "120 - BLYCKAERTS" ;
         ex:bike_stands  25 ;
         geo:lat         50.832872e0 ;
         geo:lng         4.37483e0 ;
@@ -1756,6 +1974,7 @@
 
 <ex:station_354_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "354 - TRIOMPHE / TRIOMF" ;
         ex:bike_stands  20 ;
         geo:lat         50.821557e0 ;
         geo:lng         4.402288e0 ;
@@ -1764,6 +1983,7 @@
 
 <ex:station_333_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "333 - TRACTEBEL" ;
         ex:bike_stands  25 ;
         geo:lat         50.856582e0 ;
         geo:lng         4.430988e0 ;
@@ -1772,6 +1992,7 @@
 
 <ex:station_312_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "312 - CENTRE CULTUREL / CULTUREEL CENTRUM" ;
         ex:bike_stands  25 ;
         geo:lat         50.816948e0 ;
         geo:lng         4.426551e0 ;
@@ -1780,6 +2001,7 @@
 
 <ex:station_89_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "089 - ATHENEE DE JETTE/ATHENEUM VAN JETTE" ;
         ex:bike_stands  25 ;
         geo:lat         50.8711927450574e0 ;
         geo:lng         4.32992476563641e0 ;
@@ -1788,6 +2010,7 @@
 
 <ex:station_68_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "068 - JEAN REY" ;
         ex:bike_stands  33 ;
         geo:lat         50.840282e0 ;
         geo:lng         4.380131e0 ;
@@ -1796,6 +2019,7 @@
 
 <ex:station_47_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "047 - LES QUAIS / KAAIEN" ;
         ex:bike_stands  20 ;
         geo:lat         50.854714e0 ;
         geo:lng         4.347151e0 ;
@@ -1804,6 +2028,7 @@
 
 <ex:station_26_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "026 - VAN LINT" ;
         ex:bike_stands  23 ;
         geo:lat         50.839413e0 ;
         geo:lng         4.328914e0 ;
@@ -1812,6 +2037,7 @@
 
 <ex:station_6_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "006 - GARE CENTRALE/CENTRAAL STATION" ;
         ex:bike_stands  40 ;
         geo:lat         50.845333e0 ;
         geo:lng         4.356475e0 ;
@@ -1820,6 +2046,7 @@
 
 <ex:station_190_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "190 - TERDELT" ;
         ex:bike_stands  22 ;
         geo:lat         50.867904e0 ;
         geo:lng         4.390696e0 ;
@@ -1828,6 +2055,7 @@
 
 <ex:station_340_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "340 - TOMBERG" ;
         ex:bike_stands  24 ;
         geo:lat         50.843617e0 ;
         geo:lng         4.425324e0 ;
@@ -1836,6 +2064,7 @@
 
 <ex:station_239_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "239 - DARWIN" ;
         ex:bike_stands  25 ;
         geo:lat         50.817777e0 ;
         geo:lng         4.350406e0 ;
@@ -1844,6 +2073,7 @@
 
 <ex:station_218_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "218 - DELACROIX" ;
         ex:bike_stands  25 ;
         geo:lat         50.845928e0 ;
         geo:lng         4.323812e0 ;
@@ -1852,6 +2082,7 @@
 
 <ex:station_292_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "292 - RITTWEGER" ;
         ex:bike_stands  20 ;
         geo:lat         50.797739e0 ;
         geo:lng         4.336083e0 ;
@@ -1860,6 +2091,7 @@
 
 <ex:station_271_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "271 - DUBOIS" ;
         ex:bike_stands  25 ;
         geo:lat         50.851158e0 ;
         geo:lng         4.309591e0 ;
@@ -1868,6 +2100,7 @@
 
 <ex:station_250_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "250 - SAINTE-ELISABETH" ;
         ex:bike_stands  25 ;
         geo:lat         50.80534e0 ;
         geo:lng         4.372123e0 ;
@@ -1876,6 +2109,7 @@
 
 <ex:station_149_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "149 - JULES LEBRUN" ;
         ex:bike_stands  25 ;
         geo:lat         50.856208e0 ;
         geo:lng         4.403386e0 ;
@@ -1884,6 +2118,7 @@
 
 <ex:station_128_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "128 - MUSEE DU TRAM" ;
         ex:bike_stands  25 ;
         geo:lat         50.832355e0 ;
         geo:lng         4.432358e0 ;
@@ -1892,6 +2127,7 @@
 
 <ex:station_107_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "107 - DEFACQZ" ;
         ex:bike_stands  25 ;
         geo:lat         50.827652e0 ;
         geo:lng         4.359031e0 ;
@@ -1900,6 +2136,7 @@
 
 <ex:station_87_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "087 - MIROIR/SPIEGEL" ;
         ex:bike_stands  25 ;
         geo:lat         50.871391e0 ;
         geo:lng         4.323914e0 ;
@@ -1908,6 +2145,7 @@
 
 <ex:station_66_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "066 - SCHUMAN" ;
         ex:bike_stands  40 ;
         geo:lat         50.843359e0 ;
         geo:lng         4.379946e0 ;
@@ -1916,6 +2154,7 @@
 
 <ex:station_45_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "045 - STEPHANIE/STEFANIA" ;
         ex:bike_stands  25 ;
         geo:lat         50.83308e0 ;
         geo:lng         4.35743e0 ;
@@ -1924,6 +2163,7 @@
 
 <ex:station_24_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "024 - ROGIER / ROGIER" ;
         ex:bike_stands  36 ;
         geo:lat         50.855268e0 ;
         geo:lng         4.358717e0 ;
@@ -1932,6 +2172,7 @@
 
 <ex:station_4_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "004 - JARDIN AUX FLEURS / BLOEMENHOF" ;
         ex:bike_stands  20 ;
         geo:lat         50.847976e0 ;
         geo:lng         4.343696e0 ;
@@ -1940,6 +2181,7 @@
 
 <ex:station_198_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "198 - SCHEUT" ;
         ex:bike_stands  25 ;
         geo:lat         50.847649e0 ;
         geo:lng         4.307714e0 ;
@@ -1948,6 +2190,7 @@
 
 <ex:station_348_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "348 - HANSEN-SOULIE" ;
         ex:bike_stands  24 ;
         geo:lat         50.831078e0 ;
         geo:lng         4.398546e0 ;
@@ -1956,6 +2199,7 @@
 
 <ex:station_279_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "279 - HOUBA BRUGMANN" ;
         ex:bike_stands  25 ;
         geo:lat         50.890181e0 ;
         geo:lng         4.336962e0 ;
@@ -1964,6 +2208,7 @@
 
 <ex:station_258_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "258 - LIBERTE" ;
         ex:bike_stands  18 ;
         geo:lat         50.862152e0 ;
         geo:lng         4.323353e0 ;
@@ -1972,6 +2217,7 @@
 
 <ex:station_237_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "237 - PARVIS ST ANTOINE" ;
         ex:bike_stands  25 ;
         geo:lat         50.827972e0 ;
         geo:lng         4.330705e0 ;
@@ -1980,6 +2226,7 @@
 
 <ex:station_216_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "216 - ARISTIDE BRIAND" ;
         ex:bike_stands  25 ;
         geo:lat         50.828873e0 ;
         geo:lng         4.303918e0 ;
@@ -1988,6 +2235,7 @@
 
 <ex:station_290_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "290 - GARE DE CALEVOET / KALEVOET STATION" ;
         ex:bike_stands  24 ;
         geo:lat         50.79158e0 ;
         geo:lng         4.332669e0 ;
@@ -1996,6 +2244,7 @@
 
 <ex:station_168_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "168 - HOPITAL FRANÇAIS/FRANS HOSPITAAL" ;
         ex:bike_stands  25 ;
         geo:lat         50.866379e0 ;
         geo:lng         4.303281e0 ;
@@ -2004,6 +2253,7 @@
 
 <ex:station_147_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "147 - EMILE MAX LYCEE/LYCEUM EMILE MAX" ;
         ex:bike_stands  25 ;
         geo:lat         50.861874e0 ;
         geo:lng         4.372146e0 ;
@@ -2012,6 +2262,7 @@
 
 <ex:station_126_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "126 - FABRY" ;
         ex:bike_stands  25 ;
         geo:lat         50.837288e0 ;
         geo:lng         4.43462e0 ;
@@ -2020,6 +2271,7 @@
 
 <ex:station_105_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "105 - DE HENNIN" ;
         ex:bike_stands  20 ;
         geo:lat         50.829631e0 ;
         geo:lng         4.3692e0 ;
@@ -2028,6 +2280,7 @@
 
 <ex:station_318_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "318 - CARDINAL MERCIER / KARDINAAL MERCIER" ;
         ex:bike_stands  26 ;
         geo:lat         50.880539e0 ;
         geo:lng         4.32823e0 ;
@@ -2036,6 +2289,7 @@
 
 <ex:station_85_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "085 - ETANGS NOIRS/ZWARTE VIJVERS" ;
         ex:bike_stands  25 ;
         geo:lat         50.8572655240874e0 ;
         geo:lng         4.33236837868758e0 ;
@@ -2044,6 +2298,7 @@
 
 <ex:station_64_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "064 - VETERINAIRES" ;
         ex:bike_stands  25 ;
         geo:lat         50.832749e0 ;
         geo:lng         4.331058e0 ;
@@ -2052,6 +2307,7 @@
 
 <ex:station_43_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "043 - JOSEPH II / JOZEF II" ;
         ex:bike_stands  25 ;
         geo:lat         50.845256e0 ;
         geo:lng         4.374501e0 ;
@@ -2060,6 +2316,7 @@
 
 <ex:station_22_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "022 - JACQMAIN" ;
         ex:bike_stands  23 ;
         geo:lat         50.85587e0 ;
         geo:lng         4.35585e0 ;
@@ -2068,6 +2325,7 @@
 
 <ex:station_196_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "196 - PRINCE DE LIEGE / PRINS VAN LUIK" ;
         ex:bike_stands  25 ;
         geo:lat         50.846874e0 ;
         geo:lng         4.29817e0 ;
@@ -2076,6 +2334,7 @@
 
 <ex:station_175_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "175 - BEEKANT" ;
         ex:bike_stands  25 ;
         geo:lat         50.854166e0 ;
         geo:lng         4.322948e0 ;
@@ -2084,6 +2343,7 @@
 
 <ex:station_154_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "154 - PLASKY/PLASKY" ;
         ex:bike_stands  25 ;
         geo:lat         50.851241e0 ;
         geo:lng         4.396386e0 ;
@@ -2092,6 +2352,7 @@
 
 <ex:station_133_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "133 - CHÂTEAU/KASTEEL" ;
         ex:bike_stands  24 ;
         geo:lat         50.866795e0 ;
         geo:lng         4.3092224e0 ;
@@ -2100,6 +2361,7 @@
 
 <ex:station_346_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "346 - RECHERCHE" ;
         ex:bike_stands  20 ;
         geo:lat         50.81591e0 ;
         geo:lng         4.2737e0 ;
@@ -2108,6 +2370,7 @@
 
 <ex:station_325_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "325 - HANKAR" ;
         ex:bike_stands  25 ;
         geo:lat         50.821735e0 ;
         geo:lng         4.405622e0 ;
@@ -2116,6 +2379,7 @@
 
 <ex:station_304_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "304 - ARAUCARIA" ;
         ex:bike_stands  25 ;
         geo:lat         50.893497e0 ;
         geo:lng         4.363297e0 ;
@@ -2124,6 +2388,7 @@
 
 <ex:station_298_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "298 - HALL DES SPORTS" ;
         ex:bike_stands  25 ;
         geo:lat         50.877037e0 ;
         geo:lng         4.300847e0 ;
@@ -2132,6 +2397,7 @@
 
 <ex:station_277_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "277 - VAN PRAET" ;
         ex:bike_stands  21 ;
         geo:lat         50.881588e0 ;
         geo:lng         4.373817e0 ;
@@ -2140,6 +2406,7 @@
 
 <ex:station_256_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "256 - VAN OVERBEKE" ;
         ex:bike_stands  24 ;
         geo:lat         50.874767e0 ;
         geo:lng         4.308977e0 ;
@@ -2148,6 +2415,7 @@
 
 <ex:station_235_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "235 - FOREST NATIONAL / VORST NATIONAAL" ;
         ex:bike_stands  25 ;
         geo:lat         50.810085e0 ;
         geo:lng         4.324864e0 ;
@@ -2156,6 +2424,7 @@
 
 <ex:station_214_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "214 - CAMPUS CERIA / CAMPUS VAN CERIA" ;
         ex:bike_stands  30 ;
         geo:lat         50.816002e0 ;
         geo:lng         4.295121e0 ;
@@ -2164,6 +2433,7 @@
 
 <ex:station_92_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "092 - LENOIR" ;
         ex:bike_stands  24 ;
         geo:lat         50.875826e0 ;
         geo:lng         4.329921e0 ;
@@ -2172,6 +2442,7 @@
 
 <ex:station_284_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "284 - CLAESSENS" ;
         ex:bike_stands  25 ;
         geo:lat         50.873085e0 ;
         geo:lng         4.35859e0 ;
@@ -2180,6 +2451,7 @@
 
 <ex:station_263_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "263 - MAISON COMMUNALE D'EVERE" ;
         ex:bike_stands  19 ;
         geo:lat         50.872002e0 ;
         geo:lng         4.403286e0 ;
@@ -2188,6 +2460,7 @@
 
 <ex:station_41_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "041 - SAINT-ROCH/SINT-ROCHUS" ;
         ex:bike_stands  24 ;
         geo:lat         50.859302e0 ;
         geo:lng         4.35485e0 ;
@@ -2196,6 +2469,7 @@
 
 <ex:station_20_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "020 - PALAIS ROYAL / KONINKLIJK PALEIS" ;
         ex:bike_stands  20 ;
         geo:lat         50.843613e0 ;
         geo:lng         4.360628e0 ;
@@ -2204,6 +2478,7 @@
 
 <ex:station_194_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "194 - STUYVENBERG" ;
         ex:bike_stands  25 ;
         geo:lat         50.885885e0 ;
         geo:lng         4.342003e0 ;
@@ -2212,6 +2487,7 @@
 
 <ex:station_173_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "173 - BICHON" ;
         ex:bike_stands  24 ;
         geo:lat         50.864656e0 ;
         geo:lng         4.394448e0 ;
@@ -2220,6 +2496,7 @@
 
 <ex:station_152_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "152 - PLACE DAILLY/DAILLYPLEIN" ;
         ex:bike_stands  25 ;
         geo:lat         50.852389e0 ;
         geo:lng         4.387373e0 ;
@@ -2228,6 +2505,7 @@
 
 <ex:station_131_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "131 - JARDIN MASSART" ;
         ex:bike_stands  25 ;
         geo:lat         50.81329e0 ;
         geo:lng         4.434751e0 ;
@@ -2236,6 +2514,7 @@
 
 <ex:station_110_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "110 - RODIN" ;
         ex:bike_stands  22 ;
         geo:lat         50.826992e0 ;
         geo:lng         4.382379e0 ;
@@ -2244,6 +2523,7 @@
 
 <ex:station_344_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "344 - BETHLEEM" ;
         ex:bike_stands  20 ;
         geo:lat         50.830179e0 ;
         geo:lng         4.337958e0 ;
@@ -2252,6 +2532,7 @@
 
 <ex:station_323_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "323 - CARENE" ;
         ex:bike_stands  20 ;
         geo:lat         50.855186e0 ;
         geo:lng         4.415246e0 ;
@@ -2260,6 +2541,7 @@
 
 <ex:station_233_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "233 - PARC DUDEN / DUDEN PARK" ;
         ex:bike_stands  20 ;
         geo:lat         50.813858e0 ;
         geo:lng         4.330992e0 ;
@@ -2268,6 +2550,7 @@
 
 <ex:station_212_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "212 - THEO LAMBERT" ;
         ex:bike_stands  25 ;
         geo:lat         50.827106e0 ;
         geo:lng         4.2925e0 ;
@@ -2276,6 +2559,7 @@
 
 <ex:station_90_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "090 - BROUSTIN" ;
         ex:bike_stands  17 ;
         geo:lat         50.867448e0 ;
         geo:lng         4.326807e0 ;
@@ -2284,6 +2568,7 @@
 
 <ex:station_49_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "049 - WILLEBROECK/WILLEBROEK" ;
         ex:bike_stands  25 ;
         geo:lat         50.8615e0 ;
         geo:lng         4.351143e0 ;
@@ -2292,6 +2577,7 @@
 
 <ex:station_28_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "028 - CLEMENCEAU / CLEMENCEAU" ;
         ex:bike_stands  27 ;
         geo:lat         50.842005e0 ;
         geo:lng         4.3305e0 ;
@@ -2300,6 +2586,7 @@
 
 <ex:station_282_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "282 - CENTENAIRE / EEUWFEEST" ;
         ex:bike_stands  25 ;
         geo:lat         50.89097e0 ;
         geo:lng         4.344827e0 ;
@@ -2308,6 +2595,7 @@
 
 <ex:station_261_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "261 - CONSCIENCE" ;
         ex:bike_stands  20 ;
         geo:lat         50.86879e0 ;
         geo:lng         4.399587e0 ;
@@ -2316,6 +2604,7 @@
 
 <ex:station_240_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "240 - VANDERKINDERE" ;
         ex:bike_stands  23 ;
         geo:lat         50.81418e0 ;
         geo:lng         4.347721e0 ;
@@ -2324,6 +2613,7 @@
 
 <ex:station_139_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "139 - LIEDTS" ;
         ex:bike_stands  25 ;
         geo:lat         50.863872e0 ;
         geo:lng         4.366741e0 ;
@@ -2332,6 +2622,7 @@
 
 <ex:station_118_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "118 - SCHWEITZER" ;
         ex:bike_stands  25 ;
         geo:lat         50.864622e0 ;
         geo:lng         4.297878e0 ;
@@ -2340,6 +2631,7 @@
 
 <ex:station_192_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "192 - AUBERGE DE JEUNESSE" ;
         ex:bike_stands  25 ;
         geo:lat         50.851562e0 ;
         geo:lng         4.332924e0 ;
@@ -2348,6 +2640,7 @@
 
 <ex:station_171_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "171 - PISCINE LOUIS NAMECHE ZWEMBAD" ;
         ex:bike_stands  25 ;
         geo:lat         50.854789e0 ;
         geo:lng         4.312201e0 ;
@@ -2356,6 +2649,7 @@
 
 <ex:station_150_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "150 - MEISER/MEISER" ;
         ex:bike_stands  25 ;
         geo:lat         50.854654e0 ;
         geo:lng         4.398451e0 ;
@@ -2364,6 +2658,7 @@
 
 <ex:station_342_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "342 - MAISON COMMUNALE DE BERCHEM ST AGHATE" ;
         ex:bike_stands  20 ;
         geo:lat         50.864761e0 ;
         geo:lng         4.294429e0 ;
@@ -2372,6 +2667,7 @@
 
 <ex:station_321_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "321 - SACRE-CŒUR DE/HEILIGE HART VAN JETTE" ;
         ex:bike_stands  19 ;
         geo:lat         50.884251e0 ;
         geo:lng         4.330287e0 ;
@@ -2380,6 +2676,7 @@
 
 <ex:station_300_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "300 - GARE DE BOONDAELSTATION" ;
         ex:bike_stands  25 ;
         geo:lat         50.801434e0 ;
         geo:lng         4.392831e0 ;
@@ -2388,6 +2685,7 @@
 
 <ex:station_98_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "098 - CIMETIERE/KERKHOF" ;
         ex:bike_stands  20 ;
         geo:lat         50.85904e0 ;
         geo:lng         4.312402e0 ;
@@ -2396,6 +2694,7 @@
 
 <ex:station_77_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "077 - PAUL JANSON" ;
         ex:bike_stands  25 ;
         geo:lat         50.827399e0 ;
         geo:lng         4.355281e0 ;
@@ -2404,6 +2703,7 @@
 
 <ex:station_56_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "056 - ARCHIMEDE / ARCHIMEDES" ;
         ex:bike_stands  25 ;
         geo:lat         50.845817e0 ;
         geo:lng         4.383722e0 ;
@@ -2412,6 +2712,7 @@
 
 <ex:station_269_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "269 - CICERON" ;
         ex:bike_stands  25 ;
         geo:lat         50.860859e0 ;
         geo:lng         4.421375e0 ;
@@ -2420,6 +2721,7 @@
 
 <ex:station_248_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "248 - PRINCE DE LIGNE / PRINCE LIJN" ;
         ex:bike_stands  22 ;
         geo:lat         50.795704e0 ;
         geo:lng         4.373631e0 ;
@@ -2428,6 +2730,7 @@
 
 <ex:station_227_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "227 - PATINAGE" ;
         ex:bike_stands  20 ;
         geo:lat         50.816695e0 ;
         geo:lng         4.319891e0 ;
@@ -2436,6 +2739,7 @@
 
 <ex:station_206_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "206 - SAINT-GUIDON / SINT GUIDO" ;
         ex:bike_stands  25 ;
         geo:lat         50.834755e0 ;
         geo:lng         4.305962e0 ;
@@ -2444,6 +2748,7 @@
 
 <ex:station_280_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "280 - HEYSEL / HEISEL" ;
         ex:bike_stands  25 ;
         geo:lat         50.897522e0 ;
         geo:lng         4.334831e0 ;
@@ -2452,6 +2757,7 @@
 
 <ex:station_179_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "179 - CELTES/KELTEN" ;
         ex:bike_stands  44 ;
         geo:lat         50.839217e0 ;
         geo:lng         4.398015e0 ;
@@ -2460,6 +2766,7 @@
 
 <ex:station_158_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "158 - VAN YSENDIJCK" ;
         ex:bike_stands  24 ;
         geo:lat         50.867955e0 ;
         geo:lng         4.379577e0 ;
@@ -2468,6 +2775,7 @@
 
 <ex:station_137_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "137 - MAISON COMMUNALE DE SCHAERBEEK" ;
         ex:bike_stands  25 ;
         geo:lat         50.86661e0 ;
         geo:lng         4.373102e0 ;
@@ -2476,6 +2784,7 @@
 
 <ex:station_116_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "116 - ULB PLAINE" ;
         ex:bike_stands  25 ;
         geo:lat         50.818253e0 ;
         geo:lng         4.395749e0 ;
@@ -2484,6 +2793,7 @@
 
 <ex:station_329_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "329 - ROODEBEEK (FERMÉE - TRAVAUX)" ;
         ex:bike_stands  24 ;
         geo:lat         50.847617e0 ;
         geo:lng         4.436084e0 ;
@@ -2492,6 +2802,7 @@
 
 <ex:station_308_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "308 - TIVOLI" ;
         ex:bike_stands  19 ;
         geo:lat         50.872265e0 ;
         geo:lng         4.352158e0 ;
@@ -2500,6 +2811,7 @@
 
 <ex:station_96_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "096 - HOTEL PRESIDENT" ;
         ex:bike_stands  25 ;
         geo:lat         50.863875e0 ;
         geo:lng         4.358708e0 ;
@@ -2508,6 +2820,7 @@
 
 <ex:station_75_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "075 - GENERAL BARON/GENERAAL BARON" ;
         ex:bike_stands  25 ;
         geo:lat         50.825888e0 ;
         geo:lng         4.340388e0 ;
@@ -2516,6 +2829,7 @@
 
 <ex:station_54_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "054 - TOUR ET TAXIS/THURN &TAXIS" ;
         ex:bike_stands  39 ;
         geo:lat         50.863445e0 ;
         geo:lng         4.34635e0 ;
@@ -2524,6 +2838,7 @@
 
 <ex:station_33_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "033 - MORT SUBITE" ;
         ex:bike_stands  25 ;
         geo:lat         50.848701e0 ;
         geo:lng         4.356055e0 ;
@@ -2532,6 +2847,7 @@
 
 <ex:station_357_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "357 - AVIATION" ;
         ex:bike_stands  20 ;
         geo:lat         50.834634e0 ;
         geo:lng         4.456746e0 ;
@@ -2540,6 +2856,7 @@
 
 <ex:station_288_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "288 - HOUZEAU" ;
         ex:bike_stands  20 ;
         geo:lat         50.80351e0 ;
         geo:lng         4.3589e0 ;
@@ -2548,6 +2865,7 @@
 
 <ex:station_267_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "267 - GENEVE" ;
         ex:bike_stands  25 ;
         geo:lat         50.862912e0 ;
         geo:lng         4.403226e0 ;
@@ -2556,6 +2874,7 @@
 
 <ex:station_246_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "246 - GATTI DE GAMOND" ;
         ex:bike_stands  20 ;
         geo:lat         50.796471e0 ;
         geo:lng         4.328415e0 ;
@@ -2564,6 +2883,7 @@
 
 <ex:station_225_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "225 - PLACE ALBERT PLEIN" ;
         ex:bike_stands  25 ;
         geo:lat         50.821117e0 ;
         geo:lng         4.342008e0 ;
@@ -2572,6 +2892,7 @@
 
 <ex:station_204_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "204 - DUPUIS" ;
         ex:bike_stands  25 ;
         geo:lat         50.837326e0 ;
         geo:lng         4.293932e0 ;
@@ -2580,6 +2901,7 @@
 
 <ex:station_177_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "177 - CHASSEURS ARDENNAIS/ARDENSE JAGERS" ;
         ex:bike_stands  25 ;
         geo:lat         50.849409e0 ;
         geo:lng         4.389263e0 ;
@@ -2588,6 +2910,7 @@
 
 <ex:station_156_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "156 - JAMBLINE DE MEUX/JAMBLINNE DE MEUX" ;
         ex:bike_stands  25 ;
         geo:lat         50.847158e0 ;
         geo:lng         4.393255e0 ;
@@ -2596,6 +2919,7 @@
 
 <ex:station_135_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "135 - PARC LACROIX/LACROIX PARK" ;
         ex:bike_stands  25 ;
         geo:lat         50.872744e0 ;
         geo:lng         4.376647e0 ;
@@ -2604,6 +2928,7 @@
 
 <ex:station_114_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "114 - SAISONS/JAARGETIJDEN" ;
         ex:bike_stands  25 ;
         geo:lat         50.820391e0 ;
         geo:lng         4.385358e0 ;
@@ -2612,6 +2937,7 @@
 
 <ex:station_327_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "327 - SIBELGA" ;
         ex:bike_stands  20 ;
         geo:lat         50.874082e0 ;
         geo:lng         4.362205e0 ;
@@ -2620,6 +2946,7 @@
 
 <ex:station_306_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "306 - HEMBEEK" ;
         ex:bike_stands  25 ;
         geo:lat         50.889073e0 ;
         geo:lng         4.375073e0 ;
@@ -2628,6 +2955,7 @@
 
 <ex:station_94_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "094 - DUCHESSE DE BRABANT/HERTOGIN VAN BRABANT" ;
         ex:bike_stands  20 ;
         geo:lat         50.849215e0 ;
         geo:lng         4.329184e0 ;
@@ -2636,6 +2964,7 @@
 
 <ex:station_73_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "073 - VLEURGAT" ;
         ex:bike_stands  25 ;
         geo:lat         50.823898e0 ;
         geo:lng         4.367752e0 ;
@@ -2644,6 +2973,7 @@
 
 <ex:station_52_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "052 - SAINCTELETTE" ;
         ex:bike_stands  35 ;
         geo:lat         50.859212e0 ;
         geo:lng         4.34551e0 ;
@@ -2652,6 +2982,7 @@
 
 <ex:station_31_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "031 - MUSEE DE LA BD / STRIPMUSEUM" ;
         ex:bike_stands  25 ;
         geo:lat         50.850303e0 ;
         geo:lng         4.360706e0 ;
@@ -2660,6 +2991,7 @@
 
 <ex:station_10_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "010 - CHAPELLE / KAPEL" ;
         ex:bike_stands  20 ;
         geo:lat         50.841345e0 ;
         geo:lng         4.351729e0 ;
@@ -2668,6 +3000,7 @@
 
 <ex:station_184_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "184 - PHILIPPE BAUCQ" ;
         ex:bike_stands  25 ;
         geo:lat         50.831592e0 ;
         geo:lng         4.385786e0 ;
@@ -2676,6 +3009,7 @@
 
 <ex:station_163_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "163 - CHAZAL/CHAZAL" ;
         ex:bike_stands  25 ;
         geo:lat         50.859112e0 ;
         geo:lng         4.39157e0 ;
@@ -2684,6 +3018,7 @@
 
 <ex:station_142_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "142 - BIENFAITEURS/WELDOENERS" ;
         ex:bike_stands  24 ;
         geo:lat         50.857319e0 ;
         geo:lng         4.386724e0 ;
@@ -2692,6 +3027,7 @@
 
 <ex:station_355_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "355 - PARNASSE" ;
         ex:bike_stands  22 ;
         geo:lat         50.837714e0 ;
         geo:lng         4.369117e0 ;
@@ -2700,6 +3036,7 @@
 
 <ex:station_334_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "334 - MARCEL THIRY" ;
         ex:bike_stands  20 ;
         geo:lat         50.855593e0 ;
         geo:lng         4.439625e0 ;
@@ -2708,6 +3045,7 @@
 
 <ex:station_313_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "313 - DEMEY" ;
         ex:bike_stands  25 ;
         geo:lat         50.814958e0 ;
         geo:lng         4.416987e0 ;
@@ -2716,6 +3054,7 @@
 
 <ex:station_286_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "286 - BENS" ;
         ex:bike_stands  20 ;
         geo:lat         50.80814e0 ;
         geo:lng         4.336901e0 ;
@@ -2724,6 +3063,7 @@
 
 <ex:station_265_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "265 - EVERE SHOPPING" ;
         ex:bike_stands  25 ;
         geo:lat         50.867241e0 ;
         geo:lng         4.40287e0 ;
@@ -2732,6 +3072,7 @@
 
 <ex:station_244_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "244 - BOIS DE LA CAMBRE" ;
         ex:bike_stands  20 ;
         geo:lat         50.81218e0 ;
         geo:lng         4.368321e0 ;
@@ -2740,6 +3081,7 @@
 
 <ex:station_223_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "223 - WIELS" ;
         ex:bike_stands  25 ;
         geo:lat         50.824055e0 ;
         geo:lng         4.326376e0 ;
@@ -2748,6 +3090,7 @@
 
 <ex:station_202_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "202 - AUMALE" ;
         ex:bike_stands  25 ;
         geo:lat         50.840217e0 ;
         geo:lng         4.313386e0 ;
@@ -2756,6 +3099,7 @@
 
 <ex:station_7_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "007 - PARC / PARK" ;
         ex:bike_stands  25 ;
         geo:lat         50.846319e0 ;
         geo:lng         4.362244e0 ;
@@ -2764,6 +3108,7 @@
 
 <ex:station_112_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "112 - PAGE/EDELKNAAP" ;
         ex:bike_stands  18 ;
         geo:lat         50.821567e0 ;
         geo:lng         4.356508e0 ;
@@ -2772,6 +3117,7 @@
 
 <ex:station_39_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "039 - HOTEL DES MONNAIES / MUNTHOTEL" ;
         ex:bike_stands  25 ;
         geo:lat         50.834237e0 ;
         geo:lng         4.350732e0 ;
@@ -2780,6 +3126,7 @@
 
 <ex:station_18_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "018 - GUTENBERG / GUTENBERG" ;
         ex:bike_stands  25 ;
         geo:lat         50.84771e0 ;
         geo:lng         4.377552e0 ;
@@ -2788,6 +3135,7 @@
 
 <ex:station_293_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "293 - KEYM" ;
         ex:bike_stands  25 ;
         geo:lat         50.810528e0 ;
         geo:lng         4.40231e0 ;
@@ -2796,6 +3144,7 @@
 
 <ex:station_71_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "071 - LEGRAND" ;
         ex:bike_stands  22 ;
         geo:lat         50.815019e0 ;
         geo:lng         4.371982e0 ;
@@ -2804,6 +3153,7 @@
 
 <ex:station_272_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "272 - SCHEUTBOS" ;
         ex:bike_stands  25 ;
         geo:lat         50.850845e0 ;
         geo:lng         4.299659e0 ;
@@ -2812,6 +3162,7 @@
 
 <ex:station_50_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "050 - RIBAUCOURT" ;
         ex:bike_stands  25 ;
         geo:lat         50.860862e0 ;
         geo:lng         4.339182e0 ;
@@ -2820,6 +3171,7 @@
 
 <ex:station_182_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "182 - BOILEAU" ;
         ex:bike_stands  25 ;
         geo:lat         50.83168e0 ;
         geo:lng         4.404769e0 ;
@@ -2828,6 +3180,7 @@
 
 <ex:station_161_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "161 - DEMOLDER (FERMÉE - TRAVAUX)" ;
         ex:bike_stands  25 ;
         geo:lat         50.872592e0 ;
         geo:lng         4.379886e0 ;
@@ -2836,6 +3189,7 @@
 
 <ex:station_140_Bruxelles>
         a               sosa:FeatureOfInterest ;
+        rdfs:label      "140 - AZALEES/AZALEA" ;
         ex:bike_stands  25 ;
         geo:lat         50.862704e0 ;
         geo:lng         4.381289e0 ;
