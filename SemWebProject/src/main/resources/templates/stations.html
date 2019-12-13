@@ -3,7 +3,7 @@
     <head>
         <link rel="stylesheet" href="../css/cssAllPages.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <title th:text="'Stations ' + ${cityName}"></title>
+        <title th:text="${cityName} == null ? 'Station results' : 'Stations ' +${cityName}"></title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
@@ -18,7 +18,7 @@
                             <div class="textcard card-img-overlay">
                                 <h5 property="rdfs:label" class="card-title">[[ ${station.name} ]]</h5>
                                 <h4 property="wdp:P131" class="card-title">[[ ${station.city} ]]</h4>
-                                <h4 property="wdp:P669" class="card-title" th:text="${station.address} == ${station.name} ? '' : ${station.address}"></h4>
+                                <p property="wdp:P669" class="card-title" th:text="${station.address} == ${station.name} ? '' : ${station.address}"></p>
                             </div>
                         </div>
                     </a>

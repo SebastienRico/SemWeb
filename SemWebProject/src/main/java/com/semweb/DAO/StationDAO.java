@@ -45,7 +45,7 @@ public class StationDAO {
                     station = new Station();
                     stationId = qs.get("s").toString();
                     String[] idstation = qs.get("s").toString().split("_");
-                    station.setId(idstation[1] +"_"+ idstation[2]);
+                    station.setId(idstation[1] + "_" + idstation[2]);
                     isStation = true;
                 }
                 switch (qs.get("p").toString()) {
@@ -80,7 +80,7 @@ public class StationDAO {
         String stationId = idStation;
         if (idStation.contains("ex")) {
             String[] splitid = idStation.split("_");
-            stationId = splitid[1] +"_"+ splitid[2];
+            stationId = splitid[1] + "_" + splitid[2];
         }
         station.setId(stationId);
         if (!JenaFusekiConnexion.getConnexion().isClosed()) {
@@ -138,7 +138,7 @@ public class StationDAO {
                         break;
                     default:
                         break;
-                        
+
                 }
             }
             qExec.close();
@@ -179,7 +179,9 @@ public class StationDAO {
                             + "WHERE {	"
                             + "?s geo:lat ?lat ."
                             + "?s geo:lng ?lg .  "
-                            + "  BIND (math:acos(math:cos(" + lat + ")*math:cos(?lat)* math:cos(" + lng + " - ?lg) + math:sin(" + lat + ")*math:sin(?lat)) AS ?distance)}"
+                            + "BIND(math:pi() / 180 AS ?pi)"
+                            + "BIND (0.5 - math:cos((?lat - " + lat + ")* ?pi)/2 + math:cos(" + lat + " * ?pi)*math:cos(?lat * ?pi)* (1 - math:cos((?lg - " + lng + ")* ?pi))/2 AS ?calcul)"
+                            + "BIND (12742 * math:asin(math:sqrt(?calcul)) AS ?distance)}"
                             + "ORDER BY (?distance)"
                             + "LIMIT 10");
             ResultSet rs = qExec.execSelect();
@@ -192,5 +194,5 @@ public class StationDAO {
         }
         return stations;
     }
-   
+
 }
