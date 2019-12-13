@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row" th:about="@{'ex:' + ${station.id}}" typeof="sosa:FeatureOfInterest">
                 <div id="app" class="col" style="margin: 20px; width: 18rem">
-                    <span id="updatetime" property="ex:last_update" v-if="info != null">Last update: {{info.data.lastUpdate }}</span>
+                    <span id="updatetime" v-if="info != null">Last update: {{info.data.lastUpdate }}</span>
                     <table class="table table-dark">
                         <tbody>
                             <tr>
